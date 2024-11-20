@@ -1,0 +1,517 @@
+exID,tgtCnt,tgtID,patternID,pattern,rwpCnt,pos2verb,optProvCxt,provRwp,optSdhCxt,optSdhRwpCxt,asyllRwp,hostRwp
+ex001,2,p01,q01, îți ,1,pre-verbal,y,y,n,n,x,x
+ex001,2,p02,q01,a-ți ,1,pre-verbal,y,n,n,n,x,x
+ex002,1,p01,q01,=a i le ,2,pre-verbal,n,n,n,n,x,x
+ex003,1,p01,q01,=a mi le ,2,pre-verbal,n,n,n,n,x,x
+ex004,2,p01,q01,=a nu o ,1,pre-verbal,n,n,y,n,x,n
+ex004,2,p01,q02, îi ,1,pre-verbal,n,y,n,n,x,x
+ex004,2,p02,q01,=a n-o ,1,pre-verbal,n,n,y,n,x,y
+ex004,2,p02,q02, îi ,1,pre-verbal,n,y,n,n,x,x
+ex005,2,p01,q01,=a nu îți ,1,pre-verbal,y,y,n,n,x,x
+ex005,2,p02,q01,=a nu-ți ,1,pre-verbal,y,n,n,n,x,x
+ex006,1,p01,q01,=a nu ți-l ,2,pre-verbal,n,n,n,n,x,x
+ex007,2,p01,q01,=a îi ,1,pre-verbal,y,y,n,n,x,x
+ex007,2,p02,q01,=a-i ,1,pre-verbal,y,n,n,n,x,x
+ex008,2,p01,q01,=a îl ,1,pre-verbal,y,y,n,n,x,x
+ex008,2,p02,q01,=a-l ,1,pre-verbal,y,n,n,n,x,x
+ex009,2,p01,q01,=a îți ,1,pre-verbal,y,y,n,n,x,x
+ex009,2,p02,q01,=a-ți ,1,pre-verbal,y,n,n,n,x,x
+ex010,1,p01,q01, mi-s ,2,pre-verbal,n,n,n,n,x,x
+ex011,1,p01,q01, mi-s ,2,pre-verbal,n,n,n,n,x,x
+ex012,2,p01,q01, îl ,1,pre-verbal,y,y,n,n,x,x
+ex012,2,p02,q01, l-a,1,pre-verbal,y,n,n,n,x,x
+ex013,2,p01,q01,u-le ,1,post-verbal,n,n,y,y,n,x
+ex013,2,p02,q01,u-le-a,1,post-verbal,n,n,y,y,y,x
+ex014,1,p01,q01,u-le ,1,post-verbal,n,n,n,n,x,x
+ex016,1,p01,q01,t-o ,1,post-verbal,n,n,n,n,x,x
+ex017,1,p01,q01,t-o ,1,post-verbal,n,n,n,n,x,x
+ex018,2,p01,q01, nu o ,1,pre-verbal,n,n,y,n,x,n
+ex018,2,p02,q01, n-o ,1,pre-verbal,n,n,y,n,x,y
+ex019,1,p01,q01,ă-mi ,1,post-verbal,n,n,n,n,x,x
+ex020,1,p01,q01,ă-mă ,1,post-verbal,n,n,n,n,x,x
+ex021,1,p01,q01,ă-ne ,1,post-verbal,n,n,n,n,x,x
+ex022,1,p01,q01,ă-ne ,1,post-verbal,n,n,n,n,x,x
+ex023,2,p01,q01, se ,1,pre-verbal,n,n,y,n,x,n
+ex023,2,p02,q01, se-n,1,pre-verbal,n,n,y,n,x,y
+ex024,1,p01,q01, le ,1,pre-verbal,n,n,n,n,x,x
+ex025,1,p01,q01,t-o ,1,post-verbal,n,n,n,n,x,x
+ex026,1,p01,q01,te-l-ar ,1,post-verbal,n,n,n,n,x,x
+ex027,1,p01,q01,te-mi-ți-l ,3,post-verbal,n,n,n,n,x,x
+ex028,1,p01,q01,tu-vi-ți-l ,3,post-verbal,n,n,n,n,x,x
+ex029,1,p01,q01,tu-te-ar ,1,post-verbal,n,n,n,n,x,x
+ex030,1,p01,q01,t-o,1,post-verbal,n,n,n,n,x,x
+ex031,2,p01,q01, să îmi ,1,pre-verbal,y,y,n,n,x,x
+ex031,2,p02,q01, să-mi ,1,pre-verbal,y,n,n,n,x,x
+ex033,1,p01,q01, mi-s ,2,pre-verbal,n,n,n,n,x,x
+ex034,2,p01,q01, nu își ,1,pre-verbal,y,y,n,n,x,x
+ex034,2,p02,q01, nu-și ,1,pre-verbal,y,n,n,n,x,x
+ex035,1,p01,q01, îi ,1,pre-verbal,n,y,n,n,x,x
+ex036,1,p01,q01,ra-mi-ai ,1,post-verbal,n,n,n,n,x,x
+ex037,1,p01,q01,ră-l ,1,post-verbal,n,n,n,n,x,x
+ex038,1,p01,q01,ră-ți ,1,post-verbal,n,n,n,n,x,x
+ex039,1,p01,q01,ră-ți-l ,2,post-verbal,n,n,n,n,x,x
+ex040,1,p01,q01,ră-ți-o ,2,post-verbal,n,n,n,n,x,x
+ex041,1,p01,q01, îl ,1,pre-verbal,n,y,n,n,x,x
+ex042,4,p01,q01, îl ,1,pre-verbal,y,y,n,n,x,x
+ex042,4,p01,q02, de a se ,1,pre-verbal,n,n,y,n,x,n
+ex042,4,p02,q01,re-l ,1,pre-verbal,y,n,n,n,x,x
+ex042,4,p02,q02, de a se ,1,pre-verbal,n,n,y,n,x,n
+ex042,4,p03,q01, îl ,1,pre-verbal,y,y,n,n,x,x
+ex042,4,p03,q02, de a se-n,1,pre-verbal,n,n,y,n,x,y
+ex042,4,p04,q01,re-l ,1,pre-verbal,y,n,n,n,x,x
+ex042,4,p04,q02, de a se-n,1,pre-verbal,n,n,y,n,x,y
+ex043,2,p01,q01,ți-le ,1,post-verbal,n,n,y,y,n,x
+ex043,2,p02,q01,ți-le-a,1,post-verbal,n,n,y,y,y,x
+ex044,2,p01,q01,ți-mi-le ,2,post-verbal,n,n,y,y,n,x
+ex044,2,p02,q01,ți-mi-le-a,2,post-verbal,n,n,y,y,y,x
+ex045,1,p01,q01,ți-mi-o ,2,post-verbal,n,n,n,n,x,x
+ex046,1,p01,q01,ți-o ,1,post-verbal,n,n,n,n,x,x
+ex047,1,p01,q01, i le ,2,pre-verbal,n,n,n,n,x,x
+ex048,1,p01,q01, mi le ,2,pre-verbal,n,n,n,n,x,x
+ex049,2,p01,q01, îi ,1,pre-verbal,y,y,n,n,x,x
+ex049,2,p02,q01, ce-i ,1,pre-verbal,y,n,n,n,x,x
+ex050,2,p01,q01, îmi ,1,pre-verbal,y,y,n,n,x,x
+ex050,2,p02,q01, ce-mi ,1,pre-verbal,y,n,n,n,x,x
+ex051,1,p01,q01, i l-ai ,2,pre-verbal,n,n,n,n,x,x
+ex052,1,p01,q01, l-ai ,1,pre-verbal,n,n,n,n,x,x
+ex053,2,p01,q01, îl ,1,pre-verbal,y,y,n,n,x,x
+ex053,2,p02,q01, ce-l ,1,pre-verbal,y,n,n,n,x,x
+ex054,2,p01,q01, îl ,1,pre-verbal,y,y,n,n,x,x
+ex054,2,p02,q01, ce-l ,1,pre-verbal,y,n,n,n,x,x
+ex055,1,p01,q01, și-a ,1,pre-verbal,n,n,n,n,x,x
+ex056,2,p01,q01,=du-te ,1,post-verbal,n,n,y,y,n,x
+ex056,2,p02,q01,=du-te-a,1,post-verbal,n,n,y,y,y,x
+ex057,1,p01,q01,=du-te ,1,post-verbal,n,n,n,n,x,x
+ex058,1,p01,q01,=du-te ,1,post-verbal,n,n,n,n,x,x
+ex059,2,p01,q01,=du-te ,1,post-verbal,n,n,y,n,x,n
+ex059,2,p02,q01,=du-te-n ,1,post-verbal,n,n,y,n,x,y
+ex060,2,p01,q01,=du-te ,1,post-verbal,n,n,y,n,x,n
+ex060,2,p02,q01,=du-te-nc,1,post-verbal,n,n,y,n,x,y
+ex061,1,p01,q01,=du-te și ,1,post-verbal,n,n,n,n,x,x
+ex061,1,p01,q02, fă-ți ,1,post-verbal,n,n,n,n,x,x
+ex062,1,p01,q01, îi ,1,pre-verbal,n,y,n,n,x,x
+ex063,1,p01,q01, s-a ,1,pre-verbal,n,n,n,n,x,x
+ex064,1,p01,q01,nd-o ,1,post-verbal,n,n,n,n,x,x
+ex064,1,p01,q02, s-a ,1,pre-verbal,n,n,n,n,x,x
+ex065,1,p01,q01,ndu-i-mă ,2,post-verbal,n,n,n,n,x,x
+ex066,1,p01,q01,ndu-l ,1,post-verbal,n,n,n,n,x,x
+ex066,1,p01,q02, s-a ,1,pre-verbal,n,n,n,n,x,x
+ex067,1,p01,q01,ndu-l ,1,post-verbal,n,n,n,n,x,x
+ex068,1,p01,q01,ndu-le ,1,post-verbal,n,n,n,n,x,x
+ex068,1,p01,q02, s-a ,1,pre-verbal,n,n,n,n,x,x
+ex069,1,p01,q01,ndu-mi ,1,post-verbal,n,n,n,n,x,x
+ex069,1,p01,q02, m-a ,1,pre-verbal,n,n,n,n,x,x
+ex070,1,p01,q01,=dă-i-l ,2,post-verbal,n,n,n,n,x,x
+ex071,1,p01,q01,=dă-i-l ,2,post-verbal,n,n,n,n,x,x
+ex072,1,p01,q01,=dă-l ,1,post-verbal,n,n,n,n,x,x
+ex073,1,p01,q01,=dă-l ,1,post-verbal,n,n,n,n,x,x
+ex074,1,p01,q01,=dă-le ,1,post-verbal,n,n,n,n,x,x
+ex075,1,p01,q01,=dă-le ,1,post-verbal,n,n,n,n,x,x
+ex076,2,p01,q01,=dă-mi-le ,2,post-verbal,n,n,y,y,n,x
+ex076,2,p02,q01,=dă-mi-le-a,2,post-verbal,n,n,y,y,y,x
+ex077,1,p01,q01,=dă-mi-le ,2,post-verbal,n,n,n,n,x,x
+ex078,1,p01,q01,=dă-ne ,1,post-verbal,n,n,n,n,x,x
+ex079,2,p01,q01, îl ,1,pre-verbal,y,y,n,n,x,x
+ex079,2,p02,q01,=ea-l ,1,pre-verbal,y,n,n,n,x,x
+ex080,2,p01,q01, ne ,1,pre-verbal,n,n,y,y,n,x
+ex080,2,p02,q01, ne-a,1,pre-verbal,n,n,y,y,y,x
+ex081,2,p01,q01, ne ,1,pre-verbal,n,n,y,y,n,x
+ex081,2,p02,q01, ne-a,1,pre-verbal,n,n,y,y,y,x
+ex082,1,p01,q01, ne-a ,1,pre-verbal,n,n,n,n,x,x
+ex082,1,p01,q02,  i-am ,1,pre-verbal,n,n,n,n,x,x
+ex084,1,p01,q01, i-aș ,1,pre-verbal,n,n,n,n,x,x
+ex085,1,p01,q01,=fă-l ,1,post-verbal,n,n,n,n,x,x
+ex086,2,p01,q01,=fă-mi-le ,2,post-verbal,n,n,y,y,n,x
+ex086,2,p02,q01,=fă-mi-le-a,2,post-verbal,n,n,y,y,y,x
+ex087,1,p01,q01,=fă-mi-le ,2,post-verbal,n,n,n,n,x,x
+ex088,1,p01,q01,=fă-mi-le ,2,post-verbal,n,n,n,n,x,x
+ex089,1,p01,q01,ce-mi-le-ai ,2,post-verbal,n,n,n,n,x,x
+ex090,1,p01,q01,ce-mi-le-ai ,2,post-verbal,n,n,n,n,x,x
+ex091,1,p01,q01,=fă-mi-ți ,2,post-verbal,n,n,n,n,x,x
+ex092,1,p01,q01,ce-mi-ți-ai ,2,post-verbal,n,n,n,n,x,x
+ex093,2,p01,q01,=fă-mi-ți-le ,3,post-verbal,n,n,y,y,n,x
+ex093,2,p02,q01,=fă-mi-ți-le-a,3,post-verbal,n,n,y,y,y,x
+ex094,1,p01,q01,=fă-mi-ți-le ,3,post-verbal,n,n,n,n,x,x
+ex095,1,p01,q01,ce-mi-ți-le-ai ,3,post-verbal,n,n,n,n,x,x
+ex096,1,p01,q01,ce-mi-ți-le-ai ,3,post-verbal,n,n,n,n,x,x
+ex097,1,p01,q01,=fă-o ,1,post-verbal,n,n,n,n,x,x
+ex098,1,p01,q01,=fă-ți ,1,post-verbal,n,n,n,n,x,x
+ex099,1,p01,q01,=fă-ți-l ,2,post-verbal,n,n,n,n,x,x
+ex100,1,p01,q01,=fă-ți-o ,2,post-verbal,n,n,n,n,x,x
+ex101,1,p01,q01,=îi ,1,pre-verbal,n,y,n,n,x,x
+ex102,1,p01,q01,=i l-a ,2,pre-verbal,n,n,n,n,x,x
+ex103,2,p01,q01,=i l-a ,2,pre-verbal,n,n,n,n,x,x
+ex103,2,p02,q01,=i l-a-ncr,2,pre-verbal,n,n,n,n,x,x
+ex104,1,p01,q01,=i le ,2,pre-verbal,n,n,n,n,x,x
+ex105,1,p01,q01,=îi ,1,pre-verbal,n,y,n,n,x,x
+ex106,1,p01,q01,=i-am ,1,pre-verbal,n,n,n,n,x,x
+ex107,1,p01,q01,=i-am ,1,pre-verbal,n,n,n,n,x,x
+ex107,1,p01,q02, și i-am ,1,pre-verbal,n,n,n,n,x,x
+ex108,1,p01,q01,=i-au ,1,pre-verbal,n,n,n,n,x,x
+ex109,1,p01,q01,=i-au ,1,pre-verbal,n,n,n,n,x,x
+ex110,1,p01,q01,=i-l ,1,pre-verbal,n,n,n,n,x,x
+ex111,1,p01,q01,=i-l ,2,pre-verbal,n,n,n,n,x,x
+ex112,1,p01,q01,=i-o ,2,pre-verbal,n,n,n,n,x,x
+ex113,1,p01,q01,=i-o ,2,pre-verbal,n,n,n,n,x,x
+ex114,1,p01,q01,=ia-ți-mă ,2,post-verbal,n,n,n,n,x,x
+ex114,1,p01,q02, și ,0,x,n,n,n,n,x,x
+ex115,1,p01,q01,tă-l ,1,post-verbal,n,n,n,n,x,x
+ex116,1,p01,q01,t-o ,1,post-verbal,n,n,n,n,x,x
+ex116,1,p01,q02, o ,0,x,n,n,n,n,x,x
+ex117,1,p01,q01, l-am ,1,pre-verbal,n,n,n,n,x,x
+ex117,1,p01,q02, o ,0,x,n,n,n,n,x,x
+ex119,1,p01,q01,=l-am ,1,pre-verbal,n,n,n,n,x,x
+ex120,1,p01,q01,=l-am ,1,pre-verbal,n,n,n,n,x,x
+ex120,1,p01,q02, și l-am ,1,pre-verbal,n,n,n,n,x,x
+ex121,2,p01,q01,=l-am ,1,pre-verbal,n,n,n,n,x,x
+ex121,2,p01,q02, și îl ,1,pre-verbal,y,y,n,n,x,x
+ex121,2,p02,q01,=l-am ,1,pre-verbal,n,n,n,n,x,x
+ex121,2,p02,q02, și-l ,1,pre-verbal,y,n,n,n,x,x
+ex122,1,p01,q01,=l-am ,1,pre-verbal,n,n,n,n,x,x
+ex123,1,p01,q01,=l-am ,1,pre-verbal,n,n,n,n,x,x
+ex124,1,p01,q01,=l-am ,1,pre-verbal,n,n,n,n,x,x
+ex125,1,p01,q01,=l-ar ,1,pre-verbal,n,n,n,n,x,x
+ex126,1,p01,q01,=l-aș ,1,pre-verbal,n,n,n,n,x,x
+ex127,2,p01,q01,=le ,1,pre-verbal,n,n,y,y,n,x
+ex127,2,p02,q01,=le-a,1,pre-verbal,n,n,y,y,y,x
+ex128,2,p01,q01,=le ,1,pre-verbal,n,n,y,y,n,x
+ex128,2,p02,q01,=le-a,1,pre-verbal,n,n,y,y,y,x
+ex129,2,p01,q01,=le ,1,pre-verbal,n,n,y,y,n,x
+ex129,2,p02,q01,=le-a,1,pre-verbal,n,n,y,y,y,x
+ex130,1,p01,q01,=le ,1,pre-verbal,n,n,n,n,x,x
+ex131,1,p01,q01,=le ,1,pre-verbal,n,n,n,n,x,x
+ex132,2,p01,q01,=le ,1,pre-verbal,n,n,y,y,n,x
+ex132,2,p02,q01,=li-e ,1,pre-verbal,n,n,y,y,y,x
+ex133,1,p01,q01,=le ,1,pre-verbal,n,n,n,n,x,x
+ex134,1,p01,q01,=le-am ,1,pre-verbal,n,n,n,n,x,x
+ex135,1,p01,q01,=le-am ,1,pre-verbal,n,n,n,n,x,x
+ex136,1,p01,q01,=le-am ,1,pre-verbal,n,n,n,n,x,x
+ex136,1,p01,q02,t-o ,1,post-verbal,n,n,n,n,x,x
+ex137,1,p01,q01,=le-au ,1,pre-verbal,n,n,n,n,x,x
+ex138,2,p01,q01,=le-o ,2,pre-verbal,n,n,y,n,x,n
+ex138,2,p02,q01,=le-o-n,2,pre-verbal,n,n,y,n,x,y
+ex139,1,p01,q01,=li l-a ,2,pre-verbal,n,n,n,n,x,x
+ex140,1,p01,q01,=li-i ,2,pre-verbal,n,n,n,n,x,x
+ex141,1,p01,q01,=li-l ,2,pre-verbal,n,n,n,n,x,x
+ex142,1,p01,q01,=m-ai ,1,pre-verbal,n,n,n,n,x,x
+ex143,1,p01,q01,=m-am ,1,pre-verbal,n,n,n,n,x,x
+ex144,1,p01,q01,=m-au ,1,pre-verbal,n,n,n,n,x,x
+ex145,1,p01,q01, adu-i-le ,2,post-verbal,n,n,n,n,x,x
+ex146,2,p01,q01, ne ,1,pre-verbal,n,n,y,y,n,x
+ex146,2,p02,q01, ne-a,1,pre-verbal,n,n,y,y,y,x
+ex147,1,p01,q01, ne ,1,pre-verbal,n,n,n,n,x,x
+ex148,3,p01,q01, îl ,1,pre-verbal,y,y,n,n,x,x
+ex148,3,p02,q01,ma-l ,1,pre-verbal,y,n,n,n,x,x
+ex148,3,p03,q01, l-a,1,pre-verbal,y,n,n,n,x,x
+ex149,2,p01,q01, îl ,1,pre-verbal,y,y,n,n,x,x
+ex149,2,p02,q01,ma-l ,1,pre-verbal,y,n,n,n,x,x
+ex150,3,p01,q01, îmi ,1,pre-verbal,y,y,n,n,x,x
+ex150,3,p02,q01,ma-mi ,1,pre-verbal,y,n,n,n,x,x
+ex150,3,p03,q01, mi-a,1,pre-verbal,y,n,n,n,x,x
+ex151,2,p01,q01, îmi ,1,pre-verbal,y,y,n,n,x,x
+ex151,2,p02,q01,ma-mi ,1,pre-verbal,y,n,n,n,x,x
+ex152,2,p01,q01, i l-a ,2,pre-verbal,n,n,n,n,x,x
+ex152,2,p02,q01, i l-a-ncr,2,pre-verbal,n,n,n,n,x,x
+ex153,2,p01,q01, mă ,1,pre-verbal,n,n,y,y,n,x
+ex153,2,p02,q01, m-a,1,pre-verbal,n,n,y,y,y,x
+ex154,2,p01,q01, te ,1,pre-verbal,n,n,y,y,n,x
+ex154,2,p02,q01, te-a,1,pre-verbal,n,n,y,y,y,x
+ex155,3,p01,q01, îi ,1,pre-verbal,y,y,n,n,x,x
+ex155,3,p02,q01,ria-i ,1,pre-verbal,y,n,n,n,x,x
+ex155,3,p03,q01, i-a,1,pre-verbal,y,n,n,n,x,x
+ex156,3,p01,q01, îl ,1,pre-verbal,y,y,n,n,x,x
+ex156,3,p02,q01,ria-l ,1,pre-verbal,y,n,n,n,x,x
+ex156,3,p03,q01, l-a,1,pre-verbal,y,n,n,n,x,x
+ex157,1,p01,q01,=mi l-a ,2,pre-verbal,n,n,n,n,x,x
+ex158,1,p01,q01,=mi l-ai ,2,pre-verbal,n,n,n,n,x,x
+ex159,1,p01,q01,=mi l-ai ,2,pre-verbal,n,n,n,n,x,x
+ex160,1,p01,q01,=mi l-oi ,2,pre-verbal,n,n,n,n,x,x
+ex161,2,p01,q01,=mi le ,2,pre-verbal,n,n,y,y,n,x
+ex161,2,p02,q01,=mi le-a,2,pre-verbal,n,n,y,y,y,x
+ex162,1,p01,q01,=mi le ,2,pre-verbal,n,n,n,n,x,x
+ex163,1,p01,q01,=mi le ,2,pre-verbal,n,n,n,n,x,x
+ex164,1,p01,q01,=mi le ,2,pre-verbal,n,n,n,n,x,x
+ex165,1,p01,q01,=mi le-ai ,2,pre-verbal,n,n,n,n,x,x
+ex166,1,p01,q01,=mi le-oi ,2,pre-verbal,n,n,n,n,x,x
+ex167,2,p01,q01,=mi se ,2,pre-verbal,n,n,n,n,x,x
+ex167,2,p01,q02, că se ,1,pre-verbal,n,n,y,y,n,x
+ex167,2,p02,q01,=mi se ,2,pre-verbal,n,n,n,n,x,x
+ex167,2,p02,q02, că se-a,1,pre-verbal,n,n,y,y,y,x
+ex168,1,p01,q01,=mi ți l-ai ,3,pre-verbal,n,n,n,n,x,x
+ex169,1,p01,q01,=mi ți l-oi ,3,pre-verbal,n,n,n,n,x,x
+ex170,1,p01,q01,=mi ți le ,3,pre-verbal,n,n,n,n,x,x
+ex171,1,p01,q01,=mi ți le ,3,pre-verbal,n,n,n,n,x,x
+ex172,1,p01,q01,=mi ți le-ai ,3,pre-verbal,n,n,n,n,x,x
+ex173,1,p01,q01,=mi ți le-oi ,3,pre-verbal,n,n,n,n,x,x
+ex174,1,p01,q01,=mi ți-ai ,2,pre-verbal,n,n,n,n,x,x
+ex175,1,p01,q01,=mi ți-l ,3,pre-verbal,n,n,n,n,x,x
+ex175,1,p01,q02, de nu se ,1,pre-verbal,n,n,n,n,x,x
+ex176,1,p01,q01,=mi ți-l ,3,pre-verbal,n,n,n,n,x,x
+ex177,1,p01,q01,=mi ți-l ,3,pre-verbal,n,n,n,n,x,x
+ex178,1,p01,q01,=mi ți-l ,3,pre-verbal,n,n,n,n,x,x
+ex179,1,p01,q01,=mi ți-o ,3,pre-verbal,n,n,n,n,x,x
+ex180,1,p01,q01,=mi-a ,1,pre-verbal,n,n,n,n,x,x
+ex181,1,p01,q01,=mi-ai ,1,pre-verbal,n,n,n,n,x,x
+ex181,1,p01,q02,t-o ,1,post-verbal,n,n,n,n,x,x
+ex182,1,p01,q01,=mi-l ,2,pre-verbal,n,n,n,n,x,x
+ex183,1,p01,q01,=mi-l ,2,pre-verbal,n,n,n,n,x,x
+ex184,1,p01,q01,=mi-l ,2,pre-verbal,n,n,n,n,x,x
+ex185,1,p01,q01,=mi-l ,2,pre-verbal,n,n,n,n,x,x
+ex186,1,p01,q01,=mi-o ,2,pre-verbal,n,n,n,n,x,x
+ex187,1,p01,q01,=mi-o ,2,pre-verbal,n,n,n,n,x,x
+ex188,1,p01,q01,=mi-o ,2,pre-verbal,n,n,n,n,x,x
+ex189,1,p01,q01,=mi-o ,2,pre-verbal,n,n,n,n,x,x
+ex190,1,p01,q01,=mi-oi ,1,pre-verbal,n,n,n,n,x,x
+ex190,1,p01,q02, o ,0,x,n,n,n,n,x,x
+ex191,1,p01,q01,=mi-oi ,1,pre-verbal,n,n,n,n,x,x
+ex191,1,p01,q02,ce-o ,1,post-verbal,n,n,n,n,x,x
+ex192,1,p01,q01,=mi-s ,2,pre-verbal,n,n,n,n,x,x
+ex193,1,p01,q01,=mi-ți ,2,pre-verbal,n,n,n,n,x,x
+ex194,1,p01,q01,=mi-ți ,2,pre-verbal,n,n,n,n,x,x
+ex195,2,p01,q01, ne ,1,pre-verbal,n,n,y,y,n,x
+ex195,2,p02,q01, ne-a,1,pre-verbal,n,n,y,y,y,x
+ex196,1,p01,q01, ne ,1,pre-verbal,n,n,n,n,x,x
+ex197,2,p01,q01, îl ,1,pre-verbal,y,y,n,n,x,x
+ex197,2,p02,q01, l-a,1,pre-verbal,y,n,n,n,x,x
+ex198,1,p01,q01, îl ,1,pre-verbal,n,y,n,n,x,x
+ex199,2,p01,q01, îmi ,1,pre-verbal,y,y,n,n,x,x
+ex199,2,p02,q01, mi-a,1,pre-verbal,y,n,n,n,x,x
+ex200,1,p01,q01, îmi ,1,pre-verbal,n,y,n,n,x,x
+ex201,1,p01,q01,ca-l-ar ,1,post-verbal,n,n,n,n,x,x
+ex202,1,p01,q01,ca-l-aș ,1,post-verbal,n,n,n,n,x,x
+ex203,1,p01,q01,ca-ți-ai ,1,post-verbal,n,n,n,n,x,x
+ex204,1,p01,q01,ndu-l ,1,post-verbal,n,n,n,n,x,x
+ex204,1,p01,q02, te-ai ,1,pre-verbal,n,n,n,n,x,x
+ex205,2,p01,q01,=mă ,1,pre-verbal,n,n,y,y,n,x
+ex205,2,p02,q01,=m-a,1,pre-verbal,n,n,y,y,y,x
+ex206,1,p01,q01,=mă ,1,pre-verbal,n,n,n,n,x,x
+ex207,1,p01,q01,=mă ,1,pre-verbal,n,n,n,n,x,x
+ex208,1,p01,q01,nc-o ,1,post-verbal,n,n,n,n,x,x
+ex209,1,p01,q01,ncă-l ,1,post-verbal,n,n,n,n,x,x
+ex210,2,p01,q01,=ne ,1,pre-verbal,n,n,y,y,n,x
+ex210,2,p02,q01,=ne-a,1,pre-verbal,n,n,y,y,y,x
+ex211,2,p01,q01,=ne ,1,pre-verbal,n,n,y,y,n,x
+ex211,2,p02,q01,=ne-a,1,pre-verbal,n,n,y,y,y,x
+ex212,1,p01,q01,=ne ,1,pre-verbal,n,n,n,n,x,x
+ex213,1,p01,q01,=ne ,1,pre-verbal,n,n,n,n,x,x
+ex214,1,p01,q01,=ne ,1,pre-verbal,n,n,n,n,x,x
+ex214,1,p01,q02, o ,0,x,n,n,n,n,x,x
+ex215,1,p01,q01,=ne ,1,pre-verbal,n,n,n,n,x,x
+ex216,1,p01,q01,=ne ,1,pre-verbal,n,n,n,n,x,x
+ex217,1,p01,q01,=ne-a ,1,pre-verbal,n,n,n,n,x,x
+ex218,1,p01,q01,=ne-am ,1,pre-verbal,n,n,n,n,x,x
+ex219,1,p01,q01,=ne-au ,1,pre-verbal,n,n,n,n,x,x
+ex220,1,p01,q01,=ne-o ,2,pre-verbal,n,n,n,n,x,x
+ex221,1,p01,q01,=ni-i ,2,pre-verbal,n,n,n,n,x,x
+ex222,1,p01,q01,=ni-l ,2,pre-verbal,n,n,n,n,x,x
+ex223,1,p01,q01,=ni-l ,2,pre-verbal,n,n,n,n,x,x
+ex224,1,p01,q01, îți ,1,pre-verbal,n,y,n,n,x,x
+ex225,4,p01,q01,=nu am ,0,x,n,n,n,n,x,x
+ex225,4,p01,q02, îl ,1,pre-verbal,y,y,n,n,x,x
+ex225,4,p02,q01,=n-am ,0,x,n,n,n,n,x,x
+ex225,4,p02,q02, îl ,1,pre-verbal,y,y,n,n,x,x
+ex225,4,p03,q01,=nu am ,0,x,n,n,n,n,x,x
+ex225,4,p03,q02,ne-l ,1,pre-verbal,y,n,n,n,x,x
+ex225,4,p04,q01,=n-am ,0,x,n,n,n,n,x,x
+ex225,4,p04,q02,ne-l ,1,pre-verbal,y,n,n,n,x,x
+ex226,2,p01,q01,=nu am ,0,x,n,n,n,n,x,x
+ex226,2,p01,q02, i-l ,2,pre-verbal,n,n,n,n,x,x
+ex226,2,p02,q01,=n-am ,0,x,n,n,n,n,x,x
+ex226,2,p02,q02, i-l ,2,pre-verbal,n,n,n,n,x,x
+ex227,2,p01,q01,=nu am ,0,x,n,n,n,n,x,x
+ex227,2,p01,q02,t-o ,1,post-verbal,n,n,n,n,x,x
+ex227,2,p02,q01,=n-am ,0,x,n,n,n,n,x,x
+ex227,2,p02,q02,t-o ,1,post-verbal,n,n,n,n,x,x
+ex228,1,p01,q01,=nu mi l-a ,2,pre-verbal,n,n,n,n,x,x
+ex229,4,p01,q01,=nu mi ți l-ar ,3,pre-verbal,n,n,n,n,x,x
+ex230,1,p01,q01,=nu mi ți-ai ,2,pre-verbal,n,n,n,n,x,x
+ex231,1,p01,q01,=nu mi-l ,2,pre-verbal,n,n,n,n,x,x
+ex232,1,p01,q01,=nu mi-ți ,2,pre-verbal,n,n,n,n,x,x
+ex233,4,p01,q01,=nu o să ,0,x,n,n,n,n,x,x
+ex233,4,p01,q02, m-am ,1,pre-verbal,n,n,n,n,x,x
+ex233,4,p02,q01,=n-o să ,0,x,n,n,n,n,x,x
+ex233,4,p02,q02, m-am ,1,pre-verbal,n,n,n,n,x,x
+ex234,2,p01,q01,=nu o ,1,pre-verbal,n,n,y,n,x,n
+ex234,2,p02,q01,=n-o ,1,pre-verbal,n,n,y,n,x,y
+ex235,2,p01,q01,=nu îl ,1,pre-verbal,y,y,n,n,x,x
+ex235,2,p02,q01,=nu-l ,1,pre-verbal,y,n,n,n,x,x
+ex236,2,p01,q01,=nu îți ,1,pre-verbal,y,y,n,n,x,x
+ex236,2,p02,q01,=nu-ți ,1,pre-verbal,y,n,n,n,x,x
+ex237,2,p01,q01,=o ,0,x,n,n,n,n,x,x
+ex237,2,p01,q02, o să o ,1,pre-verbal,n,n,y,n,x,n
+ex237,2,p01,q03, o ,0,x,n,n,n,n,x,x
+ex237,2,p02,q01,=o ,0,x,n,n,n,n,x,x
+ex237,2,p02,q02, o s-o ,1,pre-verbal,n,n,y,n,x,y
+ex237,2,p02,q03, o ,0,x,n,n,n,n,x,x
+ex238,1,p01,q01,=o ,1,pre-verbal,n,n,n,n,x,x
+ex239,1,p01,q01,=o ,1,pre-verbal,n,n,n,n,x,x
+ex240,1,p01,q01,=o ,1,pre-verbal,n,n,n,n,x,x
+ex241,1,p01,q01,=o ,1,pre-verbal,n,n,n,n,x,x
+ex242,4,p01,q01,=o ,1,pre-verbal,n,n,y,n,x,n
+ex242,4,p02,q01,=o-mp,1,pre-verbal,n,n,y,n,x,y
+ex243,2,p01,q01, s-a ,1,pre-verbal,n,n,n,n,x,x
+ex243,2,p02,q01, s-a-ngr,1,pre-verbal,n,n,n,n,x,x
+ex244,2,p01,q01,re-mi-se ,2,post-verbal,n,n,n,n,x,x
+ex244,2,p01,q02, că se ,1,pre-verbal,n,n,y,y,n,x
+ex244,2,p02,q01,re-mi-se ,2,post-verbal,n,n,n,n,x,x
+ex244,2,p02,q02, că se-a,1,pre-verbal,n,n,y,y,y,x
+ex245,1,p01,q01, îl ,1,pre-verbal,n,y,n,n,x,x
+ex246,2,p01,q01, i l-a ,2,pre-verbal,n,n,n,n,x,x
+ex246,2,p02,q01, i l-a-ncr,2,pre-verbal,n,n,n,n,x,x
+ex247,1,p01,q01, mi-o ,1,pre-verbal,n,n,n,n,x,x
+ex248,2,p01,q01, îmi ,1,pre-verbal,y,y,n,n,x,x
+ex248,2,p02,q01,de-mi ,1,pre-verbal,y,n,n,n,x,x
+ex249,2,p01,q01, îmi ,1,pre-verbal,y,y,n,n,x,x
+ex249,2,p02,q01,de-mi ,1,pre-verbal,y,n,n,n,x,x
+ex250,1,p01,q01,si-l-aș ,1,post-verbal,n,n,n,n,x,x
+ex251,2,p01,q01,ce-te ,1,post-verbal,n,n,y,y,n,x
+ex251,2,p02,q01,ce-te-a,1,post-verbal,n,n,y,y,y,x
+ex252,1,p01,q01,ce-te ,1,post-verbal,n,n,n,n,x,x
+ex253,1,p01,q01,ce-te-ai ,1,post-verbal,n,n,n,n,x,x
+ex254,1,p01,q01,ce-te-ai ,1,post-verbal,n,n,n,n,x,x
+ex255,1,p01,q01,ne-ți-l ,2,post-verbal,n,n,n,n,x,x
+ex256,1,p01,q01,neți-l ,1,post-verbal,n,n,n,n,x,x
+ex257,3,p01,q01, îmi ,1,pre-verbal,y,y,n,n,x,x
+ex257,3,p02,q01,ții-mi ,1,pre-verbal,y,n,n,n,x,x
+ex257,3,p03,q01, mi-mb,1,pre-verbal,y,n,n,n,x,x
+ex258,3,p01,q01, îmi ,1,pre-verbal,y,y,n,n,x,x
+ex258,3,p02,q01,ua-mi ,1,pre-verbal,y,n,n,n,x,x
+ex258,3,p03,q01, mi-mb,1,pre-verbal,y,n,n,n,x,x
+ex259,1,p01,q01,=s-au ,1,pre-verbal,n,n,n,n,x,x
+ex260,1,p01,q01,=s-au ,1,pre-verbal,n,n,n,n,x,x
+ex261,1,p01,q01,=se ,1,pre-verbal,n,n,n,n,x,x
+ex262,1,p01,q01,=se ,1,pre-verbal,n,n,n,n,x,x
+ex263,1,p01,q01,ne-i-o ,2,post-verbal,n,n,n,n,x,x
+ex264,1,p01,q01,ne-mi-o ,2,post-verbal,n,n,n,n,x,x
+ex265,1,p01,q01,ne-ne-o ,2,post-verbal,n,n,n,n,x,x
+ex266,1,p01,q01,ne-o ,1,post-verbal,n,n,n,n,x,x
+ex267,2,p01,q01,=să ,0,x,n,n,n,n,x,x
+ex267,2,p01,q02, că nu l-ai ,1,pre-verbal,n,n,n,n,x,x
+ex267,2,p02,q01,=să-nț,0,x,n,n,n,n,x,x
+ex267,2,p02,q02, că nu l-ai ,1,pre-verbal,n,n,n,n,x,x
+ex268,4,p01,q01,=să ,0,x,n,n,n,n,x,x
+ex268,4,p01,q02, că nu îl ,1,pre-verbal,y,y,n,n,x,x
+ex268,4,p02,q01,=să ,0,x,n,n,n,n,x,x
+ex268,4,p02,q02, că nu-l ,1,pre-verbal,y,n,n,n,x,x
+ex268,4,p03,q01,=să-nț,0,x,n,n,n,n,x,x
+ex268,4,p03,q02, că nu îl ,1,pre-verbal,y,y,n,n,x,x
+ex268,4,p04,q01,=să-nț,0,x,n,n,n,n,x,x
+ex268,4,p04,q02, că nu-l ,1,pre-verbal,y,n,n,n,x,x
+ex269,1,p01,q01,=te ,1,pre-verbal,n,n,n,n,x,x
+ex270,1,p01,q01,=te ,1,pre-verbal,n,n,n,n,x,x
+ex271,2,p01,q01,=te ,1,pre-verbal,n,n,n,n,x,x
+ex271,2,p01,q02, să nu te ,1,pre-verbal,n,n,y,n,x,n
+ex271,2,p02,q01,=te ,1,pre-verbal,n,n,n,n,x,x
+ex271,2,p02,q02, să nu te-mb,1,pre-verbal,n,n,y,n,x,y
+ex272,1,p01,q01,=te ,1,pre-verbal,n,n,n,n,x,x
+ex273,1,p01,q01,=te ,1,pre-verbal,n,n,n,n,x,x
+ex274,1,p01,q01,=te-ai ,1,pre-verbal,n,n,n,n,x,x
+ex275,1,p01,q01,=te-au ,1,pre-verbal,n,n,n,n,x,x
+ex276,1,p01,q01,=te-aș ,1,pre-verbal,n,n,n,n,x,x
+ex277,1,p01,q01,=te-oi ,1,pre-verbal,n,n,n,n,x,x
+ex278,1,p01,q01,te-mi-o ,2,post-verbal,n,n,n,n,x,x
+ex279,2,p01,q01,=uit-o ,1,post-verbal,n,n,n,n,x,x
+ex279,2,p01,q02, nu o să ,0,x,n,n,n,n,x,x
+ex279,2,p02,q01,=uit-o ,1,post-verbal,n,n,n,n,x,x
+ex279,2,p02,q02, n-o să ,0,x,n,n,n,n,x,x
+ex280,1,p01,q01,=uite-o ,1,post-verbal,n,n,n,n,x,x
+ex281,1,p01,q01, îi ,1,pre-verbal,n,y,n,n,x,x
+ex281,1,p01,q02, și ,0,x,n,n,n,n,x,x
+ex282,2,p01,q01, îmi ,1,pre-verbal,y,y,n,n,x,x
+ex282,2,p02,q01,=unde-mi ,1,pre-verbal,y,n,n,n,x,x
+ex283,1,p01,q01,=v-am ,1,pre-verbal,n,n,n,n,x,x
+ex284,1,p01,q01,=v-au ,1,pre-verbal,n,n,n,n,x,x
+ex285,1,p01,q01,=v-o ,2,pre-verbal,n,n,n,n,x,x
+ex286,1,p01,q01,dea-o-aș ,1,post-verbal,n,n,n,n,x,x
+ex287,1,p01,q01,dea-te-aș ,1,post-verbal,n,n,n,n,x,x
+ex288,1,p01,q01,=vi ți-l ,3,pre-verbal,n,n,n,n,x,x
+ex288,1,p01,q02, de nu se ,1,pre-verbal,n,n,n,n,x,x
+ex289,1,p01,q01,=vi ți-l ,3,pre-verbal,n,n,n,n,x,x
+ex290,1,p01,q01,=vi-i ,2,pre-verbal,n,n,n,n,x,x
+ex291,1,p01,q01,=vi-l ,2,pre-verbal,n,n,n,n,x,x
+ex291,1,p01,q02, de nu se ,1,pre-verbal,n,n,n,n,x,x
+ex292,1,p01,q01,=vi-l ,2,pre-verbal,n,n,n,n,x,x
+ex293,1,p01,q01, să vă ,1,pre-verbal,n,n,n,n,x,x
+ex294,1,p01,q01, să le ,1,pre-verbal,n,n,n,n,x,x
+ex295,1,p01,q01, să mi le ,2,pre-verbal,n,n,n,n,x,x
+ex296,1,p01,q01, să mi le ,2,pre-verbal,n,n,n,n,x,x
+ex297,1,p01,q01, să mi-o ,2,pre-verbal,n,n,n,n,x,x
+ex298,2,p01,q01, să o ,1,pre-verbal,n,n,y,n,x,n
+ex298,2,p02,q01, s-o ,1,pre-verbal,n,n,y,n,x,y
+ex299,2,p01,q01, să o ,1,pre-verbal,n,n,y,n,x,n
+ex299,2,p02,q01, s-o ,1,pre-verbal,n,n,y,n,x,y
+ex300,4,p01,q01, să o ,1,pre-verbal,n,n,y,n,x,n
+ex300,4,p02,q01, s-o ,1,pre-verbal,n,n,y,n,x,y
+ex300,4,p03,q01, să o-nc,1,pre-verbal,n,n,y,n,x,y
+ex300,4,p04,q01, s-o-nc,1,pre-verbal,n,n,y,n,x,y
+ex301,2,p01,q01, să te ,1,pre-verbal,n,n,y,y,n,x
+ex301,2,p02,q01, să te-a,1,pre-verbal,n,n,y,y,y,x
+ex302,1,p01,q01, să te ,1,pre-verbal,n,n,n,n,x,x
+ex303,2,p01,q01, să îl ,1,pre-verbal,y,y,n,n,x,x
+ex303,2,p02,q01, să-l ,1,pre-verbal,y,n,n,n,x,x
+ex304,3,p01,q01, să îmi ,1,pre-verbal,y,y,n,n,x,x
+ex304,3,p02,q01, să-mi ,1,pre-verbal,y,n,n,n,x,x
+ex304,3,p03,q01, să mi-a,1,pre-verbal,y,n,n,n,x,x
+ex305,2,p01,q01, să îmi ,1,pre-verbal,y,y,n,n,x,x
+ex305,2,p02,q01, să-mi ,1,pre-verbal,y,n,n,n,x,x
+ex306,2,p01,q01, să îți ,1,pre-verbal,y,y,n,n,x,x
+ex306,2,p02,q01, să-ți ,1,pre-verbal,y,n,n,n,x,x
+ex307,1,p01,q01, să ți-l ,2,pre-verbal,n,n,n,n,x,x
+ex308,1,p01,q01, să ți-o ,2,pre-verbal,n,n,n,n,x,x
+ex309,1,p01,q01,=vă ,1,pre-verbal,n,n,n,n,x,x
+ex310,1,p01,q01,=vă ,1,pre-verbal,n,n,n,n,x,x
+ex311,1,p01,q01,=vă ,1,pre-verbal,n,n,n,n,x,x
+ex313,2,p01,q01,=îi ,1,pre-verbal,y,y,n,n,x,x
+ex313,2,p02,q01,=i-a,1,pre-verbal,y,n,n,n,x,x
+ex314,2,p01,q01,=îi ,1,pre-verbal,y,y,n,n,x,x
+ex314,2,p02,q01,=i-a,1,pre-verbal,y,n,n,n,x,x
+ex315,1,p01,q01,=îi ,1,pre-verbal,n,y,n,n,x,x
+ex316,1,p01,q01,=îi ,1,pre-verbal,n,y,n,n,x,x
+ex317,1,p01,q01,=îl ,1,pre-verbal,n,y,n,n,x,x
+ex318,2,p01,q01,=îl ,1,pre-verbal,y,y,n,n,x,x
+ex318,2,p02,q01,=l-a,1,pre-verbal,y,n,n,n,x,x
+ex319,1,p01,q01,=îl ,1,pre-verbal,n,y,n,n,x,x
+ex320,2,p01,q01,=îl ,1,pre-verbal,n,y,n,n,x,x
+ex320,2,p01,q02, și îl ,1,pre-verbal,y,y,n,n,x,x
+ex320,2,p02,q01,=îl ,1,pre-verbal,n,y,n,n,x,x
+ex320,2,p02,q02, și-l ,1,pre-verbal,y,n,n,n,x,x
+ex321,1,p01,q01,=îl ,1,pre-verbal,n,y,n,n,x,x
+ex322,1,p01,q01,=îl ,1,pre-verbal,n,y,n,n,x,x
+ex323,1,p01,q01,=îl ,1,pre-verbal,n,y,n,n,x,x
+ex324,1,p01,q01,=îl ,1,pre-verbal,n,y,n,n,x,x
+ex325,1,p01,q01,=îl ,1,pre-verbal,n,y,n,n,x,x
+ex326,4,p01,q01,=îl ,1,pre-verbal,y,y,n,n,x,x
+ex326,4,p02,q01,=l-împ,1,pre-verbal,y,n,n,n,x,x
+ex327,2,p01,q01,=îmi ,1,pre-verbal,y,y,n,n,x,x
+ex327,2,p02,q01,=mi-a,1,pre-verbal,y,n,n,n,x,x
+ex328,1,p01,q01,=îmi ,1,pre-verbal,n,y,n,n,x,x
+ex329,2,p01,q01,șc-o ,1,post-verbal,n,n,y,n,x,n
+ex329,2,p02,q01,șc-o-n ,1,post-verbal,n,n,y,n,x,y
+ex330,1,p01,q01,șcă-l ,1,post-verbal,n,n,n,n,x,x
+ex331,1,p01,q01,ni-i-s-ar ,2,post-verbal,n,n,n,n,x,x
+ex333,1,p01,q01,=l-au ,1,pre-verbal,n,n,n,n,x,x
+ex334,1,p01,q01,=îți ,1,pre-verbal,n,y,n,n,x,x
+ex335,1,p01,q01,=îți ,1,pre-verbal,n,y,n,n,x,x
+ex336,1,p01,q01,=îți ,1,pre-verbal,n,y,n,n,x,x
+ex337,1,p01,q01,=și le ,2,pre-verbal,n,n,n,n,x,x
+ex337,1,p01,q02, și și le ,2,pre-verbal,n,n,n,n,x,x
+ex338,2,p01,q01,=și ,0,x,n,n,n,n,x,x
+ex338,2,p01,q02, mi ți le-a ,3,pre-verbal,n,n,n,n,x,x
+ex338,2,p02,q01,=și ,0,x,n,n,n,n,x,x
+ex338,2,p02,q02, mi ți le-a-nf,3,pre-verbal,n,n,n,n,x,x
+ex339,1,p01,q01, că i le ,2,pre-verbal,n,n,n,n,x,x
+ex340,1,p01,q01, că l-au ,1,pre-verbal,n,n,n,n,x,x
+ex341,2,p01,q01, că îi ,1,pre-verbal,y,y,n,n,x,x
+ex341,2,p02,q01, că-i ,1,pre-verbal,y,n,n,n,x,x
+ex342,1,p01,q01, că ți l-ai ,2,pre-verbal,n,n,n,n,x,x
+ex343,1,p01,q01, că ți-ai ,1,pre-verbal,n,n,n,n,x,x
+ex344,1,p01,q01,=ți l-a ,2,pre-verbal,n,n,n,n,x,x
+ex345,1,p01,q01,=ți l-ai ,2,pre-verbal,n,n,n,n,x,x
+ex346,1,p01,q01,=ți le ,2,pre-verbal,n,n,n,n,x,x
+ex347,1,p01,q01,=ți-a ,1,pre-verbal,n,n,n,n,x,x
+ex348,1,p01,q01,=ți-ai ,1,pre-verbal,n,n,n,n,x,x
+ex349,1,p01,q01,=ți-l ,2,pre-verbal,n,n,n,n,x,x
+ex349,1,p01,q02, de nu se ,1,pre-verbal,n,n,n,n,x,x
+ex350,1,p01,q01,=ți-l ,2,pre-verbal,n,n,n,n,x,x
+ex351,1,p01,q01,=ți-o ,2,pre-verbal,n,n,n,n,x,x
+ex352,1,p01,q01,=le ,1,pre-verbal,n,n,n,n,x,x

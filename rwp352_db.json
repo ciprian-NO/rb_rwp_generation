@@ -1,0 +1,5604 @@
+{
+  "rwp_db": {
+    "ex001": {
+      "notes": {
+        "ex001_n01": null
+      },
+      "ex001_input": "A căruia ți place?",
+      "ex001_source": "A căruia îți place?",
+      "targets": {
+        "ex001_t01": "A căruia îți place?",
+        "ex001_t02": "A căruia-ți place?"
+      },
+      "patterns": {
+        "ex001_p01": " îți ",
+        "ex001_p02": "a-ți "
+      },
+      "ex001_schwa_dash_alternation": "y",
+      "ex001_syntax": "pre-verbal",
+      "ex001_rwp_counter": "1"
+    },
+    "ex002": {
+      "notes": {
+        "ex002_n01": null
+      },
+      "ex002_input": "A i le da gratis este bine.",
+      "ex002_source": "A i le da gratis este bine.",
+      "targets": {
+        "ex002_t01": "A i le da gratis este bine."
+      },
+      "patterns": {
+        "ex002_p01": "=a i le "
+      },
+      "ex002_syntax": "pre-verbal",
+      "ex002_rwp_counter": "2"
+    },
+    "ex003": {
+      "notes": {
+        "ex003_n01": null
+      },
+      "ex003_input": "A mi le da gratis este bine.",
+      "ex003_source": "A mi le da gratis este bine.",
+      "targets": {
+        "ex003_t01": "A mi le da gratis este bine."
+      },
+      "patterns": {
+        "ex003_p01": "=a mi le "
+      },
+      "ex003_syntax": "pre-verbal",
+      "ex003_rwp_counter": "2"
+    },
+    "ex004": {
+      "notes": {
+        "ex004_n01": null
+      },
+      "ex004_input": "A nu o mai vedea i cade greu.",
+      "ex004_source": "A nu o mai vedea îi cade greu.",
+      "targets": {
+        "ex004_t01": "A nu o mai vedea îi cade greu.",
+        "ex004_t02": "A n-o mai vedea îi cade greu."
+      },
+      "patterns": {
+        "ex004_p01": "=a nu o ; îi ",
+        "ex004_p02": "=a n-o ; îi "
+      },
+      "ex004_schwa_dash_alternation": "y",
+      "ex004_syntax": "pre-verbal;pre-verbal",
+      "ex004_rwp_counter": "1;1"
+    },
+    "ex005": {
+      "notes": {
+        "ex005_n01": null
+      },
+      "ex005_input": "A nu ți da mere gratis este nepoliticos.",
+      "ex005_source": "A nu îți da mere gratis este nepoliticos.",
+      "targets": {
+        "ex005_t01": "A nu îți da mere gratis este nepoliticos.",
+        "ex005_t02": "A nu-ți da mere gratis este nepoliticos."
+      },
+      "patterns": {
+        "ex005_p01": "=a nu îți ",
+        "ex005_p02": "=a nu-ți "
+      },
+      "ex005_schwa_dash_alternation": "y",
+      "ex005_syntax": "pre-verbal",
+      "ex005_rwp_counter": "1"
+    },
+    "ex006": {
+      "notes": {
+        "ex006_n01": null
+      },
+      "ex006_input": "A nu ți lu trimite niciodată este un semn de mitocănie.",
+      "ex006_source": "A nu ți-l trimite niciodată este un semn de mitocănie.",
+      "targets": {
+        "ex006_t01": "A nu ți-l trimite niciodată este un semn de mitocănie."
+      },
+      "patterns": {
+        "ex006_p01": "=a nu ți-l "
+      },
+      "ex006_syntax": "pre-verbal",
+      "ex006_rwp_counter": "2"
+    },
+    "ex007": {
+      "notes": {
+        "ex007_n01": null
+      },
+      "ex007_input": "A i da mere gratis este bine.",
+      "ex007_source": "A îi da mere gratis este bine.",
+      "targets": {
+        "ex007_t01": "A îi da mere gratis este bine.",
+        "ex007_t02": "A-i da mere gratis este bine."
+      },
+      "patterns": {
+        "ex007_p01": "=a îi ",
+        "ex007_p02": "=a-i "
+      },
+      "ex007_schwa_dash_alternation": "y",
+      "ex007_syntax": "pre-verbal",
+      "ex007_rwp_counter": "1"
+    },
+    "ex008": {
+      "notes": {
+        "ex008_n01": null
+      },
+      "ex008_input": "A lu da afară este bine.",
+      "ex008_source": "A îl da afară este bine.",
+      "targets": {
+        "ex008_t01": "A îl da afară este bine.",
+        "ex008_t02": "A-l da afară este bine."
+      },
+      "patterns": {
+        "ex008_p01": "=a îl ",
+        "ex008_p02": "=a-l "
+      },
+      "ex008_schwa_dash_alternation": "y",
+      "ex008_syntax": "pre-verbal",
+      "ex008_rwp_counter": "1"
+    },
+    "ex009": {
+      "notes": {
+        "ex009_n01": null
+      },
+      "ex009_input": "A ți da mere gratis este un gest frumos.",
+      "ex009_source": "A îți da mere gratis este un gest frumos.",
+      "targets": {
+        "ex009_t01": "A îți da mere gratis este un gest frumos.",
+        "ex009_t02": "A-ți da mere gratis este un gest frumos."
+      },
+      "patterns": {
+        "ex009_p01": "=a îți ",
+        "ex009_p02": "=a-ți "
+      },
+      "ex009_schwa_dash_alternation": "y",
+      "ex009_syntax": "pre-verbal",
+      "ex009_rwp_counter": "1"
+    },
+    "ex010": {
+      "notes": {
+        "ex010_n01": null
+      },
+      "ex010_input": "Acolo mi su copiii.",
+      "ex010_source": "Acolo mi-s copiii.",
+      "targets": {
+        "ex010_t01": "Acolo mi-s copiii."
+      },
+      "patterns": {
+        "ex010_p01": " mi-s "
+      },
+      "ex010_syntax": "post-complement",
+      "ex010_rwp_counter": "2"
+    },
+    "ex011": {
+      "notes": {
+        "ex011_n01": null
+      },
+      "ex011_input": "Acolo mi su oile.",
+      "ex011_source": "Acolo mi-s oile.",
+      "targets": {
+        "ex011_t01": "Acolo mi-s oile."
+      },
+      "patterns": {
+        "ex011_p01": " mi-s "
+      },
+      "ex011_syntax": "post-complement",
+      "ex011_rwp_counter": "2"
+    },
+    "ex012": {
+      "notes": {
+        "ex012_n01": null
+      },
+      "ex012_input": "Acum lu aștept la bibliotecă.",
+      "ex012_source": "Acum îl aștept la bibliotecă.",
+      "targets": {
+        "ex012_t01": "Acum îl aștept la bibliotecă.",
+        "ex012_t02": "Acum l-aștept la bibliotecă."
+      },
+      "patterns": {
+        "ex012_p01": " îl ",
+        "ex012_p02": " l-a"
+      },
+      "ex012_schwa_dash_alternation": "y",
+      "ex012_syntax": "pre-verbal",
+      "ex012_rwp_counter": "1"
+    },
+    "ex013": {
+      "notes": {
+        "ex013_n01": null
+      },
+      "ex013_input": "Adu le acolo!",
+      "ex013_source": "Adu-le acolo!",
+      "targets": {
+        "ex013_t01": "Adu-le acolo!",
+        "ex013_t02": "Adu-le-acolo!"
+      },
+      "patterns": {
+        "ex013_p01": "u-le ",
+        "ex013_p02": "u-le-a"
+      },
+      "ex013_syllabic_dash_alternation": "y",
+      "ex013_syntax": "post-verbal",
+      "ex013_rwp_counter": "1"
+    },
+    "ex014": {
+      "notes": {
+        "ex014_n01": null
+      },
+      "ex014_input": "Adu li mere!",
+      "ex014_source": "Adu-le mere!",
+      "targets": {
+        "ex014_t01": "Adu-le mere!"
+      },
+      "patterns": {
+        "ex014_p01": "u-le "
+      },
+      "ex014_syntax": "post-verbal",
+      "ex014_rwp_counter": "1"
+    },
+    "ex015": {
+      "notes": {
+        "ex015_n01": null
+      },
+      "ex015_input": "Am cumpărat o carte.",
+      "ex015_source": "Am cumpărat o carte.",
+      "targets": {
+        "ex015_t01": "Am cumpărat o carte."
+      },
+      "patterns": {
+        "ex015_p01": " o "
+      },
+      "ex015_syntax": "no-clitic-cluster",
+      "ex015_rwp_counter": "0"
+    },
+    "ex016": {
+      "notes": {
+        "ex016_n01": null
+      },
+      "ex016_input": "Am cumpărat o repede.",
+      "ex016_source": "Am cumpărat-o repede.",
+      "targets": {
+        "ex016_t01": "Am cumpărat-o repede."
+      },
+      "patterns": {
+        "ex016_p01": "t-o "
+      },
+      "ex016_syntax": "post-verbal",
+      "ex016_rwp_counter": "1"
+    },
+    "ex017": {
+      "notes": {
+        "ex017_n01": null
+      },
+      "ex017_input": "Am dat o gratis.",
+      "ex017_source": "Am dat-o gratis.",
+      "targets": {
+        "ex017_t01": "Am dat-o gratis."
+      },
+      "patterns": {
+        "ex017_p01": "t-o "
+      },
+      "ex017_syntax": "post-verbal",
+      "ex017_rwp_counter": "1"
+    },
+    "ex018": {
+      "notes": {
+        "ex018_n01": null
+      },
+      "ex018_input": "Am impresia că nu o prea placi pe Ana.",
+      "ex018_source": "Am impresia că nu o prea placi pe Ana.",
+      "targets": {
+        "ex018_t01": "Am impresia că nu o prea placi pe Ana.",
+        "ex018_t02": "Am impresia că n-o prea placi pe Ana."
+      },
+      "patterns": {
+        "ex018_p01": " nu o ",
+        "ex018_p02": " n-o "
+      },
+      "ex018_syllabic_dash_alternation": "n",
+      "ex018_syntax": "pre-verbal",
+      "ex018_rwp_counter": "1"
+    },
+    "ex019": {
+      "notes": {
+        "ex019_n01": null
+      },
+      "ex019_input": "Arată mi muzeul!",
+      "ex019_source": "Arată-mi muzeul!",
+      "targets": {
+        "ex019_t01": "Arată-mi muzeul!"
+      },
+      "patterns": {
+        "ex019_p01": "ă-mi "
+      },
+      "ex019_syntax": "post-verbal",
+      "ex019_rwp_counter": "1"
+    },
+    "ex020": {
+      "notes": {
+        "ex020_n01": null
+      },
+      "ex020_input": "Arată mă tuturor!",
+      "ex020_source": "Arată-mă tuturor!",
+      "targets": {
+        "ex020_t01": "Arată-mă tuturor!"
+      },
+      "patterns": {
+        "ex020_p01": "ă-mă "
+      },
+      "ex020_syntax": "post-verbal",
+      "ex020_rwp_counter": "1"
+    },
+    "ex021": {
+      "notes": {
+        "ex021_n01": null
+      },
+      "ex021_input": "Arată ni muzeul!",
+      "ex021_source": "Arată-ne muzeul!",
+      "targets": {
+        "ex021_t01": "Arată-ne muzeul!"
+      },
+      "patterns": {
+        "ex021_p01": "ă-ne "
+      },
+      "ex021_syntax": "post-verbal",
+      "ex021_rwp_counter": "1"
+    },
+    "ex022": {
+      "notes": {
+        "ex022_n01": null
+      },
+      "ex022_input": "Arată ne tuturor!",
+      "ex022_source": "Arată-ne tuturor!",
+      "targets": {
+        "ex022_t01": "Arată-ne tuturor!"
+      },
+      "patterns": {
+        "ex022_p01": "ă-ne "
+      },
+      "ex022_syntax": "post-verbal",
+      "ex022_rwp_counter": "1"
+    },
+    "ex023": {
+      "notes": {
+        "ex023_n01": null
+      },
+      "ex023_input": "Asta se întâmplă des.",
+      "ex023_source": "Asta se întâmplă des.",
+      "targets": {
+        "ex023_t01": "Asta se întâmplă des.",
+        "ex023_t02": "Asta se-ntâmplă des."
+      },
+      "patterns": {
+        "ex023_p01": " se ",
+        "ex023_p02": " se-n"
+      },
+      "ex023_syllabic_dash_alternation": "n",
+      "ex023_syntax": "pre-verbal",
+      "ex023_rwp_counter": "1"
+    },
+    "ex024": {
+      "notes": {
+        "ex024_n01": null
+      },
+      "ex024_input": "Astea le aflu mai devreme.",
+      "ex024_source": "Astea le aflu mai devreme.",
+      "targets": {
+        "ex024_t01": "Astea le aflu mai devreme."
+      },
+      "patterns": {
+        "ex024_p01": " le "
+      },
+      "ex024_syntax": "pre-verbal",
+      "ex024_rwp_counter": "1"
+    },
+    "ex025": {
+      "notes": {
+        "ex025_n01": "Au văzut-o-acolo."
+      },
+      "ex025_input": "Au văzut o acolo.",
+      "ex025_source": "Au văzut-o acolo.",
+      "targets": {
+        "ex025_t01": "Au văzut-o acolo."
+      },
+      "patterns": {
+        "ex025_p01": "t-o "
+      },
+      "ex025_syntax": "post-verbal",
+      "ex025_rwp_counter": "1"
+    },
+    "ex026": {
+      "notes": {
+        "ex026_n01": null
+      },
+      "ex026_input": "Bate lu ar norocul!",
+      "ex026_source": "Bate-l-ar norocul!",
+      "targets": {
+        "ex026_t01": "Bate-l-ar norocul!"
+      },
+      "patterns": {
+        "ex026_p01": "te-l-ar "
+      },
+      "ex026_syntax": "post-verbal",
+      "ex026_rwp_counter": "1"
+    },
+    "ex027": {
+      "notes": {
+        "ex027_n01": null
+      },
+      "ex027_input": "Bate mi ți lu pe copil.",
+      "ex027_source": "Bate-mi-ți-l pe copil.",
+      "targets": {
+        "ex027_t01": "Bate-mi-ți-l pe copil."
+      },
+      "patterns": {
+        "ex027_p01": "te-mi-ți-l "
+      },
+      "ex027_syntax": "post-verbal",
+      "ex027_rwp_counter": "3"
+    },
+    "ex028": {
+      "notes": {
+        "ex028_n01": null
+      },
+      "ex028_input": "Batu vi ți lu pe copil.",
+      "ex028_source": "Batu-vi-ți-l pe copil.",
+      "targets": {
+        "ex028_t01": "Batu-vi-ți-l pe copil."
+      },
+      "patterns": {
+        "ex028_p01": "tu-vi-ți-l "
+      },
+      "ex028_syntax": "post-verbal",
+      "ex028_rwp_counter": "3"
+    },
+    "ex029": {
+      "notes": {
+        "ex029_n01": null
+      },
+      "ex029_input": "Bătu te ar mama Ana de la gura podului!",
+      "ex029_source": "Bătu-te-ar mama Ana de la gura podului!",
+      "targets": {
+        "ex029_t01": "Bătu-te-ar mama Ana de la gura podului!"
+      },
+      "patterns": {
+        "ex029_p01": "tu-te-ar "
+      },
+      "ex029_syntax": "post-verbal",
+      "ex029_rwp_counter": "1"
+    },
+    "ex030": {
+      "notes": {
+        "ex030_n01": null
+      },
+      "ex030_input": "Casa căruia ai văzut o?",
+      "ex030_source": "Casa căruia ai văzut-o?",
+      "targets": {
+        "ex030_t01": "Casa căruia ai văzut-o?"
+      },
+      "patterns": {
+        "ex030_p01": "t-o"
+      },
+      "ex030_syntax": "post-verbal",
+      "ex030_rwp_counter": "1"
+    },
+    "ex031": {
+      "notes": {
+        "ex031_n01": "Ceea ce-am descoperit atunci"
+      },
+      "ex031_input": "Ceea ce am descoperit atunci, ca și urmările descoperirii, avea să mi marcheze devenirea.",
+      "ex031_source": "Ceea ce am descoperit atunci, ca și urmările descoperirii, avea să îmi marcheze devenirea.",
+      "targets": {
+        "ex031_t01": "Ceea ce am descoperit atunci, ca și urmările descoperirii, avea să îmi marcheze devenirea.",
+        "ex031_t02": "Ceea ce am descoperit atunci, ca și urmările descoperirii, avea să-mi marcheze devenirea."
+      },
+      "patterns": {
+        "ex031_p01": " să îmi ",
+        "ex031_p02": " să-mi "
+      },
+      "ex031_schwa_dash_alternation": "y",
+      "ex031_syntax": "pre-verbal",
+      "ex031_rwp_counter": "1"
+    },
+    "ex032": {
+      "notes": {
+        "ex032_n01": "Cine-ar"
+      },
+      "ex032_input": "Cine ar face asta?",
+      "ex032_source": "Cine ar face asta?",
+      "targets": {
+        "ex032_t01": "Cine ar face asta?"
+      },
+      "patterns": {
+        "ex032_p01": ""
+      },
+      "ex032_syntax": "no-clitic-cluster",
+      "ex032_rwp_counter": "0"
+    },
+    "ex033": {
+      "notes": {
+        "ex033_n01": null
+      },
+      "ex033_input": "Copiii mi su acolo.",
+      "ex033_source": "Copiii mi-s acolo.",
+      "targets": {
+        "ex033_t01": "Copiii mi-s acolo."
+      },
+      "patterns": {
+        "ex033_p01": " mi-s "
+      },
+      "ex033_syntax": "pre-complement",
+      "ex033_rwp_counter": "2"
+    },
+    "ex034": {
+      "notes": {
+        "ex034_n01": null
+      },
+      "ex034_input": "Copiii nu și mai vorbesc.",
+      "ex034_source": "Copiii nu își mai vorbesc.",
+      "targets": {
+        "ex034_t01": "Copiii nu își mai vorbesc.",
+        "ex034_t02": "Copiii nu-și mai vorbesc."
+      },
+      "patterns": {
+        "ex034_p01": " nu își ",
+        "ex034_p02": " nu-și "
+      },
+      "ex034_schwa_dash_alternation": "y",
+      "ex034_syntax": "pre-verbal",
+      "ex034_rwp_counter": "1"
+    },
+    "ex035": {
+      "notes": {
+        "ex035_n01": null
+      },
+      "ex035_input": "Cui i scrii?",
+      "ex035_source": "Cui îi scrii?",
+      "targets": {
+        "ex035_t01": "Cui îi scrii?"
+      },
+      "patterns": {
+        "ex035_p01": " îi "
+      },
+      "ex035_syntax": "pre-verbal",
+      "ex035_rwp_counter": "1"
+    },
+    "ex036": {
+      "notes": {
+        "ex036_n01": null
+      },
+      "ex036_input": "Cumpăra mi ai cărți!",
+      "ex036_source": "Cumpăra-mi-ai cărți!",
+      "targets": {
+        "ex036_t01": "Cumpăra-mi-ai cărți!"
+      },
+      "patterns": {
+        "ex036_p01": "ra-mi-ai "
+      },
+      "ex036_syntax": "post-verbal",
+      "ex036_rwp_counter": "1"
+    },
+    "ex037": {
+      "notes": {
+        "ex037_n01": null
+      },
+      "ex037_input": "Cumpără lu repede!",
+      "ex037_source": "Cumpără-l repede!",
+      "targets": {
+        "ex037_t01": "Cumpără-l repede!"
+      },
+      "patterns": {
+        "ex037_p01": "ră-l "
+      },
+      "ex037_syntax": "post-verbal",
+      "ex037_rwp_counter": "1"
+    },
+    "ex038": {
+      "notes": {
+        "ex038_n01": null
+      },
+      "ex038_input": "Cumpără ți cartea repede!",
+      "ex038_source": "Cumpără-ți cartea repede!",
+      "targets": {
+        "ex038_t01": "Cumpără-ți cartea repede!"
+      },
+      "patterns": {
+        "ex038_p01": "ră-ți "
+      },
+      "ex038_syntax": "post-verbal",
+      "ex038_rwp_counter": "1"
+    },
+    "ex039": {
+      "notes": {
+        "ex039_n01": null
+      },
+      "ex039_input": "Cumpără ți lu repede!",
+      "ex039_source": "Cumpără-ți-l repede!",
+      "targets": {
+        "ex039_t01": "Cumpără-ți-l repede!"
+      },
+      "patterns": {
+        "ex039_p01": "ră-ți-l "
+      },
+      "ex039_syntax": "post-verbal",
+      "ex039_rwp_counter": "2"
+    },
+    "ex040": {
+      "notes": {
+        "ex040_n01": null
+      },
+      "ex040_input": "Cumpără ți o repede!",
+      "ex040_source": "Cumpără-ți-o repede!",
+      "targets": {
+        "ex040_t01": "Cumpără-ți-o repede!"
+      },
+      "patterns": {
+        "ex040_p01": "ră-ți-o "
+      },
+      "ex040_syntax": "post-verbal",
+      "ex040_rwp_counter": "2"
+    },
+    "ex041": {
+      "notes": {
+        "ex041_n01": null
+      },
+      "ex041_input": "Când lu faci?",
+      "ex041_source": "Când îl faci?",
+      "targets": {
+        "ex041_t01": "Când îl faci?"
+      },
+      "patterns": {
+        "ex041_p01": " îl "
+      },
+      "ex041_syntax": "pre-verbal",
+      "ex041_rwp_counter": "1"
+    },
+    "ex042": {
+      "notes": {
+        "ex042_n01": "pe care l-avea???",
+        "ex042_n02": "înainte de-a se întinde"
+      },
+      "ex042_input": "Datorită tenului deschis pe care lu avea, Luciana folosi o cremă protectoare înainte de a se întinde pe prosop.",
+      "ex042_source": "Datorită tenului deschis pe care îl avea, Luciana folosi o cremă protectoare înainte de a se întinde pe prosop.",
+      "targets": {
+        "ex042_t01": "Datorită tenului deschis pe care îl avea, Luciana folosi o cremă protectoare înainte de a se întinde pe prosop.",
+        "ex042_t02": "Datorită tenului deschis pe care-l avea, Luciana folosi o cremă protectoare înainte de a se întinde pe prosop.",
+        "ex042_t03": "Datorită tenului deschis pe care îl avea, Luciana folosi o cremă protectoare înainte de a se-ntinde pe prosop.",
+        "ex042_t04": "Datorită tenului deschis pe care-l avea, Luciana folosi o cremă protectoare înainte de a se-ntinde pe prosop."
+      },
+      "patterns": {
+        "ex042_p01": " îl ; de a se ",
+        "ex042_p02": "re-l ; de a se ",
+        "ex042_p03": " îl ; de a se-n",
+        "ex042_p04": "re-l ; de a se-n"
+      },
+      "ex042_schwa_dash_alternation": "y",
+      "ex042_syntax": "pre-verbal;pre-verbal",
+      "ex042_rwp_counter": "1;1"
+    },
+    "ex043": {
+      "notes": {
+        "ex043_n01": null
+      },
+      "ex043_input": "Dați le afară!",
+      "ex043_source": "Dați-le afară!",
+      "targets": {
+        "ex043_t01": "Dați-le afară!",
+        "ex043_t02": "Dați-le-afară!"
+      },
+      "patterns": {
+        "ex043_p01": "ți-le ",
+        "ex043_p02": "ți-le-a"
+      },
+      "ex043_syllabic_dash_alternation": "y",
+      "ex043_syntax": "post-verbal",
+      "ex043_rwp_counter": "1"
+    },
+    "ex044": {
+      "notes": {
+        "ex044_n01": null
+      },
+      "ex044_input": "Dați mi le afară!",
+      "ex044_source": "Dați-mi-le afară!",
+      "targets": {
+        "ex044_t01": "Dați-mi-le afară!",
+        "ex044_t02": "Dați-mi-le-afară!"
+      },
+      "patterns": {
+        "ex044_p01": "ți-mi-le ",
+        "ex044_p02": "ți-mi-le-a"
+      },
+      "ex044_syllabic_dash_alternation": "y",
+      "ex044_syntax": "post-verbal",
+      "ex044_rwp_counter": "2"
+    },
+    "ex045": {
+      "notes": {
+        "ex045_n01": "Dați-mi-o afară!"
+      },
+      "ex045_input": "Dați mi o afară!",
+      "ex045_source": "Dați-mi-o afară!",
+      "targets": {
+        "ex045_t01": "Dați-mi-o afară!"
+      },
+      "patterns": {
+        "ex045_p01": "ți-mi-o "
+      },
+      "ex045_syntax": "post-verbal",
+      "ex045_rwp_counter": "2"
+    },
+    "ex046": {
+      "notes": {
+        "ex046_n01": "Dați-o-afară!"
+      },
+      "ex046_input": "Dați o afară!",
+      "ex046_source": "Dați-o afară!",
+      "targets": {
+        "ex046_t01": "Dați-o afară!"
+      },
+      "patterns": {
+        "ex046_p01": "ți-o "
+      },
+      "ex046_syntax": "post-verbal",
+      "ex046_rwp_counter": "1"
+    },
+    "ex047": {
+      "notes": {
+        "ex047_n01": null
+      },
+      "ex047_input": "De ce i le dai?",
+      "ex047_source": "De ce i le dai?",
+      "targets": {
+        "ex047_t01": "De ce i le dai?"
+      },
+      "patterns": {
+        "ex047_p01": " i le "
+      },
+      "ex047_syntax": "pre-verbal",
+      "ex047_rwp_counter": "2"
+    },
+    "ex048": {
+      "notes": {
+        "ex048_n01": null
+      },
+      "ex048_input": "De ce mi le dai?",
+      "ex048_source": "De ce mi le dai?",
+      "targets": {
+        "ex048_t01": "De ce mi le dai?"
+      },
+      "patterns": {
+        "ex048_p01": " mi le "
+      },
+      "ex048_syntax": "pre-verbal",
+      "ex048_rwp_counter": "2"
+    },
+    "ex049": {
+      "notes": {
+        "ex049_n01": null
+      },
+      "ex049_input": "De ce i dai mere?",
+      "ex049_source": "De ce îi dai mere?",
+      "targets": {
+        "ex049_t01": "De ce îi dai mere?",
+        "ex049_t02": "De ce-i dai mere?"
+      },
+      "patterns": {
+        "ex049_p01": " îi ",
+        "ex049_p02": " ce-i "
+      },
+      "ex049_schwa_dash_alternation": "y",
+      "ex049_syntax": "pre-verbal",
+      "ex049_rwp_counter": "1"
+    },
+    "ex050": {
+      "notes": {
+        "ex050_n01": null
+      },
+      "ex050_input": "De ce mi dai mere?",
+      "ex050_source": "De ce îmi dai mere?",
+      "targets": {
+        "ex050_t01": "De ce îmi dai mere?",
+        "ex050_t02": "De ce-mi dai mere?"
+      },
+      "patterns": {
+        "ex050_p01": " îmi ",
+        "ex050_p02": " ce-mi "
+      },
+      "ex050_schwa_dash_alternation": "y",
+      "ex050_syntax": "pre-verbal",
+      "ex050_rwp_counter": "1"
+    },
+    "ex051": {
+      "notes": {
+        "ex051_n01": null
+      },
+      "ex051_input": "De ce i lu ai dat gratis?",
+      "ex051_source": "De ce i l-ai dat gratis?",
+      "targets": {
+        "ex051_t01": "De ce i l-ai dat gratis?"
+      },
+      "patterns": {
+        "ex051_p01": " i l-ai "
+      },
+      "ex051_syntax": "pre-verbal",
+      "ex051_rwp_counter": "2"
+    },
+    "ex052": {
+      "notes": {
+        "ex052_n01": null
+      },
+      "ex052_input": "De ce lu ai făcut?",
+      "ex052_source": "De ce l-ai făcut?",
+      "targets": {
+        "ex052_t01": "De ce l-ai făcut?"
+      },
+      "patterns": {
+        "ex052_p01": " l-ai "
+      },
+      "ex052_syntax": "pre-verbal",
+      "ex052_rwp_counter": "1"
+    },
+    "ex053": {
+      "notes": {
+        "ex053_n01": null
+      },
+      "ex053_input": "De ce lu faci?",
+      "ex053_source": "De ce îl faci?",
+      "targets": {
+        "ex053_t01": "De ce îl faci?",
+        "ex053_t02": "De ce-l faci?"
+      },
+      "patterns": {
+        "ex053_p01": " îl ",
+        "ex053_p02": " ce-l "
+      },
+      "ex053_schwa_dash_alternation": "y",
+      "ex053_syntax": "pre-verbal",
+      "ex053_rwp_counter": "1"
+    },
+    "ex054": {
+      "notes": {
+        "ex054_n01": null
+      },
+      "ex054_input": "De ce lu vei face?",
+      "ex054_source": "De ce îl vei face?",
+      "targets": {
+        "ex054_t01": "De ce îl vei face?",
+        "ex054_t02": "De ce-l vei face?"
+      },
+      "patterns": {
+        "ex054_p01": " îl ",
+        "ex054_p02": " ce-l "
+      },
+      "ex054_schwa_dash_alternation": "y",
+      "ex054_syntax": "pre-verbal",
+      "ex054_rwp_counter": "1"
+    },
+    "ex055": {
+      "notes": {
+        "ex055_n01": null
+      },
+      "ex055_input": "Directorul și a reparat el însuși mașina.",
+      "ex055_source": "Directorul și-a reparat el însuși mașina.",
+      "targets": {
+        "ex055_t01": "Directorul și-a reparat el însuși mașina."
+      },
+      "patterns": {
+        "ex055_p01": " și-a "
+      },
+      "ex055_syntax": "pre-verbal",
+      "ex055_rwp_counter": "1"
+    },
+    "ex056": {
+      "notes": {
+        "ex056_n01": null
+      },
+      "ex056_input": "Du te acolo repede!",
+      "ex056_source": "Du-te acolo repede!",
+      "targets": {
+        "ex056_t01": "Du-te acolo repede!",
+        "ex056_t02": "Du-te-acolo repede!"
+      },
+      "patterns": {
+        "ex056_p01": "=du-te ",
+        "ex056_p02": "=du-te-a"
+      },
+      "ex056_syllabic_dash_alternation": "y",
+      "ex056_syntax": "post-verbal",
+      "ex056_rwp_counter": "1"
+    },
+    "ex057": {
+      "notes": {
+        "ex057_n01": null
+      },
+      "ex057_input": "Du te la piață!",
+      "ex057_source": "Du-te la piață!",
+      "targets": {
+        "ex057_t01": "Du-te la piață!"
+      },
+      "patterns": {
+        "ex057_p01": "=du-te "
+      },
+      "ex057_syntax": "post-verbal",
+      "ex057_rwp_counter": "1"
+    },
+    "ex058": {
+      "notes": {
+        "ex058_n01": null
+      },
+      "ex058_input": "Du te repede acolo!",
+      "ex058_source": "Du-te repede acolo!",
+      "targets": {
+        "ex058_t01": "Du-te repede acolo!"
+      },
+      "patterns": {
+        "ex058_p01": "=du-te "
+      },
+      "ex058_syntax": "post-verbal",
+      "ex058_rwp_counter": "1"
+    },
+    "ex059": {
+      "notes": {
+        "ex059_n01": null
+      },
+      "ex059_input": "Du te în piață!",
+      "ex059_source": "Du-te în piață!",
+      "targets": {
+        "ex059_t01": "Du-te în piață!",
+        "ex059_t02": "Du-te-n piață!"
+      },
+      "patterns": {
+        "ex059_p01": "=du-te ",
+        "ex059_p02": "=du-te-n "
+      },
+      "ex059_syllabic_dash_alternation": "n",
+      "ex059_syntax": "post-verbal",
+      "ex059_rwp_counter": "1"
+    },
+    "ex060": {
+      "notes": {
+        "ex060_n01": null
+      },
+      "ex060_input": "Du te încolo!",
+      "ex060_source": "Du-te încolo!",
+      "targets": {
+        "ex060_t01": "Du-te încolo!",
+        "ex060_t02": "Du-te-ncolo!"
+      },
+      "patterns": {
+        "ex060_p01": "=du-te ",
+        "ex060_p02": "=du-te-nc"
+      },
+      "ex060_syllabic_dash_alternation": "n",
+      "ex060_syntax": "post-verbal",
+      "ex060_rwp_counter": "1"
+    },
+    "ex061": {
+      "notes": {
+        "ex061_n01": null
+      },
+      "ex061_input": "Du te și fă ți temele!",
+      "ex061_source": "Du-te și fă-ți temele!",
+      "targets": {
+        "ex061_t01": "Du-te și fă-ți temele!"
+      },
+      "patterns": {
+        "ex061_p01": "=du-te și ; fă-ți "
+      },
+      "ex061_syntax": "post-verbal;post-verbal",
+      "ex061_rwp_counter": "1;1"
+    },
+    "ex062": {
+      "notes": {
+        "ex062_n01": null
+      },
+      "ex062_input": "Dumnezeu i va da copii mulți.",
+      "ex062_source": "Dumnezeu îi va da copii mulți.",
+      "targets": {
+        "ex062_t01": "Dumnezeu îi va da copii mulți."
+      },
+      "patterns": {
+        "ex062_p01": " îi "
+      },
+      "ex062_syntax": "pre-verbal",
+      "ex062_rwp_counter": "1"
+    },
+    "ex063": {
+      "notes": {
+        "ex063_n01": null
+      },
+      "ex063_input": "Dând mere Mariei se a bucurat.",
+      "ex063_source": "Dând mere Mariei s-a bucurat.",
+      "targets": {
+        "ex063_t01": "Dând mere Mariei s-a bucurat."
+      },
+      "patterns": {
+        "ex063_p01": " s-a "
+      },
+      "ex063_syntax": "pre-verbal",
+      "ex063_rwp_counter": "1"
+    },
+    "ex064": {
+      "notes": {
+        "ex064_n01": null
+      },
+      "ex064_input": "Dând o Mariei se a bucurat.",
+      "ex064_source": "Dând-o Mariei s-a bucurat.",
+      "targets": {
+        "ex064_t01": "Dând-o Mariei s-a bucurat."
+      },
+      "patterns": {
+        "ex064_p01": "nd-o ; s-a "
+      },
+      "ex064_syntax": "post-verbal;pre-verbal",
+      "ex064_rwp_counter": "1;1"
+    },
+    "ex065": {
+      "notes": {
+        "ex065_n01": null
+      },
+      "ex065_input": "Dând i mă de nevastă, tata a câștigat mulți bani.",
+      "ex065_source": "Dându-i-mă de nevastă, tata a câștigat mulți bani.",
+      "targets": {
+        "ex065_t01": "Dându-i-mă de nevastă, tata a câștigat mulți bani."
+      },
+      "patterns": {
+        "ex065_p01": "ndu-i-mă "
+      },
+      "ex065_syntax": "post-verbal",
+      "ex065_rwp_counter": "2"
+    },
+    "ex066": {
+      "notes": {
+        "ex066_n01": null
+      },
+      "ex066_input": "Dând lu Mariei se a bucurat.",
+      "ex066_source": "Dându-l Mariei s-a bucurat.",
+      "targets": {
+        "ex066_t01": "Dându-l Mariei s-a bucurat."
+      },
+      "patterns": {
+        "ex066_p01": "ndu-l ; s-a "
+      },
+      "ex066_syntax": "post-verbal;pre-verbal",
+      "ex066_rwp_counter": "1;1"
+    },
+    "ex067": {
+      "notes": {
+        "ex067_n01": null
+      },
+      "ex067_input": "Dând lu afară faci bine.",
+      "ex067_source": "Dându-l afară faci bine.",
+      "targets": {
+        "ex067_t01": "Dându-l afară faci bine."
+      },
+      "patterns": {
+        "ex067_p01": "ndu-l "
+      },
+      "ex067_syntax": "post-verbal",
+      "ex067_rwp_counter": "1"
+    },
+    "ex068": {
+      "notes": {
+        "ex068_n01": null
+      },
+      "ex068_input": "Dând le Mariei se a bucurat.",
+      "ex068_source": "Dându-le Mariei s-a bucurat.",
+      "targets": {
+        "ex068_t01": "Dându-le Mariei s-a bucurat."
+      },
+      "patterns": {
+        "ex068_p01": "ndu-le ; s-a "
+      },
+      "ex068_syntax": "post-verbal;pre-verbal",
+      "ex068_rwp_counter": "1;1"
+    },
+    "ex069": {
+      "notes": {
+        "ex069_n01": null
+      },
+      "ex069_input": "Dând mi mere mă a bucurat.",
+      "ex069_source": "Dându-mi mere m-a bucurat.",
+      "targets": {
+        "ex069_t01": "Dându-mi mere m-a bucurat."
+      },
+      "patterns": {
+        "ex069_p01": "ndu-mi ; m-a "
+      },
+      "ex069_syntax": "post-verbal;pre-verbal",
+      "ex069_rwp_counter": "1;1"
+    },
+    "ex070": {
+      "notes": {
+        "ex070_n01": null
+      },
+      "ex070_input": "Dă i lu avocatului!",
+      "ex070_source": "Dă-i-l avocatului!",
+      "targets": {
+        "ex070_t01": "Dă-i-l avocatului!"
+      },
+      "patterns": {
+        "ex070_p01": "=dă-i-l "
+      },
+      "ex070_syntax": "post-verbal",
+      "ex070_rwp_counter": "2"
+    },
+    "ex071": {
+      "notes": {
+        "ex071_n01": null
+      },
+      "ex071_input": "Dă i lu gratis!",
+      "ex071_source": "Dă-i-l gratis!",
+      "targets": {
+        "ex071_t01": "Dă-i-l gratis!"
+      },
+      "patterns": {
+        "ex071_p01": "=dă-i-l "
+      },
+      "ex071_syntax": "post-verbal",
+      "ex071_rwp_counter": "2"
+    },
+    "ex072": {
+      "notes": {
+        "ex072_n01": null
+      },
+      "ex072_input": "Dă lu gratis!",
+      "ex072_source": "Dă-l gratis!",
+      "targets": {
+        "ex072_t01": "Dă-l gratis!"
+      },
+      "patterns": {
+        "ex072_p01": "=dă-l "
+      },
+      "ex072_syntax": "post-verbal",
+      "ex072_rwp_counter": "1"
+    },
+    "ex073": {
+      "notes": {
+        "ex073_n01": null
+      },
+      "ex073_input": "Dă lu încolo!",
+      "ex073_source": "Dă-l încolo!",
+      "targets": {
+        "ex073_t01": "Dă-l încolo!"
+      },
+      "patterns": {
+        "ex073_p01": "=dă-l "
+      },
+      "ex073_syntax": "post-verbal",
+      "ex073_rwp_counter": "1"
+    },
+    "ex074": {
+      "notes": {
+        "ex074_n01": null
+      },
+      "ex074_input": "Dă le altuia!",
+      "ex074_source": "Dă-le altuia!",
+      "targets": {
+        "ex074_t01": "Dă-le altuia!"
+      },
+      "patterns": {
+        "ex074_p01": "=dă-le "
+      },
+      "ex074_syntax": "post-verbal",
+      "ex074_rwp_counter": "1"
+    },
+    "ex075": {
+      "notes": {
+        "ex075_n01": null
+      },
+      "ex075_input": "Dă li mere!",
+      "ex075_source": "Dă-le mere!",
+      "targets": {
+        "ex075_t01": "Dă-le mere!"
+      },
+      "patterns": {
+        "ex075_p01": "=dă-le "
+      },
+      "ex075_syntax": "post-verbal",
+      "ex075_rwp_counter": "1"
+    },
+    "ex076": {
+      "notes": {
+        "ex076_n01": null
+      },
+      "ex076_input": "Dă mi le acum!",
+      "ex076_source": "Dă-mi-le acum!",
+      "targets": {
+        "ex076_t01": "Dă-mi-le acum!",
+        "ex076_t02": "Dă-mi-le-acum!"
+      },
+      "patterns": {
+        "ex076_p01": "=dă-mi-le ",
+        "ex076_p02": "=dă-mi-le-a"
+      },
+      "ex076_syllabic_dash_alternation": "y",
+      "ex076_syntax": "post-verbal",
+      "ex076_rwp_counter": "2"
+    },
+    "ex077": {
+      "notes": {
+        "ex077_n01": null
+      },
+      "ex077_input": "Dă mi le gratis!",
+      "ex077_source": "Dă-mi-le gratis!",
+      "targets": {
+        "ex077_t01": "Dă-mi-le gratis!"
+      },
+      "patterns": {
+        "ex077_p01": "=dă-mi-le "
+      },
+      "ex077_syntax": "post-verbal",
+      "ex077_rwp_counter": "2"
+    },
+    "ex078": {
+      "notes": {
+        "ex078_n01": null
+      },
+      "ex078_input": "Dă ne de știre și nouă!",
+      "ex078_source": "Dă-ne de știre și nouă!",
+      "targets": {
+        "ex078_t01": "Dă-ne de știre și nouă!"
+      },
+      "patterns": {
+        "ex078_p01": "=dă-ne "
+      },
+      "ex078_syntax": "post-verbal",
+      "ex078_rwp_counter": "1"
+    },
+    "ex079": {
+      "notes": {
+        "ex079_n01": null
+      },
+      "ex079_input": "Ea lu iubește foarte mult.",
+      "ex079_source": "Ea îl iubește foarte mult.",
+      "targets": {
+        "ex079_t01": "Ea îl iubește foarte mult.",
+        "ex079_t02": "Ea-l iubește foarte mult."
+      },
+      "patterns": {
+        "ex079_p01": " îl ",
+        "ex079_p02": "=ea-l "
+      },
+      "ex079_schwa_dash_alternation": "y",
+      "ex079_syntax": "pre-verbal",
+      "ex079_rwp_counter": "1"
+    },
+    "ex080": {
+      "notes": {
+        "ex080_n01": null
+      },
+      "ex080_input": "El ne aduce înapoi acasă cu mașina.",
+      "ex080_source": "El ne aduce înapoi acasă cu mașina.",
+      "targets": {
+        "ex080_t01": "El ne aduce înapoi acasă cu mașina.",
+        "ex080_t02": "El ne-aduce înapoi acasă cu mașina."
+      },
+      "patterns": {
+        "ex080_p01": " ne ",
+        "ex080_p02": " ne-a"
+      },
+      "ex080_syllabic_dash_alternation": "y",
+      "ex080_syntax": "pre-verbal",
+      "ex080_rwp_counter": "1"
+    },
+    "ex081": {
+      "notes": {
+        "ex081_n01": null
+      },
+      "ex081_input": "El ne arată nouă muzeul.",
+      "ex081_source": "El ne arată nouă muzeul.",
+      "targets": {
+        "ex081_t01": "El ne arată nouă muzeul.",
+        "ex081_t02": "El ne-arată nouă muzeul."
+      },
+      "patterns": {
+        "ex081_p01": " ne ",
+        "ex081_p02": " ne-a"
+      },
+      "ex081_syllabic_dash_alternation": "y",
+      "ex081_syntax": "pre-verbal",
+      "ex081_rwp_counter": "1"
+    },
+    "ex082": {
+      "notes": {
+        "ex082_n01": null
+      },
+      "ex082_input": "El ne a colindat, iar noi i am dat mere.",
+      "ex082_source": "El ne-a colindat, iar noi i-am dat mere.",
+      "targets": {
+        "ex082_t01": "El ne-a colindat, iar noi i-am dat mere."
+      },
+      "patterns": {
+        "ex082_p01": " ne-a ;  i-am "
+      },
+      "ex082_syntax": "pre-verbal;pre-verbal",
+      "ex082_rwp_counter": "1;1"
+    },
+    "ex083": {
+      "notes": {
+        "ex083_n01": null
+      },
+      "ex083_input": "Eu aș fi lăudată mai des.",
+      "ex083_source": "Eu aș fi lăudată mai des.",
+      "targets": {
+        "ex083_t01": "Eu aș fi lăudată mai des."
+      },
+      "patterns": {
+        "ex083_p01": ""
+      },
+      "ex083_syntax": "no-clitic-cluster",
+      "ex083_rwp_counter": "0"
+    },
+    "ex084": {
+      "notes": {
+        "ex084_n01": null
+      },
+      "ex084_input": "Eu i aș lăuda mai des.",
+      "ex084_source": "Eu i-aș lăuda mai des.",
+      "targets": {
+        "ex084_t01": "Eu i-aș lăuda mai des."
+      },
+      "patterns": {
+        "ex084_p01": " i-aș "
+      },
+      "ex084_syntax": "pre-verbal",
+      "ex084_rwp_counter": "1"
+    },
+    "ex085": {
+      "notes": {
+        "ex085_n01": null
+      },
+      "ex085_input": "Fă lu repede!",
+      "ex085_source": "Fă-l repede!",
+      "targets": {
+        "ex085_t01": "Fă-l repede!"
+      },
+      "patterns": {
+        "ex085_p01": "=fă-l "
+      },
+      "ex085_syntax": "post-verbal",
+      "ex085_rwp_counter": "1"
+    },
+    "ex086": {
+      "notes": {
+        "ex086_n01": null
+      },
+      "ex086_input": "Fă mi le acum!",
+      "ex086_source": "Fă-mi-le acum!",
+      "targets": {
+        "ex086_t01": "Fă-mi-le acum!",
+        "ex086_t02": "Fă-mi-le-acum!"
+      },
+      "patterns": {
+        "ex086_p01": "=fă-mi-le ",
+        "ex086_p02": "=fă-mi-le-a"
+      },
+      "ex086_syllabic_dash_alternation": "y",
+      "ex086_syntax": "post-verbal",
+      "ex086_rwp_counter": "2"
+    },
+    "ex087": {
+      "notes": {
+        "ex087_n01": null
+      },
+      "ex087_input": "Fă mi le cândva!",
+      "ex087_source": "Fă-mi-le cândva!",
+      "targets": {
+        "ex087_t01": "Fă-mi-le cândva!"
+      },
+      "patterns": {
+        "ex087_p01": "=fă-mi-le "
+      },
+      "ex087_syntax": "post-verbal",
+      "ex087_rwp_counter": "2"
+    },
+    "ex088": {
+      "notes": {
+        "ex088_n01": null
+      },
+      "ex088_input": "Fă mi le repede!",
+      "ex088_source": "Fă-mi-le repede!",
+      "targets": {
+        "ex088_t01": "Fă-mi-le repede!"
+      },
+      "patterns": {
+        "ex088_p01": "=fă-mi-le "
+      },
+      "ex088_syntax": "post-verbal",
+      "ex088_rwp_counter": "2"
+    },
+    "ex089": {
+      "notes": {
+        "ex089_n01": null
+      },
+      "ex089_input": "Face mi le ai acum!",
+      "ex089_source": "Face-mi-le-ai acum!",
+      "targets": {
+        "ex089_t01": "Face-mi-le-ai acum!"
+      },
+      "patterns": {
+        "ex089_p01": "ce-mi-le-ai "
+      },
+      "ex089_syntax": "post-verbal",
+      "ex089_rwp_counter": "2"
+    },
+    "ex090": {
+      "notes": {
+        "ex090_n01": null
+      },
+      "ex090_input": "Face mi le ai cândva!",
+      "ex090_source": "Face-mi-le-ai cândva!",
+      "targets": {
+        "ex090_t01": "Face-mi-le-ai cândva!"
+      },
+      "patterns": {
+        "ex090_p01": "ce-mi-le-ai "
+      },
+      "ex090_syntax": "post-verbal",
+      "ex090_rwp_counter": "2"
+    },
+    "ex091": {
+      "notes": {
+        "ex091_n01": null
+      },
+      "ex091_input": "Fă mi ți probleme!",
+      "ex091_source": "Fă-mi-ți probleme!",
+      "targets": {
+        "ex091_t01": "Fă-mi-ți probleme!"
+      },
+      "patterns": {
+        "ex091_p01": "=fă-mi-ți "
+      },
+      "ex091_syntax": "post-verbal",
+      "ex091_rwp_counter": "2"
+    },
+    "ex092": {
+      "notes": {
+        "ex092_n01": null
+      },
+      "ex092_input": "Face mi ți ai probleme!",
+      "ex092_source": "Face-mi-ți-ai probleme!",
+      "targets": {
+        "ex092_t01": "Face-mi-ți-ai probleme!"
+      },
+      "patterns": {
+        "ex092_p01": "ce-mi-ți-ai "
+      },
+      "ex092_syntax": "post-verbal",
+      "ex092_rwp_counter": "2"
+    },
+    "ex093": {
+      "notes": {
+        "ex093_n01": null
+      },
+      "ex093_input": "Fă mi ți le acum!",
+      "ex093_source": "Fă-mi-ți-le acum!",
+      "targets": {
+        "ex093_t01": "Fă-mi-ți-le acum!",
+        "ex093_t02": "Fă-mi-ți-le-acum!"
+      },
+      "patterns": {
+        "ex093_p01": "=fă-mi-ți-le ",
+        "ex093_p02": "=fă-mi-ți-le-a"
+      },
+      "ex093_syllabic_dash_alternation": "y",
+      "ex093_syntax": "post-verbal",
+      "ex093_rwp_counter": "3"
+    },
+    "ex094": {
+      "notes": {
+        "ex094_n01": null
+      },
+      "ex094_input": "Fă mi ți le cândva!",
+      "ex094_source": "Fă-mi-ți-le cândva!",
+      "targets": {
+        "ex094_t01": "Fă-mi-ți-le cândva!"
+      },
+      "patterns": {
+        "ex094_p01": "=fă-mi-ți-le "
+      },
+      "ex094_syntax": "post-verbal",
+      "ex094_rwp_counter": "3"
+    },
+    "ex095": {
+      "notes": {
+        "ex095_n01": null
+      },
+      "ex095_input": "Face mi ți le ai acum!",
+      "ex095_source": "Face-mi-ți-le-ai acum!",
+      "targets": {
+        "ex095_t01": "Face-mi-ți-le-ai acum!"
+      },
+      "patterns": {
+        "ex095_p01": "ce-mi-ți-le-ai "
+      },
+      "ex095_syntax": "post-verbal",
+      "ex095_rwp_counter": "3"
+    },
+    "ex096": {
+      "notes": {
+        "ex096_n01": null
+      },
+      "ex096_input": "Face mi ți le ai cândva!",
+      "ex096_source": "Face-mi-ți-le-ai cândva!",
+      "targets": {
+        "ex096_t01": "Face-mi-ți-le-ai cândva!"
+      },
+      "patterns": {
+        "ex096_p01": "ce-mi-ți-le-ai "
+      },
+      "ex096_syntax": "post-verbal",
+      "ex096_rwp_counter": "3"
+    },
+    "ex097": {
+      "notes": {
+        "ex097_n01": null
+      },
+      "ex097_input": "Fă o repede!",
+      "ex097_source": "Fă-o repede!",
+      "targets": {
+        "ex097_t01": "Fă-o repede!"
+      },
+      "patterns": {
+        "ex097_p01": "=fă-o "
+      },
+      "ex097_syntax": "post-verbal",
+      "ex097_rwp_counter": "1"
+    },
+    "ex098": {
+      "notes": {
+        "ex098_n01": null
+      },
+      "ex098_input": "Fă ți probleme!",
+      "ex098_source": "Fă-ți probleme!",
+      "targets": {
+        "ex098_t01": "Fă-ți probleme!"
+      },
+      "patterns": {
+        "ex098_p01": "=fă-ți "
+      },
+      "ex098_syntax": "post-verbal",
+      "ex098_rwp_counter": "1"
+    },
+    "ex099": {
+      "notes": {
+        "ex099_n01": null
+      },
+      "ex099_input": "Fă ți lu repede!",
+      "ex099_source": "Fă-ți-l repede!",
+      "targets": {
+        "ex099_t01": "Fă-ți-l repede!"
+      },
+      "patterns": {
+        "ex099_p01": "=fă-ți-l "
+      },
+      "ex099_syntax": "post-verbal",
+      "ex099_rwp_counter": "2"
+    },
+    "ex100": {
+      "notes": {
+        "ex100_n01": null
+      },
+      "ex100_input": "Fă ți o repede!",
+      "ex100_source": "Fă-ți-o repede!",
+      "targets": {
+        "ex100_t01": "Fă-ți-o repede!"
+      },
+      "patterns": {
+        "ex100_p01": "=fă-ți-o "
+      },
+      "ex100_syntax": "post-verbal",
+      "ex100_rwp_counter": "2"
+    },
+    "ex101": {
+      "notes": {
+        "ex101_n01": null
+      },
+      "ex101_input": "I dai mere.",
+      "ex101_source": "Îi dai mere.",
+      "targets": {
+        "ex101_t01": "Îi dai mere."
+      },
+      "patterns": {
+        "ex101_p01": "=îi "
+      },
+      "ex101_syntax": "pre-verbal",
+      "ex101_rwp_counter": "1"
+    },
+    "ex102": {
+      "notes": {
+        "ex102_n01": null
+      },
+      "ex102_input": "I lu a dat gratis.",
+      "ex102_source": "I l-a dat gratis.",
+      "targets": {
+        "ex102_t01": "I l-a dat gratis."
+      },
+      "patterns": {
+        "ex102_p01": "=i l-a "
+      },
+      "ex102_syntax": "pre-verbal",
+      "ex102_rwp_counter": "2"
+    },
+    "ex103": {
+      "notes": {
+        "ex103_n01": "I l-a-ncredințat pe mezin mamei sale."
+      },
+      "ex103_input": "I lu a încredințat pe mezin mamei sale.",
+      "ex103_source": "I l-a încredințat pe mezin mamei sale.",
+      "targets": {
+        "ex103_t01": "I l-a încredințat pe mezin mamei sale.",
+        "ex103_t02": "I l-a-ncredințat pe mezin mamei sale."
+      },
+      "patterns": {
+        "ex103_p01": "=i l-a ",
+        "ex103_p02": "=i l-a-ncr"
+      },
+      "ex103_syllabic_dash_alternation": "n",
+      "ex103_syntax": "pre-verbal",
+      "ex103_rwp_counter": "2"
+    },
+    "ex104": {
+      "notes": {
+        "ex104_n01": null
+      },
+      "ex104_input": "I le mai aduci repede.",
+      "ex104_source": "I le mai aduci repede.",
+      "targets": {
+        "ex104_t01": "I le mai aduci repede."
+      },
+      "patterns": {
+        "ex104_p01": "=i le "
+      },
+      "ex104_syntax": "pre-verbal",
+      "ex104_rwp_counter": "2"
+    },
+    "ex105": {
+      "notes": {
+        "ex105_n01": null
+      },
+      "ex105_input": "I văd acolo.",
+      "ex105_source": "Îi văd acolo.",
+      "targets": {
+        "ex105_t01": "Îi văd acolo."
+      },
+      "patterns": {
+        "ex105_p01": "=îi "
+      },
+      "ex105_syntax": "pre-verbal",
+      "ex105_rwp_counter": "1"
+    },
+    "ex106": {
+      "notes": {
+        "ex106_n01": null
+      },
+      "ex106_input": "I am scris profesoarei de franceză a vecinului.",
+      "ex106_source": "I-am scris profesoarei de franceză a vecinului.",
+      "targets": {
+        "ex106_t01": "I-am scris profesoarei de franceză a vecinului."
+      },
+      "patterns": {
+        "ex106_p01": "=i-am "
+      },
+      "ex106_syntax": "pre-verbal",
+      "ex106_rwp_counter": "1"
+    },
+    "ex107": {
+      "notes": {
+        "ex107_n01": null
+      },
+      "ex107_input": "I am văzut și i am auzit.",
+      "ex107_source": "I-am văzut și i-am auzit.",
+      "targets": {
+        "ex107_t01": "I-am văzut și i-am auzit."
+      },
+      "patterns": {
+        "ex107_p01": "=i-am ; și i-am "
+      },
+      "ex107_syntax": "pre-verbal;pre-verbal",
+      "ex107_rwp_counter": "1;1"
+    },
+    "ex108": {
+      "notes": {
+        "ex108_n01": null
+      },
+      "ex108_input": "I au dat mere.",
+      "ex108_source": "I-au dat mere.",
+      "targets": {
+        "ex108_t01": "I-au dat mere."
+      },
+      "patterns": {
+        "ex108_p01": "=i-au "
+      },
+      "ex108_syntax": "pre-verbal",
+      "ex108_rwp_counter": "1"
+    },
+    "ex109": {
+      "notes": {
+        "ex109_n01": null
+      },
+      "ex109_input": "I au văzut acolo.",
+      "ex109_source": "I-au văzut acolo.",
+      "targets": {
+        "ex109_t01": "I-au văzut acolo."
+      },
+      "patterns": {
+        "ex109_p01": "=i-au "
+      },
+      "ex109_syntax": "pre-verbal",
+      "ex109_rwp_counter": "1"
+    },
+    "ex110": {
+      "notes": {
+        "ex110_n01": null
+      },
+      "ex110_input": "I lu binecuvântez pe copil.",
+      "ex110_source": "I-l binecuvântez pe copil.",
+      "targets": {
+        "ex110_t01": "I-l binecuvântez pe copil."
+      },
+      "patterns": {
+        "ex110_p01": "=i-l "
+      },
+      "ex110_syntax": "pre-verbal",
+      "ex110_rwp_counter": "1"
+    },
+    "ex111": {
+      "notes": {
+        "ex111_n01": null
+      },
+      "ex111_input": "I lu dau gratis.",
+      "ex111_source": "I-l dau gratis.",
+      "targets": {
+        "ex111_t01": "I-l dau gratis."
+      },
+      "patterns": {
+        "ex111_p01": "=i-l "
+      },
+      "ex111_syntax": "pre-verbal",
+      "ex111_rwp_counter": "2"
+    },
+    "ex112": {
+      "notes": {
+        "ex112_n01": null
+      },
+      "ex112_input": "I o cumpăr repede.",
+      "ex112_source": "I-o cumpăr repede.",
+      "targets": {
+        "ex112_t01": "I-o cumpăr repede."
+      },
+      "patterns": {
+        "ex112_p01": "=i-o "
+      },
+      "ex112_syntax": "pre-verbal",
+      "ex112_rwp_counter": "2"
+    },
+    "ex113": {
+      "notes": {
+        "ex113_n01": null
+      },
+      "ex113_input": "I o spui repede!",
+      "ex113_source": "I-o spui repede!",
+      "targets": {
+        "ex113_t01": "I-o spui repede!"
+      },
+      "patterns": {
+        "ex113_p01": "=i-o "
+      },
+      "ex113_syntax": "pre-verbal",
+      "ex113_rwp_counter": "2"
+    },
+    "ex114": {
+      "notes": {
+        "ex114_n01": null
+      },
+      "ex114_input": "Ia ți mă drept martor, și vei câstiga procesul!",
+      "ex114_source": "Ia-ți-mă drept martor, și vei câstiga procesul!",
+      "targets": {
+        "ex114_t01": "Ia-ți-mă drept martor, și vei câstiga procesul!"
+      },
+      "patterns": {
+        "ex114_p01": "=ia-ți-mă ; și "
+      },
+      "ex114_syntax": "post-verbal",
+      "ex114_rwp_counter": "2"
+    },
+    "ex115": {
+      "notes": {
+        "ex115_n01": null
+      },
+      "ex115_input": "Iată lu pe Vasile!",
+      "ex115_source": "Iată-l pe Vasile!",
+      "targets": {
+        "ex115_t01": "Iată-l pe Vasile!"
+      },
+      "patterns": {
+        "ex115_p01": "tă-l "
+      },
+      "ex115_syntax": "post-verbal",
+      "ex115_rwp_counter": "1"
+    },
+    "ex116": {
+      "notes": {
+        "ex116_n01": null
+      },
+      "ex116_input": "Ieri am rugat o de trei ori să dea o auditie.",
+      "ex116_source": "Ieri am rugat-o de trei ori să dea o auditie.",
+      "targets": {
+        "ex116_t01": "Ieri am rugat-o de trei ori să dea o auditie."
+      },
+      "patterns": {
+        "ex116_p01": "t-o ; o "
+      },
+      "ex116_syntax": "post-verbal",
+      "ex116_rwp_counter": "1"
+    },
+    "ex117": {
+      "notes": {
+        "ex117_n01": null
+      },
+      "ex117_input": "Ieri lu am rugat de trei ori să dea o auditie.",
+      "ex117_source": "Ieri l-am rugat de trei ori să dea o auditie.",
+      "targets": {
+        "ex117_t01": "Ieri l-am rugat de trei ori să dea o auditie."
+      },
+      "patterns": {
+        "ex117_p01": " l-am ; o "
+      },
+      "ex117_syntax": "pre-verbal",
+      "ex117_rwp_counter": "1"
+    },
+    "ex118": {
+      "notes": {
+        "ex118_n01": null
+      },
+      "ex118_input": "Kant, a cărui concepție a libertății este cunoscută bine in filozofia occidentală, a locuit toată viața în același oraș.",
+      "ex118_source": "Kant, a cărui concepție a libertății este cunoscută bine in filozofia occidentală, a locuit toată viața în același oraș.",
+      "targets": {
+        "ex118_t01": "Kant, a cărui concepție a libertății este cunoscută bine in filozofia occidentală, a locuit toată viața în același oraș.",
+        "ex118_t02": "Kant, a cărui concepție a libertății este cunoscută bine in filozofia occidentală, a locuit toată viața-n același oraș."
+      },
+      "patterns": {
+        "ex118_p01": ""
+      },
+      "ex118_syntax": "no-clitic-cluster",
+      "ex118_rwp_counter": "0"
+    },
+    "ex119": {
+      "notes": {
+        "ex119_n01": null
+      },
+      "ex119_input": "Lu am adus azi.",
+      "ex119_source": "L-am adus azi.",
+      "targets": {
+        "ex119_t01": "L-am adus azi."
+      },
+      "patterns": {
+        "ex119_p01": "=l-am "
+      },
+      "ex119_syntax": "pre-verbal",
+      "ex119_rwp_counter": "1"
+    },
+    "ex120": {
+      "notes": {
+        "ex120_n01": null
+      },
+      "ex120_input": "Lu am citit și lu am înțeles.",
+      "ex120_source": "L-am citit și l-am înțeles.",
+      "targets": {
+        "ex120_t01": "L-am citit și l-am înțeles."
+      },
+      "patterns": {
+        "ex120_p01": "=l-am ; și l-am "
+      },
+      "ex120_syntax": "pre-verbal;pre-verbal",
+      "ex120_rwp_counter": "1;1"
+    },
+    "ex121": {
+      "notes": {
+        "ex121_n01": null
+      },
+      "ex121_input": "Lu am citit și lu voi înțelege.",
+      "ex121_source": "L-am citit și îl voi înțelege.",
+      "targets": {
+        "ex121_t01": "L-am citit și îl voi înțelege.",
+        "ex121_t02": "L-am citit și-l voi înțelege."
+      },
+      "patterns": {
+        "ex121_p01": "=l-am ; și îl ",
+        "ex121_p02": "=l-am ; și-l "
+      },
+      "ex121_schwa_dash_alternation": "y",
+      "ex121_syntax": "pre-verbal;pre-verbal",
+      "ex121_rwp_counter": "1;1"
+    },
+    "ex122": {
+      "notes": {
+        "ex122_n01": null
+      },
+      "ex122_input": "Lu am cumpărat repede.",
+      "ex122_source": "L-am cumpărat repede.",
+      "targets": {
+        "ex122_t01": "L-am cumpărat repede."
+      },
+      "patterns": {
+        "ex122_p01": "=l-am "
+      },
+      "ex122_syntax": "pre-verbal",
+      "ex122_rwp_counter": "1"
+    },
+    "ex123": {
+      "notes": {
+        "ex123_n01": null
+      },
+      "ex123_input": "Lu am dat gratis.",
+      "ex123_source": "L-am dat gratis.",
+      "targets": {
+        "ex123_t01": "L-am dat gratis."
+      },
+      "patterns": {
+        "ex123_p01": "=l-am "
+      },
+      "ex123_syntax": "pre-verbal",
+      "ex123_rwp_counter": "1"
+    },
+    "ex124": {
+      "notes": {
+        "ex124_n01": null
+      },
+      "ex124_input": "Lu am mâncat repede.",
+      "ex124_source": "L-am mâncat repede.",
+      "targets": {
+        "ex124_t01": "L-am mâncat repede."
+      },
+      "patterns": {
+        "ex124_p01": "=l-am "
+      },
+      "ex124_syntax": "pre-verbal",
+      "ex124_rwp_counter": "1"
+    },
+    "ex125": {
+      "notes": {
+        "ex125_n01": null
+      },
+      "ex125_input": "Lu ar mânca repede.",
+      "ex125_source": "L-ar mânca repede.",
+      "targets": {
+        "ex125_t01": "L-ar mânca repede."
+      },
+      "patterns": {
+        "ex125_p01": "=l-ar "
+      },
+      "ex125_syntax": "pre-verbal",
+      "ex125_rwp_counter": "1"
+    },
+    "ex126": {
+      "notes": {
+        "ex126_n01": null
+      },
+      "ex126_input": "Lu aș mânca repede.",
+      "ex126_source": "L-aș mânca repede.",
+      "targets": {
+        "ex126_t01": "L-aș mânca repede."
+      },
+      "patterns": {
+        "ex126_p01": "=l-aș "
+      },
+      "ex126_syntax": "pre-verbal",
+      "ex126_rwp_counter": "1"
+    },
+    "ex127": {
+      "notes": {
+        "ex127_n01": null
+      },
+      "ex127_input": "Le aduci acolo.",
+      "ex127_source": "Le aduci acolo.",
+      "targets": {
+        "ex127_t01": "Le aduci acolo.",
+        "ex127_t02": "Le-aduci acolo."
+      },
+      "patterns": {
+        "ex127_p01": "=le ",
+        "ex127_p02": "=le-a"
+      },
+      "ex127_syllabic_dash_alternation": "y",
+      "ex127_syntax": "pre-verbal",
+      "ex127_rwp_counter": "1"
+    },
+    "ex128": {
+      "notes": {
+        "ex128_n01": null
+      },
+      "ex128_input": "Li aduci mere.",
+      "ex128_source": "Le aduci mere.",
+      "targets": {
+        "ex128_t01": "Le aduci mere.",
+        "ex128_t02": "Le-aduci mere."
+      },
+      "patterns": {
+        "ex128_p01": "=le ",
+        "ex128_p02": "=le-a"
+      },
+      "ex128_syllabic_dash_alternation": "y",
+      "ex128_syntax": "pre-verbal",
+      "ex128_rwp_counter": "1"
+    },
+    "ex129": {
+      "notes": {
+        "ex129_n01": null
+      },
+      "ex129_input": "Li arăt muzeul.",
+      "ex129_source": "Le arăt muzeul.",
+      "targets": {
+        "ex129_t01": "Le arăt muzeul.",
+        "ex129_t02": "Le-arăt muzeul."
+      },
+      "patterns": {
+        "ex129_p01": "=le ",
+        "ex129_p02": "=le-a"
+      },
+      "ex129_syllabic_dash_alternation": "y",
+      "ex129_syntax": "pre-verbal",
+      "ex129_rwp_counter": "1"
+    },
+    "ex130": {
+      "notes": {
+        "ex130_n01": null
+      },
+      "ex130_input": "Li dai mere.",
+      "ex130_source": "Le dai mere.",
+      "targets": {
+        "ex130_t01": "Le dai mere."
+      },
+      "patterns": {
+        "ex130_p01": "=le "
+      },
+      "ex130_syntax": "pre-verbal",
+      "ex130_rwp_counter": "1"
+    },
+    "ex131": {
+      "notes": {
+        "ex131_n01": null
+      },
+      "ex131_input": "Le dați afară.",
+      "ex131_source": "Le dați afară.",
+      "targets": {
+        "ex131_t01": "Le dați afară."
+      },
+      "patterns": {
+        "ex131_p01": "=le "
+      },
+      "ex131_syntax": "pre-verbal",
+      "ex131_rwp_counter": "1"
+    },
+    "ex132": {
+      "notes": {
+        "ex132_n01": null
+      },
+      "ex132_input": "Li e sete.",
+      "ex132_source": "Le e sete.",
+      "targets": {
+        "ex132_t01": "Le e sete.",
+        "ex132_t02": "Li-e sete."
+      },
+      "patterns": {
+        "ex132_p01": "=le ",
+        "ex132_p02": "=li-e "
+      },
+      "ex132_syllabic_dash_alternation": "y",
+      "ex132_syntax": "pre-verbal",
+      "ex132_rwp_counter": "1"
+    },
+    "ex133": {
+      "notes": {
+        "ex133_n01": null
+      },
+      "ex133_input": "Le văd acolo.",
+      "ex133_source": "Le văd acolo.",
+      "targets": {
+        "ex133_t01": "Le văd acolo."
+      },
+      "patterns": {
+        "ex133_p01": "=le "
+      },
+      "ex133_syntax": "pre-verbal",
+      "ex133_rwp_counter": "1"
+    },
+    "ex134": {
+      "notes": {
+        "ex134_n01": null
+      },
+      "ex134_input": "Li am cumpărat o carte.",
+      "ex134_source": "Le-am cumpărat o carte.",
+      "targets": {
+        "ex134_t01": "Le-am cumpărat o carte."
+      },
+      "patterns": {
+        "ex134_p01": "=le-am "
+      },
+      "ex134_syntax": "pre-verbal",
+      "ex134_rwp_counter": "1"
+    },
+    "ex135": {
+      "notes": {
+        "ex135_n01": null
+      },
+      "ex135_input": "Le am cumpărat repede.",
+      "ex135_source": "Le-am cumpărat repede.",
+      "targets": {
+        "ex135_t01": "Le-am cumpărat repede."
+      },
+      "patterns": {
+        "ex135_p01": "=le-am "
+      },
+      "ex135_syntax": "pre-verbal",
+      "ex135_rwp_counter": "1"
+    },
+    "ex136": {
+      "notes": {
+        "ex136_n01": null
+      },
+      "ex136_input": "Li am cumpărat o repede.",
+      "ex136_source": "Le-am cumpărat-o repede.",
+      "targets": {
+        "ex136_t01": "Le-am cumpărat-o repede."
+      },
+      "patterns": {
+        "ex136_p01": "=le-am ;t-o "
+      },
+      "ex136_syntax": "pre-verbal;post-verbal",
+      "ex136_rwp_counter": "1;1"
+    },
+    "ex137": {
+      "notes": {
+        "ex137_n01": null
+      },
+      "ex137_input": "Le au văzut acolo.",
+      "ex137_source": "Le-au văzut acolo.",
+      "targets": {
+        "ex137_t01": "Le-au văzut acolo."
+      },
+      "patterns": {
+        "ex137_p01": "=le-au "
+      },
+      "ex137_syntax": "pre-verbal",
+      "ex137_rwp_counter": "1"
+    },
+    "ex138": {
+      "notes": {
+        "ex138_n01": null
+      },
+      "ex138_input": "Li o întind acolo.",
+      "ex138_source": "Le-o întind acolo.",
+      "targets": {
+        "ex138_t01": "Le-o întind acolo.",
+        "ex138_t02": "Le-o-ntind acolo."
+      },
+      "patterns": {
+        "ex138_p01": "=le-o ",
+        "ex138_p02": "=le-o-n"
+      },
+      "ex138_syllabic_dash_alternation": "n",
+      "ex138_syntax": "pre-verbal",
+      "ex138_rwp_counter": "2"
+    },
+    "ex139": {
+      "notes": {
+        "ex139_n01": null
+      },
+      "ex139_input": "Li lu a dat gratis.",
+      "ex139_source": "Li l-a dat gratis.",
+      "targets": {
+        "ex139_t01": "Li l-a dat gratis."
+      },
+      "patterns": {
+        "ex139_p01": "=li l-a "
+      },
+      "ex139_syntax": "pre-verbal",
+      "ex139_rwp_counter": "2"
+    },
+    "ex140": {
+      "notes": {
+        "ex140_n01": null
+      },
+      "ex140_input": "Li i dă gratis.",
+      "ex140_source": "Li-i dă gratis.",
+      "targets": {
+        "ex140_t01": "Li-i dă gratis."
+      },
+      "patterns": {
+        "ex140_p01": "=li-i "
+      },
+      "ex140_syntax": "pre-verbal",
+      "ex140_rwp_counter": "2"
+    },
+    "ex141": {
+      "notes": {
+        "ex141_n01": null
+      },
+      "ex141_input": "Li lu dă gratis.",
+      "ex141_source": "Li-l dă gratis.",
+      "targets": {
+        "ex141_t01": "Li-l dă gratis."
+      },
+      "patterns": {
+        "ex141_p01": "=li-l "
+      },
+      "ex141_syntax": "pre-verbal",
+      "ex141_rwp_counter": "2"
+    },
+    "ex142": {
+      "notes": {
+        "ex142_n01": null
+      },
+      "ex142_input": "Mă ai văzut clar.",
+      "ex142_source": "M-ai văzut clar.",
+      "targets": {
+        "ex142_t01": "M-ai văzut clar."
+      },
+      "patterns": {
+        "ex142_p01": "=m-ai "
+      },
+      "ex142_syntax": "pre-verbal",
+      "ex142_rwp_counter": "1"
+    },
+    "ex143": {
+      "notes": {
+        "ex143_n01": null
+      },
+      "ex143_input": "Mă am prezentat repede.",
+      "ex143_source": "M-am prezentat repede.",
+      "targets": {
+        "ex143_t01": "M-am prezentat repede."
+      },
+      "patterns": {
+        "ex143_p01": "=m-am "
+      },
+      "ex143_syntax": "pre-verbal",
+      "ex143_rwp_counter": "1"
+    },
+    "ex144": {
+      "notes": {
+        "ex144_n01": null
+      },
+      "ex144_input": "Mă au văzut acolo.",
+      "ex144_source": "M-au văzut acolo.",
+      "targets": {
+        "ex144_t01": "M-au văzut acolo."
+      },
+      "patterns": {
+        "ex144_p01": "=m-au "
+      },
+      "ex144_syntax": "pre-verbal",
+      "ex144_rwp_counter": "1"
+    },
+    "ex145": {
+      "notes": {
+        "ex145_n01": null
+      },
+      "ex145_input": "Mai adu i le repede!",
+      "ex145_source": "Mai adu-i-le repede!",
+      "targets": {
+        "ex145_t01": "Mai adu-i-le repede!"
+      },
+      "patterns": {
+        "ex145_p01": " adu-i-le "
+      },
+      "ex145_syntax": "post-verbal",
+      "ex145_rwp_counter": "2"
+    },
+    "ex146": {
+      "notes": {
+        "ex146_n01": null
+      },
+      "ex146_input": "Mama ne aduce mere.",
+      "ex146_source": "Mama ne aduce mere.",
+      "targets": {
+        "ex146_t01": "Mama ne aduce mere.",
+        "ex146_t02": "Mama ne-aduce mere."
+      },
+      "patterns": {
+        "ex146_p01": " ne ",
+        "ex146_p02": " ne-a"
+      },
+      "ex146_syllabic_dash_alternation": "y",
+      "ex146_syntax": "pre-verbal",
+      "ex146_rwp_counter": "1"
+    },
+    "ex147": {
+      "notes": {
+        "ex147_n01": null
+      },
+      "ex147_input": "Mama ne place mult.",
+      "ex147_source": "Mama ne place mult.",
+      "targets": {
+        "ex147_t01": "Mama ne place mult."
+      },
+      "patterns": {
+        "ex147_p01": " ne "
+      },
+      "ex147_syntax": "pre-verbal",
+      "ex147_rwp_counter": "1"
+    },
+    "ex148": {
+      "notes": {
+        "ex148_n01": null
+      },
+      "ex148_input": "Mama lu aduce repede.",
+      "ex148_source": "Mama îl aduce repede.",
+      "targets": {
+        "ex148_t01": "Mama îl aduce repede.",
+        "ex148_t02": "Mama-l aduce repede.",
+        "ex148_t03": "Mama l-aduce repede."
+      },
+      "patterns": {
+        "ex148_p01": " îl ",
+        "ex148_p02": "ma-l ",
+        "ex148_p03": " l-a"
+      },
+      "ex148_schwa_dash_alternation": "y",
+      "ex148_syntax": "pre-verbal",
+      "ex148_rwp_counter": "1"
+    },
+    "ex149": {
+      "notes": {
+        "ex149_n01": null
+      },
+      "ex149_input": "Mama lu place mult.",
+      "ex149_source": "Mama îl place mult.",
+      "targets": {
+        "ex149_t01": "Mama îl place mult.",
+        "ex149_t02": "Mama-l place mult."
+      },
+      "patterns": {
+        "ex149_p01": " îl ",
+        "ex149_p02": "ma-l "
+      },
+      "ex149_schwa_dash_alternation": "y",
+      "ex149_syntax": "pre-verbal",
+      "ex149_rwp_counter": "1"
+    },
+    "ex150": {
+      "notes": {
+        "ex150_n01": null
+      },
+      "ex150_input": "Mama mi aduce mere.",
+      "ex150_source": "Mama îmi aduce mere.",
+      "targets": {
+        "ex150_t01": "Mama îmi aduce mere.",
+        "ex150_t02": "Mama-mi aduce mere.",
+        "ex150_t03": "Mama mi-aduce mere."
+      },
+      "patterns": {
+        "ex150_p01": " îmi ",
+        "ex150_p02": "ma-mi ",
+        "ex150_p03": " mi-a"
+      },
+      "ex150_schwa_dash_alternation": "y",
+      "ex150_syntax": "pre-verbal",
+      "ex150_rwp_counter": "1"
+    },
+    "ex151": {
+      "notes": {
+        "ex151_n01": null
+      },
+      "ex151_input": "Mama mi place mult.",
+      "ex151_source": "Mama îmi place mult.",
+      "targets": {
+        "ex151_t01": "Mama îmi place mult.",
+        "ex151_t02": "Mama-mi place mult."
+      },
+      "patterns": {
+        "ex151_p01": " îmi ",
+        "ex151_p02": "ma-mi "
+      },
+      "ex151_schwa_dash_alternation": "y",
+      "ex151_syntax": "pre-verbal",
+      "ex151_rwp_counter": "1"
+    },
+    "ex152": {
+      "notes": {
+        "ex152_n01": "Mamei sale i l-a-ncredințat pe mezin."
+      },
+      "ex152_input": "Mamei sale i lu a încredințat pe mezin.",
+      "ex152_source": "Mamei sale i l-a încredințat pe mezin.",
+      "targets": {
+        "ex152_t01": "Mamei sale i l-a încredințat pe mezin.",
+        "ex152_t02": "Mamei sale i l-a-ncredințat pe mezin."
+      },
+      "patterns": {
+        "ex152_p01": " i l-a ",
+        "ex152_p02": " i l-a-ncr"
+      },
+      "ex152_syllabic_dash_alternation": "n",
+      "ex152_syntax": "pre-verbal",
+      "ex152_rwp_counter": "2"
+    },
+    "ex153": {
+      "notes": {
+        "ex153_n01": "de-o oră"
+      },
+      "ex153_input": "Maria mă așteaptă de o oră.",
+      "ex153_source": "Maria mă așteaptă de o oră.",
+      "targets": {
+        "ex153_t01": "Maria mă așteaptă de o oră.",
+        "ex153_t02": "Maria m-așteaptă de o oră."
+      },
+      "patterns": {
+        "ex153_p01": " mă ",
+        "ex153_p02": " m-a"
+      },
+      "ex153_syllabic_dash_alternation": "y",
+      "ex153_syntax": "pre-verbal",
+      "ex153_rwp_counter": "1"
+    },
+    "ex154": {
+      "notes": {
+        "ex154_n01": "de-o oră"
+      },
+      "ex154_input": "Maria te așteaptă de o oră.",
+      "ex154_source": "Maria te așteaptă de o oră.",
+      "targets": {
+        "ex154_t01": "Maria te așteaptă de o oră.",
+        "ex154_t02": "Maria te-așteaptă de o oră."
+      },
+      "patterns": {
+        "ex154_p01": " te ",
+        "ex154_p02": " te-a"
+      },
+      "ex154_syllabic_dash_alternation": "y",
+      "ex154_syntax": "pre-verbal",
+      "ex154_rwp_counter": "1"
+    },
+    "ex155": {
+      "notes": {
+        "ex155_n01": "de-o oră"
+      },
+      "ex155_input": "Maria i așteaptă de o oră.",
+      "ex155_source": "Maria îi așteaptă de o oră.",
+      "targets": {
+        "ex155_t01": "Maria îi așteaptă de o oră.",
+        "ex155_t02": "Maria-i așteaptă de o oră.",
+        "ex155_t03": "Maria i-așteaptă de o oră."
+      },
+      "patterns": {
+        "ex155_p01": " îi ",
+        "ex155_p02": "ria-i ",
+        "ex155_p03": " i-a"
+      },
+      "ex155_schwa_dash_alternation": "y",
+      "ex155_syntax": "pre-verbal",
+      "ex155_rwp_counter": "1"
+    },
+    "ex156": {
+      "notes": {
+        "ex156_n01": "de-o oră"
+      },
+      "ex156_input": "Maria lu așteaptă de o oră.",
+      "ex156_source": "Maria îl așteaptă de o oră.",
+      "targets": {
+        "ex156_t01": "Maria îl așteaptă de o oră.",
+        "ex156_t02": "Maria-l așteaptă de o oră.",
+        "ex156_t03": "Maria l-așteaptă de o oră."
+      },
+      "patterns": {
+        "ex156_p01": " îl ",
+        "ex156_p02": "ria-l ",
+        "ex156_p03": " l-a"
+      },
+      "ex156_schwa_dash_alternation": "y",
+      "ex156_syntax": "pre-verbal",
+      "ex156_rwp_counter": "1"
+    },
+    "ex157": {
+      "notes": {
+        "ex157_n01": null
+      },
+      "ex157_input": "Mi lu a dat gratis.",
+      "ex157_source": "Mi l-a dat gratis.",
+      "targets": {
+        "ex157_t01": "Mi l-a dat gratis."
+      },
+      "patterns": {
+        "ex157_p01": "=mi l-a "
+      },
+      "ex157_syntax": "pre-verbal",
+      "ex157_rwp_counter": "2"
+    },
+    "ex158": {
+      "notes": {
+        "ex158_n01": null
+      },
+      "ex158_input": "Mi lu ai dat gratis.",
+      "ex158_source": "Mi l-ai dat gratis.",
+      "targets": {
+        "ex158_t01": "Mi l-ai dat gratis."
+      },
+      "patterns": {
+        "ex158_p01": "=mi l-ai "
+      },
+      "ex158_syntax": "pre-verbal",
+      "ex158_rwp_counter": "2"
+    },
+    "ex159": {
+      "notes": {
+        "ex159_n01": null
+      },
+      "ex159_input": "Mi lu ai face cândva.",
+      "ex159_source": "Mi l-ai face cândva.",
+      "targets": {
+        "ex159_t01": "Mi l-ai face cândva."
+      },
+      "patterns": {
+        "ex159_p01": "=mi l-ai "
+      },
+      "ex159_syntax": "pre-verbal",
+      "ex159_rwp_counter": "2"
+    },
+    "ex160": {
+      "notes": {
+        "ex160_n01": null
+      },
+      "ex160_input": "Mi lu oi face cândva.",
+      "ex160_source": "Mi l-oi face cândva.",
+      "targets": {
+        "ex160_t01": "Mi l-oi face cândva."
+      },
+      "patterns": {
+        "ex160_p01": "=mi l-oi "
+      },
+      "ex160_syntax": "pre-verbal",
+      "ex160_rwp_counter": "2"
+    },
+    "ex161": {
+      "notes": {
+        "ex161_n01": null
+      },
+      "ex161_input": "Mi le aduci acum.",
+      "ex161_source": "Mi le aduci acum.",
+      "targets": {
+        "ex161_t01": "Mi le aduci acum.",
+        "ex161_t02": "Mi le-aduci acum."
+      },
+      "patterns": {
+        "ex161_p01": "=mi le ",
+        "ex161_p02": "=mi le-a"
+      },
+      "ex161_syllabic_dash_alternation": "y",
+      "ex161_syntax": "pre-verbal",
+      "ex161_rwp_counter": "2"
+    },
+    "ex162": {
+      "notes": {
+        "ex162_n01": null
+      },
+      "ex162_input": "Mi le dai gratis.",
+      "ex162_source": "Mi le dai gratis.",
+      "targets": {
+        "ex162_t01": "Mi le dai gratis."
+      },
+      "patterns": {
+        "ex162_p01": "=mi le "
+      },
+      "ex162_syntax": "pre-verbal",
+      "ex162_rwp_counter": "2"
+    },
+    "ex163": {
+      "notes": {
+        "ex163_n01": null
+      },
+      "ex163_input": "Mi le faci acum.",
+      "ex163_source": "Mi le faci acum.",
+      "targets": {
+        "ex163_t01": "Mi le faci acum."
+      },
+      "patterns": {
+        "ex163_p01": "=mi le "
+      },
+      "ex163_syntax": "pre-verbal",
+      "ex163_rwp_counter": "2"
+    },
+    "ex164": {
+      "notes": {
+        "ex164_n01": null
+      },
+      "ex164_input": "Mi le vei face cândva.",
+      "ex164_source": "Mi le vei face cândva.",
+      "targets": {
+        "ex164_t01": "Mi le vei face cândva."
+      },
+      "patterns": {
+        "ex164_p01": "=mi le "
+      },
+      "ex164_syntax": "pre-verbal",
+      "ex164_rwp_counter": "2"
+    },
+    "ex165": {
+      "notes": {
+        "ex165_n01": null
+      },
+      "ex165_input": "Mi le ai face cândva.",
+      "ex165_source": "Mi le-ai face cândva.",
+      "targets": {
+        "ex165_t01": "Mi le-ai face cândva."
+      },
+      "patterns": {
+        "ex165_p01": "=mi le-ai "
+      },
+      "ex165_syntax": "pre-verbal",
+      "ex165_rwp_counter": "2"
+    },
+    "ex166": {
+      "notes": {
+        "ex166_n01": null
+      },
+      "ex166_input": "Mi le oi face cândva.",
+      "ex166_source": "Mi le-oi face cândva.",
+      "targets": {
+        "ex166_t01": "Mi le-oi face cândva."
+      },
+      "patterns": {
+        "ex166_p01": "=mi le-oi "
+      },
+      "ex166_syntax": "pre-verbal",
+      "ex166_rwp_counter": "2"
+    },
+    "ex167": {
+      "notes": {
+        "ex167_n01": null
+      },
+      "ex167_input": "Mi se pare că se aude un cuc.",
+      "ex167_source": "Mi se pare că se aude un cuc.",
+      "targets": {
+        "ex167_t01": "Mi se pare că se aude un cuc.",
+        "ex167_t02": "Mi se pare că se-aude un cuc."
+      },
+      "patterns": {
+        "ex167_p01": "=mi se ; că se ",
+        "ex167_p02": "=mi se ; că se-a"
+      },
+      "ex167_syllabic_dash_alternation": "y",
+      "ex167_syntax": "pre-verbal;pre-verbal",
+      "ex167_rwp_counter": "2;1"
+    },
+    "ex168": {
+      "notes": {
+        "ex168_n01": null
+      },
+      "ex168_input": "Mi ți lu ai face cândva.",
+      "ex168_source": "Mi ți l-ai face cândva.",
+      "targets": {
+        "ex168_t01": "Mi ți l-ai face cândva."
+      },
+      "patterns": {
+        "ex168_p01": "=mi ți l-ai "
+      },
+      "ex168_syntax": "pre-verbal",
+      "ex168_rwp_counter": "3"
+    },
+    "ex169": {
+      "notes": {
+        "ex169_n01": null
+      },
+      "ex169_input": "Mi ți lu oi face cândva.",
+      "ex169_source": "Mi ți l-oi face cândva.",
+      "targets": {
+        "ex169_t01": "Mi ți l-oi face cândva."
+      },
+      "patterns": {
+        "ex169_p01": "=mi ți l-oi "
+      },
+      "ex169_syntax": "pre-verbal",
+      "ex169_rwp_counter": "3"
+    },
+    "ex170": {
+      "notes": {
+        "ex170_n01": null
+      },
+      "ex170_input": "Mi ți le faci cândva.",
+      "ex170_source": "Mi ți le faci cândva.",
+      "targets": {
+        "ex170_t01": "Mi ți le faci cândva."
+      },
+      "patterns": {
+        "ex170_p01": "=mi ți le "
+      },
+      "ex170_syntax": "pre-verbal",
+      "ex170_rwp_counter": "3"
+    },
+    "ex171": {
+      "notes": {
+        "ex171_n01": null
+      },
+      "ex171_input": "Mi ți le vei face cândva.",
+      "ex171_source": "Mi ți le vei face cândva.",
+      "targets": {
+        "ex171_t01": "Mi ți le vei face cândva."
+      },
+      "patterns": {
+        "ex171_p01": "=mi ți le "
+      },
+      "ex171_syntax": "pre-verbal",
+      "ex171_rwp_counter": "3"
+    },
+    "ex172": {
+      "notes": {
+        "ex172_n01": null
+      },
+      "ex172_input": "Mi ți le ai face cândva.",
+      "ex172_source": "Mi ți le-ai face cândva.",
+      "targets": {
+        "ex172_t01": "Mi ți le-ai face cândva."
+      },
+      "patterns": {
+        "ex172_p01": "=mi ți le-ai "
+      },
+      "ex172_syntax": "pre-verbal",
+      "ex172_rwp_counter": "3"
+    },
+    "ex173": {
+      "notes": {
+        "ex173_n01": null
+      },
+      "ex173_input": "Mi ți le oi face cândva.",
+      "ex173_source": "Mi ți le-oi face cândva.",
+      "targets": {
+        "ex173_t01": "Mi ți le-oi face cândva."
+      },
+      "patterns": {
+        "ex173_p01": "=mi ți le-oi "
+      },
+      "ex173_syntax": "pre-verbal",
+      "ex173_rwp_counter": "3"
+    },
+    "ex174": {
+      "notes": {
+        "ex174_n01": null
+      },
+      "ex174_input": "Mi ți ai facut probleme.",
+      "ex174_source": "Mi ți-ai facut probleme.",
+      "targets": {
+        "ex174_t01": "Mi ți-ai facut probleme."
+      },
+      "patterns": {
+        "ex174_p01": "=mi ți-ai "
+      },
+      "ex174_syntax": "pre-verbal",
+      "ex174_rwp_counter": "2"
+    },
+    "ex175": {
+      "notes": {
+        "ex175_n01": null
+      },
+      "ex175_input": "Mi ți lu bate de nu se vede.",
+      "ex175_source": "Mi ți-l bate de nu se vede.",
+      "targets": {
+        "ex175_t01": "Mi ți-l bate de nu se vede."
+      },
+      "patterns": {
+        "ex175_p01": "=mi ți-l ; de nu se "
+      },
+      "ex175_syntax": "pre-verbal",
+      "ex175_rwp_counter": "3"
+    },
+    "ex176": {
+      "notes": {
+        "ex176_n01": null
+      },
+      "ex176_input": "Mi ți lu bate pe copil.",
+      "ex176_source": "Mi ți-l bate pe copil.",
+      "targets": {
+        "ex176_t01": "Mi ți-l bate pe copil."
+      },
+      "patterns": {
+        "ex176_p01": "=mi ți-l "
+      },
+      "ex176_syntax": "pre-verbal",
+      "ex176_rwp_counter": "3"
+    },
+    "ex177": {
+      "notes": {
+        "ex177_n01": null
+      },
+      "ex177_input": "Mi ți lu faci cândva.",
+      "ex177_source": "Mi ți-l faci cândva.",
+      "targets": {
+        "ex177_t01": "Mi ți-l faci cândva."
+      },
+      "patterns": {
+        "ex177_p01": "=mi ți-l "
+      },
+      "ex177_syntax": "pre-verbal",
+      "ex177_rwp_counter": "3"
+    },
+    "ex178": {
+      "notes": {
+        "ex178_n01": null
+      },
+      "ex178_input": "Mi ți lu vei face cândva.",
+      "ex178_source": "Mi ți-l vei face cândva.",
+      "targets": {
+        "ex178_t01": "Mi ți-l vei face cândva."
+      },
+      "patterns": {
+        "ex178_p01": "=mi ți-l "
+      },
+      "ex178_syntax": "pre-verbal",
+      "ex178_rwp_counter": "3"
+    },
+    "ex179": {
+      "notes": {
+        "ex179_n01": null
+      },
+      "ex179_input": "Mi ți o faci cândva.",
+      "ex179_source": "Mi ți-o faci cândva.",
+      "targets": {
+        "ex179_t01": "Mi ți-o faci cândva."
+      },
+      "patterns": {
+        "ex179_p01": "=mi ți-o "
+      },
+      "ex179_syntax": "pre-verbal",
+      "ex179_rwp_counter": "3"
+    },
+    "ex180": {
+      "notes": {
+        "ex180_n01": null
+      },
+      "ex180_input": "Mi a dat mere gratis.",
+      "ex180_source": "Mi-a dat mere gratis.",
+      "targets": {
+        "ex180_t01": "Mi-a dat mere gratis."
+      },
+      "patterns": {
+        "ex180_p01": "=mi-a "
+      },
+      "ex180_syntax": "pre-verbal",
+      "ex180_rwp_counter": "1"
+    },
+    "ex181": {
+      "notes": {
+        "ex181_n01": null
+      },
+      "ex181_input": "Mi ai dat o gratis.",
+      "ex181_source": "Mi-ai dat-o gratis.",
+      "targets": {
+        "ex181_t01": "Mi-ai dat-o gratis."
+      },
+      "patterns": {
+        "ex181_p01": "=mi-ai ;t-o "
+      },
+      "ex181_syntax": "pre-verbal;post-verbal",
+      "ex181_rwp_counter": "1;1"
+    },
+    "ex182": {
+      "notes": {
+        "ex182_n01": null
+      },
+      "ex182_input": "Mi lu dai gratis.",
+      "ex182_source": "Mi-l dai gratis.",
+      "targets": {
+        "ex182_t01": "Mi-l dai gratis."
+      },
+      "patterns": {
+        "ex182_p01": "=mi-l "
+      },
+      "ex182_syntax": "pre-verbal",
+      "ex182_rwp_counter": "2"
+    },
+    "ex183": {
+      "notes": {
+        "ex183_n01": null
+      },
+      "ex183_input": "Mi lu dă gratis.",
+      "ex183_source": "Mi-l dă gratis.",
+      "targets": {
+        "ex183_t01": "Mi-l dă gratis."
+      },
+      "patterns": {
+        "ex183_p01": "=mi-l "
+      },
+      "ex183_syntax": "pre-verbal",
+      "ex183_rwp_counter": "2"
+    },
+    "ex184": {
+      "notes": {
+        "ex184_n01": null
+      },
+      "ex184_input": "Mi lu faci cândva.",
+      "ex184_source": "Mi-l faci cândva.",
+      "targets": {
+        "ex184_t01": "Mi-l faci cândva."
+      },
+      "patterns": {
+        "ex184_p01": "=mi-l "
+      },
+      "ex184_syntax": "pre-verbal",
+      "ex184_rwp_counter": "2"
+    },
+    "ex185": {
+      "notes": {
+        "ex185_n01": null
+      },
+      "ex185_input": "Mi lu vei face cândva.",
+      "ex185_source": "Mi-l vei face cândva.",
+      "targets": {
+        "ex185_t01": "Mi-l vei face cândva."
+      },
+      "patterns": {
+        "ex185_p01": "=mi-l "
+      },
+      "ex185_syntax": "pre-verbal",
+      "ex185_rwp_counter": "2"
+    },
+    "ex186": {
+      "notes": {
+        "ex186_n01": null
+      },
+      "ex186_input": "Mi o dai gratis.",
+      "ex186_source": "Mi-o dai gratis.",
+      "targets": {
+        "ex186_t01": "Mi-o dai gratis."
+      },
+      "patterns": {
+        "ex186_p01": "=mi-o "
+      },
+      "ex186_syntax": "pre-verbal",
+      "ex186_rwp_counter": "2"
+    },
+    "ex187": {
+      "notes": {
+        "ex187_n01": null
+      },
+      "ex187_input": "Mi o dați afară.",
+      "ex187_source": "Mi-o dați afară.",
+      "targets": {
+        "ex187_t01": "Mi-o dați afară."
+      },
+      "patterns": {
+        "ex187_p01": "=mi-o "
+      },
+      "ex187_syntax": "pre-verbal",
+      "ex187_rwp_counter": "2"
+    },
+    "ex188": {
+      "notes": {
+        "ex188_n01": null
+      },
+      "ex188_input": "Mi o spui repede!",
+      "ex188_source": "Mi-o spui repede!",
+      "targets": {
+        "ex188_t01": "Mi-o spui repede!"
+      },
+      "patterns": {
+        "ex188_p01": "=mi-o "
+      },
+      "ex188_syntax": "pre-verbal",
+      "ex188_rwp_counter": "2"
+    },
+    "ex189": {
+      "notes": {
+        "ex189_n01": null
+      },
+      "ex189_input": "Mi o vei face cândva.",
+      "ex189_source": "Mi-o vei face cândva.",
+      "targets": {
+        "ex189_t01": "Mi-o vei face cândva."
+      },
+      "patterns": {
+        "ex189_p01": "=mi-o "
+      },
+      "ex189_syntax": "pre-verbal",
+      "ex189_rwp_counter": "2"
+    },
+    "ex190": {
+      "notes": {
+        "ex190_n01": null
+      },
+      "ex190_input": "Mi oi face o schimbare cândva.",
+      "ex190_source": "Mi-oi face o schimbare cândva.",
+      "targets": {
+        "ex190_t01": "Mi-oi face o schimbare cândva."
+      },
+      "patterns": {
+        "ex190_p01": "=mi-oi ; o "
+      },
+      "ex190_syntax": "pre-verbal",
+      "ex190_rwp_counter": "1"
+    },
+    "ex191": {
+      "notes": {
+        "ex191_n01": null
+      },
+      "ex191_input": "Mi oi face o cândva.",
+      "ex191_source": "Mi-oi face-o cândva.",
+      "targets": {
+        "ex191_t01": "Mi-oi face-o cândva."
+      },
+      "patterns": {
+        "ex191_p01": "=mi-oi ;ce-o "
+      },
+      "ex191_syntax": "pre-verbal;post-verbal",
+      "ex191_rwp_counter": "1;1"
+    },
+    "ex192": {
+      "notes": {
+        "ex192_n01": null
+      },
+      "ex192_input": "Mi su acolo oile.",
+      "ex192_source": "Mi-s acolo oile.",
+      "targets": {
+        "ex192_t01": "Mi-s acolo oile."
+      },
+      "patterns": {
+        "ex192_p01": "=mi-s "
+      },
+      "ex192_syntax": "pre-complement",
+      "ex192_rwp_counter": "2"
+    },
+    "ex193": {
+      "notes": {
+        "ex193_n01": null
+      },
+      "ex193_input": "Mi ți faci probleme.",
+      "ex193_source": "Mi-ți faci probleme.",
+      "targets": {
+        "ex193_t01": "Mi-ți faci probleme."
+      },
+      "patterns": {
+        "ex193_p01": "=mi-ți "
+      },
+      "ex193_syntax": "pre-verbal",
+      "ex193_rwp_counter": "2"
+    },
+    "ex194": {
+      "notes": {
+        "ex194_n01": null
+      },
+      "ex194_input": "Mi ți vei face probleme.",
+      "ex194_source": "Mi-ți vei face probleme.",
+      "targets": {
+        "ex194_t01": "Mi-ți vei face probleme."
+      },
+      "patterns": {
+        "ex194_p01": "=mi-ți "
+      },
+      "ex194_syntax": "pre-verbal",
+      "ex194_rwp_counter": "2"
+    },
+    "ex195": {
+      "notes": {
+        "ex195_n01": null
+      },
+      "ex195_input": "Miriam ni aduce mere.",
+      "ex195_source": "Miriam ne aduce mere.",
+      "targets": {
+        "ex195_t01": "Miriam ne aduce mere.",
+        "ex195_t02": "Miriam ne-aduce mere."
+      },
+      "patterns": {
+        "ex195_p01": " ne ",
+        "ex195_p02": " ne-a"
+      },
+      "ex195_syllabic_dash_alternation": "y",
+      "ex195_syntax": "pre-verbal",
+      "ex195_rwp_counter": "1"
+    },
+    "ex196": {
+      "notes": {
+        "ex196_n01": null
+      },
+      "ex196_input": "Miriam ne place mult.",
+      "ex196_source": "Miriam ne place mult.",
+      "targets": {
+        "ex196_t01": "Miriam ne place mult."
+      },
+      "patterns": {
+        "ex196_p01": " ne "
+      },
+      "ex196_syntax": "pre-verbal",
+      "ex196_rwp_counter": "1"
+    },
+    "ex197": {
+      "notes": {
+        "ex197_n01": null
+      },
+      "ex197_input": "Miriam lu aduce repede.",
+      "ex197_source": "Miriam îl aduce repede.",
+      "targets": {
+        "ex197_t01": "Miriam îl aduce repede.",
+        "ex197_t02": "Miriam l-aduce repede."
+      },
+      "patterns": {
+        "ex197_p01": " îl ",
+        "ex197_p02": " l-a"
+      },
+      "ex197_schwa_dash_alternation": "y",
+      "ex197_syntax": "pre-verbal",
+      "ex197_rwp_counter": "1"
+    },
+    "ex198": {
+      "notes": {
+        "ex198_n01": null
+      },
+      "ex198_input": "Miriam lu place mult.",
+      "ex198_source": "Miriam îl place mult.",
+      "targets": {
+        "ex198_t01": "Miriam îl place mult."
+      },
+      "patterns": {
+        "ex198_p01": " îl "
+      },
+      "ex198_syntax": "pre-verbal",
+      "ex198_rwp_counter": "1"
+    },
+    "ex199": {
+      "notes": {
+        "ex199_n01": null
+      },
+      "ex199_input": "Miriam mi aduce mere.",
+      "ex199_source": "Miriam îmi aduce mere.",
+      "targets": {
+        "ex199_t01": "Miriam îmi aduce mere.",
+        "ex199_t02": "Miriam mi-aduce mere."
+      },
+      "patterns": {
+        "ex199_p01": " îmi ",
+        "ex199_p02": " mi-a"
+      },
+      "ex199_schwa_dash_alternation": "y",
+      "ex199_syntax": "pre-verbal",
+      "ex199_rwp_counter": "1"
+    },
+    "ex200": {
+      "notes": {
+        "ex200_n01": null
+      },
+      "ex200_input": "Miriam mi place mult.",
+      "ex200_source": "Miriam îmi place mult.",
+      "targets": {
+        "ex200_t01": "Miriam îmi place mult."
+      },
+      "patterns": {
+        "ex200_p01": " îmi "
+      },
+      "ex200_syntax": "pre-verbal",
+      "ex200_rwp_counter": "1"
+    },
+    "ex201": {
+      "notes": {
+        "ex201_n01": null
+      },
+      "ex201_input": "Mânca lu ar mama!",
+      "ex201_source": "Mânca-l-ar mama!",
+      "targets": {
+        "ex201_t01": "Mânca-l-ar mama!"
+      },
+      "patterns": {
+        "ex201_p01": "ca-l-ar "
+      },
+      "ex201_syntax": "post-verbal",
+      "ex201_rwp_counter": "1"
+    },
+    "ex202": {
+      "notes": {
+        "ex202_n01": null
+      },
+      "ex202_input": "Mânca lu aș cu fulgi cu tot!",
+      "ex202_source": "Mânca-l-aș cu fulgi cu tot!",
+      "targets": {
+        "ex202_t01": "Mânca-l-aș cu fulgi cu tot!"
+      },
+      "patterns": {
+        "ex202_p01": "ca-l-aș "
+      },
+      "ex202_syntax": "post-verbal",
+      "ex202_rwp_counter": "1"
+    },
+    "ex203": {
+      "notes": {
+        "ex203_n01": null
+      },
+      "ex203_input": "Mânca ți ai norocul!",
+      "ex203_source": "Mânca-ți-ai norocul!",
+      "targets": {
+        "ex203_t01": "Mânca-ți-ai norocul!"
+      },
+      "patterns": {
+        "ex203_p01": "ca-ți-ai "
+      },
+      "ex203_syntax": "post-verbal",
+      "ex203_rwp_counter": "1"
+    },
+    "ex204": {
+      "notes": {
+        "ex204_n01": null
+      },
+      "ex204_input": "Mâncând lu prea repede te ai putea îneca.",
+      "ex204_source": "Mâncându-l prea repede te-ai putea îneca.",
+      "targets": {
+        "ex204_t01": "Mâncându-l prea repede te-ai putea îneca."
+      },
+      "patterns": {
+        "ex204_p01": "ndu-l ; te-ai "
+      },
+      "ex204_syntax": "post-verbal;pre-verbal",
+      "ex204_rwp_counter": "1;1"
+    },
+    "ex205": {
+      "notes": {
+        "ex205_n01": null
+      },
+      "ex205_input": "Mă arăt mâine.",
+      "ex205_source": "Mă arăt mâine.",
+      "targets": {
+        "ex205_t01": "Mă arăt mâine.",
+        "ex205_t02": "M-arăt mâine."
+      },
+      "patterns": {
+        "ex205_p01": "=mă ",
+        "ex205_p02": "=m-a"
+      },
+      "ex205_syllabic_dash_alternation": "y",
+      "ex205_syntax": "pre-verbal",
+      "ex205_rwp_counter": "1"
+    },
+    "ex206": {
+      "notes": {
+        "ex206_n01": null
+      },
+      "ex206_input": "Mă vezi clar.",
+      "ex206_source": "Mă vezi clar.",
+      "targets": {
+        "ex206_t01": "Mă vezi clar."
+      },
+      "patterns": {
+        "ex206_p01": "=mă "
+      },
+      "ex206_syntax": "pre-verbal",
+      "ex206_rwp_counter": "1"
+    },
+    "ex207": {
+      "notes": {
+        "ex207_n01": null
+      },
+      "ex207_input": "Mă văd acolo.",
+      "ex207_source": "Mă văd acolo.",
+      "targets": {
+        "ex207_t01": "Mă văd acolo."
+      },
+      "patterns": {
+        "ex207_p01": "=mă "
+      },
+      "ex207_syntax": "pre-verbal",
+      "ex207_rwp_counter": "1"
+    },
+    "ex208": {
+      "notes": {
+        "ex208_n01": null
+      },
+      "ex208_input": "Mănâncă o repede!",
+      "ex208_source": "Mănânc-o repede!",
+      "targets": {
+        "ex208_t01": "Mănânc-o repede!"
+      },
+      "patterns": {
+        "ex208_p01": "nc-o "
+      },
+      "ex208_syntax": "post-verbal",
+      "ex208_rwp_counter": "1"
+    },
+    "ex209": {
+      "notes": {
+        "ex209_n01": null
+      },
+      "ex209_input": "Mănâncă lu repede!",
+      "ex209_source": "Mănâncă-l repede!",
+      "targets": {
+        "ex209_t01": "Mănâncă-l repede!"
+      },
+      "patterns": {
+        "ex209_p01": "ncă-l "
+      },
+      "ex209_syntax": "post-verbal",
+      "ex209_rwp_counter": "1"
+    },
+    "ex210": {
+      "notes": {
+        "ex210_n01": null
+      },
+      "ex210_input": "Ni aduce cartea repede.",
+      "ex210_source": "Ne aduce cartea repede.",
+      "targets": {
+        "ex210_t01": "Ne aduce cartea repede.",
+        "ex210_t02": "Ne-aduce cartea repede."
+      },
+      "patterns": {
+        "ex210_p01": "=ne ",
+        "ex210_p02": "=ne-a"
+      },
+      "ex210_syllabic_dash_alternation": "y",
+      "ex210_syntax": "pre-verbal",
+      "ex210_rwp_counter": "1"
+    },
+    "ex211": {
+      "notes": {
+        "ex211_n01": null
+      },
+      "ex211_input": "Ni aducem mere.",
+      "ex211_source": "Ne aducem mere.",
+      "targets": {
+        "ex211_t01": "Ne aducem mere.",
+        "ex211_t02": "Ne-aducem mere."
+      },
+      "patterns": {
+        "ex211_p01": "=ne ",
+        "ex211_p02": "=ne-a"
+      },
+      "ex211_syllabic_dash_alternation": "y",
+      "ex211_syntax": "pre-verbal",
+      "ex211_rwp_counter": "1"
+    },
+    "ex212": {
+      "notes": {
+        "ex212_n01": null
+      },
+      "ex212_input": "Ni cumpărăm mere.",
+      "ex212_source": "Ne cumpărăm mere.",
+      "targets": {
+        "ex212_t01": "Ne cumpărăm mere."
+      },
+      "patterns": {
+        "ex212_p01": "=ne "
+      },
+      "ex212_syntax": "pre-verbal",
+      "ex212_rwp_counter": "1"
+    },
+    "ex213": {
+      "notes": {
+        "ex213_n01": null
+      },
+      "ex213_input": "Ni dai mere.",
+      "ex213_source": "Ne dai mere.",
+      "targets": {
+        "ex213_t01": "Ne dai mere."
+      },
+      "patterns": {
+        "ex213_p01": "=ne "
+      },
+      "ex213_syntax": "pre-verbal",
+      "ex213_rwp_counter": "1"
+    },
+    "ex214": {
+      "notes": {
+        "ex214_n01": null
+      },
+      "ex214_input": "Ni leagă o sfoară de picior.",
+      "ex214_source": "Ne leagă o sfoară de picior.",
+      "targets": {
+        "ex214_t01": "Ne leagă o sfoară de picior."
+      },
+      "patterns": {
+        "ex214_p01": "=ne ; o "
+      },
+      "ex214_syntax": "pre-verbal",
+      "ex214_rwp_counter": "1"
+    },
+    "ex215": {
+      "notes": {
+        "ex215_n01": "Ne-oprim repede.???"
+      },
+      "ex215_input": "Ne oprim repede.",
+      "ex215_source": "Ne oprim repede.",
+      "targets": {
+        "ex215_t01": "Ne oprim repede."
+      },
+      "patterns": {
+        "ex215_p01": "=ne "
+      },
+      "ex215_syntax": "pre-verbal",
+      "ex215_rwp_counter": "1"
+    },
+    "ex216": {
+      "notes": {
+        "ex216_n01": null
+      },
+      "ex216_input": "Ne văd acolo.",
+      "ex216_source": "Ne văd acolo.",
+      "targets": {
+        "ex216_t01": "Ne văd acolo."
+      },
+      "patterns": {
+        "ex216_p01": "=ne "
+      },
+      "ex216_syntax": "pre-verbal",
+      "ex216_rwp_counter": "1"
+    },
+    "ex217": {
+      "notes": {
+        "ex217_n01": null
+      },
+      "ex217_input": "Ni a adus cartea repede.",
+      "ex217_source": "Ne-a adus cartea repede.",
+      "targets": {
+        "ex217_t01": "Ne-a adus cartea repede."
+      },
+      "patterns": {
+        "ex217_p01": "=ne-a "
+      },
+      "ex217_syntax": "pre-verbal",
+      "ex217_rwp_counter": "1"
+    },
+    "ex218": {
+      "notes": {
+        "ex218_n01": null
+      },
+      "ex218_input": "Ni am cumpărat mere.",
+      "ex218_source": "Ne-am cumpărat mere.",
+      "targets": {
+        "ex218_t01": "Ne-am cumpărat mere."
+      },
+      "patterns": {
+        "ex218_p01": "=ne-am "
+      },
+      "ex218_syntax": "pre-verbal",
+      "ex218_rwp_counter": "1"
+    },
+    "ex219": {
+      "notes": {
+        "ex219_n01": null
+      },
+      "ex219_input": "Ne au văzut acolo.",
+      "ex219_source": "Ne-au văzut acolo.",
+      "targets": {
+        "ex219_t01": "Ne-au văzut acolo."
+      },
+      "patterns": {
+        "ex219_p01": "=ne-au "
+      },
+      "ex219_syntax": "pre-verbal",
+      "ex219_rwp_counter": "1"
+    },
+    "ex220": {
+      "notes": {
+        "ex220_n01": null
+      },
+      "ex220_input": "Ni o spui repede!",
+      "ex220_source": "Ne-o spui repede!",
+      "targets": {
+        "ex220_t01": "Ne-o spui repede!"
+      },
+      "patterns": {
+        "ex220_p01": "=ne-o "
+      },
+      "ex220_syntax": "pre-verbal",
+      "ex220_rwp_counter": "2"
+    },
+    "ex221": {
+      "notes": {
+        "ex221_n01": null
+      },
+      "ex221_input": "Ni i dă gratis.",
+      "ex221_source": "Ni-i dă gratis.",
+      "targets": {
+        "ex221_t01": "Ni-i dă gratis."
+      },
+      "patterns": {
+        "ex221_p01": "=ni-i "
+      },
+      "ex221_syntax": "pre-verbal",
+      "ex221_rwp_counter": "2"
+    },
+    "ex222": {
+      "notes": {
+        "ex222_n01": null
+      },
+      "ex222_input": "Ni lu aduce repede.",
+      "ex222_source": "Ni-l aduce repede.",
+      "targets": {
+        "ex222_t01": "Ni-l aduce repede."
+      },
+      "patterns": {
+        "ex222_p01": "=ni-l "
+      },
+      "ex222_syntax": "pre-verbal",
+      "ex222_rwp_counter": "2"
+    },
+    "ex223": {
+      "notes": {
+        "ex223_n01": null
+      },
+      "ex223_input": "Ni lu dă gratis.",
+      "ex223_source": "Ni-l dă gratis.",
+      "targets": {
+        "ex223_t01": "Ni-l dă gratis."
+      },
+      "patterns": {
+        "ex223_p01": "=ni-l "
+      },
+      "ex223_syntax": "pre-verbal",
+      "ex223_rwp_counter": "2"
+    },
+    "ex224": {
+      "notes": {
+        "ex224_n01": null
+      },
+      "ex224_input": "Noi ți dăm mere gratis.",
+      "ex224_source": "Noi îți dăm mere gratis.",
+      "targets": {
+        "ex224_t01": "Noi îți dăm mere gratis."
+      },
+      "patterns": {
+        "ex224_p01": " îți "
+      },
+      "ex224_syntax": "pre-verbal",
+      "ex224_rwp_counter": "1"
+    },
+    "ex225": {
+      "notes": {
+        "ex225_n01": null
+      },
+      "ex225_input": "Nu am cu cine lu lăsa.",
+      "ex225_source": "Nu am cu cine îl lăsa.",
+      "targets": {
+        "ex225_t01": "Nu am cu cine îl lăsa.",
+        "ex225_t02": "N-am cu cine îl lăsa.",
+        "ex225_t03": "Nu am cu cine-l lăsa.",
+        "ex225_t04": "N-am cu cine-l lăsa."
+      },
+      "patterns": {
+        "ex225_p01": "=nu am ; îl ",
+        "ex225_p02": "=n-am ; îl ",
+        "ex225_p03": "=nu am ;ne-l ",
+        "ex225_p04": "=n-am ;ne-l "
+      },
+      "ex225_schwa_dash_alternation": "y",
+      "ex225_syntax": "pre-verbal",
+      "ex225_rwp_counter": "1"
+    },
+    "ex226": {
+      "notes": {
+        "ex226_n01": null
+      },
+      "ex226_input": "Nu am cui i lu da.",
+      "ex226_source": "Nu am cui i-l da.",
+      "targets": {
+        "ex226_t01": "Nu am cui i-l da.",
+        "ex226_t02": "N-am cui i-l da."
+      },
+      "patterns": {
+        "ex226_p01": "=nu am ; i-l ",
+        "ex226_p02": "=n-am ; i-l "
+      },
+      "ex226_syllabic_dash_alternation": "n",
+      "ex226_syntax": "pre-verbal",
+      "ex226_rwp_counter": "2"
+    },
+    "ex227": {
+      "notes": {
+        "ex227_n01": null
+      },
+      "ex227_input": "Nu am văzut o bine.",
+      "ex227_source": "Nu am văzut-o bine.",
+      "targets": {
+        "ex227_t01": "Nu am văzut-o bine.",
+        "ex227_t02": "N-am văzut-o bine."
+      },
+      "patterns": {
+        "ex227_p01": "=nu am ;t-o ",
+        "ex227_p02": "=n-am ;t-o "
+      },
+      "ex227_syllabic_dash_alternation": "n",
+      "ex227_syntax": "post-verbal",
+      "ex227_rwp_counter": "1"
+    },
+    "ex228": {
+      "notes": {
+        "ex228_n01": null
+      },
+      "ex228_input": "Nu mi lu a mai dat gratis.",
+      "ex228_source": "Nu mi l-a mai dat gratis.",
+      "targets": {
+        "ex228_t01": "Nu mi l-a mai dat gratis."
+      },
+      "patterns": {
+        "ex228_p01": "=nu mi l-a "
+      },
+      "ex228_syntax": "pre-verbal",
+      "ex228_rwp_counter": "2"
+    },
+    "ex229": {
+      "notes": {
+        "ex229_n01": "și-încolo"
+      },
+      "ex229_input": "Nu mi ți lu ar mai fi tot aruncat vrăjitoarea încoace și încolo.",
+      "ex229_source": "Nu mi ți l-ar mai fi tot aruncat vrăjitoarea încoace și încolo.",
+      "targets": {
+        "ex229_t01": "Nu mi ți l-ar mai fi tot aruncat vrăjitoarea încoace și încolo.",
+        "ex229_t02": "Nu mi ți l-ar mai fi tot aruncat vrăjitoarea încoace și-ncolo.",
+        "ex229_t03": "Nu mi ți l-ar mai fi tot aruncat vrăjitoarea-ncoace și încolo.",
+        "ex229_t04": "Nu mi ți l-ar mai fi tot aruncat vrăjitoarea-ncoace și-ncolo."
+      },
+      "patterns": {
+        "ex229_p01": "=nu mi ți l-ar "
+      },
+      "ex229_syntax": "pre-verbal",
+      "ex229_rwp_counter": "3"
+    },
+    "ex230": {
+      "notes": {
+        "ex230_n01": null
+      },
+      "ex230_input": "Nu mi ți ai face probleme.",
+      "ex230_source": "Nu mi ți-ai face probleme.",
+      "targets": {
+        "ex230_t01": "Nu mi ți-ai face probleme."
+      },
+      "patterns": {
+        "ex230_p01": "=nu mi ți-ai "
+      },
+      "ex230_syntax": "pre-verbal",
+      "ex230_rwp_counter": "2"
+    },
+    "ex231": {
+      "notes": {
+        "ex231_n01": null
+      },
+      "ex231_input": "Nu mi lu trimite azi!",
+      "ex231_source": "Nu mi-l trimite azi!",
+      "targets": {
+        "ex231_t01": "Nu mi-l trimite azi!"
+      },
+      "patterns": {
+        "ex231_p01": "=nu mi-l "
+      },
+      "ex231_syntax": "pre-verbal",
+      "ex231_rwp_counter": "2"
+    },
+    "ex232": {
+      "notes": {
+        "ex232_n01": null
+      },
+      "ex232_input": "Nu mi ți face probleme!",
+      "ex232_source": "Nu mi-ți face probleme!",
+      "targets": {
+        "ex232_t01": "Nu mi-ți face probleme!"
+      },
+      "patterns": {
+        "ex232_p01": "=nu mi-ți "
+      },
+      "ex232_syntax": "pre-verbal",
+      "ex232_rwp_counter": "2"
+    },
+    "ex233": {
+      "notes": {
+        "ex233_n01": null
+      },
+      "ex233_input": "Nu o să uit niciodată uluirea primului moment, când, reușind să deschid ușa mă am trezit, nu într-o încăpere, ci în fața unui munte.",
+      "ex233_source": "Nu o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci în fața unui munte.",
+      "targets": {
+        "ex233_t01": "Nu o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci în fața unui munte.",
+        "ex233_t02": "N-o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci în fața unui munte.",
+        "ex233_t03": "Nu o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci-n fața unui munte.",
+        "ex233_t04": "N-o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci-n fața unui munte."
+      },
+      "patterns": {
+        "ex233_p01": "=nu o să ; m-am ",
+        "ex233_p02": "=n-o să ; m-am "
+      },
+      "ex233_syllabic_dash_alternation": "n",
+      "ex233_syntax": "pre-verbal",
+      "ex233_rwp_counter": "1"
+    },
+    "ex234": {
+      "notes": {
+        "ex234_n01": null
+      },
+      "ex234_input": "Nu o văd bine.",
+      "ex234_source": "Nu o văd bine.",
+      "targets": {
+        "ex234_t01": "Nu o văd bine.",
+        "ex234_t02": "N-o văd bine."
+      },
+      "patterns": {
+        "ex234_p01": "=nu o ",
+        "ex234_p02": "=n-o "
+      },
+      "ex234_syllabic_dash_alternation": "n",
+      "ex234_syntax": "pre-verbal",
+      "ex234_rwp_counter": "1"
+    },
+    "ex235": {
+      "notes": {
+        "ex235_n01": null
+      },
+      "ex235_input": "Nu lu da gratis!",
+      "ex235_source": "Nu îl da gratis!",
+      "targets": {
+        "ex235_t01": "Nu îl da gratis!",
+        "ex235_t02": "Nu-l da gratis!"
+      },
+      "patterns": {
+        "ex235_p01": "=nu îl ",
+        "ex235_p02": "=nu-l "
+      },
+      "ex235_schwa_dash_alternation": "y",
+      "ex235_syntax": "pre-verbal",
+      "ex235_rwp_counter": "1"
+    },
+    "ex236": {
+      "notes": {
+        "ex236_n01": null
+      },
+      "ex236_input": "Nu ți face probleme!",
+      "ex236_source": "Nu îți face probleme!",
+      "targets": {
+        "ex236_t01": "Nu îți face probleme!",
+        "ex236_t02": "Nu-ți face probleme!"
+      },
+      "patterns": {
+        "ex236_p01": "=nu îți ",
+        "ex236_p02": "=nu-ți "
+      },
+      "ex236_schwa_dash_alternation": "y",
+      "ex236_syntax": "pre-verbal",
+      "ex236_rwp_counter": "1"
+    },
+    "ex237": {
+      "notes": {
+        "ex237_n01": null
+      },
+      "ex237_input": "O comisie o să o vadă numai o zi.",
+      "ex237_source": "O comisie o să o vadă numai o zi.",
+      "targets": {
+        "ex237_t01": "O comisie o să o vadă numai o zi.",
+        "ex237_t02": "O comisie o s-o vadă numai o zi."
+      },
+      "patterns": {
+        "ex237_p01": "=o ; o să o ; o ",
+        "ex237_p02": "=o ; o s-o ; o "
+      },
+      "ex237_syllabic_dash_alternation": "n",
+      "ex237_syntax": "pre-verbal",
+      "ex237_rwp_counter": "1"
+    },
+    "ex238": {
+      "notes": {
+        "ex238_n01": null
+      },
+      "ex238_input": "O cumperi repede.",
+      "ex238_source": "O cumperi repede.",
+      "targets": {
+        "ex238_t01": "O cumperi repede."
+      },
+      "patterns": {
+        "ex238_p01": "=o "
+      },
+      "ex238_syntax": "pre-verbal",
+      "ex238_rwp_counter": "1"
+    },
+    "ex239": {
+      "notes": {
+        "ex239_n01": null
+      },
+      "ex239_input": "O dați afară.",
+      "ex239_source": "O dați afară.",
+      "targets": {
+        "ex239_t01": "O dați afară."
+      },
+      "patterns": {
+        "ex239_p01": "=o "
+      },
+      "ex239_syntax": "pre-verbal",
+      "ex239_rwp_counter": "1"
+    },
+    "ex240": {
+      "notes": {
+        "ex240_n01": null
+      },
+      "ex240_input": "O spui repede.",
+      "ex240_source": "O spui repede.",
+      "targets": {
+        "ex240_t01": "O spui repede."
+      },
+      "patterns": {
+        "ex240_p01": "=o "
+      },
+      "ex240_syntax": "pre-verbal",
+      "ex240_rwp_counter": "1"
+    },
+    "ex241": {
+      "notes": {
+        "ex241_n01": null
+      },
+      "ex241_input": "O văd acolo.",
+      "ex241_source": "O văd acolo.",
+      "targets": {
+        "ex241_t01": "O văd acolo."
+      },
+      "patterns": {
+        "ex241_p01": "=o "
+      },
+      "ex241_syntax": "pre-verbal",
+      "ex241_rwp_counter": "1"
+    },
+    "ex242": {
+      "notes": {
+        "ex242_n01": "împușcă-n"
+      },
+      "ex242_input": "O împușcă în inimă.",
+      "ex242_source": "O împușcă în inimă.",
+      "targets": {
+        "ex242_t01": "O împușcă în inimă.",
+        "ex242_t02": "O-mpușcă în inimă.",
+        "ex242_t03": "O împușcă-n inimă.",
+        "ex242_t04": "O-mpușcă-n inimă."
+      },
+      "patterns": {
+        "ex242_p01": "=o ",
+        "ex242_p02": "=o-mp"
+      },
+      "ex242_syllabic_dash_alternation": "n",
+      "ex242_syntax": "pre-verbal",
+      "ex242_rwp_counter": "1"
+    },
+    "ex243": {
+      "notes": {
+        "ex243_n01": null
+      },
+      "ex243_input": "Omul se a îngrășat.",
+      "ex243_source": "Omul s-a îngrășat.",
+      "targets": {
+        "ex243_t01": "Omul s-a îngrășat.",
+        "ex243_t02": "Omul s-a-ngrășat."
+      },
+      "patterns": {
+        "ex243_p01": " s-a ",
+        "ex243_p02": " s-a-ngr"
+      },
+      "ex243_syllabic_dash_alternation": "n",
+      "ex243_syntax": "pre-verbal",
+      "ex243_rwp_counter": "1"
+    },
+    "ex244": {
+      "notes": {
+        "ex244_n01": null
+      },
+      "ex244_input": "Pare mi se că se aude un cuc.",
+      "ex244_source": "Pare-mi-se că se aude un cuc.",
+      "targets": {
+        "ex244_t01": "Pare-mi-se că se aude un cuc.",
+        "ex244_t02": "Pare-mi-se că se-aude un cuc."
+      },
+      "patterns": {
+        "ex244_p01": "re-mi-se ; că se ",
+        "ex244_p02": "re-mi-se ; că se-a"
+      },
+      "ex244_syllabic_dash_alternation": "y",
+      "ex244_syntax": "post-verbal;pre-verbal",
+      "ex244_rwp_counter": "2;1"
+    },
+    "ex245": {
+      "notes": {
+        "ex245_n01": null
+      },
+      "ex245_input": "Pe acest student lu cunoaște toată lumea.",
+      "ex245_source": "Pe acest student îl cunoaște toată lumea.",
+      "targets": {
+        "ex245_t01": "Pe acest student îl cunoaște toată lumea."
+      },
+      "patterns": {
+        "ex245_p01": " îl "
+      },
+      "ex245_syntax": "pre-verbal",
+      "ex245_rwp_counter": "1"
+    },
+    "ex246": {
+      "notes": {
+        "ex246_n01": null
+      },
+      "ex246_input": "Pe mezin i lu a încredințat mamei sale.",
+      "ex246_source": "Pe mezin i l-a încredințat mamei sale.",
+      "targets": {
+        "ex246_t01": "Pe mezin i l-a încredințat mamei sale.",
+        "ex246_t02": "Pe mezin i l-a-ncredințat mamei sale."
+      },
+      "patterns": {
+        "ex246_p01": " i l-a ",
+        "ex246_p02": " i l-a-ncr"
+      },
+      "ex246_syllabic_dash_alternation": "n",
+      "ex246_syntax": "pre-verbal",
+      "ex246_rwp_counter": "2"
+    },
+    "ex247": {
+      "notes": {
+        "ex247_n01": null
+      },
+      "ex247_input": "Pe unde mi o fi stat copilul?",
+      "ex247_source": "Pe unde mi-o fi stat copilul?",
+      "targets": {
+        "ex247_t01": "Pe unde mi-o fi stat copilul?"
+      },
+      "patterns": {
+        "ex247_p01": " mi-o "
+      },
+      "ex247_syntax": "pre-verbal",
+      "ex247_rwp_counter": "1"
+    },
+    "ex248": {
+      "notes": {
+        "ex248_n01": null
+      },
+      "ex248_input": "Pe unde mi stai?",
+      "ex248_source": "Pe unde îmi stai?",
+      "targets": {
+        "ex248_t01": "Pe unde îmi stai?",
+        "ex248_t02": "Pe unde-mi stai?"
+      },
+      "patterns": {
+        "ex248_p01": " îmi ",
+        "ex248_p02": "de-mi "
+      },
+      "ex248_schwa_dash_alternation": "y",
+      "ex248_syntax": "pre-verbal",
+      "ex248_rwp_counter": "1"
+    },
+    "ex249": {
+      "notes": {
+        "ex249_n01": null
+      },
+      "ex249_input": "Pe unde mi umbli?",
+      "ex249_source": "Pe unde îmi umbli?",
+      "targets": {
+        "ex249_t01": "Pe unde îmi umbli?",
+        "ex249_t02": "Pe unde-mi umbli?"
+      },
+      "patterns": {
+        "ex249_p01": " îmi ",
+        "ex249_p02": "de-mi "
+      },
+      "ex249_schwa_dash_alternation": "y",
+      "ex249_syntax": "pre-verbal",
+      "ex249_rwp_counter": "1"
+    },
+    "ex250": {
+      "notes": {
+        "ex250_n01": null
+      },
+      "ex250_input": "Pedepsi lu aș aspru.",
+      "ex250_source": "Pedepsi-l-aș aspru.",
+      "targets": {
+        "ex250_t01": "Pedepsi-l-aș aspru."
+      },
+      "patterns": {
+        "ex250_p01": "si-l-aș "
+      },
+      "ex250_syntax": "post-verbal",
+      "ex250_rwp_counter": "1"
+    },
+    "ex251": {
+      "notes": {
+        "ex251_n01": null
+      },
+      "ex251_input": "Preface te acum!",
+      "ex251_source": "Preface-te acum!",
+      "targets": {
+        "ex251_t01": "Preface-te acum!",
+        "ex251_t02": "Preface-te-acum!"
+      },
+      "patterns": {
+        "ex251_p01": "ce-te ",
+        "ex251_p02": "ce-te-a"
+      },
+      "ex251_syllabic_dash_alternation": "y",
+      "ex251_syntax": "post-verbal",
+      "ex251_rwp_counter": "1"
+    },
+    "ex252": {
+      "notes": {
+        "ex252_n01": null
+      },
+      "ex252_input": "Preface te cândva!",
+      "ex252_source": "Preface-te cândva!",
+      "targets": {
+        "ex252_t01": "Preface-te cândva!"
+      },
+      "patterns": {
+        "ex252_p01": "ce-te "
+      },
+      "ex252_syntax": "post-verbal",
+      "ex252_rwp_counter": "1"
+    },
+    "ex253": {
+      "notes": {
+        "ex253_n01": null
+      },
+      "ex253_input": "Preface te ai acum!",
+      "ex253_source": "Preface-te-ai acum!",
+      "targets": {
+        "ex253_t01": "Preface-te-ai acum!"
+      },
+      "patterns": {
+        "ex253_p01": "ce-te-ai "
+      },
+      "ex253_syntax": "post-verbal",
+      "ex253_rwp_counter": "1"
+    },
+    "ex254": {
+      "notes": {
+        "ex254_n01": null
+      },
+      "ex254_input": "Preface te ai cândva!",
+      "ex254_source": "Preface-te-ai cândva!",
+      "targets": {
+        "ex254_t01": "Preface-te-ai cândva!"
+      },
+      "patterns": {
+        "ex254_p01": "ce-te-ai "
+      },
+      "ex254_syntax": "post-verbal",
+      "ex254_rwp_counter": "1"
+    },
+    "ex255": {
+      "notes": {
+        "ex255_n01": null
+      },
+      "ex255_input": "Pune ți lu jos!",
+      "ex255_source": "Pune-ți-l jos!",
+      "targets": {
+        "ex255_t01": "Pune-ți-l jos!"
+      },
+      "patterns": {
+        "ex255_p01": "ne-ți-l "
+      },
+      "ex255_syntax": "post-verbal",
+      "ex255_rwp_counter": "2"
+    },
+    "ex256": {
+      "notes": {
+        "ex256_n01": null
+      },
+      "ex256_input": "Puneți lu jos!",
+      "ex256_source": "Puneți-l jos!",
+      "targets": {
+        "ex256_t01": "Puneți-l jos!"
+      },
+      "patterns": {
+        "ex256_p01": "neți-l "
+      },
+      "ex256_syntax": "post-verbal",
+      "ex256_rwp_counter": "1"
+    },
+    "ex257": {
+      "notes": {
+        "ex257_n01": "Roua dimineții-mi îmbată inima."
+      },
+      "ex257_input": "Roua dimineții mi îmbată inima.",
+      "ex257_source": "Roua dimineții îmi îmbată inima.",
+      "targets": {
+        "ex257_t01": "Roua dimineții îmi îmbată inima.",
+        "ex257_t02": "Roua dimineții-mi îmbată inima.",
+        "ex257_t03": "Roua dimineții mi-mbată inima."
+      },
+      "patterns": {
+        "ex257_p01": " îmi ",
+        "ex257_p02": "ții-mi ",
+        "ex257_p03": " mi-mb"
+      },
+      "ex257_schwa_dash_alternation": "y",
+      "ex257_syntax": "pre-verbal",
+      "ex257_rwp_counter": "1"
+    },
+    "ex258": {
+      "notes": {
+        "ex258_n01": "Roua-mi îmbată inima."
+      },
+      "ex258_input": "Roua mi îmbată inima.",
+      "ex258_source": "Roua îmi îmbată inima.",
+      "targets": {
+        "ex258_t01": "Roua îmi îmbată inima.",
+        "ex258_t02": "Roua-mi îmbată inima.",
+        "ex258_t02": "Roua mi-mbată inima."
+      },
+      "patterns": {
+        "ex258_p01": " îmi ",
+        "ex258_p02": "ua-mi ",
+        "ex258_p03": " mi-mb"
+      },
+      "ex258_schwa_dash_alternation": "y",
+      "ex258_syntax": "pre-verbal",
+      "ex258_rwp_counter": "1"
+    },
+    "ex259": {
+      "notes": {
+        "ex259_n01": null
+      },
+      "ex259_input": "Se au făcut mari.",
+      "ex259_source": "S-au făcut mari.",
+      "targets": {
+        "ex259_t01": "S-au făcut mari."
+      },
+      "patterns": {
+        "ex259_p01": "=s-au "
+      },
+      "ex259_syntax": "pre-verbal",
+      "ex259_rwp_counter": "1"
+    },
+    "ex260": {
+      "notes": {
+        "ex260_n01": null
+      },
+      "ex260_input": "Se au văzut acolo.",
+      "ex260_source": "S-au văzut acolo.",
+      "targets": {
+        "ex260_t01": "S-au văzut acolo."
+      },
+      "patterns": {
+        "ex260_p01": "=s-au "
+      },
+      "ex260_syntax": "pre-verbal",
+      "ex260_rwp_counter": "1"
+    },
+    "ex261": {
+      "notes": {
+        "ex261_n01": null
+      },
+      "ex261_input": "Se fac mari.",
+      "ex261_source": "Se fac mari.",
+      "targets": {
+        "ex261_t01": "Se fac mari."
+      },
+      "patterns": {
+        "ex261_p01": "=se "
+      },
+      "ex261_syntax": "pre-verbal",
+      "ex261_rwp_counter": "1"
+    },
+    "ex262": {
+      "notes": {
+        "ex262_n01": null
+      },
+      "ex262_input": "Se văd acolo.",
+      "ex262_source": "Se văd acolo.",
+      "targets": {
+        "ex262_t01": "Se văd acolo."
+      },
+      "patterns": {
+        "ex262_p01": "=se "
+      },
+      "ex262_syntax": "pre-verbal",
+      "ex262_rwp_counter": "1"
+    },
+    "ex263": {
+      "notes": {
+        "ex263_n01": null
+      },
+      "ex263_input": "Spune i o repede!",
+      "ex263_source": "Spune-i-o repede!",
+      "targets": {
+        "ex263_t01": "Spune-i-o repede!"
+      },
+      "patterns": {
+        "ex263_p01": "ne-i-o "
+      },
+      "ex263_syntax": "post-verbal",
+      "ex263_rwp_counter": "2"
+    },
+    "ex264": {
+      "notes": {
+        "ex264_n01": null
+      },
+      "ex264_input": "Spune mi o repede!",
+      "ex264_source": "Spune-mi-o repede!",
+      "targets": {
+        "ex264_t01": "Spune-mi-o repede!"
+      },
+      "patterns": {
+        "ex264_p01": "ne-mi-o "
+      },
+      "ex264_syntax": "post-verbal",
+      "ex264_rwp_counter": "2"
+    },
+    "ex265": {
+      "notes": {
+        "ex265_n01": null
+      },
+      "ex265_input": "Spune ni o repede!",
+      "ex265_source": "Spune-ne-o repede!",
+      "targets": {
+        "ex265_t01": "Spune-ne-o repede!"
+      },
+      "patterns": {
+        "ex265_p01": "ne-ne-o "
+      },
+      "ex265_syntax": "post-verbal",
+      "ex265_rwp_counter": "2"
+    },
+    "ex266": {
+      "notes": {
+        "ex266_n01": null
+      },
+      "ex266_input": "Spune o repede!",
+      "ex266_source": "Spune-o repede!",
+      "targets": {
+        "ex266_t01": "Spune-o repede!"
+      },
+      "patterns": {
+        "ex266_p01": "ne-o "
+      },
+      "ex266_syntax": "post-verbal",
+      "ex266_rwp_counter": "1"
+    },
+    "ex267": {
+      "notes": {
+        "ex267_n01": null
+      },
+      "ex267_input": "Să înțeleg că nu lu ai plăcut.",
+      "ex267_source": "Să înțeleg că nu l-ai plăcut.",
+      "targets": {
+        "ex267_t01": "Să înțeleg că nu l-ai plăcut.",
+        "ex267_t02": "Să-nțeleg că nu l-ai plăcut."
+      },
+      "patterns": {
+        "ex267_p01": "=să ; că nu l-ai ",
+        "ex267_p02": "=să-nț; că nu l-ai "
+      },
+      "ex267_syllabic_dash_alternation": "n",
+      "ex267_syntax": "pre-verbal",
+      "ex267_rwp_counter": "1"
+    },
+    "ex268": {
+      "notes": {
+        "ex268_n01": null
+      },
+      "ex268_input": "Să înțeleg că nu lu placi.",
+      "ex268_source": "Să înțeleg că nu îl placi.",
+      "targets": {
+        "ex268_t01": "Să înțeleg că nu îl placi.",
+        "ex268_t02": "Să înțeleg că nu-l placi.",
+        "ex268_t03": "Să-nțeleg că nu îl placi.",
+        "ex268_t04": "Să-nțeleg că nu-l placi."
+      },
+      "patterns": {
+        "ex268_p01": "=să ; că nu îl ",
+        "ex268_p02": "=să ; că nu-l ",
+        "ex268_p03": "=să-nț; că nu îl ",
+        "ex268_p04": "=să-nț; că nu-l "
+      },
+      "ex268_schwa_dash_alternation": "y",
+      "ex268_syntax": "pre-verbal",
+      "ex268_rwp_counter": "1"
+    },
+    "ex269": {
+      "notes": {
+        "ex269_n01": null
+      },
+      "ex269_input": "Te duci acolo.",
+      "ex269_source": "Te duci acolo.",
+      "targets": {
+        "ex269_t01": "Te duci acolo."
+      },
+      "patterns": {
+        "ex269_p01": "=te "
+      },
+      "ex269_syntax": "pre-verbal",
+      "ex269_rwp_counter": "1"
+    },
+    "ex270": {
+      "notes": {
+        "ex270_n01": null
+      },
+      "ex270_input": "Te prefaci cândva.",
+      "ex270_source": "Te prefaci cândva.",
+      "targets": {
+        "ex270_t01": "Te prefaci cândva."
+      },
+      "patterns": {
+        "ex270_p01": "=te "
+      },
+      "ex270_syntax": "pre-verbal",
+      "ex270_rwp_counter": "1"
+    },
+    "ex271": {
+      "notes": {
+        "ex271_n01": null
+      },
+      "ex271_input": "Te rog să nu te îmbeți.",
+      "ex271_source": "Te rog să nu te îmbeți.",
+      "targets": {
+        "ex271_t01": "Te rog să nu te îmbeți.",
+        "ex271_t02": "Te rog să nu te-mbeți."
+      },
+      "patterns": {
+        "ex271_p01": "=te ; să nu te ",
+        "ex271_p02": "=te ; să nu te-mb"
+      },
+      "ex271_syllabic_dash_alternation": "n",
+      "ex271_syntax": "pre-verbal;pre-verbal",
+      "ex271_rwp_counter": "1;1"
+    },
+    "ex272": {
+      "notes": {
+        "ex272_n01": null
+      },
+      "ex272_input": "Te vei preface cândva.",
+      "ex272_source": "Te vei preface cândva.",
+      "targets": {
+        "ex272_t01": "Te vei preface cândva."
+      },
+      "patterns": {
+        "ex272_p01": "=te "
+      },
+      "ex272_syntax": "pre-verbal",
+      "ex272_rwp_counter": "1"
+    },
+    "ex273": {
+      "notes": {
+        "ex273_n01": null
+      },
+      "ex273_input": "Te văd acolo.",
+      "ex273_source": "Te văd acolo.",
+      "targets": {
+        "ex273_t01": "Te văd acolo."
+      },
+      "patterns": {
+        "ex273_p01": "=te "
+      },
+      "ex273_syntax": "pre-verbal",
+      "ex273_rwp_counter": "1"
+    },
+    "ex274": {
+      "notes": {
+        "ex274_n01": null
+      },
+      "ex274_input": "Te ai preface cândva.",
+      "ex274_source": "Te-ai preface cândva.",
+      "targets": {
+        "ex274_t01": "Te-ai preface cândva."
+      },
+      "patterns": {
+        "ex274_p01": "=te-ai "
+      },
+      "ex274_syntax": "pre-verbal",
+      "ex274_rwp_counter": "1"
+    },
+    "ex275": {
+      "notes": {
+        "ex275_n01": null
+      },
+      "ex275_input": "Te au văzut acolo.",
+      "ex275_source": "Te-au văzut acolo.",
+      "targets": {
+        "ex275_t01": "Te-au văzut acolo."
+      },
+      "patterns": {
+        "ex275_p01": "=te-au "
+      },
+      "ex275_syntax": "pre-verbal",
+      "ex275_rwp_counter": "1"
+    },
+    "ex276": {
+      "notes": {
+        "ex276_n01": null
+      },
+      "ex276_input": "Te aș vedea sănătos.",
+      "ex276_source": "Te-aș vedea sănătos.",
+      "targets": {
+        "ex276_t01": "Te-aș vedea sănătos."
+      },
+      "patterns": {
+        "ex276_p01": "=te-aș "
+      },
+      "ex276_syntax": "pre-verbal",
+      "ex276_rwp_counter": "1"
+    },
+    "ex277": {
+      "notes": {
+        "ex277_n01": null
+      },
+      "ex277_input": "Te oi preface cândva.",
+      "ex277_source": "Te-oi preface cândva.",
+      "targets": {
+        "ex277_t01": "Te-oi preface cândva."
+      },
+      "patterns": {
+        "ex277_p01": "=te-oi "
+      },
+      "ex277_syntax": "pre-verbal",
+      "ex277_rwp_counter": "1"
+    },
+    "ex278": {
+      "notes": {
+        "ex278_n01": null
+      },
+      "ex278_input": "Trimite mi o prin poștă.",
+      "ex278_source": "Trimite-mi-o prin poștă.",
+      "targets": {
+        "ex278_t01": "Trimite-mi-o prin poștă."
+      },
+      "patterns": {
+        "ex278_p01": "te-mi-o "
+      },
+      "ex278_syntax": "post-verbal",
+      "ex278_rwp_counter": "2"
+    },
+    "ex279": {
+      "notes": {
+        "ex279_n01": null
+      },
+      "ex279_input": "Uită o pe Maria, ea nu o să vină cu noi!",
+      "ex279_source": "Uit-o pe Maria, ea nu o să vină cu noi!",
+      "targets": {
+        "ex279_t01": "Uit-o pe Maria, ea nu o să vină cu noi!",
+        "ex279_t02": "Uit-o pe Maria, ea n-o să vină cu noi!"
+      },
+      "patterns": {
+        "ex279_p01": "=uit-o ; nu o să ",
+        "ex279_p02": "=uit-o ; n-o să "
+      },
+      "ex279_syllabic_dash_alternation": "n",
+      "ex279_syntax": "post-verbal",
+      "ex279_rwp_counter": "1"
+    },
+    "ex280": {
+      "notes": {
+        "ex280_n01": null
+      },
+      "ex280_input": "Uite o pe Maria acolo!",
+      "ex280_source": "Uite-o pe Maria acolo!",
+      "targets": {
+        "ex280_t01": "Uite-o pe Maria acolo!"
+      },
+      "patterns": {
+        "ex280_p01": "=uite-o "
+      },
+      "ex280_syntax": "post-verbal",
+      "ex280_rwp_counter": "1"
+    },
+    "ex281": {
+      "notes": {
+        "ex281_n01": null
+      },
+      "ex281_input": "Un zâmbet timid i flutură pe buze și deveni serioasă.",
+      "ex281_source": "Un zâmbet timid îi flutură pe buze și deveni serioasă.",
+      "targets": {
+        "ex281_t01": "Un zâmbet timid îi flutură pe buze și deveni serioasă."
+      },
+      "patterns": {
+        "ex281_p01": " îi ; și "
+      },
+      "ex281_syntax": "pre-verbal",
+      "ex281_rwp_counter": "1"
+    },
+    "ex282": {
+      "notes": {
+        "ex282_n01": null
+      },
+      "ex282_input": "Unde mi tot pleci?",
+      "ex282_source": "Unde îmi tot pleci?",
+      "targets": {
+        "ex282_t01": "Unde îmi tot pleci?",
+        "ex282_t02": "Unde-mi tot pleci?"
+      },
+      "patterns": {
+        "ex282_p01": " îmi ",
+        "ex282_p02": "=unde-mi "
+      },
+      "ex282_schwa_dash_alternation": "y",
+      "ex282_syntax": "pre-verbal",
+      "ex282_rwp_counter": "1"
+    },
+    "ex283": {
+      "notes": {
+        "ex283_n01": null
+      },
+      "ex283_input": "Vi am dat mere gratis.",
+      "ex283_source": "V-am dat mere gratis.",
+      "targets": {
+        "ex283_t01": "V-am dat mere gratis."
+      },
+      "patterns": {
+        "ex283_p01": "=v-am "
+      },
+      "ex283_syntax": "pre-verbal",
+      "ex283_rwp_counter": "1"
+    },
+    "ex284": {
+      "notes": {
+        "ex284_n01": null
+      },
+      "ex284_input": "Vă au văzut acolo.",
+      "ex284_source": "V-au văzut acolo.",
+      "targets": {
+        "ex284_t01": "V-au văzut acolo."
+      },
+      "patterns": {
+        "ex284_p01": "=v-au "
+      },
+      "ex284_syntax": "pre-verbal",
+      "ex284_rwp_counter": "1"
+    },
+    "ex285": {
+      "notes": {
+        "ex285_n01": null
+      },
+      "ex285_input": "Vi o dau gratis.",
+      "ex285_source": "V-o dau gratis.",
+      "targets": {
+        "ex285_t01": "V-o dau gratis."
+      },
+      "patterns": {
+        "ex285_p01": "=v-o "
+      },
+      "ex285_syntax": "pre-verbal",
+      "ex285_rwp_counter": "2"
+    },
+    "ex286": {
+      "notes": {
+        "ex286_n01": null
+      },
+      "ex286_input": "Vedea o aș moartă!",
+      "ex286_source": "Vedea-o-aș moartă!",
+      "targets": {
+        "ex286_t01": "Vedea-o-aș moartă!"
+      },
+      "patterns": {
+        "ex286_p01": "dea-o-aș "
+      },
+      "ex286_syntax": "post-verbal",
+      "ex286_rwp_counter": "1"
+    },
+    "ex287": {
+      "notes": {
+        "ex287_n01": null
+      },
+      "ex287_input": "Vedea te aș sănătos!",
+      "ex287_source": "Vedea-te-aș sănătos!",
+      "targets": {
+        "ex287_t01": "Vedea-te-aș sănătos!"
+      },
+      "patterns": {
+        "ex287_p01": "dea-te-aș "
+      },
+      "ex287_syntax": "post-verbal",
+      "ex287_rwp_counter": "1"
+    },
+    "ex288": {
+      "notes": {
+        "ex288_n01": null
+      },
+      "ex288_input": "Vi ți lu bat de nu se vede.",
+      "ex288_source": "Vi ți-l bat de nu se vede.",
+      "targets": {
+        "ex288_t01": "Vi ți-l bat de nu se vede."
+      },
+      "patterns": {
+        "ex288_p01": "=vi ți-l ; de nu se "
+      },
+      "ex288_syntax": "pre-verbal;pre-verbal",
+      "ex288_rwp_counter": "3;1"
+    },
+    "ex289": {
+      "notes": {
+        "ex289_n01": null
+      },
+      "ex289_input": "Vi ți lu bat pe copil.",
+      "ex289_source": "Vi ți-l bat pe copil.",
+      "targets": {
+        "ex289_t01": "Vi ți-l bat pe copil."
+      },
+      "patterns": {
+        "ex289_p01": "=vi ți-l "
+      },
+      "ex289_syntax": "pre-verbal",
+      "ex289_rwp_counter": "3"
+    },
+    "ex290": {
+      "notes": {
+        "ex290_n01": null
+      },
+      "ex290_input": "Vi i dă gratis.",
+      "ex290_source": "Vi-i dă gratis.",
+      "targets": {
+        "ex290_t01": "Vi-i dă gratis."
+      },
+      "patterns": {
+        "ex290_p01": "=vi-i "
+      },
+      "ex290_syntax": "pre-verbal",
+      "ex290_rwp_counter": "2"
+    },
+    "ex291": {
+      "notes": {
+        "ex291_n01": null
+      },
+      "ex291_input": "Vi lu bat de nu se vede.",
+      "ex291_source": "Vi-l bat de nu se vede.",
+      "targets": {
+        "ex291_t01": "Vi-l bat de nu se vede."
+      },
+      "patterns": {
+        "ex291_p01": "=vi-l ; de nu se "
+      },
+      "ex291_syntax": "pre-verbal;pre-verbal",
+      "ex291_rwp_counter": "2;1"
+    },
+    "ex292": {
+      "notes": {
+        "ex292_n01": null
+      },
+      "ex292_input": "Vi lu dă gratis.",
+      "ex292_source": "Vi-l dă gratis.",
+      "targets": {
+        "ex292_t01": "Vi-l dă gratis."
+      },
+      "patterns": {
+        "ex292_p01": "=vi-l "
+      },
+      "ex292_syntax": "pre-verbal",
+      "ex292_rwp_counter": "2"
+    },
+    "ex293": {
+      "notes": {
+        "ex293_n01": null
+      },
+      "ex293_input": "Vrea să vi dea mere.",
+      "ex293_source": "Vrea să vă dea mere.",
+      "targets": {
+        "ex293_t01": "Vrea să vă dea mere."
+      },
+      "patterns": {
+        "ex293_p01": " să vă "
+      },
+      "ex293_syntax": "pre-verbal",
+      "ex293_rwp_counter": "1"
+    },
+    "ex294": {
+      "notes": {
+        "ex294_n01": null
+      },
+      "ex294_input": "Vreau să le dați afară.",
+      "ex294_source": "Vreau să le dați afară.",
+      "targets": {
+        "ex294_t01": "Vreau să le dați afară."
+      },
+      "patterns": {
+        "ex294_p01": " să le "
+      },
+      "ex294_syntax": "pre-verbal",
+      "ex294_rwp_counter": "1"
+    },
+    "ex295": {
+      "notes": {
+        "ex295_n01": null
+      },
+      "ex295_input": "Vreau să mi le dai.",
+      "ex295_source": "Vreau să mi le dai.",
+      "targets": {
+        "ex295_t01": "Vreau să mi le dai."
+      },
+      "patterns": {
+        "ex295_p01": " să mi le "
+      },
+      "ex295_syntax": "pre-verbal",
+      "ex295_rwp_counter": "2"
+    },
+    "ex296": {
+      "notes": {
+        "ex296_n01": null
+      },
+      "ex296_input": "Vreau să mi le faci acum.",
+      "ex296_source": "Vreau să mi le faci acum.",
+      "targets": {
+        "ex296_t01": "Vreau să mi le faci acum."
+      },
+      "patterns": {
+        "ex296_p01": " să mi le "
+      },
+      "ex296_syntax": "pre-verbal",
+      "ex296_rwp_counter": "2"
+    },
+    "ex297": {
+      "notes": {
+        "ex297_n01": null
+      },
+      "ex297_input": "Vreau să mi o dați afară.",
+      "ex297_source": "Vreau să mi-o dați afară.",
+      "targets": {
+        "ex297_t01": "Vreau să mi-o dați afară."
+      },
+      "patterns": {
+        "ex297_p01": " să mi-o "
+      },
+      "ex297_syntax": "pre-verbal",
+      "ex297_rwp_counter": "2"
+    },
+    "ex298": {
+      "notes": {
+        "ex298_n01": null
+      },
+      "ex298_input": "Vreau să o cumperi repede.",
+      "ex298_source": "Vreau să o cumperi repede.",
+      "targets": {
+        "ex298_t01": "Vreau să o cumperi repede.",
+        "ex298_t02": "Vreau s-o cumperi repede."
+      },
+      "patterns": {
+        "ex298_p01": " să o ",
+        "ex298_p02": " s-o "
+      },
+      "ex298_syllabic_dash_alternation": "n",
+      "ex298_syntax": "pre-verbal",
+      "ex298_rwp_counter": "1"
+    },
+    "ex299": {
+      "notes": {
+        "ex299_n01": null
+      },
+      "ex299_input": "Vreau să o dați afară.",
+      "ex299_source": "Vreau să o dați afară.",
+      "targets": {
+        "ex299_t01": "Vreau să o dați afară.",
+        "ex299_t02": "Vreau s-o dați afară."
+      },
+      "patterns": {
+        "ex299_p01": " să o ",
+        "ex299_p02": " s-o "
+      },
+      "ex299_syllabic_dash_alternation": "n",
+      "ex299_syntax": "pre-verbal",
+      "ex299_rwp_counter": "1"
+    },
+    "ex300": {
+      "notes": {
+        "ex300_n01": null
+      },
+      "ex300_input": "Vreau să o încep.",
+      "ex300_source": "Vreau să o încep.",
+      "targets": {
+        "ex300_t01": "Vreau să o încep.",
+        "ex300_t02": "Vreau s-o încep.",
+        "ex300_t03": "Vreau să o-ncep.",
+        "ex300_t04": "Vreau s-o-ncep."
+      },
+      "patterns": {
+        "ex300_p01": " să o ",
+        "ex300_p02": " s-o ",
+        "ex300_p03": " să o-nc",
+        "ex300_p04": " s-o-nc"
+      },
+      "ex300_syllabic_dash_alternation": "n",
+      "ex300_syntax": "pre-verbal",
+      "ex300_rwp_counter": "1"
+    },
+    "ex301": {
+      "notes": {
+        "ex301_n01": null
+      },
+      "ex301_input": "Vreau să te ascunzi.",
+      "ex301_source": "Vreau să te ascunzi.",
+      "targets": {
+        "ex301_t01": "Vreau să te ascunzi.",
+        "ex301_t02": "Vreau să te-ascunzi."
+      },
+      "patterns": {
+        "ex301_p01": " să te ",
+        "ex301_p02": " să te-a"
+      },
+      "ex301_syllabic_dash_alternation": "y",
+      "ex301_syntax": "pre-verbal",
+      "ex301_rwp_counter": "1"
+    },
+    "ex302": {
+      "notes": {
+        "ex302_n01": null
+      },
+      "ex302_input": "Vreau să te duci acolo.",
+      "ex302_source": "Vreau să te duci acolo.",
+      "targets": {
+        "ex302_t01": "Vreau să te duci acolo."
+      },
+      "patterns": {
+        "ex302_p01": " să te "
+      },
+      "ex302_syntax": "pre-verbal",
+      "ex302_rwp_counter": "1"
+    },
+    "ex303": {
+      "notes": {
+        "ex303_n01": null
+      },
+      "ex303_input": "Vreau să lu cumperi repede.",
+      "ex303_source": "Vreau să îl cumperi repede.",
+      "targets": {
+        "ex303_t01": "Vreau să îl cumperi repede.",
+        "ex303_t02": "Vreau să-l cumperi repede."
+      },
+      "patterns": {
+        "ex303_p01": " să îl ",
+        "ex303_p02": " să-l "
+      },
+      "ex303_schwa_dash_alternation": "y",
+      "ex303_syntax": "pre-verbal",
+      "ex303_rwp_counter": "1"
+    },
+    "ex304": {
+      "notes": {
+        "ex304_n01": null
+      },
+      "ex304_input": "Vreau să mi aduci mere.",
+      "ex304_source": "Vreau să îmi aduci mere.",
+      "targets": {
+        "ex304_t01": "Vreau să îmi aduci mere.",
+        "ex304_t02": "Vreau să-mi aduci mere.",
+        "ex304_t03": "Vreau să mi-aduci mere."
+      },
+      "patterns": {
+        "ex304_p01": " să îmi ",
+        "ex304_p02": " să-mi ",
+        "ex304_p03": " să mi-a"
+      },
+      "ex304_schwa_dash_alternation": "y",
+      "ex304_syntax": "pre-verbal",
+      "ex304_rwp_counter": "1"
+    },
+    "ex305": {
+      "notes": {
+        "ex305_n01": null
+      },
+      "ex305_input": "Vreau să mi dai mere.",
+      "ex305_source": "Vreau să îmi dai mere.",
+      "targets": {
+        "ex305_t01": "Vreau să îmi dai mere.",
+        "ex305_t02": "Vreau să-mi dai mere."
+      },
+      "patterns": {
+        "ex305_p01": " să îmi ",
+        "ex305_p02": " să-mi "
+      },
+      "ex305_schwa_dash_alternation": "y",
+      "ex305_syntax": "pre-verbal",
+      "ex305_rwp_counter": "1"
+    },
+    "ex306": {
+      "notes": {
+        "ex306_n01": null
+      },
+      "ex306_input": "Vreau să ți cumperi cartea repede.",
+      "ex306_source": "Vreau să îți cumperi cartea repede.",
+      "targets": {
+        "ex306_t01": "Vreau să îți cumperi cartea repede.",
+        "ex306_t02": "Vreau să-ți cumperi cartea repede."
+      },
+      "patterns": {
+        "ex306_p01": " să îți ",
+        "ex306_p02": " să-ți "
+      },
+      "ex306_schwa_dash_alternation": "y",
+      "ex306_syntax": "pre-verbal",
+      "ex306_rwp_counter": "1"
+    },
+    "ex307": {
+      "notes": {
+        "ex307_n01": null
+      },
+      "ex307_input": "Vreau să ți lu cumperi repede.",
+      "ex307_source": "Vreau să ți-l cumperi repede.",
+      "targets": {
+        "ex307_t01": "Vreau să ți-l cumperi repede."
+      },
+      "patterns": {
+        "ex307_p01": " să ți-l "
+      },
+      "ex307_syntax": "pre-verbal",
+      "ex307_rwp_counter": "2"
+    },
+    "ex308": {
+      "notes": {
+        "ex308_n01": null
+      },
+      "ex308_input": "Vreau să ți o cumperi repede.",
+      "ex308_source": "Vreau să ți-o cumperi repede.",
+      "targets": {
+        "ex308_t01": "Vreau să ți-o cumperi repede."
+      },
+      "patterns": {
+        "ex308_p01": " să ți-o "
+      },
+      "ex308_syntax": "pre-verbal",
+      "ex308_rwp_counter": "2"
+    },
+    "ex309": {
+      "notes": {
+        "ex309_n01": null
+      },
+      "ex309_input": "Vi dau mere.",
+      "ex309_source": "Vă dau mere.",
+      "targets": {
+        "ex309_t01": "Vă dau mere."
+      },
+      "patterns": {
+        "ex309_p01": "=vă "
+      },
+      "ex309_syntax": "pre-verbal",
+      "ex309_rwp_counter": "1"
+    },
+    "ex310": {
+      "notes": {
+        "ex310_n01": null
+      },
+      "ex310_input": "Vi dă mere gratis.",
+      "ex310_source": "Vă dă mere gratis.",
+      "targets": {
+        "ex310_t01": "Vă dă mere gratis."
+      },
+      "patterns": {
+        "ex310_p01": "=vă "
+      },
+      "ex310_syntax": "pre-verbal",
+      "ex310_rwp_counter": "1"
+    },
+    "ex311": {
+      "notes": {
+        "ex311_n01": null
+      },
+      "ex311_input": "Vă văd acolo.",
+      "ex311_source": "Vă văd acolo.",
+      "targets": {
+        "ex311_t01": "Vă văd acolo."
+      },
+      "patterns": {
+        "ex311_p01": "=vă "
+      },
+      "ex311_syntax": "pre-verbal",
+      "ex311_rwp_counter": "1"
+    },
+    "ex312": {
+      "notes": {
+        "ex312_n01": null
+      },
+      "ex312_input": "I acasă acum.",
+      "ex312_source": "Îi acasă acum.",
+      "targets": {
+        "ex312_t01": "Îi acasă acum.",
+        "ex312_t02": "I-acasă acum."
+      },
+      "patterns": {
+        "ex312_p01": "=îi ",
+        "ex312_p02": "=i-a"
+      },
+      "ex312_schwa_dash_alternation": "y",
+      "ex312_syntax": "pre-complement",
+      "ex312_rwp_counter": "1"
+    },
+    "ex313": {
+      "notes": {
+        "ex313_n01": null
+      },
+      "ex313_input": "I aduce mere.",
+      "ex313_source": "Îi aduce mere.",
+      "targets": {
+        "ex313_t01": "Îi aduce mere.",
+        "ex313_t02": "I-aduce mere."
+      },
+      "patterns": {
+        "ex313_p01": "=îi ",
+        "ex313_p02": "=i-a"
+      },
+      "ex313_schwa_dash_alternation": "y",
+      "ex313_syntax": "pre-verbal",
+      "ex313_rwp_counter": "1"
+    },
+    "ex314": {
+      "notes": {
+        "ex314_n01": null
+      },
+      "ex314_input": "I arăt casa.",
+      "ex314_source": "Îi arăt casa.",
+      "targets": {
+        "ex314_t01": "Îi arăt casa.",
+        "ex314_t02": "I-arăt casa."
+      },
+      "patterns": {
+        "ex314_p01": "=îi ",
+        "ex314_p02": "=i-a"
+      },
+      "ex314_schwa_dash_alternation": "y",
+      "ex314_syntax": "pre-verbal",
+      "ex314_rwp_counter": "1"
+    },
+    "ex315": {
+      "notes": {
+        "ex315_n01": null
+      },
+      "ex315_input": "I dau mere gratis.",
+      "ex315_source": "Îi dau mere gratis.",
+      "targets": {
+        "ex315_t01": "Îi dau mere gratis."
+      },
+      "patterns": {
+        "ex315_p01": "=îi "
+      },
+      "ex315_syntax": "pre-verbal",
+      "ex315_rwp_counter": "1"
+    },
+    "ex316": {
+      "notes": {
+        "ex316_n01": null
+      },
+      "ex316_input": "I este dragă.",
+      "ex316_source": "Îi este dragă.",
+      "targets": {
+        "ex316_t01": "Îi este dragă."
+      },
+      "patterns": {
+        "ex316_p01": "=îi "
+      },
+      "ex316_syntax": "pre-verbal",
+      "ex316_rwp_counter": "1"
+    },
+    "ex317": {
+      "notes": {
+        "ex317_n01": null
+      },
+      "ex317_input": "Lu am în buzunar.",
+      "ex317_source": "Îl am în buzunar.",
+      "targets": {
+        "ex317_t01": "Îl am în buzunar."
+      },
+      "patterns": {
+        "ex317_p01": "=îl "
+      },
+      "ex317_syntax": "pre-verbal",
+      "ex317_rwp_counter": "1"
+    },
+    "ex318": {
+      "notes": {
+        "ex318_n01": null
+      },
+      "ex318_input": "Lu arunc repede.",
+      "ex318_source": "Îl arunc repede.",
+      "targets": {
+        "ex318_t01": "Îl arunc repede.",
+        "ex318_t02": "L-arunc repede."
+      },
+      "patterns": {
+        "ex318_p01": "=îl ",
+        "ex318_p02": "=l-a"
+      },
+      "ex318_schwa_dash_alternation": "y",
+      "ex318_syntax": "pre-verbal",
+      "ex318_rwp_counter": "1"
+    },
+    "ex319": {
+      "notes": {
+        "ex319_n01": null
+      },
+      "ex319_input": "Lu cumperi repede.",
+      "ex319_source": "Îl cumperi repede.",
+      "targets": {
+        "ex319_t01": "Îl cumperi repede."
+      },
+      "patterns": {
+        "ex319_p01": "=îl "
+      },
+      "ex319_syntax": "pre-verbal",
+      "ex319_rwp_counter": "1"
+    },
+    "ex320": {
+      "notes": {
+        "ex320_n01": null
+      },
+      "ex320_input": "Lu cumpăr acum și lu mănânc mâine.",
+      "ex320_source": "Îl cumpăr acum și îl mănânc mâine.",
+      "targets": {
+        "ex320_t01": "Îl cumpăr acum și îl mănânc mâine.",
+        "ex320_t02": "Îl cumpăr acum și-l mănânc mâine."
+      },
+      "patterns": {
+        "ex320_p01": "=îl ; și îl ",
+        "ex320_p02": "=îl ; și-l "
+      },
+      "ex320_schwa_dash_alternation": "y",
+      "ex320_syntax": "pre-verbal;pre-verbal",
+      "ex320_rwp_counter": "1;1"
+    },
+    "ex321": {
+      "notes": {
+        "ex321_n01": null
+      },
+      "ex321_input": "Lu dă gratis.",
+      "ex321_source": "Îl dă gratis.",
+      "targets": {
+        "ex321_t01": "Îl dă gratis."
+      },
+      "patterns": {
+        "ex321_p01": "=îl "
+      },
+      "ex321_syntax": "pre-verbal",
+      "ex321_rwp_counter": "1"
+    },
+    "ex322": {
+      "notes": {
+        "ex322_n01": null
+      },
+      "ex322_input": "Lu iubește foarte mult.",
+      "ex322_source": "Îl iubește foarte mult.",
+      "targets": {
+        "ex322_t01": "Îl iubește foarte mult."
+      },
+      "patterns": {
+        "ex322_p01": "=îl "
+      },
+      "ex322_syntax": "pre-verbal",
+      "ex322_rwp_counter": "1"
+    },
+    "ex323": {
+      "notes": {
+        "ex323_n01": null
+      },
+      "ex323_input": "Lu mănânc repede.",
+      "ex323_source": "Îl mănânc repede.",
+      "targets": {
+        "ex323_t01": "Îl mănânc repede."
+      },
+      "patterns": {
+        "ex323_p01": "=îl "
+      },
+      "ex323_syntax": "pre-verbal",
+      "ex323_rwp_counter": "1"
+    },
+    "ex324": {
+      "notes": {
+        "ex324_n01": null
+      },
+      "ex324_input": "Lu pot vedea.",
+      "ex324_source": "Îl pot vedea.",
+      "targets": {
+        "ex324_t01": "Îl pot vedea."
+      },
+      "patterns": {
+        "ex324_p01": "=îl "
+      },
+      "ex324_syntax": "pre-verbal",
+      "ex324_rwp_counter": "1"
+    },
+    "ex325": {
+      "notes": {
+        "ex325_n01": null
+      },
+      "ex325_input": "Lu văd acolo.",
+      "ex325_source": "Îl văd acolo.",
+      "targets": {
+        "ex325_t01": "Îl văd acolo."
+      },
+      "patterns": {
+        "ex325_p01": "=îl "
+      },
+      "ex325_syntax": "pre-verbal",
+      "ex325_rwp_counter": "1"
+    },
+    "ex326": {
+      "notes": {
+        "ex326_n01": "împușcă-n"
+      },
+      "ex326_input": "Lu împușcă în inimă.",
+      "ex326_source": "Îl împușcă în inimă.",
+      "targets": {
+        "ex326_t01": "Îl împușcă în inimă.",
+        "ex326_t02": "L-împușcă în inimă.",
+        "ex326_t03": "Îl împușcă-n inimă.",
+        "ex326_t04": "L-împușcă-n inimă."
+      },
+      "patterns": {
+        "ex326_p01": "=îl ",
+        "ex326_p02": "=l-împ"
+      },
+      "ex326_schwa_dash_alternation": "y",
+      "ex326_syntax": "pre-verbal",
+      "ex326_rwp_counter": "1"
+    },
+    "ex327": {
+      "notes": {
+        "ex327_n01": null
+      },
+      "ex327_input": "Mi aduci mere.",
+      "ex327_source": "Îmi aduci mere.",
+      "targets": {
+        "ex327_t01": "Îmi aduci mere.",
+        "ex327_t02": "Mi-aduci mere."
+      },
+      "patterns": {
+        "ex327_p01": "=îmi ",
+        "ex327_p02": "=mi-a"
+      },
+      "ex327_schwa_dash_alternation": "y",
+      "ex327_syntax": "pre-verbal",
+      "ex327_rwp_counter": "1"
+    },
+    "ex328": {
+      "notes": {
+        "ex328_n01": null
+      },
+      "ex328_input": "Mi dai mere.",
+      "ex328_source": "Îmi dai mere.",
+      "targets": {
+        "ex328_t01": "Îmi dai mere."
+      },
+      "patterns": {
+        "ex328_p01": "=îmi "
+      },
+      "ex328_syntax": "pre-verbal",
+      "ex328_rwp_counter": "1"
+    },
+    "ex329": {
+      "notes": {
+        "ex329_n01": null
+      },
+      "ex329_input": "Împușcă o în inimă!",
+      "ex329_source": "Împușc-o în inimă!",
+      "targets": {
+        "ex329_t01": "Împușc-o în inimă!",
+        "ex329_t02": "Împușc-o-n inimă!"
+      },
+      "patterns": {
+        "ex329_p01": "șc-o ",
+        "ex329_p02": "șc-o-n "
+      },
+      "ex329_syllabic_dash_alternation": "n",
+      "ex329_syntax": "post-verbal",
+      "ex329_rwp_counter": "1"
+    },
+    "ex330": {
+      "notes": {
+        "ex330_n01": null
+      },
+      "ex330_input": "Împușcă lu în inimă.",
+      "ex330_source": "Împușcă-l în inimă.",
+      "targets": {
+        "ex330_t01": "Împușcă-l în inimă."
+      },
+      "patterns": {
+        "ex330_p01": "șcă-l "
+      },
+      "ex330_syntax": "post-verbal",
+      "ex330_rwp_counter": "1"
+    },
+    "ex331": {
+      "notes": {
+        "ex331_n01": null
+      },
+      "ex331_input": "Înțepeni i se ar toate oasele!",
+      "ex331_source": "Înțepeni-i-s-ar toate oasele!",
+      "targets": {
+        "ex331_t01": "Înțepeni-i-s-ar toate oasele!"
+      },
+      "patterns": {
+        "ex331_p01": "ni-i-s-ar "
+      },
+      "ex331_syntax": "post-verbal",
+      "ex331_rwp_counter": "2"
+    },
+    "ex332": {
+      "notes": {
+        "ex332_n01": null
+      },
+      "ex332_input": "Su pe munte.",
+      "ex332_source": "Îs pe munte.",
+      "targets": {
+        "ex332_t01": "Îs pe munte."
+      },
+      "patterns": {
+        "ex332_p01": "=îs "
+      },
+      "ex332_syntax": "pre-complement",
+      "ex332_rwp_counter": "1"
+    },
+    "ex333": {
+      "notes": {
+        "ex333_n01": null
+      },
+      "ex333_input": "Lu au văzut acolo.",
+      "ex333_source": "L-au văzut acolo.",
+      "targets": {
+        "ex333_t01": "L-au văzut acolo."
+      },
+      "patterns": {
+        "ex333_p01": "=l-au "
+      },
+      "ex333_syntax": "pre-verbal",
+      "ex333_rwp_counter": "1"
+    },
+    "ex334": {
+      "notes": {
+        "ex334_n01": null
+      },
+      "ex334_input": "Ți cumperi cartea repede.",
+      "ex334_source": "Îți cumperi cartea repede.",
+      "targets": {
+        "ex334_t01": "Îți cumperi cartea repede."
+      },
+      "patterns": {
+        "ex334_p01": "=îți "
+      },
+      "ex334_syntax": "pre-verbal",
+      "ex334_rwp_counter": "1"
+    },
+    "ex335": {
+      "notes": {
+        "ex335_n01": null
+      },
+      "ex335_input": "Ți dau mere.",
+      "ex335_source": "Îți dau mere.",
+      "targets": {
+        "ex335_t01": "Îți dau mere."
+      },
+      "patterns": {
+        "ex335_p01": "=îți "
+      },
+      "ex335_syntax": "pre-verbal",
+      "ex335_rwp_counter": "1"
+    },
+    "ex336": {
+      "notes": {
+        "ex336_n01": null
+      },
+      "ex336_input": "Ți dorim mult succes!",
+      "ex336_source": "Îți dorim mult succes!",
+      "targets": {
+        "ex336_t01": "Îți dorim mult succes!"
+      },
+      "patterns": {
+        "ex336_p01": "=îți "
+      },
+      "ex336_syntax": "pre-verbal",
+      "ex336_rwp_counter": "1"
+    },
+    "ex337": {
+      "notes": {
+        "ex337_n01": null
+      },
+      "ex337_input": "Și le cumpără și și le revinde.",
+      "ex337_source": "Și le cumpără și și le revinde.",
+      "targets": {
+        "ex337_t01": "Și le cumpără și și le revinde."
+      },
+      "patterns": {
+        "ex337_p01": "=și le ; și și le "
+      },
+      "ex337_syntax": "pre-verbal;pre-verbal",
+      "ex337_rwp_counter": "2;2"
+    },
+    "ex338": {
+      "notes": {
+        "ex338_n01": null
+      },
+      "ex338_input": "Și repede mi ți le a înfulecat.",
+      "ex338_source": "Și repede mi ți le-a înfulecat.",
+      "targets": {
+        "ex338_t01": "Și repede mi ți le-a înfulecat.",
+        "ex338_t02": "Și repede mi ți le-a-nfulecat."
+      },
+      "patterns": {
+        "ex338_p01": "=și ; mi ți le-a ",
+        "ex338_p02": "=și ; mi ți le-a-nf"
+      },
+      "ex338_syllabic_dash_alternation": "n",
+      "ex338_syntax": "pre-verbal",
+      "ex338_rwp_counter": "3"
+    },
+    "ex339": {
+      "notes": {
+        "ex339_n01": null
+      },
+      "ex339_input": "Știu că i le dai.",
+      "ex339_source": "Știu că i le dai.",
+      "targets": {
+        "ex339_t01": "Știu că i le dai."
+      },
+      "patterns": {
+        "ex339_p01": " că i le "
+      },
+      "ex339_syntax": "pre-verbal",
+      "ex339_rwp_counter": "2"
+    },
+    "ex340": {
+      "notes": {
+        "ex340_n01": null
+      },
+      "ex340_input": "Știu că lu au prins repede.",
+      "ex340_source": "Știu că l-au prins repede.",
+      "targets": {
+        "ex340_t01": "Știu că l-au prins repede."
+      },
+      "patterns": {
+        "ex340_p01": " că l-au "
+      },
+      "ex340_syntax": "pre-verbal",
+      "ex340_rwp_counter": "1"
+    },
+    "ex341": {
+      "notes": {
+        "ex341_n01": null
+      },
+      "ex341_input": "Știu că i dai mere.",
+      "ex341_source": "Știu că îi dai mere.",
+      "targets": {
+        "ex341_t01": "Știu că îi dai mere.",
+        "ex341_t02": "Știu că-i dai mere."
+      },
+      "patterns": {
+        "ex341_p01": " că îi ",
+        "ex341_p02": " că-i "
+      },
+      "ex341_schwa_dash_alternation": "y",
+      "ex341_syntax": "pre-verbal",
+      "ex341_rwp_counter": "1"
+    },
+    "ex342": {
+      "notes": {
+        "ex342_n01": null
+      },
+      "ex342_input": "Știu că ți lu ai cumpărat repede.",
+      "ex342_source": "Știu că ți l-ai cumpărat repede.",
+      "targets": {
+        "ex342_t01": "Știu că ți l-ai cumpărat repede."
+      },
+      "patterns": {
+        "ex342_p01": " că ți l-ai "
+      },
+      "ex342_syntax": "pre-verbal",
+      "ex342_rwp_counter": "2"
+    },
+    "ex343": {
+      "notes": {
+        "ex343_n01": null
+      },
+      "ex343_input": "Știu că ți ai cumpărat cartea repede.",
+      "ex343_source": "Știu că ți-ai cumpărat cartea repede.",
+      "targets": {
+        "ex343_t01": "Știu că ți-ai cumpărat cartea repede."
+      },
+      "patterns": {
+        "ex343_p01": " că ți-ai "
+      },
+      "ex343_syntax": "pre-verbal",
+      "ex343_rwp_counter": "1"
+    },
+    "ex344": {
+      "notes": {
+        "ex344_n01": null
+      },
+      "ex344_input": "Ți lu a dat gratis.",
+      "ex344_source": "Ți l-a dat gratis.",
+      "targets": {
+        "ex344_t01": "Ți l-a dat gratis."
+      },
+      "patterns": {
+        "ex344_p01": "=ți l-a "
+      },
+      "ex344_syntax": "pre-verbal",
+      "ex344_rwp_counter": "2"
+    },
+    "ex345": {
+      "notes": {
+        "ex345_n01": null
+      },
+      "ex345_input": "Ți lu ai cumpărat repede.",
+      "ex345_source": "Ți l-ai cumpărat repede.",
+      "targets": {
+        "ex345_t01": "Ți l-ai cumpărat repede."
+      },
+      "patterns": {
+        "ex345_p01": "=ți l-ai "
+      },
+      "ex345_syntax": "pre-verbal",
+      "ex345_rwp_counter": "2"
+    },
+    "ex346": {
+      "notes": {
+        "ex346_n01": null
+      },
+      "ex346_input": "Ți le cumpăr azi.",
+      "ex346_source": "Ți le cumpăr azi.",
+      "targets": {
+        "ex346_t01": "Ți le cumpăr azi."
+      },
+      "patterns": {
+        "ex346_p01": "=ți le "
+      },
+      "ex346_syntax": "pre-verbal",
+      "ex346_rwp_counter": "2"
+    },
+    "ex347": {
+      "notes": {
+        "ex347_n01": null
+      },
+      "ex347_input": "Ți a suflat vreun iubit?",
+      "ex347_source": "Ți-a suflat vreun iubit?",
+      "targets": {
+        "ex347_t01": "Ți-a suflat vreun iubit?"
+      },
+      "patterns": {
+        "ex347_p01": "=ți-a "
+      },
+      "ex347_syntax": "pre-verbal",
+      "ex347_rwp_counter": "1"
+    },
+    "ex348": {
+      "notes": {
+        "ex348_n01": null
+      },
+      "ex348_input": "Ți ai cumpărat cartea repede.",
+      "ex348_source": "Ți-ai cumpărat cartea repede.",
+      "targets": {
+        "ex348_t01": "Ți-ai cumpărat cartea repede."
+      },
+      "patterns": {
+        "ex348_p01": "=ți-ai "
+      },
+      "ex348_syntax": "pre-verbal",
+      "ex348_rwp_counter": "1"
+    },
+    "ex349": {
+      "notes": {
+        "ex349_n01": null
+      },
+      "ex349_input": "Ți lu bat de nu se vede.",
+      "ex349_source": "Ți-l bat de nu se vede.",
+      "targets": {
+        "ex349_t01": "Ți-l bat de nu se vede."
+      },
+      "patterns": {
+        "ex349_p01": "=ți-l ; de nu se "
+      },
+      "ex349_syntax": "pre-verbal;pre-verbal",
+      "ex349_rwp_counter": "2;1"
+    },
+    "ex350": {
+      "notes": {
+        "ex350_n01": null
+      },
+      "ex350_input": "Ți lu cumperi repede.",
+      "ex350_source": "Ți-l cumperi repede.",
+      "targets": {
+        "ex350_t01": "Ți-l cumperi repede."
+      },
+      "patterns": {
+        "ex350_p01": "=ți-l "
+      },
+      "ex350_syntax": "pre-verbal",
+      "ex350_rwp_counter": "2"
+    },
+    "ex351": {
+      "notes": {
+        "ex351_n01": null
+      },
+      "ex351_input": "Ți o cumperi repede.",
+      "ex351_source": "Ți-o cumperi repede.",
+      "targets": {
+        "ex351_t01": "Ți-o cumperi repede."
+      },
+      "patterns": {
+        "ex351_p01": "=ți-o "
+      },
+      "ex351_syntax": "pre-verbal",
+      "ex351_rwp_counter": "2"
+    },
+    "ex352": {
+      "notes": {
+        "ex352_n01": null
+      },
+      "ex352_input": "Le arde pe rug.",
+      "ex352_source": "Le arde pe rug.",
+      "targets": {
+        "ex352_t01": "Le arde pe rug."
+      },
+      "patterns": {
+        "ex352_p01": "=le "
+      },
+      "ex352_syntax": "pre-verbal",
+      "ex352_rwp_counter": "1"
+    }
+  }
+}

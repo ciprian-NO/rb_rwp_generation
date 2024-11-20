@@ -1,0 +1,32 @@
+Using macOS
+
+Install conda:
+https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html
+
+
+Creating an environment
+ - check env list:
+    >conda env list
+
+- create the env, for instance, with a specific python version (optionally)
+ >conda create -n ENV_NAME python=3.8
+
+- check env list again:
+    >conda env list
+
+- activate the environment
+ >conda activate ENV_NAME
+
+- install jypyter in the ENV_NAME
+conda install jupyter
+
+- check whether jupyter has been installed correctly
+ >which -a jupyter
+
+- start notebook (in case there are several jupyter installations, use the appropriate one)
+/PATH/TO/anaconda3/envs/ENV_NAME/bin/jupyter notebook
+
+This will open the current directory in a browser.
+
+Choose the .ipynb-file to work with.
+

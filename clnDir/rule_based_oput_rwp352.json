@@ -1,0 +1,4934 @@
+{
+  "rwp_db": {
+    "ex001": {
+      "ex001_input": "A căruia ți place?",
+      "targets": {
+        "ex001_t01": "A căruia îți place?",
+        "ex001_t02": "A căruia-ți place?"
+      },
+      "output": {
+        "ex001_o1": "A căruia îți place?",
+        "ex001_o2": "A căruia-ți place?"
+      },
+      "evaluation": {
+        "ex001_e1": "ok",
+        "ex001_e2": "ok"
+      },
+      "ex001_progress": "done _ 2|2 > 2"
+    },
+    "ex002": {
+      "ex002_input": "A i le da gratis este bine.",
+      "targets": {
+        "ex002_t01": "A i le da gratis este bine."
+      },
+      "output": {
+        "ex002_o1": "A i le da gratis este bine."
+      },
+      "evaluation": {
+        "ex002_e1": "ok"
+      },
+      "ex002_progress": "done _ 1|1 > 1"
+    },
+    "ex003": {
+      "ex003_input": "A mi le da gratis este bine.",
+      "targets": {
+        "ex003_t01": "A mi le da gratis este bine."
+      },
+      "output": {
+        "ex003_o1": "A mi le da gratis este bine."
+      },
+      "evaluation": {
+        "ex003_e1": "ok"
+      },
+      "ex003_progress": "done _ 1|1 > 1"
+    },
+    "ex004": {
+      "ex004_input": "A nu o mai vedea i cade greu.",
+      "targets": {
+        "ex004_t01": "A nu o mai vedea îi cade greu.",
+        "ex004_t02": "A n-o mai vedea îi cade greu."
+      },
+      "output": {
+        "ex004_o1": "A nu o mai vedea îi cade greu.",
+        "ex004_o2": "A n-o mai vedea îi cade greu."
+      },
+      "evaluation": {
+        "ex004_e1": "ok",
+        "ex004_e2": "ok"
+      },
+      "ex004_progress": "done _ 2|2 > 2"
+    },
+    "ex005": {
+      "ex005_input": "A nu ți da mere gratis este nepoliticos.",
+      "targets": {
+        "ex005_t01": "A nu îți da mere gratis este nepoliticos.",
+        "ex005_t02": "A nu-ți da mere gratis este nepoliticos."
+      },
+      "output": {
+        "ex005_o1": "A nu îți da mere gratis este nepoliticos.",
+        "ex005_o2": "A nu-ți da mere gratis este nepoliticos."
+      },
+      "evaluation": {
+        "ex005_e1": "ok",
+        "ex005_e2": "ok"
+      },
+      "ex005_progress": "done _ 2|2 > 2"
+    },
+    "ex006": {
+      "ex006_input": "A nu ți lu trimite niciodată este un semn de mitocănie.",
+      "targets": {
+        "ex006_t01": "A nu ți-l trimite niciodată este un semn de mitocănie."
+      },
+      "output": {
+        "ex006_o1": "A nu ți-l trimite niciodată este un semn de mitocănie."
+      },
+      "evaluation": {
+        "ex006_e1": "ok"
+      },
+      "ex006_progress": "done _ 1|1 > 1"
+    },
+    "ex007": {
+      "ex007_input": "A i da mere gratis este bine.",
+      "targets": {
+        "ex007_t01": "A îi da mere gratis este bine.",
+        "ex007_t02": "A-i da mere gratis este bine."
+      },
+      "output": {
+        "ex007_o1": "A îi da mere gratis este bine.",
+        "ex007_o2": "A-i da mere gratis este bine."
+      },
+      "evaluation": {
+        "ex007_e1": "ok",
+        "ex007_e2": "ok"
+      },
+      "ex007_progress": "done _ 2|2 > 2"
+    },
+    "ex008": {
+      "ex008_input": "A lu da afară este bine.",
+      "targets": {
+        "ex008_t01": "A îl da afară este bine.",
+        "ex008_t02": "A-l da afară este bine."
+      },
+      "output": {
+        "ex008_o1": "A îl da afară este bine.",
+        "ex008_o2": "A-l da afară este bine."
+      },
+      "evaluation": {
+        "ex008_e1": "ok",
+        "ex008_e2": "ok"
+      },
+      "ex008_progress": "done _ 2|2 > 2"
+    },
+    "ex009": {
+      "ex009_input": "A ți da mere gratis este un gest frumos.",
+      "targets": {
+        "ex009_t01": "A îți da mere gratis este un gest frumos.",
+        "ex009_t02": "A-ți da mere gratis este un gest frumos."
+      },
+      "output": {
+        "ex009_o1": "A îți da mere gratis este un gest frumos.",
+        "ex009_o2": "A-ți da mere gratis este un gest frumos."
+      },
+      "evaluation": {
+        "ex009_e1": "ok",
+        "ex009_e2": "ok"
+      },
+      "ex009_progress": "done _ 2|2 > 2"
+    },
+    "ex010": {
+      "ex010_input": "Acolo mi su copiii.",
+      "targets": {
+        "ex010_t01": "Acolo mi-s copiii."
+      },
+      "output": {
+        "ex010_o1": "Acolo mi-s copiii."
+      },
+      "evaluation": {
+        "ex010_e1": "ok"
+      },
+      "ex010_progress": "done _ 1|1 > 1"
+    },
+    "ex011": {
+      "ex011_input": "Acolo mi su oile.",
+      "targets": {
+        "ex011_t01": "Acolo mi-s oile."
+      },
+      "output": {
+        "ex011_o1": "Acolo mi-s oile."
+      },
+      "evaluation": {
+        "ex011_e1": "ok"
+      },
+      "ex011_progress": "done _ 1|1 > 1"
+    },
+    "ex012": {
+      "ex012_input": "Acum lu aștept la bibliotecă.",
+      "targets": {
+        "ex012_t01": "Acum îl aștept la bibliotecă.",
+        "ex012_t02": "Acum l-aștept la bibliotecă."
+      },
+      "output": {
+        "ex012_o1": "Acum îl aștept la bibliotecă.",
+        "ex012_o2": "Acum l-aștept la bibliotecă."
+      },
+      "evaluation": {
+        "ex012_e1": "ok",
+        "ex012_e2": "ok"
+      },
+      "ex012_progress": "done _ 2|2 > 2"
+    },
+    "ex013": {
+      "ex013_input": "Adu le acolo!",
+      "targets": {
+        "ex013_t01": "Adu-le acolo!",
+        "ex013_t02": "Adu-le-acolo!"
+      },
+      "output": {
+        "ex013_o1": "Adu-le acolo!",
+        "ex013_o2": "Adu-le-acolo!"
+      },
+      "evaluation": {
+        "ex013_e1": "ok",
+        "ex013_e2": "ok"
+      },
+      "ex013_progress": "done _ 2|2 > 2"
+    },
+    "ex014": {
+      "ex014_input": "Adu li mere!",
+      "targets": {
+        "ex014_t01": "Adu-le mere!"
+      },
+      "output": {
+        "ex014_o1": "Adu-le mere!"
+      },
+      "evaluation": {
+        "ex014_e1": "ok"
+      },
+      "ex014_progress": "done _ 1|1 > 1"
+    },
+    "ex015": {
+      "ex015_input": "Am cumpărat o carte.",
+      "targets": {
+        "ex015_t01": "Am cumpărat o carte."
+      },
+      "output": {
+        "ex015_o1": "Am cumpărat o carte."
+      },
+      "evaluation": {
+        "ex015_e1": "ok"
+      },
+      "ex015_progress": "done _ 1|1 > 1"
+    },
+    "ex016": {
+      "ex016_input": "Am cumpărat o repede.",
+      "targets": {
+        "ex016_t01": "Am cumpărat-o repede."
+      },
+      "output": {
+        "ex016_o1": "Am cumpărat-o repede."
+      },
+      "evaluation": {
+        "ex016_e1": "ok"
+      },
+      "ex016_progress": "done _ 1|1 > 1"
+    },
+    "ex017": {
+      "ex017_input": "Am dat o gratis.",
+      "targets": {
+        "ex017_t01": "Am dat-o gratis."
+      },
+      "output": {
+        "ex017_o1": "Am dat-o gratis."
+      },
+      "evaluation": {
+        "ex017_e1": "ok"
+      },
+      "ex017_progress": "done _ 1|1 > 1"
+    },
+    "ex018": {
+      "ex018_input": "Am impresia că nu o prea placi pe Ana.",
+      "targets": {
+        "ex018_t01": "Am impresia că nu o prea placi pe Ana.",
+        "ex018_t02": "Am impresia că n-o prea placi pe Ana."
+      },
+      "output": {
+        "ex018_o1": "Am impresia că nu o prea placi pe Ana.",
+        "ex018_o2": "Am impresia că n-o prea placi pe Ana."
+      },
+      "evaluation": {
+        "ex018_e1": "ok",
+        "ex018_e2": "ok"
+      },
+      "ex018_progress": "done _ 2|2 > 2"
+    },
+    "ex019": {
+      "ex019_input": "Arată mi muzeul!",
+      "targets": {
+        "ex019_t01": "Arată-mi muzeul!"
+      },
+      "output": {
+        "ex019_o1": "Arată-mi muzeul!"
+      },
+      "evaluation": {
+        "ex019_e1": "ok"
+      },
+      "ex019_progress": "done _ 1|1 > 1"
+    },
+    "ex020": {
+      "ex020_input": "Arată mă tuturor!",
+      "targets": {
+        "ex020_t01": "Arată-mă tuturor!"
+      },
+      "output": {
+        "ex020_o1": "Arată-mă tuturor!"
+      },
+      "evaluation": {
+        "ex020_e1": "ok"
+      },
+      "ex020_progress": "done _ 1|1 > 1"
+    },
+    "ex021": {
+      "ex021_input": "Arată ni muzeul!",
+      "targets": {
+        "ex021_t01": "Arată-ne muzeul!"
+      },
+      "output": {
+        "ex021_o1": "Arată-ne muzeul!"
+      },
+      "evaluation": {
+        "ex021_e1": "ok"
+      },
+      "ex021_progress": "done _ 1|1 > 1"
+    },
+    "ex022": {
+      "ex022_input": "Arată ne tuturor!",
+      "targets": {
+        "ex022_t01": "Arată-ne tuturor!"
+      },
+      "output": {
+        "ex022_o1": "Arată-ne tuturor!"
+      },
+      "evaluation": {
+        "ex022_e1": "ok"
+      },
+      "ex022_progress": "done _ 1|1 > 1"
+    },
+    "ex023": {
+      "ex023_input": "Asta se întâmplă des.",
+      "targets": {
+        "ex023_t01": "Asta se întâmplă des.",
+        "ex023_t02": "Asta se-ntâmplă des."
+      },
+      "output": {
+        "ex023_o1": "Asta se întâmplă des.",
+        "ex023_o2": "Asta se-ntâmplă des."
+      },
+      "evaluation": {
+        "ex023_e1": "ok",
+        "ex023_e2": "ok"
+      },
+      "ex023_progress": "done _ 2|2 > 2"
+    },
+    "ex024": {
+      "ex024_input": "Astea le aflu mai devreme.",
+      "targets": {
+        "ex024_t01": "Astea le aflu mai devreme."
+      },
+      "output": {
+        "ex024_o1": "Astea le aflu mai devreme."
+      },
+      "evaluation": {
+        "ex024_e1": "ok"
+      },
+      "ex024_progress": "done _ 1|1 > 1"
+    },
+    "ex025": {
+      "ex025_input": "Au văzut o acolo.",
+      "targets": {
+        "ex025_t01": "Au văzut-o acolo."
+      },
+      "output": {
+        "ex025_o1": "Au văzut-o acolo."
+      },
+      "evaluation": {
+        "ex025_e1": "ok"
+      },
+      "ex025_progress": "done _ 1|1 > 1"
+    },
+    "ex026": {
+      "ex026_input": "Bate lu ar norocul!",
+      "targets": {
+        "ex026_t01": "Bate-l-ar norocul!"
+      },
+      "output": {
+        "ex026_o1": "Bate-l-ar norocul!"
+      },
+      "evaluation": {
+        "ex026_e1": "ok"
+      },
+      "ex026_progress": "done _ 1|1 > 1"
+    },
+    "ex027": {
+      "ex027_input": "Bate mi ți lu pe copil.",
+      "targets": {
+        "ex027_t01": "Bate-mi-ți-l pe copil."
+      },
+      "output": {
+        "ex027_o1": "Bate-mi-ți-l pe copil."
+      },
+      "evaluation": {
+        "ex027_e1": "ok"
+      },
+      "ex027_progress": "done _ 1|1 > 1"
+    },
+    "ex028": {
+      "ex028_input": "Bat vi ți lu pe copil.",
+      "targets": {
+        "ex028_t01": "Batu-vi-ți-l pe copil."
+      },
+      "output": {
+        "ex028_o1": "Batu-vi-ți-l pe copil."
+      },
+      "evaluation": {
+        "ex028_e1": "ok"
+      },
+      "ex028_progress": "done _ 1|1 > 1"
+    },
+    "ex029": {
+      "ex029_input": "Bătu te ar mama Ana de la gura podului!",
+      "targets": {
+        "ex029_t01": "Bătu-te-ar mama Ana de la gura podului!"
+      },
+      "output": {
+        "ex029_o1": "Bătu-te-ar mama Ana de la gura podului!"
+      },
+      "evaluation": {
+        "ex029_e1": "ok"
+      },
+      "ex029_progress": "done _ 1|1 > 1"
+    },
+    "ex030": {
+      "ex030_input": "Casa căruia ai văzut o?",
+      "targets": {
+        "ex030_t01": "Casa căruia ai văzut-o?"
+      },
+      "output": {
+        "ex030_o1": "Casa căruia ai văzut-o?"
+      },
+      "evaluation": {
+        "ex030_e1": "ok"
+      },
+      "ex030_progress": "done _ 1|1 > 1"
+    },
+    "ex031": {
+      "ex031_input": "Ceea ce am descoperit atunci, ca și urmările descoperirii, avea să mi marcheze devenirea.",
+      "targets": {
+        "ex031_t01": "Ceea ce am descoperit atunci, ca și urmările descoperirii, avea să îmi marcheze devenirea.",
+        "ex031_t02": "Ceea ce am descoperit atunci, ca și urmările descoperirii, avea să-mi marcheze devenirea."
+      },
+      "output": {
+        "ex031_o1": "Ceea ce am descoperit atunci, ca și urmările descoperirii, avea să îmi marcheze devenirea.",
+        "ex031_o2": "Ceea ce am descoperit atunci, ca și urmările descoperirii, avea să-mi marcheze devenirea."
+      },
+      "evaluation": {
+        "ex031_e1": "ok",
+        "ex031_e2": "ok"
+      },
+      "ex031_progress": "done _ 2|2 > 2"
+    },
+    "ex032": {
+      "ex032_input": "Cine ar face asta?",
+      "targets": {
+        "ex032_t01": "Cine ar face asta?"
+      },
+      "output": {
+        "ex032_o1": "Cine ar face asta?"
+      },
+      "evaluation": {
+        "ex032_e1": "ok"
+      },
+      "ex032_progress": "done _ 1|1 > 1"
+    },
+    "ex033": {
+      "ex033_input": "Copiii mi su acolo.",
+      "targets": {
+        "ex033_t01": "Copiii mi-s acolo."
+      },
+      "output": {
+        "ex033_o1": "Copiii mi-s acolo."
+      },
+      "evaluation": {
+        "ex033_e1": "ok"
+      },
+      "ex033_progress": "done _ 1|1 > 1"
+    },
+    "ex034": {
+      "ex034_input": "Copiii nu și mai vorbesc.",
+      "targets": {
+        "ex034_t01": "Copiii nu își mai vorbesc.",
+        "ex034_t02": "Copiii nu-și mai vorbesc."
+      },
+      "output": {
+        "ex034_o1": "Copiii nu își mai vorbesc.",
+        "ex034_o2": "Copiii nu-și mai vorbesc."
+      },
+      "evaluation": {
+        "ex034_e1": "ok",
+        "ex034_e2": "ok"
+      },
+      "ex034_progress": "done _ 2|2 > 2"
+    },
+    "ex035": {
+      "ex035_input": "Cui i scrii?",
+      "targets": {
+        "ex035_t01": "Cui îi scrii?"
+      },
+      "output": {
+        "ex035_o1": "Cui îi scrii?"
+      },
+      "evaluation": {
+        "ex035_e1": "ok"
+      },
+      "ex035_progress": "done _ 1|1 > 1"
+    },
+    "ex036": {
+      "ex036_input": "Cumpăra mi ai cărți!",
+      "targets": {
+        "ex036_t01": "Cumpăra-mi-ai cărți!"
+      },
+      "output": {
+        "ex036_o1": "Cumpăra-mi-ai cărți!"
+      },
+      "evaluation": {
+        "ex036_e1": "ok"
+      },
+      "ex036_progress": "done _ 1|1 > 1"
+    },
+    "ex037": {
+      "ex037_input": "Cumpără lu repede!",
+      "targets": {
+        "ex037_t01": "Cumpără-l repede!"
+      },
+      "output": {
+        "ex037_o1": "Cumpără-l repede!"
+      },
+      "evaluation": {
+        "ex037_e1": "ok"
+      },
+      "ex037_progress": "done _ 1|1 > 1"
+    },
+    "ex038": {
+      "ex038_input": "Cumpără ți cartea repede!",
+      "targets": {
+        "ex038_t01": "Cumpără-ți cartea repede!"
+      },
+      "output": {
+        "ex038_o1": "Cumpără-ți cartea repede!"
+      },
+      "evaluation": {
+        "ex038_e1": "ok"
+      },
+      "ex038_progress": "done _ 1|1 > 1"
+    },
+    "ex039": {
+      "ex039_input": "Cumpără ți lu repede!",
+      "targets": {
+        "ex039_t01": "Cumpără-ți-l repede!"
+      },
+      "output": {
+        "ex039_o1": "Cumpără-ți-l repede!"
+      },
+      "evaluation": {
+        "ex039_e1": "ok"
+      },
+      "ex039_progress": "done _ 1|1 > 1"
+    },
+    "ex040": {
+      "ex040_input": "Cumpără ți o repede!",
+      "targets": {
+        "ex040_t01": "Cumpără-ți-o repede!"
+      },
+      "output": {
+        "ex040_o1": "Cumpără-ți-o repede!"
+      },
+      "evaluation": {
+        "ex040_e1": "ok"
+      },
+      "ex040_progress": "done _ 1|1 > 1"
+    },
+    "ex041": {
+      "ex041_input": "Când lu faci?",
+      "targets": {
+        "ex041_t01": "Când îl faci?"
+      },
+      "output": {
+        "ex041_o1": "Când îl faci?"
+      },
+      "evaluation": {
+        "ex041_e1": "ok"
+      },
+      "ex041_progress": "done _ 1|1 > 1"
+    },
+    "ex042": {
+      "ex042_input": "Datorită tenului deschis pe care lu avea, Luciana folosi o cremă protectoare înainte de a se întinde pe prosop.",
+      "targets": {
+        "ex042_t01": "Datorită tenului deschis pe care îl avea, Luciana folosi o cremă protectoare înainte de a se întinde pe prosop.",
+        "ex042_t02": "Datorită tenului deschis pe care-l avea, Luciana folosi o cremă protectoare înainte de a se întinde pe prosop.",
+        "ex042_t03": "Datorită tenului deschis pe care îl avea, Luciana folosi o cremă protectoare înainte de a se-ntinde pe prosop.",
+        "ex042_t04": "Datorită tenului deschis pe care-l avea, Luciana folosi o cremă protectoare înainte de a se-ntinde pe prosop."
+      },
+      "output": {
+        "ex042_o1": "Datorită tenului deschis pe care îl avea, Luciana folosi o cremă protectoare înainte de a se întinde pe prosop.",
+        "ex042_o2": "Datorită tenului deschis pe care îl avea, Luciana folosi o cremă protectoare înainte de a se-ntinde pe prosop.",
+        "ex042_o3": "Datorită tenului deschis pe care-l avea, Luciana folosi o cremă protectoare înainte de a se întinde pe prosop.",
+        "ex042_o4": "Datorită tenului deschis pe care-l avea, Luciana folosi o cremă protectoare înainte de a se-ntinde pe prosop."
+      },
+      "evaluation": {
+        "ex042_e1": "ok",
+        "ex042_e2": "ok",
+        "ex042_e3": "ok",
+        "ex042_e4": "ok"
+      },
+      "ex042_progress": "done _ 4|4 > 4"
+    },
+    "ex043": {
+      "ex043_input": "Dați le afară!",
+      "targets": {
+        "ex043_t01": "Dați-le afară!",
+        "ex043_t02": "Dați-le-afară!"
+      },
+      "output": {
+        "ex043_o1": "Dați-le afară!",
+        "ex043_o2": "Dați-le-afară!"
+      },
+      "evaluation": {
+        "ex043_e1": "ok",
+        "ex043_e2": "ok"
+      },
+      "ex043_progress": "done _ 2|2 > 2"
+    },
+    "ex044": {
+      "ex044_input": "Dați mi le afară!",
+      "targets": {
+        "ex044_t01": "Dați-mi-le afară!",
+        "ex044_t02": "Dați-mi-le-afară!"
+      },
+      "output": {
+        "ex044_o1": "Dați-mi-le afară!",
+        "ex044_o2": "Dați-mi-le-afară!"
+      },
+      "evaluation": {
+        "ex044_e1": "ok",
+        "ex044_e2": "ok"
+      },
+      "ex044_progress": "done _ 2|2 > 2"
+    },
+    "ex045": {
+      "ex045_input": "Dați mi o afară!",
+      "targets": {
+        "ex045_t01": "Dați-mi-o afară!"
+      },
+      "output": {
+        "ex045_o1": "Dați-mi-o afară!"
+      },
+      "evaluation": {
+        "ex045_e1": "ok"
+      },
+      "ex045_progress": "done _ 1|1 > 1"
+    },
+    "ex046": {
+      "ex046_input": "Dați o afară!",
+      "targets": {
+        "ex046_t01": "Dați-o afară!"
+      },
+      "output": {
+        "ex046_o1": "Dați-o afară!"
+      },
+      "evaluation": {
+        "ex046_e1": "ok"
+      },
+      "ex046_progress": "done _ 1|1 > 1"
+    },
+    "ex047": {
+      "ex047_input": "De ce i le dai?",
+      "targets": {
+        "ex047_t01": "De ce i le dai?"
+      },
+      "output": {
+        "ex047_o1": "De ce i le dai?"
+      },
+      "evaluation": {
+        "ex047_e1": "ok"
+      },
+      "ex047_progress": "done _ 1|1 > 1"
+    },
+    "ex048": {
+      "ex048_input": "De ce mi le dai?",
+      "targets": {
+        "ex048_t01": "De ce mi le dai?"
+      },
+      "output": {
+        "ex048_o1": "De ce mi le dai?"
+      },
+      "evaluation": {
+        "ex048_e1": "ok"
+      },
+      "ex048_progress": "done _ 1|1 > 1"
+    },
+    "ex049": {
+      "ex049_input": "De ce i dai mere?",
+      "targets": {
+        "ex049_t01": "De ce îi dai mere?",
+        "ex049_t02": "De ce-i dai mere?"
+      },
+      "output": {
+        "ex049_o1": "De ce îi dai mere?",
+        "ex049_o2": "De ce-i dai mere?"
+      },
+      "evaluation": {
+        "ex049_e1": "ok",
+        "ex049_e2": "ok"
+      },
+      "ex049_progress": "done _ 2|2 > 2"
+    },
+    "ex050": {
+      "ex050_input": "De ce mi dai mere?",
+      "targets": {
+        "ex050_t01": "De ce îmi dai mere?",
+        "ex050_t02": "De ce-mi dai mere?"
+      },
+      "output": {
+        "ex050_o1": "De ce îmi dai mere?",
+        "ex050_o2": "De ce-mi dai mere?"
+      },
+      "evaluation": {
+        "ex050_e1": "ok",
+        "ex050_e2": "ok"
+      },
+      "ex050_progress": "done _ 2|2 > 2"
+    },
+    "ex051": {
+      "ex051_input": "De ce i lu ai dat gratis?",
+      "targets": {
+        "ex051_t01": "De ce i l-ai dat gratis?"
+      },
+      "output": {
+        "ex051_o1": "De ce i l-ai dat gratis?"
+      },
+      "evaluation": {
+        "ex051_e1": "ok"
+      },
+      "ex051_progress": "done _ 1|1 > 1"
+    },
+    "ex052": {
+      "ex052_input": "De ce lu ai făcut?",
+      "targets": {
+        "ex052_t01": "De ce l-ai făcut?"
+      },
+      "output": {
+        "ex052_o1": "De ce l-ai făcut?"
+      },
+      "evaluation": {
+        "ex052_e1": "ok"
+      },
+      "ex052_progress": "done _ 1|1 > 1"
+    },
+    "ex053": {
+      "ex053_input": "De ce lu faci?",
+      "targets": {
+        "ex053_t01": "De ce îl faci?",
+        "ex053_t02": "De ce-l faci?"
+      },
+      "output": {
+        "ex053_o1": "De ce îl faci?",
+        "ex053_o2": "De ce-l faci?"
+      },
+      "evaluation": {
+        "ex053_e1": "ok",
+        "ex053_e2": "ok"
+      },
+      "ex053_progress": "done _ 2|2 > 2"
+    },
+    "ex054": {
+      "ex054_input": "De ce lu vei face?",
+      "targets": {
+        "ex054_t01": "De ce îl vei face?",
+        "ex054_t02": "De ce-l vei face?"
+      },
+      "output": {
+        "ex054_o1": "De ce îl vei face?",
+        "ex054_o2": "De ce-l vei face?"
+      },
+      "evaluation": {
+        "ex054_e1": "ok",
+        "ex054_e2": "ok"
+      },
+      "ex054_progress": "done _ 2|2 > 2"
+    },
+    "ex055": {
+      "ex055_input": "Directorul și a reparat el însuși mașina.",
+      "targets": {
+        "ex055_t01": "Directorul și-a reparat el însuși mașina."
+      },
+      "output": {
+        "ex055_o1": "Directorul și-a reparat el însuși mașina."
+      },
+      "evaluation": {
+        "ex055_e1": "ok"
+      },
+      "ex055_progress": "done _ 1|1 > 1"
+    },
+    "ex056": {
+      "ex056_input": "Du te acolo repede!",
+      "targets": {
+        "ex056_t01": "Du-te acolo repede!",
+        "ex056_t02": "Du-te-acolo repede!"
+      },
+      "output": {
+        "ex056_o1": "Du-te acolo repede!",
+        "ex056_o2": "Du-te-acolo repede!"
+      },
+      "evaluation": {
+        "ex056_e1": "ok",
+        "ex056_e2": "ok"
+      },
+      "ex056_progress": "done _ 2|2 > 2"
+    },
+    "ex057": {
+      "ex057_input": "Du te la piață!",
+      "targets": {
+        "ex057_t01": "Du-te la piață!"
+      },
+      "output": {
+        "ex057_o1": "Du-te la piață!"
+      },
+      "evaluation": {
+        "ex057_e1": "ok"
+      },
+      "ex057_progress": "done _ 1|1 > 1"
+    },
+    "ex058": {
+      "ex058_input": "Du te repede acolo!",
+      "targets": {
+        "ex058_t01": "Du-te repede acolo!"
+      },
+      "output": {
+        "ex058_o1": "Du-te repede acolo!"
+      },
+      "evaluation": {
+        "ex058_e1": "ok"
+      },
+      "ex058_progress": "done _ 1|1 > 1"
+    },
+    "ex059": {
+      "ex059_input": "Du te în piață!",
+      "targets": {
+        "ex059_t01": "Du-te în piață!",
+        "ex059_t02": "Du-te-n piață!"
+      },
+      "output": {
+        "ex059_o1": "Du-te în piață!",
+        "ex059_o2": "Du-te-n piață!"
+      },
+      "evaluation": {
+        "ex059_e1": "ok",
+        "ex059_e2": "ok"
+      },
+      "ex059_progress": "done _ 2|2 > 2"
+    },
+    "ex060": {
+      "ex060_input": "Du te încolo!",
+      "targets": {
+        "ex060_t01": "Du-te încolo!",
+        "ex060_t02": "Du-te-ncolo!"
+      },
+      "output": {
+        "ex060_o1": "Du-te încolo!",
+        "ex060_o2": "Du-te-ncolo!"
+      },
+      "evaluation": {
+        "ex060_e1": "ok",
+        "ex060_e2": "ok"
+      },
+      "ex060_progress": "done _ 2|2 > 2"
+    },
+    "ex061": {
+      "ex061_input": "Du te și fă ți temele!",
+      "targets": {
+        "ex061_t01": "Du-te și fă-ți temele!"
+      },
+      "output": {
+        "ex061_o1": "Du-te și fă-ți temele!"
+      },
+      "evaluation": {
+        "ex061_e1": "ok"
+      },
+      "ex061_progress": "done _ 1|1 > 1"
+    },
+    "ex062": {
+      "ex062_input": "Dumnezeu i va da copii mulți.",
+      "targets": {
+        "ex062_t01": "Dumnezeu îi va da copii mulți."
+      },
+      "output": {
+        "ex062_o1": "Dumnezeu îi va da copii mulți."
+      },
+      "evaluation": {
+        "ex062_e1": "ok"
+      },
+      "ex062_progress": "done _ 1|1 > 1"
+    },
+    "ex063": {
+      "ex063_input": "Dând mere Mariei se a bucurat.",
+      "targets": {
+        "ex063_t01": "Dând mere Mariei s-a bucurat."
+      },
+      "output": {
+        "ex063_o1": "Dând mere Mariei s-a bucurat."
+      },
+      "evaluation": {
+        "ex063_e1": "ok"
+      },
+      "ex063_progress": "done _ 1|1 > 1"
+    },
+    "ex064": {
+      "ex064_input": "Dând o Mariei se a bucurat.",
+      "targets": {
+        "ex064_t01": "Dând-o Mariei s-a bucurat."
+      },
+      "output": {
+        "ex064_o1": "Dând-o Mariei s-a bucurat."
+      },
+      "evaluation": {
+        "ex064_e1": "ok"
+      },
+      "ex064_progress": "done _ 1|1 > 1"
+    },
+    "ex065": {
+      "ex065_input": "Dând i mă de nevastă, tata a câștigat mulți bani.",
+      "targets": {
+        "ex065_t01": "Dându-i-mă de nevastă, tata a câștigat mulți bani."
+      },
+      "output": {
+        "ex065_o1": "Dându-i-mă de nevastă, tata a câștigat mulți bani."
+      },
+      "evaluation": {
+        "ex065_e1": "ok"
+      },
+      "ex065_progress": "done _ 1|1 > 1"
+    },
+    "ex066": {
+      "ex066_input": "Dând lu Mariei se a bucurat.",
+      "targets": {
+        "ex066_t01": "Dându-l Mariei s-a bucurat."
+      },
+      "output": {
+        "ex066_o1": "Dându-l Mariei s-a bucurat."
+      },
+      "evaluation": {
+        "ex066_e1": "ok"
+      },
+      "ex066_progress": "done _ 1|1 > 1"
+    },
+    "ex067": {
+      "ex067_input": "Dând lu afară faci bine.",
+      "targets": {
+        "ex067_t01": "Dându-l afară faci bine."
+      },
+      "output": {
+        "ex067_o1": "Dându-l afară faci bine."
+      },
+      "evaluation": {
+        "ex067_e1": "ok"
+      },
+      "ex067_progress": "done _ 1|1 > 1"
+    },
+    "ex068": {
+      "ex068_input": "Dând le Mariei se a bucurat.",
+      "targets": {
+        "ex068_t01": "Dându-le Mariei s-a bucurat."
+      },
+      "output": {
+        "ex068_o1": "Dându-le Mariei s-a bucurat."
+      },
+      "evaluation": {
+        "ex068_e1": "ok"
+      },
+      "ex068_progress": "done _ 1|1 > 1"
+    },
+    "ex069": {
+      "ex069_input": "Dând mi mere mă a bucurat.",
+      "targets": {
+        "ex069_t01": "Dându-mi mere m-a bucurat."
+      },
+      "output": {
+        "ex069_o1": "Dându-mi mere m-a bucurat."
+      },
+      "evaluation": {
+        "ex069_e1": "ok"
+      },
+      "ex069_progress": "done _ 1|1 > 1"
+    },
+    "ex070": {
+      "ex070_input": "Dă i lu avocatului!",
+      "targets": {
+        "ex070_t01": "Dă-i-l avocatului!"
+      },
+      "output": {
+        "ex070_o1": "Dă-i-l avocatului!"
+      },
+      "evaluation": {
+        "ex070_e1": "ok"
+      },
+      "ex070_progress": "done _ 1|1 > 1"
+    },
+    "ex071": {
+      "ex071_input": "Dă i lu gratis!",
+      "targets": {
+        "ex071_t01": "Dă-i-l gratis!"
+      },
+      "output": {
+        "ex071_o1": "Dă-i-l gratis!"
+      },
+      "evaluation": {
+        "ex071_e1": "ok"
+      },
+      "ex071_progress": "done _ 1|1 > 1"
+    },
+    "ex072": {
+      "ex072_input": "Dă lu gratis!",
+      "targets": {
+        "ex072_t01": "Dă-l gratis!"
+      },
+      "output": {
+        "ex072_o1": "Dă-l gratis!"
+      },
+      "evaluation": {
+        "ex072_e1": "ok"
+      },
+      "ex072_progress": "done _ 1|1 > 1"
+    },
+    "ex073": {
+      "ex073_input": "Dă lu încolo!",
+      "targets": {
+        "ex073_t01": "Dă-l încolo!"
+      },
+      "output": {
+        "ex073_o1": "Dă-l încolo!"
+      },
+      "evaluation": {
+        "ex073_e1": "ok"
+      },
+      "ex073_progress": "done _ 1|1 > 1"
+    },
+    "ex074": {
+      "ex074_input": "Dă le altuia!",
+      "targets": {
+        "ex074_t01": "Dă-le altuia!"
+      },
+      "output": {
+        "ex074_o1": "Dă-le altuia!"
+      },
+      "evaluation": {
+        "ex074_e1": "ok"
+      },
+      "ex074_progress": "done _ 1|1 > 1"
+    },
+    "ex075": {
+      "ex075_input": "Dă li mere!",
+      "targets": {
+        "ex075_t01": "Dă-le mere!"
+      },
+      "output": {
+        "ex075_o1": "Dă-le mere!"
+      },
+      "evaluation": {
+        "ex075_e1": "ok"
+      },
+      "ex075_progress": "done _ 1|1 > 1"
+    },
+    "ex076": {
+      "ex076_input": "Dă mi le acum!",
+      "targets": {
+        "ex076_t01": "Dă-mi-le acum!",
+        "ex076_t02": "Dă-mi-le-acum!"
+      },
+      "output": {
+        "ex076_o1": "Dă-mi-le acum!",
+        "ex076_o2": "Dă-mi-le-acum!"
+      },
+      "evaluation": {
+        "ex076_e1": "ok",
+        "ex076_e2": "ok"
+      },
+      "ex076_progress": "done _ 2|2 > 2"
+    },
+    "ex077": {
+      "ex077_input": "Dă mi le gratis!",
+      "targets": {
+        "ex077_t01": "Dă-mi-le gratis!"
+      },
+      "output": {
+        "ex077_o1": "Dă-mi-le gratis!"
+      },
+      "evaluation": {
+        "ex077_e1": "ok"
+      },
+      "ex077_progress": "done _ 1|1 > 1"
+    },
+    "ex078": {
+      "ex078_input": "Dă ne de știre și nouă!",
+      "targets": {
+        "ex078_t01": "Dă-ne de știre și nouă!"
+      },
+      "output": {
+        "ex078_o1": "Dă-ne de știre și nouă!"
+      },
+      "evaluation": {
+        "ex078_e1": "ok"
+      },
+      "ex078_progress": "done _ 1|1 > 1"
+    },
+    "ex079": {
+      "ex079_input": "Ea lu iubește foarte mult.",
+      "targets": {
+        "ex079_t01": "Ea îl iubește foarte mult.",
+        "ex079_t02": "Ea-l iubește foarte mult."
+      },
+      "output": {
+        "ex079_o1": "Ea îl iubește foarte mult.",
+        "ex079_o2": "Ea-l iubește foarte mult."
+      },
+      "evaluation": {
+        "ex079_e1": "ok",
+        "ex079_e2": "ok"
+      },
+      "ex079_progress": "done _ 2|2 > 2"
+    },
+    "ex080": {
+      "ex080_input": "El ne aduce înapoi acasă cu mașina.",
+      "targets": {
+        "ex080_t01": "El ne aduce înapoi acasă cu mașina.",
+        "ex080_t02": "El ne-aduce înapoi acasă cu mașina."
+      },
+      "output": {
+        "ex080_o1": "El ne aduce înapoi acasă cu mașina.",
+        "ex080_o2": "El ne-aduce înapoi acasă cu mașina."
+      },
+      "evaluation": {
+        "ex080_e1": "ok",
+        "ex080_e2": "ok"
+      },
+      "ex080_progress": "done _ 2|2 > 2"
+    },
+    "ex081": {
+      "ex081_input": "El ne arată nouă muzeul.",
+      "targets": {
+        "ex081_t01": "El ne arată nouă muzeul.",
+        "ex081_t02": "El ne-arată nouă muzeul."
+      },
+      "output": {
+        "ex081_o1": "El ne arată nouă muzeul.",
+        "ex081_o2": "El ne-arată nouă muzeul."
+      },
+      "evaluation": {
+        "ex081_e1": "ok",
+        "ex081_e2": "ok"
+      },
+      "ex081_progress": "done _ 2|2 > 2"
+    },
+    "ex082": {
+      "ex082_input": "El ne a colindat, iar noi i am dat mere.",
+      "targets": {
+        "ex082_t01": "El ne-a colindat, iar noi i-am dat mere."
+      },
+      "output": {
+        "ex082_o1": "El ne-a colindat, iar noi i-am dat mere."
+      },
+      "evaluation": {
+        "ex082_e1": "ok"
+      },
+      "ex082_progress": "done _ 1|1 > 1"
+    },
+    "ex083": {
+      "ex083_input": "Eu aș fi lăudată mai des.",
+      "targets": {
+        "ex083_t01": "Eu aș fi lăudată mai des."
+      },
+      "output": {
+        "ex083_o1": "Eu aș fi lăudată mai des."
+      },
+      "evaluation": {
+        "ex083_e1": "ok"
+      },
+      "ex083_progress": "done _ 1|1 > 1"
+    },
+    "ex084": {
+      "ex084_input": "Eu i aș lăuda mai des.",
+      "targets": {
+        "ex084_t01": "Eu i-aș lăuda mai des."
+      },
+      "output": {
+        "ex084_o1": "Eu i-aș lăuda mai des."
+      },
+      "evaluation": {
+        "ex084_e1": "ok"
+      },
+      "ex084_progress": "done _ 1|1 > 1"
+    },
+    "ex085": {
+      "ex085_input": "Fă lu repede!",
+      "targets": {
+        "ex085_t01": "Fă-l repede!"
+      },
+      "output": {
+        "ex085_o1": "Fă-l repede!"
+      },
+      "evaluation": {
+        "ex085_e1": "ok"
+      },
+      "ex085_progress": "done _ 1|1 > 1"
+    },
+    "ex086": {
+      "ex086_input": "Fă mi le acum!",
+      "targets": {
+        "ex086_t01": "Fă-mi-le acum!",
+        "ex086_t02": "Fă-mi-le-acum!"
+      },
+      "output": {
+        "ex086_o1": "Fă-mi-le acum!",
+        "ex086_o2": "Fă-mi-le-acum!"
+      },
+      "evaluation": {
+        "ex086_e1": "ok",
+        "ex086_e2": "ok"
+      },
+      "ex086_progress": "done _ 2|2 > 2"
+    },
+    "ex087": {
+      "ex087_input": "Fă mi le cândva!",
+      "targets": {
+        "ex087_t01": "Fă-mi-le cândva!"
+      },
+      "output": {
+        "ex087_o1": "Fă-mi-le cândva!"
+      },
+      "evaluation": {
+        "ex087_e1": "ok"
+      },
+      "ex087_progress": "done _ 1|1 > 1"
+    },
+    "ex088": {
+      "ex088_input": "Fă mi le repede!",
+      "targets": {
+        "ex088_t01": "Fă-mi-le repede!"
+      },
+      "output": {
+        "ex088_o1": "Fă-mi-le repede!"
+      },
+      "evaluation": {
+        "ex088_e1": "ok"
+      },
+      "ex088_progress": "done _ 1|1 > 1"
+    },
+    "ex089": {
+      "ex089_input": "Face mi le ai acum!",
+      "targets": {
+        "ex089_t01": "Face-mi-le-ai acum!"
+      },
+      "output": {
+        "ex089_o1": "Face-mi-le-ai acum!"
+      },
+      "evaluation": {
+        "ex089_e1": "ok"
+      },
+      "ex089_progress": "done _ 1|1 > 1"
+    },
+    "ex090": {
+      "ex090_input": "Face mi le ai cândva!",
+      "targets": {
+        "ex090_t01": "Face-mi-le-ai cândva!"
+      },
+      "output": {
+        "ex090_o1": "Face-mi-le-ai cândva!"
+      },
+      "evaluation": {
+        "ex090_e1": "ok"
+      },
+      "ex090_progress": "done _ 1|1 > 1"
+    },
+    "ex091": {
+      "ex091_input": "Fă mi ți probleme!",
+      "targets": {
+        "ex091_t01": "Fă-mi-ți probleme!"
+      },
+      "output": {
+        "ex091_o1": "Fă-mi-ți probleme!"
+      },
+      "evaluation": {
+        "ex091_e1": "ok"
+      },
+      "ex091_progress": "done _ 1|1 > 1"
+    },
+    "ex092": {
+      "ex092_input": "Face mi ți ai probleme!",
+      "targets": {
+        "ex092_t01": "Face-mi-ți-ai probleme!"
+      },
+      "output": {
+        "ex092_o1": "Face-mi-ți-ai probleme!"
+      },
+      "evaluation": {
+        "ex092_e1": "ok"
+      },
+      "ex092_progress": "done _ 1|1 > 1"
+    },
+    "ex093": {
+      "ex093_input": "Fă mi ți le acum!",
+      "targets": {
+        "ex093_t01": "Fă-mi-ți-le acum!",
+        "ex093_t02": "Fă-mi-ți-le-acum!"
+      },
+      "output": {
+        "ex093_o1": "Fă-mi-ți-le acum!",
+        "ex093_o2": "Fă-mi-ți-le-acum!"
+      },
+      "evaluation": {
+        "ex093_e1": "ok",
+        "ex093_e2": "ok"
+      },
+      "ex093_progress": "done _ 2|2 > 2"
+    },
+    "ex094": {
+      "ex094_input": "Fă mi ți le cândva!",
+      "targets": {
+        "ex094_t01": "Fă-mi-ți-le cândva!"
+      },
+      "output": {
+        "ex094_o1": "Fă-mi-ți-le cândva!"
+      },
+      "evaluation": {
+        "ex094_e1": "ok"
+      },
+      "ex094_progress": "done _ 1|1 > 1"
+    },
+    "ex095": {
+      "ex095_input": "Face mi ți le ai acum!",
+      "targets": {
+        "ex095_t01": "Face-mi-ți-le-ai acum!"
+      },
+      "output": {
+        "ex095_o1": "Face-mi-ți-le-ai acum!"
+      },
+      "evaluation": {
+        "ex095_e1": "ok"
+      },
+      "ex095_progress": "done _ 1|1 > 1"
+    },
+    "ex096": {
+      "ex096_input": "Face mi ți le ai cândva!",
+      "targets": {
+        "ex096_t01": "Face-mi-ți-le-ai cândva!"
+      },
+      "output": {
+        "ex096_o1": "Face-mi-ți-le-ai cândva!"
+      },
+      "evaluation": {
+        "ex096_e1": "ok"
+      },
+      "ex096_progress": "done _ 1|1 > 1"
+    },
+    "ex097": {
+      "ex097_input": "Fă o repede!",
+      "targets": {
+        "ex097_t01": "Fă-o repede!"
+      },
+      "output": {
+        "ex097_o1": "Fă-o repede!"
+      },
+      "evaluation": {
+        "ex097_e1": "ok"
+      },
+      "ex097_progress": "done _ 1|1 > 1"
+    },
+    "ex098": {
+      "ex098_input": "Fă ți probleme!",
+      "targets": {
+        "ex098_t01": "Fă-ți probleme!"
+      },
+      "output": {
+        "ex098_o1": "Fă-ți probleme!"
+      },
+      "evaluation": {
+        "ex098_e1": "ok"
+      },
+      "ex098_progress": "done _ 1|1 > 1"
+    },
+    "ex099": {
+      "ex099_input": "Fă ți lu repede!",
+      "targets": {
+        "ex099_t01": "Fă-ți-l repede!"
+      },
+      "output": {
+        "ex099_o1": "Fă-ți-l repede!"
+      },
+      "evaluation": {
+        "ex099_e1": "ok"
+      },
+      "ex099_progress": "done _ 1|1 > 1"
+    },
+    "ex100": {
+      "ex100_input": "Fă ți o repede!",
+      "targets": {
+        "ex100_t01": "Fă-ți-o repede!"
+      },
+      "output": {
+        "ex100_o1": "Fă-ți-o repede!"
+      },
+      "evaluation": {
+        "ex100_e1": "ok"
+      },
+      "ex100_progress": "done _ 1|1 > 1"
+    },
+    "ex101": {
+      "ex101_input": "I dai mere.",
+      "targets": {
+        "ex101_t01": "Îi dai mere."
+      },
+      "output": {
+        "ex101_o1": "Îi dai mere."
+      },
+      "evaluation": {
+        "ex101_e1": "ok"
+      },
+      "ex101_progress": "done _ 1|1 > 1"
+    },
+    "ex102": {
+      "ex102_input": "I lu a dat gratis.",
+      "targets": {
+        "ex102_t01": "I l-a dat gratis."
+      },
+      "output": {
+        "ex102_o1": "I l-a dat gratis."
+      },
+      "evaluation": {
+        "ex102_e1": "ok"
+      },
+      "ex102_progress": "done _ 1|1 > 1"
+    },
+    "ex103": {
+      "ex103_input": "I lu a încredințat pe mezin mamei sale.",
+      "targets": {
+        "ex103_t01": "I l-a încredințat pe mezin mamei sale.",
+        "ex103_t02": "I l-a-ncredințat pe mezin mamei sale."
+      },
+      "output": {
+        "ex103_o1": "I l-a încredințat pe mezin mamei sale.",
+        "ex103_o2": "I l-a-ncredințat pe mezin mamei sale."
+      },
+      "evaluation": {
+        "ex103_e1": "ok",
+        "ex103_e2": "ok"
+      },
+      "ex103_progress": "done _ 2|2 > 2"
+    },
+    "ex104": {
+      "ex104_input": "I le mai aduci repede.",
+      "targets": {
+        "ex104_t01": "I le mai aduci repede."
+      },
+      "output": {
+        "ex104_o1": "I le mai aduci repede."
+      },
+      "evaluation": {
+        "ex104_e1": "ok"
+      },
+      "ex104_progress": "done _ 1|1 > 1"
+    },
+    "ex105": {
+      "ex105_input": "I văd acolo.",
+      "targets": {
+        "ex105_t01": "Îi văd acolo."
+      },
+      "output": {
+        "ex105_o1": "Îi văd acolo."
+      },
+      "evaluation": {
+        "ex105_e1": "ok"
+      },
+      "ex105_progress": "done _ 1|1 > 1"
+    },
+    "ex106": {
+      "ex106_input": "I am scris profesoarei de franceză a vecinului.",
+      "targets": {
+        "ex106_t01": "I-am scris profesoarei de franceză a vecinului."
+      },
+      "output": {
+        "ex106_o1": "I-am scris profesoarei de franceză a vecinului."
+      },
+      "evaluation": {
+        "ex106_e1": "ok"
+      },
+      "ex106_progress": "done _ 1|1 > 1"
+    },
+    "ex107": {
+      "ex107_input": "I am văzut și i am auzit.",
+      "targets": {
+        "ex107_t01": "I-am văzut și i-am auzit."
+      },
+      "output": {
+        "ex107_o1": "I-am văzut și i-am auzit."
+      },
+      "evaluation": {
+        "ex107_e1": "ok"
+      },
+      "ex107_progress": "done _ 1|1 > 1"
+    },
+    "ex108": {
+      "ex108_input": "I au dat mere.",
+      "targets": {
+        "ex108_t01": "I-au dat mere."
+      },
+      "output": {
+        "ex108_o1": "I-au dat mere."
+      },
+      "evaluation": {
+        "ex108_e1": "ok"
+      },
+      "ex108_progress": "done _ 1|1 > 1"
+    },
+    "ex109": {
+      "ex109_input": "I au văzut acolo.",
+      "targets": {
+        "ex109_t01": "I-au văzut acolo."
+      },
+      "output": {
+        "ex109_o1": "I-au văzut acolo."
+      },
+      "evaluation": {
+        "ex109_e1": "ok"
+      },
+      "ex109_progress": "done _ 1|1 > 1"
+    },
+    "ex110": {
+      "ex110_input": "I lu binecuvântez pe copil.",
+      "targets": {
+        "ex110_t01": "I-l binecuvântez pe copil."
+      },
+      "output": {
+        "ex110_o1": "I-l binecuvântez pe copil."
+      },
+      "evaluation": {
+        "ex110_e1": "ok"
+      },
+      "ex110_progress": "done _ 1|1 > 1"
+    },
+    "ex111": {
+      "ex111_input": "I lu dau gratis.",
+      "targets": {
+        "ex111_t01": "I-l dau gratis."
+      },
+      "output": {
+        "ex111_o1": "I-l dau gratis."
+      },
+      "evaluation": {
+        "ex111_e1": "ok"
+      },
+      "ex111_progress": "done _ 1|1 > 1"
+    },
+    "ex112": {
+      "ex112_input": "I o cumpăr repede.",
+      "targets": {
+        "ex112_t01": "I-o cumpăr repede."
+      },
+      "output": {
+        "ex112_o1": "I-o cumpăr repede."
+      },
+      "evaluation": {
+        "ex112_e1": "ok"
+      },
+      "ex112_progress": "done _ 1|1 > 1"
+    },
+    "ex113": {
+      "ex113_input": "I o spui repede!",
+      "targets": {
+        "ex113_t01": "I-o spui repede!"
+      },
+      "output": {
+        "ex113_o1": "I-o spui repede!"
+      },
+      "evaluation": {
+        "ex113_e1": "ok"
+      },
+      "ex113_progress": "done _ 1|1 > 1"
+    },
+    "ex114": {
+      "ex114_input": "Ia ți mă drept martor, și vei câstiga procesul!",
+      "targets": {
+        "ex114_t01": "Ia-ți-mă drept martor, și vei câstiga procesul!"
+      },
+      "output": {
+        "ex114_o1": "Ia-ți-mă drept martor, și vei câstiga procesul!"
+      },
+      "evaluation": {
+        "ex114_e1": "ok"
+      },
+      "ex114_progress": "done _ 1|1 > 1"
+    },
+    "ex115": {
+      "ex115_input": "Iată lu pe Vasile!",
+      "targets": {
+        "ex115_t01": "Iată-l pe Vasile!"
+      },
+      "output": {
+        "ex115_o1": "Iată-l pe Vasile!"
+      },
+      "evaluation": {
+        "ex115_e1": "ok"
+      },
+      "ex115_progress": "done _ 1|1 > 1"
+    },
+    "ex116": {
+      "ex116_input": "Ieri am rugat o de trei ori să dea o auditie.",
+      "targets": {
+        "ex116_t01": "Ieri am rugat-o de trei ori să dea o auditie."
+      },
+      "output": {
+        "ex116_o1": "Ieri am rugat-o de trei ori să dea o auditie."
+      },
+      "evaluation": {
+        "ex116_e1": "ok"
+      },
+      "ex116_progress": "done _ 1|1 > 1"
+    },
+    "ex117": {
+      "ex117_input": "Ieri lu am rugat de trei ori să dea o auditie.",
+      "targets": {
+        "ex117_t01": "Ieri l-am rugat de trei ori să dea o auditie."
+      },
+      "output": {
+        "ex117_o1": "Ieri l-am rugat de trei ori să dea o auditie."
+      },
+      "evaluation": {
+        "ex117_e1": "ok"
+      },
+      "ex117_progress": "done _ 1|1 > 1"
+    },
+    "ex118": {
+      "ex118_input": "Kant, a cărui concepție a libertății este cunoscută bine in filozofia occidentală, a locuit toată viața în același oraș.",
+      "targets": {
+        "ex118_t01": "Kant, a cărui concepție a libertății este cunoscută bine in filozofia occidentală, a locuit toată viața în același oraș.",
+        "ex118_t02": "Kant, a cărui concepție a libertății este cunoscută bine in filozofia occidentală, a locuit toată viața-n același oraș."
+      },
+      "output": {
+        "ex118_o1": "Kant, a cărui concepție a libertății este cunoscută bine in filozofia occidentală, a locuit toată viața în același oraș.",
+        "ex118_o2": "Kant, a cărui concepție a libertății este cunoscută bine in filozofia occidentală, a locuit toată viața-n același oraș."
+      },
+      "evaluation": {
+        "ex118_e1": "ok",
+        "ex118_e2": "ok"
+      },
+      "ex118_progress": "done _ 2|2 > 2"
+    },
+    "ex119": {
+      "ex119_input": "Lu am adus azi.",
+      "targets": {
+        "ex119_t01": "L-am adus azi."
+      },
+      "output": {
+        "ex119_o1": "L-am adus azi."
+      },
+      "evaluation": {
+        "ex119_e1": "ok"
+      },
+      "ex119_progress": "done _ 1|1 > 1"
+    },
+    "ex120": {
+      "ex120_input": "Lu am citit și lu am înțeles.",
+      "targets": {
+        "ex120_t01": "L-am citit și l-am înțeles."
+      },
+      "output": {
+        "ex120_o1": "L-am citit și l-am înțeles."
+      },
+      "evaluation": {
+        "ex120_e1": "ok"
+      },
+      "ex120_progress": "done _ 1|1 > 1"
+    },
+    "ex121": {
+      "ex121_input": "Lu am citit și lu voi înțelege.",
+      "targets": {
+        "ex121_t01": "L-am citit și îl voi înțelege.",
+        "ex121_t02": "L-am citit și-l voi înțelege."
+      },
+      "output": {
+        "ex121_o1": "L-am citit și îl voi înțelege.",
+        "ex121_o2": "L-am citit și-l voi înțelege."
+      },
+      "evaluation": {
+        "ex121_e1": "ok",
+        "ex121_e2": "ok"
+      },
+      "ex121_progress": "done _ 2|2 > 2"
+    },
+    "ex122": {
+      "ex122_input": "Lu am cumpărat repede.",
+      "targets": {
+        "ex122_t01": "L-am cumpărat repede."
+      },
+      "output": {
+        "ex122_o1": "L-am cumpărat repede."
+      },
+      "evaluation": {
+        "ex122_e1": "ok"
+      },
+      "ex122_progress": "done _ 1|1 > 1"
+    },
+    "ex123": {
+      "ex123_input": "Lu am dat gratis.",
+      "targets": {
+        "ex123_t01": "L-am dat gratis."
+      },
+      "output": {
+        "ex123_o1": "L-am dat gratis."
+      },
+      "evaluation": {
+        "ex123_e1": "ok"
+      },
+      "ex123_progress": "done _ 1|1 > 1"
+    },
+    "ex124": {
+      "ex124_input": "Lu am mâncat repede.",
+      "targets": {
+        "ex124_t01": "L-am mâncat repede."
+      },
+      "output": {
+        "ex124_o1": "L-am mâncat repede."
+      },
+      "evaluation": {
+        "ex124_e1": "ok"
+      },
+      "ex124_progress": "done _ 1|1 > 1"
+    },
+    "ex125": {
+      "ex125_input": "Lu ar mânca repede.",
+      "targets": {
+        "ex125_t01": "L-ar mânca repede."
+      },
+      "output": {
+        "ex125_o1": "L-ar mânca repede."
+      },
+      "evaluation": {
+        "ex125_e1": "ok"
+      },
+      "ex125_progress": "done _ 1|1 > 1"
+    },
+    "ex126": {
+      "ex126_input": "Lu aș mânca repede.",
+      "targets": {
+        "ex126_t01": "L-aș mânca repede."
+      },
+      "output": {
+        "ex126_o1": "L-aș mânca repede."
+      },
+      "evaluation": {
+        "ex126_e1": "ok"
+      },
+      "ex126_progress": "done _ 1|1 > 1"
+    },
+    "ex127": {
+      "ex127_input": "Le aduci acolo.",
+      "targets": {
+        "ex127_t01": "Le aduci acolo.",
+        "ex127_t02": "Le-aduci acolo."
+      },
+      "output": {
+        "ex127_o1": "Le aduci acolo.",
+        "ex127_o2": "Le-aduci acolo."
+      },
+      "evaluation": {
+        "ex127_e1": "ok",
+        "ex127_e2": "ok"
+      },
+      "ex127_progress": "done _ 2|2 > 2"
+    },
+    "ex128": {
+      "ex128_input": "Li aduci mere.",
+      "targets": {
+        "ex128_t01": "Le aduci mere.",
+        "ex128_t02": "Le-aduci mere."
+      },
+      "output": {
+        "ex128_o1": "Le aduci mere.",
+        "ex128_o2": "Le-aduci mere."
+      },
+      "evaluation": {
+        "ex128_e1": "ok",
+        "ex128_e2": "ok"
+      },
+      "ex128_progress": "done _ 2|2 > 2"
+    },
+    "ex129": {
+      "ex129_input": "Li arăt muzeul.",
+      "targets": {
+        "ex129_t01": "Le arăt muzeul.",
+        "ex129_t02": "Le-arăt muzeul."
+      },
+      "output": {
+        "ex129_o1": "Le arăt muzeul.",
+        "ex129_o2": "Le-arăt muzeul."
+      },
+      "evaluation": {
+        "ex129_e1": "ok",
+        "ex129_e2": "ok"
+      },
+      "ex129_progress": "done _ 2|2 > 2"
+    },
+    "ex130": {
+      "ex130_input": "Li dai mere.",
+      "targets": {
+        "ex130_t01": "Le dai mere."
+      },
+      "output": {
+        "ex130_o1": "Le dai mere."
+      },
+      "evaluation": {
+        "ex130_e1": "ok"
+      },
+      "ex130_progress": "done _ 1|1 > 1"
+    },
+    "ex131": {
+      "ex131_input": "Le dați afară.",
+      "targets": {
+        "ex131_t01": "Le dați afară."
+      },
+      "output": {
+        "ex131_o1": "Le dați afară."
+      },
+      "evaluation": {
+        "ex131_e1": "ok"
+      },
+      "ex131_progress": "done _ 1|1 > 1"
+    },
+    "ex132": {
+      "ex132_input": "Li e sete.",
+      "targets": {
+        "ex132_t01": "Le e sete.",
+        "ex132_t02": "Li-e sete."
+      },
+      "output": {
+        "ex132_o1": "Le e sete.",
+        "ex132_o2": "Li-e sete."
+      },
+      "evaluation": {
+        "ex132_e1": "ok",
+        "ex132_e2": "ok"
+      },
+      "ex132_progress": "done _ 2|2 > 2"
+    },
+    "ex133": {
+      "ex133_input": "Le văd acolo.",
+      "targets": {
+        "ex133_t01": "Le văd acolo."
+      },
+      "output": {
+        "ex133_o1": "Le văd acolo."
+      },
+      "evaluation": {
+        "ex133_e1": "ok"
+      },
+      "ex133_progress": "done _ 1|1 > 1"
+    },
+    "ex134": {
+      "ex134_input": "Li am cumpărat o carte.",
+      "targets": {
+        "ex134_t01": "Le-am cumpărat o carte."
+      },
+      "output": {
+        "ex134_o1": "Le-am cumpărat o carte."
+      },
+      "evaluation": {
+        "ex134_e1": "ok"
+      },
+      "ex134_progress": "done _ 1|1 > 1"
+    },
+    "ex135": {
+      "ex135_input": "Le am cumpărat repede.",
+      "targets": {
+        "ex135_t01": "Le-am cumpărat repede."
+      },
+      "output": {
+        "ex135_o1": "Le-am cumpărat repede."
+      },
+      "evaluation": {
+        "ex135_e1": "ok"
+      },
+      "ex135_progress": "done _ 1|1 > 1"
+    },
+    "ex136": {
+      "ex136_input": "Li am cumpărat o repede.",
+      "targets": {
+        "ex136_t01": "Le-am cumpărat-o repede."
+      },
+      "output": {
+        "ex136_o1": "Le-am cumpărat-o repede."
+      },
+      "evaluation": {
+        "ex136_e1": "ok"
+      },
+      "ex136_progress": "done _ 1|1 > 1"
+    },
+    "ex137": {
+      "ex137_input": "Le au văzut acolo.",
+      "targets": {
+        "ex137_t01": "Le-au văzut acolo."
+      },
+      "output": {
+        "ex137_o1": "Le-au văzut acolo."
+      },
+      "evaluation": {
+        "ex137_e1": "ok"
+      },
+      "ex137_progress": "done _ 1|1 > 1"
+    },
+    "ex138": {
+      "ex138_input": "Li o întind acolo.",
+      "targets": {
+        "ex138_t01": "Le-o întind acolo.",
+        "ex138_t02": "Le-o-ntind acolo."
+      },
+      "output": {
+        "ex138_o1": "Le-o întind acolo.",
+        "ex138_o2": "Le-o-ntind acolo."
+      },
+      "evaluation": {
+        "ex138_e1": "ok",
+        "ex138_e2": "ok"
+      },
+      "ex138_progress": "done _ 2|2 > 2"
+    },
+    "ex139": {
+      "ex139_input": "Li lu a dat gratis.",
+      "targets": {
+        "ex139_t01": "Li l-a dat gratis."
+      },
+      "output": {
+        "ex139_o1": "Li l-a dat gratis."
+      },
+      "evaluation": {
+        "ex139_e1": "ok"
+      },
+      "ex139_progress": "done _ 1|1 > 1"
+    },
+    "ex140": {
+      "ex140_input": "Li i dă gratis.",
+      "targets": {
+        "ex140_t01": "Li-i dă gratis."
+      },
+      "output": {
+        "ex140_o1": "Li-i dă gratis."
+      },
+      "evaluation": {
+        "ex140_e1": "ok"
+      },
+      "ex140_progress": "done _ 1|1 > 1"
+    },
+    "ex141": {
+      "ex141_input": "Li lu dă gratis.",
+      "targets": {
+        "ex141_t01": "Li-l dă gratis."
+      },
+      "output": {
+        "ex141_o1": "Li-l dă gratis."
+      },
+      "evaluation": {
+        "ex141_e1": "ok"
+      },
+      "ex141_progress": "done _ 1|1 > 1"
+    },
+    "ex142": {
+      "ex142_input": "Mă ai văzut clar.",
+      "targets": {
+        "ex142_t01": "M-ai văzut clar."
+      },
+      "output": {
+        "ex142_o1": "M-ai văzut clar."
+      },
+      "evaluation": {
+        "ex142_e1": "ok"
+      },
+      "ex142_progress": "done _ 1|1 > 1"
+    },
+    "ex143": {
+      "ex143_input": "Mă am prezentat repede.",
+      "targets": {
+        "ex143_t01": "M-am prezentat repede."
+      },
+      "output": {
+        "ex143_o1": "M-am prezentat repede."
+      },
+      "evaluation": {
+        "ex143_e1": "ok"
+      },
+      "ex143_progress": "done _ 1|1 > 1"
+    },
+    "ex144": {
+      "ex144_input": "Mă au văzut acolo.",
+      "targets": {
+        "ex144_t01": "M-au văzut acolo."
+      },
+      "output": {
+        "ex144_o1": "M-au văzut acolo."
+      },
+      "evaluation": {
+        "ex144_e1": "ok"
+      },
+      "ex144_progress": "done _ 1|1 > 1"
+    },
+    "ex145": {
+      "ex145_input": "Mai adu i le repede!",
+      "targets": {
+        "ex145_t01": "Mai adu-i-le repede!"
+      },
+      "output": {
+        "ex145_o1": "Mai adu-i-le repede!"
+      },
+      "evaluation": {
+        "ex145_e1": "ok"
+      },
+      "ex145_progress": "done _ 1|1 > 1"
+    },
+    "ex146": {
+      "ex146_input": "Mama ne aduce mere.",
+      "targets": {
+        "ex146_t01": "Mama ne aduce mere.",
+        "ex146_t02": "Mama ne-aduce mere."
+      },
+      "output": {
+        "ex146_o1": "Mama ne aduce mere.",
+        "ex146_o2": "Mama ne-aduce mere."
+      },
+      "evaluation": {
+        "ex146_e1": "ok",
+        "ex146_e2": "ok"
+      },
+      "ex146_progress": "done _ 2|2 > 2"
+    },
+    "ex147": {
+      "ex147_input": "Mama ne place mult.",
+      "targets": {
+        "ex147_t01": "Mama ne place mult."
+      },
+      "output": {
+        "ex147_o1": "Mama ne place mult."
+      },
+      "evaluation": {
+        "ex147_e1": "ok"
+      },
+      "ex147_progress": "done _ 1|1 > 1"
+    },
+    "ex148": {
+      "ex148_input": "Mama lu aduce repede.",
+      "targets": {
+        "ex148_t01": "Mama îl aduce repede.",
+        "ex148_t02": "Mama-l aduce repede.",
+        "ex148_t03": "Mama l-aduce repede."
+      },
+      "output": {
+        "ex148_o1": "Mama îl aduce repede.",
+        "ex148_o2": "Mama l-aduce repede.",
+        "ex148_o3": "Mama-l aduce repede."
+      },
+      "evaluation": {
+        "ex148_e1": "ok",
+        "ex148_e2": "ok",
+        "ex148_e3": "ok"
+      },
+      "ex148_progress": "done _ 3|3 > 3"
+    },
+    "ex149": {
+      "ex149_input": "Mama lu place mult.",
+      "targets": {
+        "ex149_t01": "Mama îl place mult.",
+        "ex149_t02": "Mama-l place mult."
+      },
+      "output": {
+        "ex149_o1": "Mama îl place mult.",
+        "ex149_o2": "Mama-l place mult."
+      },
+      "evaluation": {
+        "ex149_e1": "ok",
+        "ex149_e2": "ok"
+      },
+      "ex149_progress": "done _ 2|2 > 2"
+    },
+    "ex150": {
+      "ex150_input": "Mama mi aduce mere.",
+      "targets": {
+        "ex150_t01": "Mama îmi aduce mere.",
+        "ex150_t02": "Mama-mi aduce mere.",
+        "ex150_t03": "Mama mi-aduce mere."
+      },
+      "output": {
+        "ex150_o1": "Mama îmi aduce mere.",
+        "ex150_o2": "Mama mi-aduce mere.",
+        "ex150_o3": "Mama-mi aduce mere."
+      },
+      "evaluation": {
+        "ex150_e1": "ok",
+        "ex150_e2": "ok",
+        "ex150_e3": "ok"
+      },
+      "ex150_progress": "done _ 3|3 > 3"
+    },
+    "ex151": {
+      "ex151_input": "Mama mi place mult.",
+      "targets": {
+        "ex151_t01": "Mama îmi place mult.",
+        "ex151_t02": "Mama-mi place mult."
+      },
+      "output": {
+        "ex151_o1": "Mama îmi place mult.",
+        "ex151_o2": "Mama-mi place mult."
+      },
+      "evaluation": {
+        "ex151_e1": "ok",
+        "ex151_e2": "ok"
+      },
+      "ex151_progress": "done _ 2|2 > 2"
+    },
+    "ex152": {
+      "ex152_input": "Mamei sale i lu a încredințat pe mezin.",
+      "targets": {
+        "ex152_t01": "Mamei sale i l-a încredințat pe mezin.",
+        "ex152_t02": "Mamei sale i l-a-ncredințat pe mezin."
+      },
+      "output": {
+        "ex152_o1": "Mamei sale i l-a încredințat pe mezin.",
+        "ex152_o2": "Mamei sale i l-a-ncredințat pe mezin."
+      },
+      "evaluation": {
+        "ex152_e1": "ok",
+        "ex152_e2": "ok"
+      },
+      "ex152_progress": "done _ 2|2 > 2"
+    },
+    "ex153": {
+      "ex153_input": "Maria mă așteaptă de o oră.",
+      "targets": {
+        "ex153_t01": "Maria mă așteaptă de o oră.",
+        "ex153_t02": "Maria m-așteaptă de o oră."
+      },
+      "output": {
+        "ex153_o1": "Maria mă așteaptă de o oră.",
+        "ex153_o2": "Maria m-așteaptă de o oră."
+      },
+      "evaluation": {
+        "ex153_e1": "ok",
+        "ex153_e2": "ok"
+      },
+      "ex153_progress": "done _ 2|2 > 2"
+    },
+    "ex154": {
+      "ex154_input": "Maria te așteaptă de o oră.",
+      "targets": {
+        "ex154_t01": "Maria te așteaptă de o oră.",
+        "ex154_t02": "Maria te-așteaptă de o oră."
+      },
+      "output": {
+        "ex154_o1": "Maria te așteaptă de o oră.",
+        "ex154_o2": "Maria te-așteaptă de o oră."
+      },
+      "evaluation": {
+        "ex154_e1": "ok",
+        "ex154_e2": "ok"
+      },
+      "ex154_progress": "done _ 2|2 > 2"
+    },
+    "ex155": {
+      "ex155_input": "Maria i așteaptă de o oră.",
+      "targets": {
+        "ex155_t01": "Maria îi așteaptă de o oră.",
+        "ex155_t02": "Maria-i așteaptă de o oră.",
+        "ex155_t03": "Maria i-așteaptă de o oră."
+      },
+      "output": {
+        "ex155_o1": "Maria îi așteaptă de o oră.",
+        "ex155_o2": "Maria i-așteaptă de o oră.",
+        "ex155_o3": "Maria-i așteaptă de o oră."
+      },
+      "evaluation": {
+        "ex155_e1": "ok",
+        "ex155_e2": "ok",
+        "ex155_e3": "ok"
+      },
+      "ex155_progress": "done _ 3|3 > 3"
+    },
+    "ex156": {
+      "ex156_input": "Maria lu așteaptă de o oră.",
+      "targets": {
+        "ex156_t01": "Maria îl așteaptă de o oră.",
+        "ex156_t02": "Maria-l așteaptă de o oră.",
+        "ex156_t03": "Maria l-așteaptă de o oră."
+      },
+      "output": {
+        "ex156_o1": "Maria îl așteaptă de o oră.",
+        "ex156_o2": "Maria l-așteaptă de o oră.",
+        "ex156_o3": "Maria-l așteaptă de o oră."
+      },
+      "evaluation": {
+        "ex156_e1": "ok",
+        "ex156_e2": "ok",
+        "ex156_e3": "ok"
+      },
+      "ex156_progress": "done _ 3|3 > 3"
+    },
+    "ex157": {
+      "ex157_input": "Mi lu a dat gratis.",
+      "targets": {
+        "ex157_t01": "Mi l-a dat gratis."
+      },
+      "output": {
+        "ex157_o1": "Mi l-a dat gratis."
+      },
+      "evaluation": {
+        "ex157_e1": "ok"
+      },
+      "ex157_progress": "done _ 1|1 > 1"
+    },
+    "ex158": {
+      "ex158_input": "Mi lu ai dat gratis.",
+      "targets": {
+        "ex158_t01": "Mi l-ai dat gratis."
+      },
+      "output": {
+        "ex158_o1": "Mi l-ai dat gratis."
+      },
+      "evaluation": {
+        "ex158_e1": "ok"
+      },
+      "ex158_progress": "done _ 1|1 > 1"
+    },
+    "ex159": {
+      "ex159_input": "Mi lu ai face cândva.",
+      "targets": {
+        "ex159_t01": "Mi l-ai face cândva."
+      },
+      "output": {
+        "ex159_o1": "Mi l-ai face cândva."
+      },
+      "evaluation": {
+        "ex159_e1": "ok"
+      },
+      "ex159_progress": "done _ 1|1 > 1"
+    },
+    "ex160": {
+      "ex160_input": "Mi lu oi face cândva.",
+      "targets": {
+        "ex160_t01": "Mi l-oi face cândva."
+      },
+      "output": {
+        "ex160_o1": "Mi l-oi face cândva."
+      },
+      "evaluation": {
+        "ex160_e1": "ok"
+      },
+      "ex160_progress": "done _ 1|1 > 1"
+    },
+    "ex161": {
+      "ex161_input": "Mi le aduci acum.",
+      "targets": {
+        "ex161_t01": "Mi le aduci acum.",
+        "ex161_t02": "Mi le-aduci acum."
+      },
+      "output": {
+        "ex161_o1": "Mi le aduci acum.",
+        "ex161_o2": "Mi le-aduci acum."
+      },
+      "evaluation": {
+        "ex161_e1": "ok",
+        "ex161_e2": "ok"
+      },
+      "ex161_progress": "done _ 2|2 > 2"
+    },
+    "ex162": {
+      "ex162_input": "Mi le dai gratis.",
+      "targets": {
+        "ex162_t01": "Mi le dai gratis."
+      },
+      "output": {
+        "ex162_o1": "Mi le dai gratis."
+      },
+      "evaluation": {
+        "ex162_e1": "ok"
+      },
+      "ex162_progress": "done _ 1|1 > 1"
+    },
+    "ex163": {
+      "ex163_input": "Mi le faci acum.",
+      "targets": {
+        "ex163_t01": "Mi le faci acum."
+      },
+      "output": {
+        "ex163_o1": "Mi le faci acum."
+      },
+      "evaluation": {
+        "ex163_e1": "ok"
+      },
+      "ex163_progress": "done _ 1|1 > 1"
+    },
+    "ex164": {
+      "ex164_input": "Mi le vei face cândva.",
+      "targets": {
+        "ex164_t01": "Mi le vei face cândva."
+      },
+      "output": {
+        "ex164_o1": "Mi le vei face cândva."
+      },
+      "evaluation": {
+        "ex164_e1": "ok"
+      },
+      "ex164_progress": "done _ 1|1 > 1"
+    },
+    "ex165": {
+      "ex165_input": "Mi le ai face cândva.",
+      "targets": {
+        "ex165_t01": "Mi le-ai face cândva."
+      },
+      "output": {
+        "ex165_o1": "Mi le-ai face cândva."
+      },
+      "evaluation": {
+        "ex165_e1": "ok"
+      },
+      "ex165_progress": "done _ 1|1 > 1"
+    },
+    "ex166": {
+      "ex166_input": "Mi le oi face cândva.",
+      "targets": {
+        "ex166_t01": "Mi le-oi face cândva."
+      },
+      "output": {
+        "ex166_o1": "Mi le-oi face cândva."
+      },
+      "evaluation": {
+        "ex166_e1": "ok"
+      },
+      "ex166_progress": "done _ 1|1 > 1"
+    },
+    "ex167": {
+      "ex167_input": "Mi se pare că se aude un cuc.",
+      "targets": {
+        "ex167_t01": "Mi se pare că se aude un cuc.",
+        "ex167_t02": "Mi se pare că se-aude un cuc."
+      },
+      "output": {
+        "ex167_o1": "Mi se pare că se aude un cuc.",
+        "ex167_o2": "Mi se pare că se-aude un cuc."
+      },
+      "evaluation": {
+        "ex167_e1": "ok",
+        "ex167_e2": "ok"
+      },
+      "ex167_progress": "done _ 2|2 > 2"
+    },
+    "ex168": {
+      "ex168_input": "Mi ți lu ai face cândva.",
+      "targets": {
+        "ex168_t01": "Mi ți l-ai face cândva."
+      },
+      "output": {
+        "ex168_o1": "Mi ți l-ai face cândva."
+      },
+      "evaluation": {
+        "ex168_e1": "ok"
+      },
+      "ex168_progress": "done _ 1|1 > 1"
+    },
+    "ex169": {
+      "ex169_input": "Mi ți lu oi face cândva.",
+      "targets": {
+        "ex169_t01": "Mi ți l-oi face cândva."
+      },
+      "output": {
+        "ex169_o1": "Mi ți l-oi face cândva."
+      },
+      "evaluation": {
+        "ex169_e1": "ok"
+      },
+      "ex169_progress": "done _ 1|1 > 1"
+    },
+    "ex170": {
+      "ex170_input": "Mi ți le faci cândva.",
+      "targets": {
+        "ex170_t01": "Mi ți le faci cândva."
+      },
+      "output": {
+        "ex170_o1": "Mi ți le faci cândva."
+      },
+      "evaluation": {
+        "ex170_e1": "ok"
+      },
+      "ex170_progress": "done _ 1|1 > 1"
+    },
+    "ex171": {
+      "ex171_input": "Mi ți le vei face cândva.",
+      "targets": {
+        "ex171_t01": "Mi ți le vei face cândva."
+      },
+      "output": {
+        "ex171_o1": "Mi ți le vei face cândva."
+      },
+      "evaluation": {
+        "ex171_e1": "ok"
+      },
+      "ex171_progress": "done _ 1|1 > 1"
+    },
+    "ex172": {
+      "ex172_input": "Mi ți le ai face cândva.",
+      "targets": {
+        "ex172_t01": "Mi ți le-ai face cândva."
+      },
+      "output": {
+        "ex172_o1": "Mi ți le-ai face cândva."
+      },
+      "evaluation": {
+        "ex172_e1": "ok"
+      },
+      "ex172_progress": "done _ 1|1 > 1"
+    },
+    "ex173": {
+      "ex173_input": "Mi ți le oi face cândva.",
+      "targets": {
+        "ex173_t01": "Mi ți le-oi face cândva."
+      },
+      "output": {
+        "ex173_o1": "Mi ți le-oi face cândva."
+      },
+      "evaluation": {
+        "ex173_e1": "ok"
+      },
+      "ex173_progress": "done _ 1|1 > 1"
+    },
+    "ex174": {
+      "ex174_input": "Mi ți ai facut probleme.",
+      "targets": {
+        "ex174_t01": "Mi ți-ai facut probleme."
+      },
+      "output": {
+        "ex174_o1": "Mi ți-ai facut probleme."
+      },
+      "evaluation": {
+        "ex174_e1": "ok"
+      },
+      "ex174_progress": "done _ 1|1 > 1"
+    },
+    "ex175": {
+      "ex175_input": "Mi ți lu bate de nu se vede.",
+      "targets": {
+        "ex175_t01": "Mi ți-l bate de nu se vede."
+      },
+      "output": {
+        "ex175_o1": "Mi ți-l bate de nu se vede."
+      },
+      "evaluation": {
+        "ex175_e1": "ok"
+      },
+      "ex175_progress": "done _ 1|1 > 1"
+    },
+    "ex176": {
+      "ex176_input": "Mi ți lu bate pe copil.",
+      "targets": {
+        "ex176_t01": "Mi ți-l bate pe copil."
+      },
+      "output": {
+        "ex176_o1": "Mi ți-l bate pe copil."
+      },
+      "evaluation": {
+        "ex176_e1": "ok"
+      },
+      "ex176_progress": "done _ 1|1 > 1"
+    },
+    "ex177": {
+      "ex177_input": "Mi ți lu faci cândva.",
+      "targets": {
+        "ex177_t01": "Mi ți-l faci cândva."
+      },
+      "output": {
+        "ex177_o1": "Mi ți-l faci cândva."
+      },
+      "evaluation": {
+        "ex177_e1": "ok"
+      },
+      "ex177_progress": "done _ 1|1 > 1"
+    },
+    "ex178": {
+      "ex178_input": "Mi ți lu vei face cândva.",
+      "targets": {
+        "ex178_t01": "Mi ți-l vei face cândva."
+      },
+      "output": {
+        "ex178_o1": "Mi ți-l vei face cândva."
+      },
+      "evaluation": {
+        "ex178_e1": "ok"
+      },
+      "ex178_progress": "done _ 1|1 > 1"
+    },
+    "ex179": {
+      "ex179_input": "Mi ți o faci cândva.",
+      "targets": {
+        "ex179_t01": "Mi ți-o faci cândva."
+      },
+      "output": {
+        "ex179_o1": "Mi ți-o faci cândva."
+      },
+      "evaluation": {
+        "ex179_e1": "ok"
+      },
+      "ex179_progress": "done _ 1|1 > 1"
+    },
+    "ex180": {
+      "ex180_input": "Mi a dat mere gratis.",
+      "targets": {
+        "ex180_t01": "Mi-a dat mere gratis."
+      },
+      "output": {
+        "ex180_o1": "Mi-a dat mere gratis."
+      },
+      "evaluation": {
+        "ex180_e1": "ok"
+      },
+      "ex180_progress": "done _ 1|1 > 1"
+    },
+    "ex181": {
+      "ex181_input": "Mi ai dat o gratis.",
+      "targets": {
+        "ex181_t01": "Mi-ai dat-o gratis."
+      },
+      "output": {
+        "ex181_o1": "Mi-ai dat-o gratis."
+      },
+      "evaluation": {
+        "ex181_e1": "ok"
+      },
+      "ex181_progress": "done _ 1|1 > 1"
+    },
+    "ex182": {
+      "ex182_input": "Mi lu dai gratis.",
+      "targets": {
+        "ex182_t01": "Mi-l dai gratis."
+      },
+      "output": {
+        "ex182_o1": "Mi-l dai gratis."
+      },
+      "evaluation": {
+        "ex182_e1": "ok"
+      },
+      "ex182_progress": "done _ 1|1 > 1"
+    },
+    "ex183": {
+      "ex183_input": "Mi lu dă gratis.",
+      "targets": {
+        "ex183_t01": "Mi-l dă gratis."
+      },
+      "output": {
+        "ex183_o1": "Mi-l dă gratis."
+      },
+      "evaluation": {
+        "ex183_e1": "ok"
+      },
+      "ex183_progress": "done _ 1|1 > 1"
+    },
+    "ex184": {
+      "ex184_input": "Mi lu faci cândva.",
+      "targets": {
+        "ex184_t01": "Mi-l faci cândva."
+      },
+      "output": {
+        "ex184_o1": "Mi-l faci cândva."
+      },
+      "evaluation": {
+        "ex184_e1": "ok"
+      },
+      "ex184_progress": "done _ 1|1 > 1"
+    },
+    "ex185": {
+      "ex185_input": "Mi lu vei face cândva.",
+      "targets": {
+        "ex185_t01": "Mi-l vei face cândva."
+      },
+      "output": {
+        "ex185_o1": "Mi-l vei face cândva."
+      },
+      "evaluation": {
+        "ex185_e1": "ok"
+      },
+      "ex185_progress": "done _ 1|1 > 1"
+    },
+    "ex186": {
+      "ex186_input": "Mi o dai gratis.",
+      "targets": {
+        "ex186_t01": "Mi-o dai gratis."
+      },
+      "output": {
+        "ex186_o1": "Mi-o dai gratis."
+      },
+      "evaluation": {
+        "ex186_e1": "ok"
+      },
+      "ex186_progress": "done _ 1|1 > 1"
+    },
+    "ex187": {
+      "ex187_input": "Mi o dați afară.",
+      "targets": {
+        "ex187_t01": "Mi-o dați afară."
+      },
+      "output": {
+        "ex187_o1": "Mi-o dați afară."
+      },
+      "evaluation": {
+        "ex187_e1": "ok"
+      },
+      "ex187_progress": "done _ 1|1 > 1"
+    },
+    "ex188": {
+      "ex188_input": "Mi o spui repede!",
+      "targets": {
+        "ex188_t01": "Mi-o spui repede!"
+      },
+      "output": {
+        "ex188_o1": "Mi-o spui repede!"
+      },
+      "evaluation": {
+        "ex188_e1": "ok"
+      },
+      "ex188_progress": "done _ 1|1 > 1"
+    },
+    "ex189": {
+      "ex189_input": "Mi o vei face cândva.",
+      "targets": {
+        "ex189_t01": "Mi-o vei face cândva."
+      },
+      "output": {
+        "ex189_o1": "Mi-o vei face cândva."
+      },
+      "evaluation": {
+        "ex189_e1": "ok"
+      },
+      "ex189_progress": "done _ 1|1 > 1"
+    },
+    "ex190": {
+      "ex190_input": "Mi oi face o schimbare cândva.",
+      "targets": {
+        "ex190_t01": "Mi-oi face o schimbare cândva."
+      },
+      "output": {
+        "ex190_o1": "Mi-oi face o schimbare cândva."
+      },
+      "evaluation": {
+        "ex190_e1": "ok"
+      },
+      "ex190_progress": "done _ 1|1 > 1"
+    },
+    "ex191": {
+      "ex191_input": "Mi oi face o cândva.",
+      "targets": {
+        "ex191_t01": "Mi-oi face-o cândva."
+      },
+      "output": {
+        "ex191_o1": "Mi-oi face-o cândva."
+      },
+      "evaluation": {
+        "ex191_e1": "ok"
+      },
+      "ex191_progress": "done _ 1|1 > 1"
+    },
+    "ex192": {
+      "ex192_input": "Mi su acolo oile.",
+      "targets": {
+        "ex192_t01": "Mi-s acolo oile."
+      },
+      "output": {
+        "ex192_o1": "Mi-s acolo oile."
+      },
+      "evaluation": {
+        "ex192_e1": "ok"
+      },
+      "ex192_progress": "done _ 1|1 > 1"
+    },
+    "ex193": {
+      "ex193_input": "Mi ți faci probleme.",
+      "targets": {
+        "ex193_t01": "Mi-ți faci probleme."
+      },
+      "output": {
+        "ex193_o1": "Mi-ți faci probleme."
+      },
+      "evaluation": {
+        "ex193_e1": "ok"
+      },
+      "ex193_progress": "done _ 1|1 > 1"
+    },
+    "ex194": {
+      "ex194_input": "Mi ți vei face probleme.",
+      "targets": {
+        "ex194_t01": "Mi-ți vei face probleme."
+      },
+      "output": {
+        "ex194_o1": "Mi-ți vei face probleme."
+      },
+      "evaluation": {
+        "ex194_e1": "ok"
+      },
+      "ex194_progress": "done _ 1|1 > 1"
+    },
+    "ex195": {
+      "ex195_input": "Miriam ni aduce mere.",
+      "targets": {
+        "ex195_t01": "Miriam ne aduce mere.",
+        "ex195_t02": "Miriam ne-aduce mere."
+      },
+      "output": {
+        "ex195_o1": "Miriam ne aduce mere.",
+        "ex195_o2": "Miriam ne-aduce mere."
+      },
+      "evaluation": {
+        "ex195_e1": "ok",
+        "ex195_e2": "ok"
+      },
+      "ex195_progress": "done _ 2|2 > 2"
+    },
+    "ex196": {
+      "ex196_input": "Miriam ne place mult.",
+      "targets": {
+        "ex196_t01": "Miriam ne place mult."
+      },
+      "output": {
+        "ex196_o1": "Miriam ne place mult."
+      },
+      "evaluation": {
+        "ex196_e1": "ok"
+      },
+      "ex196_progress": "done _ 1|1 > 1"
+    },
+    "ex197": {
+      "ex197_input": "Miriam lu aduce repede.",
+      "targets": {
+        "ex197_t01": "Miriam îl aduce repede.",
+        "ex197_t02": "Miriam l-aduce repede."
+      },
+      "output": {
+        "ex197_o1": "Miriam îl aduce repede.",
+        "ex197_o2": "Miriam l-aduce repede."
+      },
+      "evaluation": {
+        "ex197_e1": "ok",
+        "ex197_e2": "ok"
+      },
+      "ex197_progress": "done _ 2|2 > 2"
+    },
+    "ex198": {
+      "ex198_input": "Miriam lu place mult.",
+      "targets": {
+        "ex198_t01": "Miriam îl place mult."
+      },
+      "output": {
+        "ex198_o1": "Miriam îl place mult."
+      },
+      "evaluation": {
+        "ex198_e1": "ok"
+      },
+      "ex198_progress": "done _ 1|1 > 1"
+    },
+    "ex199": {
+      "ex199_input": "Miriam mi aduce mere.",
+      "targets": {
+        "ex199_t01": "Miriam îmi aduce mere.",
+        "ex199_t02": "Miriam mi-aduce mere."
+      },
+      "output": {
+        "ex199_o1": "Miriam îmi aduce mere.",
+        "ex199_o2": "Miriam mi-aduce mere."
+      },
+      "evaluation": {
+        "ex199_e1": "ok",
+        "ex199_e2": "ok"
+      },
+      "ex199_progress": "done _ 2|2 > 2"
+    },
+    "ex200": {
+      "ex200_input": "Miriam mi place mult.",
+      "targets": {
+        "ex200_t01": "Miriam îmi place mult."
+      },
+      "output": {
+        "ex200_o1": "Miriam îmi place mult."
+      },
+      "evaluation": {
+        "ex200_e1": "ok"
+      },
+      "ex200_progress": "done _ 1|1 > 1"
+    },
+    "ex201": {
+      "ex201_input": "Mânca lu ar mama!",
+      "targets": {
+        "ex201_t01": "Mânca-l-ar mama!"
+      },
+      "output": {
+        "ex201_o1": "Mânca-l-ar mama!"
+      },
+      "evaluation": {
+        "ex201_e1": "ok"
+      },
+      "ex201_progress": "done _ 1|1 > 1"
+    },
+    "ex202": {
+      "ex202_input": "Mânca lu aș cu fulgi cu tot!",
+      "targets": {
+        "ex202_t01": "Mânca-l-aș cu fulgi cu tot!"
+      },
+      "output": {
+        "ex202_o1": "Mânca-l-aș cu fulgi cu tot!"
+      },
+      "evaluation": {
+        "ex202_e1": "ok"
+      },
+      "ex202_progress": "done _ 1|1 > 1"
+    },
+    "ex203": {
+      "ex203_input": "Mânca ți ai norocul!",
+      "targets": {
+        "ex203_t01": "Mânca-ți-ai norocul!"
+      },
+      "output": {
+        "ex203_o1": "Mânca-ți-ai norocul!"
+      },
+      "evaluation": {
+        "ex203_e1": "ok"
+      },
+      "ex203_progress": "done _ 1|1 > 1"
+    },
+    "ex204": {
+      "ex204_input": "Mâncând lu prea repede te ai putea îneca.",
+      "targets": {
+        "ex204_t01": "Mâncându-l prea repede te-ai putea îneca."
+      },
+      "output": {
+        "ex204_o1": "Mâncându-l prea repede te-ai putea îneca."
+      },
+      "evaluation": {
+        "ex204_e1": "ok"
+      },
+      "ex204_progress": "done _ 1|1 > 1"
+    },
+    "ex205": {
+      "ex205_input": "Mă arăt mâine.",
+      "targets": {
+        "ex205_t01": "Mă arăt mâine.",
+        "ex205_t02": "M-arăt mâine."
+      },
+      "output": {
+        "ex205_o1": "Mă arăt mâine.",
+        "ex205_o2": "M-arăt mâine."
+      },
+      "evaluation": {
+        "ex205_e1": "ok",
+        "ex205_e2": "ok"
+      },
+      "ex205_progress": "done _ 2|2 > 2"
+    },
+    "ex206": {
+      "ex206_input": "Mă vezi clar.",
+      "targets": {
+        "ex206_t01": "Mă vezi clar."
+      },
+      "output": {
+        "ex206_o1": "Mă vezi clar."
+      },
+      "evaluation": {
+        "ex206_e1": "ok"
+      },
+      "ex206_progress": "done _ 1|1 > 1"
+    },
+    "ex207": {
+      "ex207_input": "Mă văd acolo.",
+      "targets": {
+        "ex207_t01": "Mă văd acolo."
+      },
+      "output": {
+        "ex207_o1": "Mă văd acolo."
+      },
+      "evaluation": {
+        "ex207_e1": "ok"
+      },
+      "ex207_progress": "done _ 1|1 > 1"
+    },
+    "ex208": {
+      "ex208_input": "Mănâncă o repede!",
+      "targets": {
+        "ex208_t01": "Mănânc-o repede!"
+      },
+      "output": {
+        "ex208_o1": "Mănânc-o repede!"
+      },
+      "evaluation": {
+        "ex208_e1": "ok"
+      },
+      "ex208_progress": "done _ 1|1 > 1"
+    },
+    "ex209": {
+      "ex209_input": "Mănâncă lu repede!",
+      "targets": {
+        "ex209_t01": "Mănâncă-l repede!"
+      },
+      "output": {
+        "ex209_o1": "Mănâncă-l repede!"
+      },
+      "evaluation": {
+        "ex209_e1": "ok"
+      },
+      "ex209_progress": "done _ 1|1 > 1"
+    },
+    "ex210": {
+      "ex210_input": "Ni aduce cartea repede.",
+      "targets": {
+        "ex210_t01": "Ne aduce cartea repede.",
+        "ex210_t02": "Ne-aduce cartea repede."
+      },
+      "output": {
+        "ex210_o1": "Ne aduce cartea repede.",
+        "ex210_o2": "Ne-aduce cartea repede."
+      },
+      "evaluation": {
+        "ex210_e1": "ok",
+        "ex210_e2": "ok"
+      },
+      "ex210_progress": "done _ 2|2 > 2"
+    },
+    "ex211": {
+      "ex211_input": "Ni aducem mere.",
+      "targets": {
+        "ex211_t01": "Ne aducem mere.",
+        "ex211_t02": "Ne-aducem mere."
+      },
+      "output": {
+        "ex211_o1": "Ne aducem mere.",
+        "ex211_o2": "Ne-aducem mere."
+      },
+      "evaluation": {
+        "ex211_e1": "ok",
+        "ex211_e2": "ok"
+      },
+      "ex211_progress": "done _ 2|2 > 2"
+    },
+    "ex212": {
+      "ex212_input": "Ni cumpărăm mere.",
+      "targets": {
+        "ex212_t01": "Ne cumpărăm mere."
+      },
+      "output": {
+        "ex212_o1": "Ne cumpărăm mere."
+      },
+      "evaluation": {
+        "ex212_e1": "ok"
+      },
+      "ex212_progress": "done _ 1|1 > 1"
+    },
+    "ex213": {
+      "ex213_input": "Ni dai mere.",
+      "targets": {
+        "ex213_t01": "Ne dai mere."
+      },
+      "output": {
+        "ex213_o1": "Ne dai mere."
+      },
+      "evaluation": {
+        "ex213_e1": "ok"
+      },
+      "ex213_progress": "done _ 1|1 > 1"
+    },
+    "ex214": {
+      "ex214_input": "Ni leagă o sfoară de picior.",
+      "targets": {
+        "ex214_t01": "Ne leagă o sfoară de picior."
+      },
+      "output": {
+        "ex214_o1": "Ne leagă o sfoară de picior."
+      },
+      "evaluation": {
+        "ex214_e1": "ok"
+      },
+      "ex214_progress": "done _ 1|1 > 1"
+    },
+    "ex215": {
+      "ex215_input": "Ne oprim repede.",
+      "targets": {
+        "ex215_t01": "Ne oprim repede."
+      },
+      "output": {
+        "ex215_o1": "Ne oprim repede."
+      },
+      "evaluation": {
+        "ex215_e1": "ok"
+      },
+      "ex215_progress": "done _ 1|1 > 1"
+    },
+    "ex216": {
+      "ex216_input": "Ne văd acolo.",
+      "targets": {
+        "ex216_t01": "Ne văd acolo."
+      },
+      "output": {
+        "ex216_o1": "Ne văd acolo."
+      },
+      "evaluation": {
+        "ex216_e1": "ok"
+      },
+      "ex216_progress": "done _ 1|1 > 1"
+    },
+    "ex217": {
+      "ex217_input": "Ni a adus cartea repede.",
+      "targets": {
+        "ex217_t01": "Ne-a adus cartea repede."
+      },
+      "output": {
+        "ex217_o1": "Ne-a adus cartea repede."
+      },
+      "evaluation": {
+        "ex217_e1": "ok"
+      },
+      "ex217_progress": "done _ 1|1 > 1"
+    },
+    "ex218": {
+      "ex218_input": "Ni am cumpărat mere.",
+      "targets": {
+        "ex218_t01": "Ne-am cumpărat mere."
+      },
+      "output": {
+        "ex218_o1": "Ne-am cumpărat mere."
+      },
+      "evaluation": {
+        "ex218_e1": "ok"
+      },
+      "ex218_progress": "done _ 1|1 > 1"
+    },
+    "ex219": {
+      "ex219_input": "Ne au văzut acolo.",
+      "targets": {
+        "ex219_t01": "Ne-au văzut acolo."
+      },
+      "output": {
+        "ex219_o1": "Ne-au văzut acolo."
+      },
+      "evaluation": {
+        "ex219_e1": "ok"
+      },
+      "ex219_progress": "done _ 1|1 > 1"
+    },
+    "ex220": {
+      "ex220_input": "Ni o spui repede!",
+      "targets": {
+        "ex220_t01": "Ne-o spui repede!"
+      },
+      "output": {
+        "ex220_o1": "Ne-o spui repede!"
+      },
+      "evaluation": {
+        "ex220_e1": "ok"
+      },
+      "ex220_progress": "done _ 1|1 > 1"
+    },
+    "ex221": {
+      "ex221_input": "Ni i dă gratis.",
+      "targets": {
+        "ex221_t01": "Ni-i dă gratis."
+      },
+      "output": {
+        "ex221_o1": "Ni-i dă gratis."
+      },
+      "evaluation": {
+        "ex221_e1": "ok"
+      },
+      "ex221_progress": "done _ 1|1 > 1"
+    },
+    "ex222": {
+      "ex222_input": "Ni lu aduce repede.",
+      "targets": {
+        "ex222_t01": "Ni-l aduce repede."
+      },
+      "output": {
+        "ex222_o1": "Ni-l aduce repede."
+      },
+      "evaluation": {
+        "ex222_e1": "ok"
+      },
+      "ex222_progress": "done _ 1|1 > 1"
+    },
+    "ex223": {
+      "ex223_input": "Ni lu dă gratis.",
+      "targets": {
+        "ex223_t01": "Ni-l dă gratis."
+      },
+      "output": {
+        "ex223_o1": "Ni-l dă gratis."
+      },
+      "evaluation": {
+        "ex223_e1": "ok"
+      },
+      "ex223_progress": "done _ 1|1 > 1"
+    },
+    "ex224": {
+      "ex224_input": "Noi ți dăm mere gratis.",
+      "targets": {
+        "ex224_t01": "Noi îți dăm mere gratis."
+      },
+      "output": {
+        "ex224_o1": "Noi îți dăm mere gratis."
+      },
+      "evaluation": {
+        "ex224_e1": "ok"
+      },
+      "ex224_progress": "done _ 1|1 > 1"
+    },
+    "ex225": {
+      "ex225_input": "Nu am cu cine lu lăsa.",
+      "targets": {
+        "ex225_t01": "Nu am cu cine îl lăsa.",
+        "ex225_t02": "N-am cu cine îl lăsa.",
+        "ex225_t03": "Nu am cu cine-l lăsa.",
+        "ex225_t04": "N-am cu cine-l lăsa."
+      },
+      "output": {
+        "ex225_o1": "Nu am cu cine îl lăsa.",
+        "ex225_o2": "Nu am cu cine-l lăsa.",
+        "ex225_o3": "N-am cu cine îl lăsa.",
+        "ex225_o4": "N-am cu cine-l lăsa."
+      },
+      "evaluation": {
+        "ex225_e1": "ok",
+        "ex225_e2": "ok",
+        "ex225_e3": "ok",
+        "ex225_e4": "ok"
+      },
+      "ex225_progress": "done _ 4|4 > 4"
+    },
+    "ex226": {
+      "ex226_input": "Nu am cui i lu da.",
+      "targets": {
+        "ex226_t01": "Nu am cui i-l da.",
+        "ex226_t02": "N-am cui i-l da."
+      },
+      "output": {
+        "ex226_o1": "Nu am cui i-l da.",
+        "ex226_o2": "N-am cui i-l da."
+      },
+      "evaluation": {
+        "ex226_e1": "ok",
+        "ex226_e2": "ok"
+      },
+      "ex226_progress": "done _ 2|2 > 2"
+    },
+    "ex227": {
+      "ex227_input": "Nu am văzut o bine.",
+      "targets": {
+        "ex227_t01": "Nu am văzut-o bine.",
+        "ex227_t02": "N-am văzut-o bine."
+      },
+      "output": {
+        "ex227_o1": "Nu am văzut-o bine.",
+        "ex227_o2": "N-am văzut-o bine."
+      },
+      "evaluation": {
+        "ex227_e1": "ok",
+        "ex227_e2": "ok"
+      },
+      "ex227_progress": "done _ 2|2 > 2"
+    },
+    "ex228": {
+      "ex228_input": "Nu mi lu a mai dat gratis.",
+      "targets": {
+        "ex228_t01": "Nu mi l-a mai dat gratis."
+      },
+      "output": {
+        "ex228_o1": "Nu mi l-a mai dat gratis."
+      },
+      "evaluation": {
+        "ex228_e1": "ok"
+      },
+      "ex228_progress": "done _ 1|1 > 1"
+    },
+    "ex229": {
+      "ex229_input": "Nu mi ți lu ar mai fi tot aruncat vrăjitoarea încoace și încolo.",
+      "targets": {
+        "ex229_t01": "Nu mi ți l-ar mai fi tot aruncat vrăjitoarea încoace și încolo.",
+        "ex229_t02": "Nu mi ți l-ar mai fi tot aruncat vrăjitoarea încoace și-ncolo.",
+        "ex229_t03": "Nu mi ți l-ar mai fi tot aruncat vrăjitoarea-ncoace și încolo.",
+        "ex229_t04": "Nu mi ți l-ar mai fi tot aruncat vrăjitoarea-ncoace și-ncolo."
+      },
+      "output": {
+        "ex229_o1": "Nu mi ți l-ar mai fi tot aruncat vrăjitoarea încoace și încolo.",
+        "ex229_o2": "Nu mi ți l-ar mai fi tot aruncat vrăjitoarea încoace și-ncolo.",
+        "ex229_o3": "Nu mi ți l-ar mai fi tot aruncat vrăjitoarea-ncoace și încolo.",
+        "ex229_o4": "Nu mi ți l-ar mai fi tot aruncat vrăjitoarea-ncoace și-ncolo."
+      },
+      "evaluation": {
+        "ex229_e1": "ok",
+        "ex229_e2": "ok",
+        "ex229_e3": "ok",
+        "ex229_e4": "ok"
+      },
+      "ex229_progress": "done _ 4|4 > 4"
+    },
+    "ex230": {
+      "ex230_input": "Nu mi ți ai face probleme.",
+      "targets": {
+        "ex230_t01": "Nu mi ți-ai face probleme."
+      },
+      "output": {
+        "ex230_o1": "Nu mi ți-ai face probleme."
+      },
+      "evaluation": {
+        "ex230_e1": "ok"
+      },
+      "ex230_progress": "done _ 1|1 > 1"
+    },
+    "ex231": {
+      "ex231_input": "Nu mi lu trimite azi!",
+      "targets": {
+        "ex231_t01": "Nu mi-l trimite azi!"
+      },
+      "output": {
+        "ex231_o1": "Nu mi-l trimite azi!"
+      },
+      "evaluation": {
+        "ex231_e1": "ok"
+      },
+      "ex231_progress": "done _ 1|1 > 1"
+    },
+    "ex232": {
+      "ex232_input": "Nu mi ți face probleme!",
+      "targets": {
+        "ex232_t01": "Nu mi-ți face probleme!"
+      },
+      "output": {
+        "ex232_o1": "Nu mi-ți face probleme!"
+      },
+      "evaluation": {
+        "ex232_e1": "ok"
+      },
+      "ex232_progress": "done _ 1|1 > 1"
+    },
+    "ex233": {
+      "ex233_input": "Nu o să uit niciodată uluirea primului moment, când, reușind să deschid ușa mă am trezit, nu într-o încăpere, ci în fața unui munte.",
+      "targets": {
+        "ex233_t01": "Nu o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci în fața unui munte.",
+        "ex233_t02": "N-o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci în fața unui munte.",
+        "ex233_t03": "Nu o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci-n fața unui munte.",
+        "ex233_t04": "N-o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci-n fața unui munte."
+      },
+      "output": {
+        "ex233_o1": "Nu o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci în fața unui munte.",
+        "ex233_o2": "Nu o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci-n fața unui munte.",
+        "ex233_o3": "N-o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci în fața unui munte.",
+        "ex233_o4": "N-o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci-n fața unui munte."
+      },
+      "evaluation": {
+        "ex233_e1": "ok",
+        "ex233_e2": "ok",
+        "ex233_e3": "ok",
+        "ex233_e4": "ok"
+      },
+      "ex233_progress": "done _ 4|4 > 4"
+    },
+    "ex234": {
+      "ex234_input": "Nu o văd bine.",
+      "targets": {
+        "ex234_t01": "Nu o văd bine.",
+        "ex234_t02": "N-o văd bine."
+      },
+      "output": {
+        "ex234_o1": "Nu o văd bine.",
+        "ex234_o2": "N-o văd bine."
+      },
+      "evaluation": {
+        "ex234_e1": "ok",
+        "ex234_e2": "ok"
+      },
+      "ex234_progress": "done _ 2|2 > 2"
+    },
+    "ex235": {
+      "ex235_input": "Nu lu da gratis!",
+      "targets": {
+        "ex235_t01": "Nu îl da gratis!",
+        "ex235_t02": "Nu-l da gratis!"
+      },
+      "output": {
+        "ex235_o1": "Nu îl da gratis!",
+        "ex235_o2": "Nu-l da gratis!"
+      },
+      "evaluation": {
+        "ex235_e1": "ok",
+        "ex235_e2": "ok"
+      },
+      "ex235_progress": "done _ 2|2 > 2"
+    },
+    "ex236": {
+      "ex236_input": "Nu ți face probleme!",
+      "targets": {
+        "ex236_t01": "Nu îți face probleme!",
+        "ex236_t02": "Nu-ți face probleme!"
+      },
+      "output": {
+        "ex236_o1": "Nu îți face probleme!",
+        "ex236_o2": "Nu-ți face probleme!"
+      },
+      "evaluation": {
+        "ex236_e1": "ok",
+        "ex236_e2": "ok"
+      },
+      "ex236_progress": "done _ 2|2 > 2"
+    },
+    "ex237": {
+      "ex237_input": "O comisie o să o vadă numai o zi.",
+      "targets": {
+        "ex237_t01": "O comisie o să o vadă numai o zi.",
+        "ex237_t02": "O comisie o s-o vadă numai o zi."
+      },
+      "output": {
+        "ex237_o1": "O comisie o să o vadă numai o zi.",
+        "ex237_o2": "O comisie o s-o vadă numai o zi."
+      },
+      "evaluation": {
+        "ex237_e1": "ok",
+        "ex237_e2": "ok"
+      },
+      "ex237_progress": "done _ 2|2 > 2"
+    },
+    "ex238": {
+      "ex238_input": "O cumperi repede.",
+      "targets": {
+        "ex238_t01": "O cumperi repede."
+      },
+      "output": {
+        "ex238_o1": "O cumperi repede."
+      },
+      "evaluation": {
+        "ex238_e1": "ok"
+      },
+      "ex238_progress": "done _ 1|1 > 1"
+    },
+    "ex239": {
+      "ex239_input": "O dați afară.",
+      "targets": {
+        "ex239_t01": "O dați afară."
+      },
+      "output": {
+        "ex239_o1": "O dați afară."
+      },
+      "evaluation": {
+        "ex239_e1": "ok"
+      },
+      "ex239_progress": "done _ 1|1 > 1"
+    },
+    "ex240": {
+      "ex240_input": "O spui repede.",
+      "targets": {
+        "ex240_t01": "O spui repede."
+      },
+      "output": {
+        "ex240_o1": "O spui repede."
+      },
+      "evaluation": {
+        "ex240_e1": "ok"
+      },
+      "ex240_progress": "done _ 1|1 > 1"
+    },
+    "ex241": {
+      "ex241_input": "O văd acolo.",
+      "targets": {
+        "ex241_t01": "O văd acolo."
+      },
+      "output": {
+        "ex241_o1": "O văd acolo."
+      },
+      "evaluation": {
+        "ex241_e1": "ok"
+      },
+      "ex241_progress": "done _ 1|1 > 1"
+    },
+    "ex242": {
+      "ex242_input": "O împușcă în inimă.",
+      "targets": {
+        "ex242_t01": "O împușcă în inimă.",
+        "ex242_t02": "O-mpușcă în inimă.",
+        "ex242_t03": "O împușcă-n inimă.",
+        "ex242_t04": "O-mpușcă-n inimă."
+      },
+      "output": {
+        "ex242_o1": "O împușcă în inimă.",
+        "ex242_o2": "O împușcă-n inimă.",
+        "ex242_o3": "O-mpușcă în inimă.",
+        "ex242_o4": "O-mpușcă-n inimă."
+      },
+      "evaluation": {
+        "ex242_e1": "ok",
+        "ex242_e2": "ok",
+        "ex242_e3": "ok",
+        "ex242_e4": "ok"
+      },
+      "ex242_progress": "done _ 4|4 > 4"
+    },
+    "ex243": {
+      "ex243_input": "Omul se a îngrășat.",
+      "targets": {
+        "ex243_t01": "Omul s-a îngrășat.",
+        "ex243_t02": "Omul s-a-ngrășat."
+      },
+      "output": {
+        "ex243_o1": "Omul s-a îngrășat.",
+        "ex243_o2": "Omul s-a-ngrășat."
+      },
+      "evaluation": {
+        "ex243_e1": "ok",
+        "ex243_e2": "ok"
+      },
+      "ex243_progress": "done _ 2|2 > 2"
+    },
+    "ex244": {
+      "ex244_input": "Pare mi se că se aude un cuc.",
+      "targets": {
+        "ex244_t01": "Pare-mi-se că se aude un cuc.",
+        "ex244_t02": "Pare-mi-se că se-aude un cuc."
+      },
+      "output": {
+        "ex244_o1": "Pare-mi-se că se aude un cuc.",
+        "ex244_o2": "Pare-mi-se că se-aude un cuc."
+      },
+      "evaluation": {
+        "ex244_e1": "ok",
+        "ex244_e2": "ok"
+      },
+      "ex244_progress": "done _ 2|2 > 2"
+    },
+    "ex245": {
+      "ex245_input": "Pe acest student lu cunoaște toată lumea.",
+      "targets": {
+        "ex245_t01": "Pe acest student îl cunoaște toată lumea."
+      },
+      "output": {
+        "ex245_o1": "Pe acest student îl cunoaște toată lumea."
+      },
+      "evaluation": {
+        "ex245_e1": "ok"
+      },
+      "ex245_progress": "done _ 1|1 > 1"
+    },
+    "ex246": {
+      "ex246_input": "Pe mezin i lu a încredințat mamei sale.",
+      "targets": {
+        "ex246_t01": "Pe mezin i l-a încredințat mamei sale.",
+        "ex246_t02": "Pe mezin i l-a-ncredințat mamei sale."
+      },
+      "output": {
+        "ex246_o1": "Pe mezin i l-a încredințat mamei sale.",
+        "ex246_o2": "Pe mezin i l-a-ncredințat mamei sale."
+      },
+      "evaluation": {
+        "ex246_e1": "ok",
+        "ex246_e2": "ok"
+      },
+      "ex246_progress": "done _ 2|2 > 2"
+    },
+    "ex247": {
+      "ex247_input": "Pe unde mi o fi stat copilul?",
+      "targets": {
+        "ex247_t01": "Pe unde mi-o fi stat copilul?"
+      },
+      "output": {
+        "ex247_o1": "Pe unde mi-o fi stat copilul?"
+      },
+      "evaluation": {
+        "ex247_e1": "ok"
+      },
+      "ex247_progress": "done _ 1|1 > 1"
+    },
+    "ex248": {
+      "ex248_input": "Pe unde mi stai?",
+      "targets": {
+        "ex248_t01": "Pe unde îmi stai?",
+        "ex248_t02": "Pe unde-mi stai?"
+      },
+      "output": {
+        "ex248_o1": "Pe unde îmi stai?",
+        "ex248_o2": "Pe unde-mi stai?"
+      },
+      "evaluation": {
+        "ex248_e1": "ok",
+        "ex248_e2": "ok"
+      },
+      "ex248_progress": "done _ 2|2 > 2"
+    },
+    "ex249": {
+      "ex249_input": "Pe unde mi umbli?",
+      "targets": {
+        "ex249_t01": "Pe unde îmi umbli?",
+        "ex249_t02": "Pe unde-mi umbli?"
+      },
+      "output": {
+        "ex249_o1": "Pe unde îmi umbli?",
+        "ex249_o2": "Pe unde-mi umbli?"
+      },
+      "evaluation": {
+        "ex249_e1": "ok",
+        "ex249_e2": "ok"
+      },
+      "ex249_progress": "done _ 2|2 > 2"
+    },
+    "ex250": {
+      "ex250_input": "Pedepsi lu aș aspru.",
+      "targets": {
+        "ex250_t01": "Pedepsi-l-aș aspru."
+      },
+      "output": {
+        "ex250_o1": "Pedepsi-l-aș aspru."
+      },
+      "evaluation": {
+        "ex250_e1": "ok"
+      },
+      "ex250_progress": "done _ 1|1 > 1"
+    },
+    "ex251": {
+      "ex251_input": "Preface te acum!",
+      "targets": {
+        "ex251_t01": "Preface-te acum!",
+        "ex251_t02": "Preface-te-acum!"
+      },
+      "output": {
+        "ex251_o1": "Preface-te acum!",
+        "ex251_o2": "Preface-te-acum!"
+      },
+      "evaluation": {
+        "ex251_e1": "ok",
+        "ex251_e2": "ok"
+      },
+      "ex251_progress": "done _ 2|2 > 2"
+    },
+    "ex252": {
+      "ex252_input": "Preface te cândva!",
+      "targets": {
+        "ex252_t01": "Preface-te cândva!"
+      },
+      "output": {
+        "ex252_o1": "Preface-te cândva!"
+      },
+      "evaluation": {
+        "ex252_e1": "ok"
+      },
+      "ex252_progress": "done _ 1|1 > 1"
+    },
+    "ex253": {
+      "ex253_input": "Preface te ai acum!",
+      "targets": {
+        "ex253_t01": "Preface-te-ai acum!"
+      },
+      "output": {
+        "ex253_o1": "Preface-te-ai acum!"
+      },
+      "evaluation": {
+        "ex253_e1": "ok"
+      },
+      "ex253_progress": "done _ 1|1 > 1"
+    },
+    "ex254": {
+      "ex254_input": "Preface te ai cândva!",
+      "targets": {
+        "ex254_t01": "Preface-te-ai cândva!"
+      },
+      "output": {
+        "ex254_o1": "Preface-te-ai cândva!"
+      },
+      "evaluation": {
+        "ex254_e1": "ok"
+      },
+      "ex254_progress": "done _ 1|1 > 1"
+    },
+    "ex255": {
+      "ex255_input": "Pune ți lu jos!",
+      "targets": {
+        "ex255_t01": "Pune-ți-l jos!"
+      },
+      "output": {
+        "ex255_o1": "Pune-ți-l jos!"
+      },
+      "evaluation": {
+        "ex255_e1": "ok"
+      },
+      "ex255_progress": "done _ 1|1 > 1"
+    },
+    "ex256": {
+      "ex256_input": "Puneți lu jos!",
+      "targets": {
+        "ex256_t01": "Puneți-l jos!"
+      },
+      "output": {
+        "ex256_o1": "Puneți-l jos!"
+      },
+      "evaluation": {
+        "ex256_e1": "ok"
+      },
+      "ex256_progress": "done _ 1|1 > 1"
+    },
+    "ex257": {
+      "ex257_input": "Roua dimineții mi îmbată inima.",
+      "targets": {
+        "ex257_t01": "Roua dimineții îmi îmbată inima.",
+        "ex257_t02": "Roua dimineții-mi îmbată inima.",
+        "ex257_t03": "Roua dimineții mi-mbată inima."
+      },
+      "output": {
+        "ex257_o1": "Roua dimineții îmi îmbată inima.",
+        "ex257_o2": "Roua dimineții-mi îmbată inima.",
+        "ex257_o3": "Roua dimineții mi-mbată inima."
+      },
+      "evaluation": {
+        "ex257_e1": "ok",
+        "ex257_e2": "ok",
+        "ex257_e3": "ok"
+      },
+      "ex257_progress": "done _ 3|3 > 3"
+    },
+    "ex258": {
+      "ex258_input": "Roua mi îmbată inima.",
+      "targets": {
+        "ex258_t01": "Roua îmi îmbată inima.",
+        "ex258_t02": "Roua-mi îmbată inima.",
+        "ex258_t03": "Roua mi-mbată inima."
+      },
+      "output": {
+        "ex258_o1": "Roua îmi îmbată inima.",
+        "ex258_o2": "Roua-mi îmbată inima.",
+        "ex258_o3": "Roua mi-mbată inima."
+      },
+      "evaluation": {
+        "ex258_e1": "ok",
+        "ex258_e2": "ok",
+        "ex258_e3": "ok"
+      },
+      "ex258_progress": "done _ 3|3 > 3"
+    },
+    "ex259": {
+      "ex259_input": "Se au făcut mari.",
+      "targets": {
+        "ex259_t01": "S-au făcut mari."
+      },
+      "output": {
+        "ex259_o1": "S-au făcut mari."
+      },
+      "evaluation": {
+        "ex259_e1": "ok"
+      },
+      "ex259_progress": "done _ 1|1 > 1"
+    },
+    "ex260": {
+      "ex260_input": "Se au văzut acolo.",
+      "targets": {
+        "ex260_t01": "S-au văzut acolo."
+      },
+      "output": {
+        "ex260_o1": "S-au văzut acolo."
+      },
+      "evaluation": {
+        "ex260_e1": "ok"
+      },
+      "ex260_progress": "done _ 1|1 > 1"
+    },
+    "ex261": {
+      "ex261_input": "Se fac mari.",
+      "targets": {
+        "ex261_t01": "Se fac mari."
+      },
+      "output": {
+        "ex261_o1": "Se fac mari."
+      },
+      "evaluation": {
+        "ex261_e1": "ok"
+      },
+      "ex261_progress": "done _ 1|1 > 1"
+    },
+    "ex262": {
+      "ex262_input": "Se văd acolo.",
+      "targets": {
+        "ex262_t01": "Se văd acolo."
+      },
+      "output": {
+        "ex262_o1": "Se văd acolo."
+      },
+      "evaluation": {
+        "ex262_e1": "ok"
+      },
+      "ex262_progress": "done _ 1|1 > 1"
+    },
+    "ex263": {
+      "ex263_input": "Spune i o repede!",
+      "targets": {
+        "ex263_t01": "Spune-i-o repede!"
+      },
+      "output": {
+        "ex263_o1": "Spune-i-o repede!"
+      },
+      "evaluation": {
+        "ex263_e1": "ok"
+      },
+      "ex263_progress": "done _ 1|1 > 1"
+    },
+    "ex264": {
+      "ex264_input": "Spune mi o repede!",
+      "targets": {
+        "ex264_t01": "Spune-mi-o repede!"
+      },
+      "output": {
+        "ex264_o1": "Spune-mi-o repede!"
+      },
+      "evaluation": {
+        "ex264_e1": "ok"
+      },
+      "ex264_progress": "done _ 1|1 > 1"
+    },
+    "ex265": {
+      "ex265_input": "Spune ni o repede!",
+      "targets": {
+        "ex265_t01": "Spune-ne-o repede!"
+      },
+      "output": {
+        "ex265_o1": "Spune-ne-o repede!"
+      },
+      "evaluation": {
+        "ex265_e1": "ok"
+      },
+      "ex265_progress": "done _ 1|1 > 1"
+    },
+    "ex266": {
+      "ex266_input": "Spune o repede!",
+      "targets": {
+        "ex266_t01": "Spune-o repede!"
+      },
+      "output": {
+        "ex266_o1": "Spune-o repede!"
+      },
+      "evaluation": {
+        "ex266_e1": "ok"
+      },
+      "ex266_progress": "done _ 1|1 > 1"
+    },
+    "ex267": {
+      "ex267_input": "Să înțeleg că nu lu ai plăcut.",
+      "targets": {
+        "ex267_t01": "Să înțeleg că nu l-ai plăcut.",
+        "ex267_t02": "Să-nțeleg că nu l-ai plăcut."
+      },
+      "output": {
+        "ex267_o1": "Să înțeleg că nu l-ai plăcut.",
+        "ex267_o2": "Să-nțeleg că nu l-ai plăcut."
+      },
+      "evaluation": {
+        "ex267_e1": "ok",
+        "ex267_e2": "ok"
+      },
+      "ex267_progress": "done _ 2|2 > 2"
+    },
+    "ex268": {
+      "ex268_input": "Să înțeleg că nu lu placi.",
+      "targets": {
+        "ex268_t01": "Să înțeleg că nu îl placi.",
+        "ex268_t02": "Să înțeleg că nu-l placi.",
+        "ex268_t03": "Să-nțeleg că nu îl placi.",
+        "ex268_t04": "Să-nțeleg că nu-l placi."
+      },
+      "output": {
+        "ex268_o1": "Să înțeleg că nu îl placi.",
+        "ex268_o2": "Să înțeleg că nu-l placi.",
+        "ex268_o3": "Să-nțeleg că nu îl placi.",
+        "ex268_o4": "Să-nțeleg că nu-l placi."
+      },
+      "evaluation": {
+        "ex268_e1": "ok",
+        "ex268_e2": "ok",
+        "ex268_e3": "ok",
+        "ex268_e4": "ok"
+      },
+      "ex268_progress": "done _ 4|4 > 4"
+    },
+    "ex269": {
+      "ex269_input": "Te duci acolo.",
+      "targets": {
+        "ex269_t01": "Te duci acolo."
+      },
+      "output": {
+        "ex269_o1": "Te duci acolo."
+      },
+      "evaluation": {
+        "ex269_e1": "ok"
+      },
+      "ex269_progress": "done _ 1|1 > 1"
+    },
+    "ex270": {
+      "ex270_input": "Te prefaci cândva.",
+      "targets": {
+        "ex270_t01": "Te prefaci cândva."
+      },
+      "output": {
+        "ex270_o1": "Te prefaci cândva."
+      },
+      "evaluation": {
+        "ex270_e1": "ok"
+      },
+      "ex270_progress": "done _ 1|1 > 1"
+    },
+    "ex271": {
+      "ex271_input": "Te rog să nu te îmbeți.",
+      "targets": {
+        "ex271_t01": "Te rog să nu te îmbeți.",
+        "ex271_t02": "Te rog să nu te-mbeți."
+      },
+      "output": {
+        "ex271_o1": "Te rog să nu te îmbeți.",
+        "ex271_o2": "Te rog să nu te-mbeți."
+      },
+      "evaluation": {
+        "ex271_e1": "ok",
+        "ex271_e2": "ok"
+      },
+      "ex271_progress": "done _ 2|2 > 2"
+    },
+    "ex272": {
+      "ex272_input": "Te vei preface cândva.",
+      "targets": {
+        "ex272_t01": "Te vei preface cândva."
+      },
+      "output": {
+        "ex272_o1": "Te vei preface cândva."
+      },
+      "evaluation": {
+        "ex272_e1": "ok"
+      },
+      "ex272_progress": "done _ 1|1 > 1"
+    },
+    "ex273": {
+      "ex273_input": "Te văd acolo.",
+      "targets": {
+        "ex273_t01": "Te văd acolo."
+      },
+      "output": {
+        "ex273_o1": "Te văd acolo."
+      },
+      "evaluation": {
+        "ex273_e1": "ok"
+      },
+      "ex273_progress": "done _ 1|1 > 1"
+    },
+    "ex274": {
+      "ex274_input": "Te ai preface cândva.",
+      "targets": {
+        "ex274_t01": "Te-ai preface cândva."
+      },
+      "output": {
+        "ex274_o1": "Te-ai preface cândva."
+      },
+      "evaluation": {
+        "ex274_e1": "ok"
+      },
+      "ex274_progress": "done _ 1|1 > 1"
+    },
+    "ex275": {
+      "ex275_input": "Te au văzut acolo.",
+      "targets": {
+        "ex275_t01": "Te-au văzut acolo."
+      },
+      "output": {
+        "ex275_o1": "Te-au văzut acolo."
+      },
+      "evaluation": {
+        "ex275_e1": "ok"
+      },
+      "ex275_progress": "done _ 1|1 > 1"
+    },
+    "ex276": {
+      "ex276_input": "Te aș vedea sănătos.",
+      "targets": {
+        "ex276_t01": "Te-aș vedea sănătos."
+      },
+      "output": {
+        "ex276_o1": "Te-aș vedea sănătos."
+      },
+      "evaluation": {
+        "ex276_e1": "ok"
+      },
+      "ex276_progress": "done _ 1|1 > 1"
+    },
+    "ex277": {
+      "ex277_input": "Te oi preface cândva.",
+      "targets": {
+        "ex277_t01": "Te-oi preface cândva."
+      },
+      "output": {
+        "ex277_o1": "Te-oi preface cândva."
+      },
+      "evaluation": {
+        "ex277_e1": "ok"
+      },
+      "ex277_progress": "done _ 1|1 > 1"
+    },
+    "ex278": {
+      "ex278_input": "Trimite mi o prin poștă.",
+      "targets": {
+        "ex278_t01": "Trimite-mi-o prin poștă."
+      },
+      "output": {
+        "ex278_o1": "Trimite-mi-o prin poștă."
+      },
+      "evaluation": {
+        "ex278_e1": "ok"
+      },
+      "ex278_progress": "done _ 1|1 > 1"
+    },
+    "ex279": {
+      "ex279_input": "Uită o pe Maria, ea nu o să vină cu noi!",
+      "targets": {
+        "ex279_t01": "Uit-o pe Maria, ea nu o să vină cu noi!",
+        "ex279_t02": "Uit-o pe Maria, ea n-o să vină cu noi!"
+      },
+      "output": {
+        "ex279_o1": "Uit-o pe Maria, ea nu o să vină cu noi!",
+        "ex279_o2": "Uit-o pe Maria, ea n-o să vină cu noi!"
+      },
+      "evaluation": {
+        "ex279_e1": "ok",
+        "ex279_e2": "ok"
+      },
+      "ex279_progress": "done _ 2|2 > 2"
+    },
+    "ex280": {
+      "ex280_input": "Uite o pe Maria acolo!",
+      "targets": {
+        "ex280_t01": "Uite-o pe Maria acolo!"
+      },
+      "output": {
+        "ex280_o1": "Uite-o pe Maria acolo!"
+      },
+      "evaluation": {
+        "ex280_e1": "ok"
+      },
+      "ex280_progress": "done _ 1|1 > 1"
+    },
+    "ex281": {
+      "ex281_input": "Un zâmbet timid i flutură pe buze și deveni serioasă.",
+      "targets": {
+        "ex281_t01": "Un zâmbet timid îi flutură pe buze și deveni serioasă."
+      },
+      "output": {
+        "ex281_o1": "Un zâmbet timid îi flutură pe buze și deveni serioasă."
+      },
+      "evaluation": {
+        "ex281_e1": "ok"
+      },
+      "ex281_progress": "done _ 1|1 > 1"
+    },
+    "ex282": {
+      "ex282_input": "Unde mi tot pleci?",
+      "targets": {
+        "ex282_t01": "Unde îmi tot pleci?",
+        "ex282_t02": "Unde-mi tot pleci?"
+      },
+      "output": {
+        "ex282_o1": "Unde îmi tot pleci?",
+        "ex282_o2": "Unde-mi tot pleci?"
+      },
+      "evaluation": {
+        "ex282_e1": "ok",
+        "ex282_e2": "ok"
+      },
+      "ex282_progress": "done _ 2|2 > 2"
+    },
+    "ex283": {
+      "ex283_input": "Vi am dat mere gratis.",
+      "targets": {
+        "ex283_t01": "V-am dat mere gratis."
+      },
+      "output": {
+        "ex283_o1": "V-am dat mere gratis."
+      },
+      "evaluation": {
+        "ex283_e1": "ok"
+      },
+      "ex283_progress": "done _ 1|1 > 1"
+    },
+    "ex284": {
+      "ex284_input": "Vă au văzut acolo.",
+      "targets": {
+        "ex284_t01": "V-au văzut acolo."
+      },
+      "output": {
+        "ex284_o1": "V-au văzut acolo."
+      },
+      "evaluation": {
+        "ex284_e1": "ok"
+      },
+      "ex284_progress": "done _ 1|1 > 1"
+    },
+    "ex285": {
+      "ex285_input": "Vi o dau gratis.",
+      "targets": {
+        "ex285_t01": "V-o dau gratis."
+      },
+      "output": {
+        "ex285_o1": "V-o dau gratis."
+      },
+      "evaluation": {
+        "ex285_e1": "ok"
+      },
+      "ex285_progress": "done _ 1|1 > 1"
+    },
+    "ex286": {
+      "ex286_input": "Vedea o aș moartă!",
+      "targets": {
+        "ex286_t01": "Vedea-o-aș moartă!"
+      },
+      "output": {
+        "ex286_o1": "Vedea-o-aș moartă!"
+      },
+      "evaluation": {
+        "ex286_e1": "ok"
+      },
+      "ex286_progress": "done _ 1|1 > 1"
+    },
+    "ex287": {
+      "ex287_input": "Vedea te aș sănătos!",
+      "targets": {
+        "ex287_t01": "Vedea-te-aș sănătos!"
+      },
+      "output": {
+        "ex287_o1": "Vedea-te-aș sănătos!"
+      },
+      "evaluation": {
+        "ex287_e1": "ok"
+      },
+      "ex287_progress": "done _ 1|1 > 1"
+    },
+    "ex288": {
+      "ex288_input": "Vi ți lu bat de nu se vede.",
+      "targets": {
+        "ex288_t01": "Vi ți-l bat de nu se vede."
+      },
+      "output": {
+        "ex288_o1": "Vi ți-l bat de nu se vede."
+      },
+      "evaluation": {
+        "ex288_e1": "ok"
+      },
+      "ex288_progress": "done _ 1|1 > 1"
+    },
+    "ex289": {
+      "ex289_input": "Vi ți lu bat pe copil.",
+      "targets": {
+        "ex289_t01": "Vi ți-l bat pe copil."
+      },
+      "output": {
+        "ex289_o1": "Vi ți-l bat pe copil."
+      },
+      "evaluation": {
+        "ex289_e1": "ok"
+      },
+      "ex289_progress": "done _ 1|1 > 1"
+    },
+    "ex290": {
+      "ex290_input": "Vi i dă gratis.",
+      "targets": {
+        "ex290_t01": "Vi-i dă gratis."
+      },
+      "output": {
+        "ex290_o1": "Vi-i dă gratis."
+      },
+      "evaluation": {
+        "ex290_e1": "ok"
+      },
+      "ex290_progress": "done _ 1|1 > 1"
+    },
+    "ex291": {
+      "ex291_input": "Vi lu bat de nu se vede.",
+      "targets": {
+        "ex291_t01": "Vi-l bat de nu se vede."
+      },
+      "output": {
+        "ex291_o1": "Vi-l bat de nu se vede."
+      },
+      "evaluation": {
+        "ex291_e1": "ok"
+      },
+      "ex291_progress": "done _ 1|1 > 1"
+    },
+    "ex292": {
+      "ex292_input": "Vi lu dă gratis.",
+      "targets": {
+        "ex292_t01": "Vi-l dă gratis."
+      },
+      "output": {
+        "ex292_o1": "Vi-l dă gratis."
+      },
+      "evaluation": {
+        "ex292_e1": "ok"
+      },
+      "ex292_progress": "done _ 1|1 > 1"
+    },
+    "ex293": {
+      "ex293_input": "Vrea să vi dea mere.",
+      "targets": {
+        "ex293_t01": "Vrea să vă dea mere."
+      },
+      "output": {
+        "ex293_o1": "Vrea să vă dea mere."
+      },
+      "evaluation": {
+        "ex293_e1": "ok"
+      },
+      "ex293_progress": "done _ 1|1 > 1"
+    },
+    "ex294": {
+      "ex294_input": "Vreau să le dați afară.",
+      "targets": {
+        "ex294_t01": "Vreau să le dați afară."
+      },
+      "output": {
+        "ex294_o1": "Vreau să le dați afară."
+      },
+      "evaluation": {
+        "ex294_e1": "ok"
+      },
+      "ex294_progress": "done _ 1|1 > 1"
+    },
+    "ex295": {
+      "ex295_input": "Vreau să mi le dai.",
+      "targets": {
+        "ex295_t01": "Vreau să mi le dai."
+      },
+      "output": {
+        "ex295_o1": "Vreau să mi le dai."
+      },
+      "evaluation": {
+        "ex295_e1": "ok"
+      },
+      "ex295_progress": "done _ 1|1 > 1"
+    },
+    "ex296": {
+      "ex296_input": "Vreau să mi le faci acum.",
+      "targets": {
+        "ex296_t01": "Vreau să mi le faci acum."
+      },
+      "output": {
+        "ex296_o1": "Vreau să mi le faci acum."
+      },
+      "evaluation": {
+        "ex296_e1": "ok"
+      },
+      "ex296_progress": "done _ 1|1 > 1"
+    },
+    "ex297": {
+      "ex297_input": "Vreau să mi o dați afară.",
+      "targets": {
+        "ex297_t01": "Vreau să mi-o dați afară."
+      },
+      "output": {
+        "ex297_o1": "Vreau să mi-o dați afară."
+      },
+      "evaluation": {
+        "ex297_e1": "ok"
+      },
+      "ex297_progress": "done _ 1|1 > 1"
+    },
+    "ex298": {
+      "ex298_input": "Vreau să o cumperi repede.",
+      "targets": {
+        "ex298_t01": "Vreau să o cumperi repede.",
+        "ex298_t02": "Vreau s-o cumperi repede."
+      },
+      "output": {
+        "ex298_o1": "Vreau să o cumperi repede.",
+        "ex298_o2": "Vreau s-o cumperi repede."
+      },
+      "evaluation": {
+        "ex298_e1": "ok",
+        "ex298_e2": "ok"
+      },
+      "ex298_progress": "done _ 2|2 > 2"
+    },
+    "ex299": {
+      "ex299_input": "Vreau să o dați afară.",
+      "targets": {
+        "ex299_t01": "Vreau să o dați afară.",
+        "ex299_t02": "Vreau s-o dați afară."
+      },
+      "output": {
+        "ex299_o1": "Vreau să o dați afară.",
+        "ex299_o2": "Vreau s-o dați afară."
+      },
+      "evaluation": {
+        "ex299_e1": "ok",
+        "ex299_e2": "ok"
+      },
+      "ex299_progress": "done _ 2|2 > 2"
+    },
+    "ex300": {
+      "ex300_input": "Vreau să o încep.",
+      "targets": {
+        "ex300_t01": "Vreau să o încep.",
+        "ex300_t02": "Vreau s-o încep.",
+        "ex300_t03": "Vreau să o-ncep.",
+        "ex300_t04": "Vreau s-o-ncep."
+      },
+      "output": {
+        "ex300_o1": "Vreau să o încep.",
+        "ex300_o2": "Vreau să o-ncep.",
+        "ex300_o3": "Vreau s-o încep.",
+        "ex300_o4": "Vreau s-o-ncep."
+      },
+      "evaluation": {
+        "ex300_e1": "ok",
+        "ex300_e2": "ok",
+        "ex300_e3": "ok",
+        "ex300_e4": "ok"
+      },
+      "ex300_progress": "done _ 4|4 > 4"
+    },
+    "ex301": {
+      "ex301_input": "Vreau să te ascunzi.",
+      "targets": {
+        "ex301_t01": "Vreau să te ascunzi.",
+        "ex301_t02": "Vreau să te-ascunzi."
+      },
+      "output": {
+        "ex301_o1": "Vreau să te ascunzi.",
+        "ex301_o2": "Vreau să te-ascunzi."
+      },
+      "evaluation": {
+        "ex301_e1": "ok",
+        "ex301_e2": "ok"
+      },
+      "ex301_progress": "done _ 2|2 > 2"
+    },
+    "ex302": {
+      "ex302_input": "Vreau să te duci acolo.",
+      "targets": {
+        "ex302_t01": "Vreau să te duci acolo."
+      },
+      "output": {
+        "ex302_o1": "Vreau să te duci acolo."
+      },
+      "evaluation": {
+        "ex302_e1": "ok"
+      },
+      "ex302_progress": "done _ 1|1 > 1"
+    },
+    "ex303": {
+      "ex303_input": "Vreau să lu cumperi repede.",
+      "targets": {
+        "ex303_t01": "Vreau să îl cumperi repede.",
+        "ex303_t02": "Vreau să-l cumperi repede."
+      },
+      "output": {
+        "ex303_o1": "Vreau să îl cumperi repede.",
+        "ex303_o2": "Vreau să-l cumperi repede."
+      },
+      "evaluation": {
+        "ex303_e1": "ok",
+        "ex303_e2": "ok"
+      },
+      "ex303_progress": "done _ 2|2 > 2"
+    },
+    "ex304": {
+      "ex304_input": "Vreau să mi aduci mere.",
+      "targets": {
+        "ex304_t01": "Vreau să îmi aduci mere.",
+        "ex304_t02": "Vreau să-mi aduci mere.",
+        "ex304_t03": "Vreau să mi-aduci mere."
+      },
+      "output": {
+        "ex304_o1": "Vreau să îmi aduci mere.",
+        "ex304_o2": "Vreau să mi-aduci mere.",
+        "ex304_o3": "Vreau să-mi aduci mere."
+      },
+      "evaluation": {
+        "ex304_e1": "ok",
+        "ex304_e2": "ok",
+        "ex304_e3": "ok"
+      },
+      "ex304_progress": "done _ 3|3 > 3"
+    },
+    "ex305": {
+      "ex305_input": "Vreau să mi dai mere.",
+      "targets": {
+        "ex305_t01": "Vreau să îmi dai mere.",
+        "ex305_t02": "Vreau să-mi dai mere."
+      },
+      "output": {
+        "ex305_o1": "Vreau să îmi dai mere.",
+        "ex305_o2": "Vreau să-mi dai mere."
+      },
+      "evaluation": {
+        "ex305_e1": "ok",
+        "ex305_e2": "ok"
+      },
+      "ex305_progress": "done _ 2|2 > 2"
+    },
+    "ex306": {
+      "ex306_input": "Vreau să ți cumperi cartea repede.",
+      "targets": {
+        "ex306_t01": "Vreau să îți cumperi cartea repede.",
+        "ex306_t02": "Vreau să-ți cumperi cartea repede."
+      },
+      "output": {
+        "ex306_o1": "Vreau să îți cumperi cartea repede.",
+        "ex306_o2": "Vreau să-ți cumperi cartea repede."
+      },
+      "evaluation": {
+        "ex306_e1": "ok",
+        "ex306_e2": "ok"
+      },
+      "ex306_progress": "done _ 2|2 > 2"
+    },
+    "ex307": {
+      "ex307_input": "Vreau să ți lu cumperi repede.",
+      "targets": {
+        "ex307_t01": "Vreau să ți-l cumperi repede."
+      },
+      "output": {
+        "ex307_o1": "Vreau să ți-l cumperi repede."
+      },
+      "evaluation": {
+        "ex307_e1": "ok"
+      },
+      "ex307_progress": "done _ 1|1 > 1"
+    },
+    "ex308": {
+      "ex308_input": "Vreau să ți o cumperi repede.",
+      "targets": {
+        "ex308_t01": "Vreau să ți-o cumperi repede."
+      },
+      "output": {
+        "ex308_o1": "Vreau să ți-o cumperi repede."
+      },
+      "evaluation": {
+        "ex308_e1": "ok"
+      },
+      "ex308_progress": "done _ 1|1 > 1"
+    },
+    "ex309": {
+      "ex309_input": "Vi dau mere.",
+      "targets": {
+        "ex309_t01": "Vă dau mere."
+      },
+      "output": {
+        "ex309_o1": "Vă dau mere."
+      },
+      "evaluation": {
+        "ex309_e1": "ok"
+      },
+      "ex309_progress": "done _ 1|1 > 1"
+    },
+    "ex310": {
+      "ex310_input": "Vi dă mere gratis.",
+      "targets": {
+        "ex310_t01": "Vă dă mere gratis."
+      },
+      "output": {
+        "ex310_o1": "Vă dă mere gratis."
+      },
+      "evaluation": {
+        "ex310_e1": "ok"
+      },
+      "ex310_progress": "done _ 1|1 > 1"
+    },
+    "ex311": {
+      "ex311_input": "Vă văd acolo.",
+      "targets": {
+        "ex311_t01": "Vă văd acolo."
+      },
+      "output": {
+        "ex311_o1": "Vă văd acolo."
+      },
+      "evaluation": {
+        "ex311_e1": "ok"
+      },
+      "ex311_progress": "done _ 1|1 > 1"
+    },
+    "ex312": {
+      "ex312_input": "I acasă acum.",
+      "targets": {
+        "ex312_t01": "Îi acasă acum.",
+        "ex312_t02": "I-acasă acum."
+      },
+      "output": {
+        "ex312_o1": "Îi acasă acum.",
+        "ex312_o2": "I-acasă acum."
+      },
+      "evaluation": {
+        "ex312_e1": "ok",
+        "ex312_e2": "ok"
+      },
+      "ex312_progress": "done _ 2|2 > 2"
+    },
+    "ex313": {
+      "ex313_input": "I aduce mere.",
+      "targets": {
+        "ex313_t01": "Îi aduce mere.",
+        "ex313_t02": "I-aduce mere."
+      },
+      "output": {
+        "ex313_o1": "Îi aduce mere.",
+        "ex313_o2": "I-aduce mere."
+      },
+      "evaluation": {
+        "ex313_e1": "ok",
+        "ex313_e2": "ok"
+      },
+      "ex313_progress": "done _ 2|2 > 2"
+    },
+    "ex314": {
+      "ex314_input": "I arăt casa.",
+      "targets": {
+        "ex314_t01": "Îi arăt casa.",
+        "ex314_t02": "I-arăt casa."
+      },
+      "output": {
+        "ex314_o1": "Îi arăt casa.",
+        "ex314_o2": "I-arăt casa."
+      },
+      "evaluation": {
+        "ex314_e1": "ok",
+        "ex314_e2": "ok"
+      },
+      "ex314_progress": "done _ 2|2 > 2"
+    },
+    "ex315": {
+      "ex315_input": "I dau mere gratis.",
+      "targets": {
+        "ex315_t01": "Îi dau mere gratis."
+      },
+      "output": {
+        "ex315_o1": "Îi dau mere gratis."
+      },
+      "evaluation": {
+        "ex315_e1": "ok"
+      },
+      "ex315_progress": "done _ 1|1 > 1"
+    },
+    "ex316": {
+      "ex316_input": "I este dragă.",
+      "targets": {
+        "ex316_t01": "Îi este dragă."
+      },
+      "output": {
+        "ex316_o1": "Îi este dragă."
+      },
+      "evaluation": {
+        "ex316_e1": "ok"
+      },
+      "ex316_progress": "done _ 1|1 > 1"
+    },
+    "ex317": {
+      "ex317_input": "Lu am în buzunar.",
+      "targets": {
+        "ex317_t01": "Îl am în buzunar."
+      },
+      "output": {
+        "ex317_o1": "Îl am în buzunar."
+      },
+      "evaluation": {
+        "ex317_e1": "ok"
+      },
+      "ex317_progress": "done _ 1|1 > 1"
+    },
+    "ex318": {
+      "ex318_input": "Lu arunc repede.",
+      "targets": {
+        "ex318_t01": "Îl arunc repede.",
+        "ex318_t02": "L-arunc repede."
+      },
+      "output": {
+        "ex318_o1": "Îl arunc repede.",
+        "ex318_o2": "L-arunc repede."
+      },
+      "evaluation": {
+        "ex318_e1": "ok",
+        "ex318_e2": "ok"
+      },
+      "ex318_progress": "done _ 2|2 > 2"
+    },
+    "ex319": {
+      "ex319_input": "Lu cumperi repede.",
+      "targets": {
+        "ex319_t01": "Îl cumperi repede."
+      },
+      "output": {
+        "ex319_o1": "Îl cumperi repede."
+      },
+      "evaluation": {
+        "ex319_e1": "ok"
+      },
+      "ex319_progress": "done _ 1|1 > 1"
+    },
+    "ex320": {
+      "ex320_input": "Lu cumpăr acum și lu mănânc mâine.",
+      "targets": {
+        "ex320_t01": "Îl cumpăr acum și îl mănânc mâine.",
+        "ex320_t02": "Îl cumpăr acum și-l mănânc mâine."
+      },
+      "output": {
+        "ex320_o1": "Îl cumpăr acum și îl mănânc mâine.",
+        "ex320_o2": "Îl cumpăr acum și-l mănânc mâine."
+      },
+      "evaluation": {
+        "ex320_e1": "ok",
+        "ex320_e2": "ok"
+      },
+      "ex320_progress": "done _ 2|2 > 2"
+    },
+    "ex321": {
+      "ex321_input": "Lu dă gratis.",
+      "targets": {
+        "ex321_t01": "Îl dă gratis."
+      },
+      "output": {
+        "ex321_o1": "Îl dă gratis."
+      },
+      "evaluation": {
+        "ex321_e1": "ok"
+      },
+      "ex321_progress": "done _ 1|1 > 1"
+    },
+    "ex322": {
+      "ex322_input": "Lu iubește foarte mult.",
+      "targets": {
+        "ex322_t01": "Îl iubește foarte mult."
+      },
+      "output": {
+        "ex322_o1": "Îl iubește foarte mult."
+      },
+      "evaluation": {
+        "ex322_e1": "ok"
+      },
+      "ex322_progress": "done _ 1|1 > 1"
+    },
+    "ex323": {
+      "ex323_input": "Lu mănânc repede.",
+      "targets": {
+        "ex323_t01": "Îl mănânc repede."
+      },
+      "output": {
+        "ex323_o1": "Îl mănânc repede."
+      },
+      "evaluation": {
+        "ex323_e1": "ok"
+      },
+      "ex323_progress": "done _ 1|1 > 1"
+    },
+    "ex324": {
+      "ex324_input": "Lu pot vedea.",
+      "targets": {
+        "ex324_t01": "Îl pot vedea."
+      },
+      "output": {
+        "ex324_o1": "Îl pot vedea."
+      },
+      "evaluation": {
+        "ex324_e1": "ok"
+      },
+      "ex324_progress": "done _ 1|1 > 1"
+    },
+    "ex325": {
+      "ex325_input": "Lu văd acolo.",
+      "targets": {
+        "ex325_t01": "Îl văd acolo."
+      },
+      "output": {
+        "ex325_o1": "Îl văd acolo."
+      },
+      "evaluation": {
+        "ex325_e1": "ok"
+      },
+      "ex325_progress": "done _ 1|1 > 1"
+    },
+    "ex326": {
+      "ex326_input": "Lu împușcă în inimă.",
+      "targets": {
+        "ex326_t01": "Îl împușcă în inimă.",
+        "ex326_t02": "L-împușcă în inimă.",
+        "ex326_t03": "Îl împușcă-n inimă.",
+        "ex326_t04": "L-împușcă-n inimă."
+      },
+      "output": {
+        "ex326_o1": "Îl împușcă în inimă.",
+        "ex326_o2": "Îl împușcă-n inimă.",
+        "ex326_o3": "L-împușcă în inimă.",
+        "ex326_o4": "L-împușcă-n inimă."
+      },
+      "evaluation": {
+        "ex326_e1": "ok",
+        "ex326_e2": "ok",
+        "ex326_e3": "ok",
+        "ex326_e4": "ok"
+      },
+      "ex326_progress": "done _ 4|4 > 4"
+    },
+    "ex327": {
+      "ex327_input": "Mi aduci mere.",
+      "targets": {
+        "ex327_t01": "Îmi aduci mere.",
+        "ex327_t02": "Mi-aduci mere."
+      },
+      "output": {
+        "ex327_o1": "Îmi aduci mere.",
+        "ex327_o2": "Mi-aduci mere."
+      },
+      "evaluation": {
+        "ex327_e1": "ok",
+        "ex327_e2": "ok"
+      },
+      "ex327_progress": "done _ 2|2 > 2"
+    },
+    "ex328": {
+      "ex328_input": "Mi dai mere.",
+      "targets": {
+        "ex328_t01": "Îmi dai mere."
+      },
+      "output": {
+        "ex328_o1": "Îmi dai mere."
+      },
+      "evaluation": {
+        "ex328_e1": "ok"
+      },
+      "ex328_progress": "done _ 1|1 > 1"
+    },
+    "ex329": {
+      "ex329_input": "Împușcă o în inimă!",
+      "targets": {
+        "ex329_t01": "Împușc-o în inimă!",
+        "ex329_t02": "Împușc-o-n inimă!"
+      },
+      "output": {
+        "ex329_o1": "Împușc-o în inimă!",
+        "ex329_o2": "Împușc-o-n inimă!"
+      },
+      "evaluation": {
+        "ex329_e1": "ok",
+        "ex329_e2": "ok"
+      },
+      "ex329_progress": "done _ 2|2 > 2"
+    },
+    "ex330": {
+      "ex330_input": "Împușcă lu în inimă.",
+      "targets": {
+        "ex330_t01": "Împușcă-l în inimă."
+      },
+      "output": {
+        "ex330_o1": "Împușcă-l în inimă."
+      },
+      "evaluation": {
+        "ex330_e1": "ok"
+      },
+      "ex330_progress": "done _ 1|1 > 1"
+    },
+    "ex331": {
+      "ex331_input": "Înțepeni i se ar toate oasele!",
+      "targets": {
+        "ex331_t01": "Înțepeni-i-s-ar toate oasele!"
+      },
+      "output": {
+        "ex331_o1": "Înțepeni-i-s-ar toate oasele!"
+      },
+      "evaluation": {
+        "ex331_e1": "ok"
+      },
+      "ex331_progress": "done _ 1|1 > 1"
+    },
+    "ex332": {
+      "ex332_input": "Su pe munte.",
+      "targets": {
+        "ex332_t01": "Îs pe munte."
+      },
+      "output": {
+        "ex332_o1": "Îs pe munte."
+      },
+      "evaluation": {
+        "ex332_e1": "ok"
+      },
+      "ex332_progress": "done _ 1|1 > 1"
+    },
+    "ex333": {
+      "ex333_input": "Lu au văzut acolo.",
+      "targets": {
+        "ex333_t01": "L-au văzut acolo."
+      },
+      "output": {
+        "ex333_o1": "L-au văzut acolo."
+      },
+      "evaluation": {
+        "ex333_e1": "ok"
+      },
+      "ex333_progress": "done _ 1|1 > 1"
+    },
+    "ex334": {
+      "ex334_input": "Ți cumperi cartea repede.",
+      "targets": {
+        "ex334_t01": "Îți cumperi cartea repede."
+      },
+      "output": {
+        "ex334_o1": "Îți cumperi cartea repede."
+      },
+      "evaluation": {
+        "ex334_e1": "ok"
+      },
+      "ex334_progress": "done _ 1|1 > 1"
+    },
+    "ex335": {
+      "ex335_input": "Ți dau mere.",
+      "targets": {
+        "ex335_t01": "Îți dau mere."
+      },
+      "output": {
+        "ex335_o1": "Îți dau mere."
+      },
+      "evaluation": {
+        "ex335_e1": "ok"
+      },
+      "ex335_progress": "done _ 1|1 > 1"
+    },
+    "ex336": {
+      "ex336_input": "Ți dorim mult succes!",
+      "targets": {
+        "ex336_t01": "Îți dorim mult succes!"
+      },
+      "output": {
+        "ex336_o1": "Îți dorim mult succes!"
+      },
+      "evaluation": {
+        "ex336_e1": "ok"
+      },
+      "ex336_progress": "done _ 1|1 > 1"
+    },
+    "ex337": {
+      "ex337_input": "Și le cumpără și și le revinde.",
+      "targets": {
+        "ex337_t01": "Și le cumpără și și le revinde."
+      },
+      "output": {
+        "ex337_o1": "Și le cumpără și și le revinde."
+      },
+      "evaluation": {
+        "ex337_e1": "ok"
+      },
+      "ex337_progress": "done _ 1|1 > 1"
+    },
+    "ex338": {
+      "ex338_input": "Și repede mi ți le a înfulecat.",
+      "targets": {
+        "ex338_t01": "Și repede mi ți le-a înfulecat.",
+        "ex338_t02": "Și repede mi ți le-a-nfulecat."
+      },
+      "output": {
+        "ex338_o1": "Și repede mi ți le-a înfulecat.",
+        "ex338_o2": "Și repede mi ți le-a-nfulecat."
+      },
+      "evaluation": {
+        "ex338_e1": "ok",
+        "ex338_e2": "ok"
+      },
+      "ex338_progress": "done _ 2|2 > 2"
+    },
+    "ex339": {
+      "ex339_input": "Știu că i le dai.",
+      "targets": {
+        "ex339_t01": "Știu că i le dai."
+      },
+      "output": {
+        "ex339_o1": "Știu că i le dai."
+      },
+      "evaluation": {
+        "ex339_e1": "ok"
+      },
+      "ex339_progress": "done _ 1|1 > 1"
+    },
+    "ex340": {
+      "ex340_input": "Știu că lu au prins repede.",
+      "targets": {
+        "ex340_t01": "Știu că l-au prins repede."
+      },
+      "output": {
+        "ex340_o1": "Știu că l-au prins repede."
+      },
+      "evaluation": {
+        "ex340_e1": "ok"
+      },
+      "ex340_progress": "done _ 1|1 > 1"
+    },
+    "ex341": {
+      "ex341_input": "Știu că i dai mere.",
+      "targets": {
+        "ex341_t01": "Știu că îi dai mere.",
+        "ex341_t02": "Știu că-i dai mere."
+      },
+      "output": {
+        "ex341_o1": "Știu că îi dai mere.",
+        "ex341_o2": "Știu că-i dai mere."
+      },
+      "evaluation": {
+        "ex341_e1": "ok",
+        "ex341_e2": "ok"
+      },
+      "ex341_progress": "done _ 2|2 > 2"
+    },
+    "ex342": {
+      "ex342_input": "Știu că ți lu ai cumpărat repede.",
+      "targets": {
+        "ex342_t01": "Știu că ți l-ai cumpărat repede."
+      },
+      "output": {
+        "ex342_o1": "Știu că ți l-ai cumpărat repede."
+      },
+      "evaluation": {
+        "ex342_e1": "ok"
+      },
+      "ex342_progress": "done _ 1|1 > 1"
+    },
+    "ex343": {
+      "ex343_input": "Știu că ți ai cumpărat cartea repede.",
+      "targets": {
+        "ex343_t01": "Știu că ți-ai cumpărat cartea repede."
+      },
+      "output": {
+        "ex343_o1": "Știu că ți-ai cumpărat cartea repede."
+      },
+      "evaluation": {
+        "ex343_e1": "ok"
+      },
+      "ex343_progress": "done _ 1|1 > 1"
+    },
+    "ex344": {
+      "ex344_input": "Ți lu a dat gratis.",
+      "targets": {
+        "ex344_t01": "Ți l-a dat gratis."
+      },
+      "output": {
+        "ex344_o1": "Ți l-a dat gratis."
+      },
+      "evaluation": {
+        "ex344_e1": "ok"
+      },
+      "ex344_progress": "done _ 1|1 > 1"
+    },
+    "ex345": {
+      "ex345_input": "Ți lu ai cumpărat repede.",
+      "targets": {
+        "ex345_t01": "Ți l-ai cumpărat repede."
+      },
+      "output": {
+        "ex345_o1": "Ți l-ai cumpărat repede."
+      },
+      "evaluation": {
+        "ex345_e1": "ok"
+      },
+      "ex345_progress": "done _ 1|1 > 1"
+    },
+    "ex346": {
+      "ex346_input": "Ți le cumpăr azi.",
+      "targets": {
+        "ex346_t01": "Ți le cumpăr azi."
+      },
+      "output": {
+        "ex346_o1": "Ți le cumpăr azi."
+      },
+      "evaluation": {
+        "ex346_e1": "ok"
+      },
+      "ex346_progress": "done _ 1|1 > 1"
+    },
+    "ex347": {
+      "ex347_input": "Ți a suflat vreun iubit?",
+      "targets": {
+        "ex347_t01": "Ți-a suflat vreun iubit?"
+      },
+      "output": {
+        "ex347_o1": "Ți-a suflat vreun iubit?"
+      },
+      "evaluation": {
+        "ex347_e1": "ok"
+      },
+      "ex347_progress": "done _ 1|1 > 1"
+    },
+    "ex348": {
+      "ex348_input": "Ți ai cumpărat cartea repede.",
+      "targets": {
+        "ex348_t01": "Ți-ai cumpărat cartea repede."
+      },
+      "output": {
+        "ex348_o1": "Ți-ai cumpărat cartea repede."
+      },
+      "evaluation": {
+        "ex348_e1": "ok"
+      },
+      "ex348_progress": "done _ 1|1 > 1"
+    },
+    "ex349": {
+      "ex349_input": "Ți lu bat de nu se vede.",
+      "targets": {
+        "ex349_t01": "Ți-l bat de nu se vede."
+      },
+      "output": {
+        "ex349_o1": "Ți-l bat de nu se vede."
+      },
+      "evaluation": {
+        "ex349_e1": "ok"
+      },
+      "ex349_progress": "done _ 1|1 > 1"
+    },
+    "ex350": {
+      "ex350_input": "Ți lu cumperi repede.",
+      "targets": {
+        "ex350_t01": "Ți-l cumperi repede."
+      },
+      "output": {
+        "ex350_o1": "Ți-l cumperi repede."
+      },
+      "evaluation": {
+        "ex350_e1": "ok"
+      },
+      "ex350_progress": "done _ 1|1 > 1"
+    },
+    "ex351": {
+      "ex351_input": "Ți o cumperi repede.",
+      "targets": {
+        "ex351_t01": "Ți-o cumperi repede."
+      },
+      "output": {
+        "ex351_o1": "Ți-o cumperi repede."
+      },
+      "evaluation": {
+        "ex351_e1": "ok"
+      },
+      "ex351_progress": "done _ 1|1 > 1"
+    },
+    "ex352": {
+      "ex352_input": "Le arde pe rug.",
+      "targets": {
+        "ex352_t01": "Le arde pe rug."
+      },
+      "output": {
+        "ex352_o1": "Le arde pe rug."
+      },
+      "evaluation": {
+        "ex352_e1": "ok"
+      },
+      "ex352_progress": "done _ 1|1 > 1"
+    }
+  }
+}

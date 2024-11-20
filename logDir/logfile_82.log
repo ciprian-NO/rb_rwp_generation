@@ -1,0 +1,4229 @@
+<001> . . . . . . . . . . . . . . . . . . .
+[5 items] A căruia ți place?
+........................
+0 A a DET Tsfs det
+1 căruia căruia PRON Pw3mso iobj
+2 ți ți PRON Pp2-sd--------w iobj
+3 place place VERB Vmip3s ROOT
+4 ? ? PUNCT QUEST punct
+........................
+['A căruia îți place?', 'A căruia-ți place?']
+-------------------------------------------
+<002> . . . . . . . . . . . . . . . . . . .
+[8 items] A i le da gratis este bine.
+........................
+0 A a PART Qn mark
+1 i i PRON Pp3-sd--------w iobj
+2 le le PRON Pp3fpa--------w expl
+3 da da VERB Vmnp advcl
+4 gratis gratis ADV Rgp advmod
+5 este este AUX Vaip3s cop
+6 bine bine ADV Rgp ROOT
+7 . . PUNCT PERIOD punct
+........................
+['A i le da gratis este bine.']
+-------------------------------------------
+<003> . . . . . . . . . . . . . . . . . . .
+[8 items] A mi le da gratis este bine.
+........................
+0 A a PART Qn mark
+1 mi mi PRON Pp1-sd--------w iobj
+2 le le PRON Pp3fpa--------w expl
+3 da da VERB Vmis3s ROOT
+4 gratis gratis ADV Rgp advmod
+5 este este AUX Vaip3s cop
+6 bine bine ADV Rgp conj
+7 . . PUNCT PERIOD punct
+........................
+['A mi le da gratis este bine.']
+-------------------------------------------
+<004> . . . . . . . . . . . . . . . . . . .
+[9 items] A nu o mai vedea i cade greu.
+........................
+0 A a PART Qn mark
+1 nu nu PART Qz advmod
+2 o o PRON Pp3fsa--------w mark
+3 mai mai ADV Rp advmod
+4 vedea vedea VERB Vmii3s ROOT
+5 i i PRON Pp3-sd--------w iobj
+6 cade cade VERB Vmip3s ccomp
+7 greu greu ADV Rgp advmod
+8 . . PUNCT PERIOD punct
+........................
+['A nu o mai vedea îi cade greu.', 'A n-o mai vedea îi cade greu.']
+-------------------------------------------
+<005> . . . . . . . . . . . . . . . . . . .
+[9 items] A nu ți da mere gratis este nepoliticos.
+........................
+0 A a PART Qn mark
+1 nu nu PART Qz advmod
+2 ți ți PRON Pp2-sd--y-----w iobj
+3 da da VERB Vmis3s ROOT
+4 mere mere NOUN Ncfp-n obj
+5 gratis gratis ADJ Afpms-n amod
+6 este este AUX Vaip3s cop
+7 nepoliticos nepoliticos ADJ Afpms-n conj
+8 . . PUNCT PERIOD punct
+........................
+['A nu îți da mere gratis este nepoliticos.', 'A nu-ți da mere gratis este nepoliticos.']
+-------------------------------------------
+<006> . . . . . . . . . . . . . . . . . . .
+[12 items] A nu ți lu trimite niciodată este un semn de mitocănie.
+........................
+0 A a PART Qn mark
+1 nu nu PART Qz advmod
+2 ți ți PRON Pp2-sd--y-----w iobj
+3 lu lu PRON Pp3fsa--------m obj
+4 trimite trimite VERB Vmip3s csubj
+5 niciodată niciodată ADV Rz advmod
+6 este este AUX Vaip3s cop
+7 un un DET Timsr det
+8 semn semn NOUN Ncms-n ROOT
+9 de de ADP Spsa case
+10 mitocănie mitocănie NOUN Ncfsrn nmod
+11 . . PUNCT PERIOD punct
+........................
+['A nu ți-l trimite niciodată este un semn de mitocănie.']
+-------------------------------------------
+<007> . . . . . . . . . . . . . . . . . . .
+[8 items] A i da mere gratis este bine.
+........................
+0 A a PART Qn mark
+1 i i PRON Pp3-sd--------w expl:poss
+2 da da VERB Vmnp ROOT
+3 mere mere NOUN Ncfp-n obj
+4 gratis gratis ADJ Afpms-n amod
+5 este este AUX Vaip3s cop
+6 bine bine ADV Rgp conj
+7 . . PUNCT PERIOD punct
+........................
+['A îi da mere gratis este bine.', 'A-i da mere gratis este bine.']
+-------------------------------------------
+<008> . . . . . . . . . . . . . . . . . . .
+[7 items] A lu da afară este bine.
+........................
+0 A a PART Qn mark
+1 lu lu PRON Pp3fsa--------m obj
+2 da da VERB Vmnp ROOT
+3 afară afară ADV Rgp advmod
+4 este este AUX Vmip3s cop
+5 bine bine ADV Rgp ROOT
+6 . . PUNCT PERIOD punct
+........................
+['A îl da afară este bine.', 'A-l da afară este bine.']
+-------------------------------------------
+<009> . . . . . . . . . . . . . . . . . . .
+[10 items] A ți da mere gratis este un gest frumos.
+........................
+0 A a PART Qn mark
+1 ți ți PRON Pp2-sd--y-----w iobj
+2 da da VERB Vmnp csubj
+3 mere mere NOUN Ncfp-n obj
+4 gratis gratis ADJ Afpms-n amod
+5 este este AUX Vaip3s cop
+6 un un DET Timsr det
+7 gest gest NOUN Ncms-n ROOT
+8 frumos frumos ADJ Afpms-n amod
+9 . . PUNCT PERIOD punct
+........................
+['A îți da mere gratis este un gest frumos.', 'A-ți da mere gratis este un gest frumos.']
+-------------------------------------------
+<010> . . . . . . . . . . . . . . . . . . .
+[5 items] Acolo mi su copiii.
+........................
+0 Acolo acolo ADV Rgp advmod
+1 mi mi PRON Pp1-sd--------w expl:poss
+2 su su AUX Vaip3p cop
+3 copiii copiii NOUN Ncmpry flat
+4 . . PUNCT PERIOD punct
+........................
+['Acolo mi-s copiii.']
+-------------------------------------------
+<011> . . . . . . . . . . . . . . . . . . .
+[5 items] Acolo mi su oile.
+........................
+0 Acolo acolo ADV Rgp advmod
+1 mi mi PRON Pp1-sd--------w expl:poss
+2 su su AUX Vaip3p cop
+3 oile oile NOUN Ncfpry flat
+4 . . PUNCT PERIOD punct
+........................
+['Acolo mi-s oile.']
+-------------------------------------------
+<012> . . . . . . . . . . . . . . . . . . .
+[6 items] Acum lu aștept la bibliotecă.
+........................
+0 Acum acum ADV Rgp advmod
+1 lu lu PRON Pp3fsa--------m obj
+gogo False
+2 aștept aștept VERB Vmip1s ROOT
+3 la la ADP Spsa case
+4 bibliotecă bibliotecă NOUN Ncfsrn obl
+5 . . PUNCT PERIOD punct
+........................
+['Acum îl aștept la bibliotecă.', 'Acum l-aștept la bibliotecă.']
+-------------------------------------------
+<013> . . . . . . . . . . . . . . . . . . .
+[4 items] Adu le acolo!
+........................
+0 Adu adu VERB Vmip3p ROOT
+1 le le PRON Pp3fpa--------w obj
+2 acolo acolo ADV Rgp advmod
+3 ! ! PUNCT EXCL punct
+........................
+['Adu-le acolo!', 'Adu-le-acolo!']
+-------------------------------------------
+<014> . . . . . . . . . . . . . . . . . . .
+[4 items] Adu li mere!
+........................
+0 Adu adu VERB Vmip3p ROOT
+1 li li PRON Pp3-pd--------w nummod
+2 mere mere NOUN Ncfp-n obj
+3 ! ! PUNCT EXCL punct
+........................
+['Adu-le mere!']
+-------------------------------------------
+<015> . . . . . . . . . . . . . . . . . . .
+[5 items] Am cumpărat o carte.
+........................
+0 Am am AUX Va--1 aux
+1 cumpărat cumpărat VERB Vmp--sm ROOT
+2 o o DET Tifsr det
+3 carte carte NOUN Ncfsrn obj
+4 . . PUNCT PERIOD punct
+........................
+['Am cumpărat o carte.']
+-------------------------------------------
+<016> . . . . . . . . . . . . . . . . . . .
+[5 items] Am cumpărat o repede.
+........................
+0 Am am AUX Va--1 aux
+1 cumpărat cumpărat VERB Vmp--sm ROOT
+2 o o PRON Pp3fsa--------w obj
+3 repede repede ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Am cumpărat-o repede.']
+-------------------------------------------
+<017> . . . . . . . . . . . . . . . . . . .
+[5 items] Am dat o gratis.
+........................
+0 Am am AUX Va--1 aux
+1 dat dat VERB Vmp--sm ROOT
+2 o o PRON Pp3fsa--------w obj
+3 gratis gratis ADV Rgp obj
+4 . . PUNCT PERIOD punct
+........................
+['Am dat-o gratis.']
+-------------------------------------------
+<018> . . . . . . . . . . . . . . . . . . .
+[10 items] Am impresia că nu o prea placi pe Ana.
+........................
+0 Am am VERB Va--1 ROOT
+1 impresia impresia NOUN Ncfsry obj
+2 că că SCONJ Csssp mark
+3 nu nu PART Qz advmod
+4 o o PRON Pp3fsa--------w obj
+5 prea prea ADV Rp advmod
+6 placi placi VERB Vmip2s acl
+7 pe pe ADP Spsa case
+8 Ana ana PROPN Np obl
+9 . . PUNCT PERIOD punct
+........................
+['Am impresia că nu o prea placi pe Ana.', 'Am impresia că n-o prea placi pe Ana.']
+-------------------------------------------
+<019> . . . . . . . . . . . . . . . . . . .
+[4 items] Arată mi muzeul!
+........................
+0 Arată arată VERB Vmip3 ROOT
+1 mi mi PRON Pp1-sd--------w iobj
+2 muzeul muzeul NOUN Ncmsry obj
+3 ! ! PUNCT EXCL punct
+........................
+['Arată-mi muzeul!']
+-------------------------------------------
+<020> . . . . . . . . . . . . . . . . . . .
+[4 items] Arată mă tuturor!
+........................
+0 Arată arată VERB Vmip3 ROOT
+1 mă mă PRON Pp1-sa--------w obj
+2 tuturor tuturor PRON Pi3-po iobj
+3 ! ! PUNCT EXCL punct
+........................
+['Arată-mă tuturor!']
+-------------------------------------------
+<021> . . . . . . . . . . . . . . . . . . .
+[4 items] Arată ni muzeul!
+........................
+0 Arată arată VERB Vmip3 ROOT
+1 ni ni PRON Pp1-pd--------w nummod
+2 muzeul muzeul NOUN Ncmsry obj
+3 ! ! PUNCT EXCL punct
+........................
+['Arată-ne muzeul!']
+-------------------------------------------
+<022> . . . . . . . . . . . . . . . . . . .
+[4 items] Arată ne tuturor!
+........................
+0 Arată arată VERB Vmip3 ROOT
+1 ne ne PRON Pp1-pa--------w obj
+2 tuturor tuturor PRON Pi3-po iobj
+3 ! ! PUNCT EXCL punct
+........................
+['Arată-ne tuturor!']
+-------------------------------------------
+<023> . . . . . . . . . . . . . . . . . . .
+[5 items] Asta se întâmplă des.
+........................
+0 Asta asta PRON Pd3fsr nsubj
+1 se se PRON Px3--a--------w expl:pv
+2 întâmplă întâmplă VERB Vmis3s ROOT
+3 des des ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Asta se întâmplă des.', 'Asta se-ntâmplă des.']
+-------------------------------------------
+<024> . . . . . . . . . . . . . . . . . . .
+[6 items] Astea le aflu mai devreme.
+........................
+0 Astea astea PRON Pd3fpr nsubj
+1 le le PRON Pp3-pd--------w expl
+2 aflu aflu VERB Vmip1s ROOT
+3 mai mai ADV Rp advmod
+4 devreme devreme ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Astea le aflu mai devreme.']
+-------------------------------------------
+<025> . . . . . . . . . . . . . . . . . . .
+[5 items] Au văzut o acolo.
+........................
+0 Au au AUX Va--3p aux
+1 văzut văzut VERB Vmp--sm ROOT
+2 o o PRON Pp3fsa--------w obj
+3 acolo acolo ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Au văzut-o acolo.']
+-------------------------------------------
+<026> . . . . . . . . . . . . . . . . . . .
+[5 items] Bate lu ar norocul!
+........................
+0 Bate bate VERB Vmip2s ROOT
+1 lu lu PRON Pp3fsa--------m obj
+2 ar ar AUX Va--3 cop
+3 norocul norocul NOUN Ncmsry ccomp
+4 ! ! PUNCT EXCL punct
+........................
+['Bate-l-ar norocul!']
+-------------------------------------------
+<027> . . . . . . . . . . . . . . . . . . .
+[7 items] Bate mi ți lu pe copil.
+........................
+0 Bate bate VERB Vmip2s ROOT
+1 mi mi PRON Pp1-sd--------w iobj
+2 ți ți PRON Pp2-sd--y-----w expl
+3 lu lu PRON Pp3fsa--------m obj
+4 pe pe ADP Spsa case
+5 copil copil NOUN Ncms-n obj
+6 . . PUNCT PERIOD punct
+........................
+['Bate-mi-ți-l pe copil.']
+-------------------------------------------
+<028> . . . . . . . . . . . . . . . . . . .
+[7 items] Batu vi ți lu pe copil.
+........................
+0 Batu batu VERB Vmip2s ROOT
+1 vi vi PRON Pp2-pd--------w iobj
+2 ți ți PRON Pp2-sd--y-----w expl
+3 lu lu PRON Pp3fsa--------m obj
+4 pe pe ADP Spsa case
+5 copil copil NOUN Ncms-n obj
+6 . . PUNCT PERIOD punct
+........................
+['Batu-vi-ți-l pe copil.']
+-------------------------------------------
+<029> . . . . . . . . . . . . . . . . . . .
+[10 items] Bătu te ar mama Ana de la gura podului!
+........................
+0 Bătu bătu VERB Vmip2s ROOT
+1 te te PRON Pp2-sa--------w expl:pv
+2 ar ar AUX Va--3 aux
+3 mama mama NOUN Ncfsry csubj
+4 Ana ana PROPN Np nsubj
+5 de de ADP Spsa case
+6 la la ADP Spsa fixed
+7 gura gura NOUN Ncfsry nmod:tmod
+8 podului podului NOUN Ncmsoy nmod
+9 ! ! PUNCT EXCL punct
+........................
+['Bătu-te-ar mama Ana de la gura podului!']
+-------------------------------------------
+<030> . . . . . . . . . . . . . . . . . . .
+[6 items] Casa căruia ai văzut o?
+........................
+0 Casa casa NOUN Ncfsry nsubj
+1 căruia căruia PRON Pw3mso nmod
+2 ai ai AUX Va--2s aux
+3 văzut văzut VERB Vmp--sm ROOT
+4 o o PRON Pp3fsa--------w obj
+5 ? ? PUNCT QUEST punct
+........................
+['Casa căruia ai văzut-o?']
+-------------------------------------------
+<031> . . . . . . . . . . . . . . . . . . .
+[17 items] Ceea ce am descoperit atunci, ca și urmările descoperirii, avea să mi marcheze devenirea.
+........................
+0 Ceea ceea PRON Pd3fsr nsubj
+1 ce ce PRON Pw3--r fixed
+2 am am AUX Va--1 aux
+3 descoperit descoperit VERB Vmp--sm ROOT
+4 atunci atunci ADV Rgp advmod
+5 , , PUNCT COMMA punct
+6 ca ca ADV Rc advmod
+7 și și CCONJ Crssp fixed
+8 urmările urmările NOUN Ncfpry obl
+9 descoperirii descoperirii NOUN Ncfsoy nmod
+10 , , PUNCT COMMA punct
+11 avea avea AUX Vaii3s aux
+12 să să PART Qs mark
+13 mi mi PRON Pp1-sd--y-----w iobj
+14 marcheze marcheze VERB Vmsp3 ccomp
+15 devenirea devenirea NOUN Ncfsry obj
+16 . . PUNCT PERIOD punct
+........................
+['Ceea ce am descoperit atunci, ca și urmările descoperirii, avea să îmi marcheze devenirea.', 'Ceea ce am descoperit atunci, ca și urmările descoperirii, avea să-mi marcheze devenirea.']
+-------------------------------------------
+<032> . . . . . . . . . . . . . . . . . . .
+[5 items] Cine ar face asta?
+........................
+0 Cine cine PRON Pw3--r nsubj
+1 ar ar AUX Va--3 aux
+2 face face VERB Vmnp ROOT
+3 asta asta PRON Pd3fsr obj
+4 ? ? PUNCT QUEST punct
+........................
+['Cine ar face asta?']
+-------------------------------------------
+<033> . . . . . . . . . . . . . . . . . . .
+[5 items] Copiii mi su acolo.
+........................
+0 Copiii copiii NOUN Ncmpry nsubj
+1 mi mi PRON Pp1-sd--y-----w nmod
+2 su su AUX Vaip3p cop
+3 acolo acolo ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Copiii mi-s acolo.']
+-------------------------------------------
+<034> . . . . . . . . . . . . . . . . . . .
+[6 items] Copiii nu și mai vorbesc.
+........................
+0 Copiii copiii NOUN Ncmpry nsubj
+1 nu nu PART Qz advmod
+2 și și PRON Px3--d--------w expl:pv
+3 mai mai ADV Rp advmod
+4 vorbesc vorbesc VERB Vmip3p ROOT
+5 . . PUNCT PERIOD punct
+........................
+['Copiii nu își mai vorbesc.', 'Copiii nu-și mai vorbesc.']
+-------------------------------------------
+<035> . . . . . . . . . . . . . . . . . . .
+[4 items] Cui i scrii?
+........................
+0 Cui cui PRON Pp2-sd--------s iobj
+1 i i PRON Pp3-sd--------w expl
+2 scrii scrii VERB Vmip2s ROOT
+3 ? ? PUNCT QUEST punct
+........................
+['Cui îi scrii?']
+-------------------------------------------
+<036> . . . . . . . . . . . . . . . . . . .
+[5 items] Cumpăra mi ai cărți!
+........................
+0 Cumpăra cumpăra VERB Vmii3s ROOT
+1 mi mi PRON Pp1-sd--y-----w iobj
+2 ai ai AUX Va--2 aux
+3 cărți cărți NOUN Ncfp-n obj
+4 ! ! PUNCT EXCL punct
+........................
+['Cumpăra-mi-ai cărți!']
+-------------------------------------------
+<037> . . . . . . . . . . . . . . . . . . .
+[4 items] Cumpără lu repede!
+........................
+0 Cumpără cumpără VERB Vmis3s ROOT
+1 lu lu PRON Pp3fsa--------m obj
+2 repede repede ADV Rgp advmod
+3 ! ! PUNCT EXCL punct
+........................
+['Cumpără-l repede!']
+-------------------------------------------
+<038> . . . . . . . . . . . . . . . . . . .
+[5 items] Cumpără ți cartea repede!
+........................
+0 Cumpără cumpără VERB Vmis3s ROOT
+1 ți ți PRON Pp2-sd--y-----w iobj
+2 cartea cartea NOUN Ncfsry obj
+3 repede repede ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Cumpără-ți cartea repede!']
+-------------------------------------------
+<039> . . . . . . . . . . . . . . . . . . .
+[5 items] Cumpără ți lu repede!
+........................
+0 Cumpără cumpără VERB Vmis3s ROOT
+1 ți ți PRON Pp2-sd--y-----w obj
+2 lu lu PRON Pp3fsa--------m obj
+3 repede repede ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Cumpără-ți-l repede!']
+-------------------------------------------
+<040> . . . . . . . . . . . . . . . . . . .
+[5 items] Cumpără ți o repede!
+........................
+0 Cumpără cumpără VERB Vmis3s ROOT
+1 ți ți PRON Pp2-sd--y-----w iobj
+2 o o PRON Pp3fsa--------w obj
+3 repede repede ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Cumpără-ți-o repede!']
+-------------------------------------------
+<041> . . . . . . . . . . . . . . . . . . .
+[4 items] Când lu faci?
+........................
+0 Când când ADV Rw advmod
+1 lu lu PRON Pp3fsa--------m obj
+2 faci faci VERB Vmip2s ROOT
+3 ? ? PUNCT QUEST punct
+........................
+['Când îl faci?']
+-------------------------------------------
+<042> . . . . . . . . . . . . . . . . . . .
+[21 items] Datorită tenului deschis pe care lu avea, Luciana folosi o cremă protectoare înainte de a se întinde pe prosop.
+........................
+0 Datorită datorită ADP Spsd case
+1 tenului tenului NOUN Ncmsoy obl
+2 deschis deschis VERB Vmp--sm amod
+3 pe pe ADP Spsa case
+4 care care PRON Pw3--r obj
+5 lu lu PRON Pp3fsa--------m obj
+gogo False
+6 avea avea VERB Vmii3s acl
+7 , , PUNCT COMMA punct
+8 Luciana luciana PROPN Np nsubj
+9 folosi folosi VERB Vmnp ROOT
+10 o o DET Tifsr det
+11 cremă cremă NOUN Ncfsrn obj
+12 protectoare protectoare ADJ Afpf--n amod
+13 înainte înainte ADV Rgp mark
+14 de de ADP Spsa fixed
+15 a a PART Qn mark
+16 se se PRON Px3--a--------w expl:pv
+17 întinde întinde VERB Vmnp advcl
+18 pe pe ADP Spsa case
+19 prosop prosop NOUN Ncms-n obl
+20 . . PUNCT PERIOD punct
+........................
+['Datorită tenului deschis pe care îl avea, Luciana folosi o cremă protectoare înainte de a se întinde pe prosop.', 'Datorită tenului deschis pe care îl avea, Luciana folosi o cremă protectoare înainte de a se-ntinde pe prosop.', 'Datorită tenului deschis pe care-l avea, Luciana folosi o cremă protectoare înainte de a se întinde pe prosop.', 'Datorită tenului deschis pe care-l avea, Luciana folosi o cremă protectoare înainte de a se-ntinde pe prosop.']
+-------------------------------------------
+<043> . . . . . . . . . . . . . . . . . . .
+[4 items] Dați le afară!
+........................
+0 Dați dați VERB Vmm-2p ROOT
+1 le le PRON Pp3fpa--------w obj
+2 afară afară ADV Rgp advmod
+3 ! ! PUNCT EXCL punct
+........................
+['Dați-le afară!', 'Dați-le-afară!']
+-------------------------------------------
+<044> . . . . . . . . . . . . . . . . . . .
+[5 items] Dați mi le afară!
+........................
+0 Dați dați VERB Vmm-2p ROOT
+1 mi mi PRON Pp1-sd--y-----w iobj
+2 le le PRON Pp3fpa--------w obj
+3 afară afară ADV Rgp ccomp
+4 ! ! PUNCT EXCL punct
+........................
+['Dați-mi-le afară!', 'Dați-mi-le-afară!']
+-------------------------------------------
+<045> . . . . . . . . . . . . . . . . . . .
+[5 items] Dați mi o afară!
+........................
+0 Dați dați VERB Vmm-2p ROOT
+1 mi mi PRON Pp1-sd--y-----w iobj
+2 o o PRON Pp3fsa--------w obj
+3 afară afară ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Dați-mi-o afară!']
+-------------------------------------------
+<046> . . . . . . . . . . . . . . . . . . .
+[4 items] Dați o afară!
+........................
+0 Dați dați VERB Vmii2p ROOT
+1 o o PRON Pp3fsa--------w obj
+2 afară afară ADV Rgp advmod
+3 ! ! PUNCT EXCL punct
+........................
+['Dați-o afară!']
+-------------------------------------------
+<047> . . . . . . . . . . . . . . . . . . .
+[6 items] De ce i le dai?
+........................
+0 De de ADP Spsa mark
+1 ce ce PRON Pw3--r fixed
+2 i i PRON Pp3-sd--------w iobj
+3 le le PRON Pp3fpa--------w expl
+4 dai dai VERB Vmip2s ROOT
+5 ? ? PUNCT QUEST punct
+........................
+['De ce i le dai?']
+-------------------------------------------
+<048> . . . . . . . . . . . . . . . . . . .
+[6 items] De ce mi le dai?
+........................
+0 De de ADP Spsa mark
+1 ce ce PRON Pw3--r fixed
+2 mi mi PRON Pp1-sd--------w iobj
+3 le le PRON Pp3fpa--------w expl
+4 dai dai VERB Vmip2s ROOT
+5 ? ? PUNCT QUEST punct
+........................
+['De ce mi le dai?']
+-------------------------------------------
+<049> . . . . . . . . . . . . . . . . . . .
+[6 items] De ce i dai mere?
+........................
+0 De de ADP Spsa mark
+1 ce ce PRON Pw3--r fixed
+2 i i PRON Pp3-sd--------w iobj
+3 dai dai VERB Vmip2s ROOT
+4 mere mere NOUN Ncfp-n obj
+5 ? ? PUNCT QUEST punct
+........................
+['De ce îi dai mere?', 'De ce-i dai mere?']
+-------------------------------------------
+<050> . . . . . . . . . . . . . . . . . . .
+[6 items] De ce mi dai mere?
+........................
+0 De de ADP Spsa mark
+1 ce ce PRON Pw3--r fixed
+2 mi mi PRON Pp1-sd--------w iobj
+3 dai dai VERB Vmip2s ROOT
+4 mere mere NOUN Ncfp-n obj
+5 ? ? PUNCT QUEST punct
+........................
+['De ce îmi dai mere?', 'De ce-mi dai mere?']
+-------------------------------------------
+<051> . . . . . . . . . . . . . . . . . . .
+[8 items] De ce i lu ai dat gratis?
+........................
+0 De de ADP Spsa mark
+1 ce ce PRON Pw3--r fixed
+2 i i PRON Pp3-sd--------w iobj
+3 lu lu PRON Pp3fsa--------m obj
+4 ai ai AUX Va--2s aux
+5 dat dat VERB Vmp--sm ROOT
+6 gratis gratis ADV Rgp fixed
+7 ? ? PUNCT QUEST punct
+........................
+['De ce i l-ai dat gratis?']
+-------------------------------------------
+<052> . . . . . . . . . . . . . . . . . . .
+[6 items] De ce lu ai făcut?
+........................
+0 De de ADP Spsa mark
+1 ce ce PRON Pw3--r fixed
+2 lu lu PRON Pp3fsa--------m obj
+3 ai ai AUX Va--2s aux
+4 făcut făcut VERB Vmp--sm ROOT
+5 ? ? PUNCT QUEST punct
+........................
+['De ce l-ai făcut?']
+-------------------------------------------
+<053> . . . . . . . . . . . . . . . . . . .
+[5 items] De ce lu faci?
+........................
+0 De de ADP Spsa mark
+1 ce ce PRON Pw3--r fixed
+2 lu lu PRON Pp3fsa--------m obj
+3 faci faci VERB Vmip2s ROOT
+4 ? ? PUNCT QUEST punct
+........................
+['De ce îl faci?', 'De ce-l faci?']
+-------------------------------------------
+<054> . . . . . . . . . . . . . . . . . . .
+[6 items] De ce lu vei face?
+........................
+0 De de ADP Spsa mark
+1 ce ce PRON Pw3--r fixed
+2 lu lu PRON Pp3fsa--------m obj
+3 vei vei AUX Va--2s aux
+4 face face VERB Vmnp ROOT
+5 ? ? PUNCT QUEST punct
+........................
+['De ce îl vei face?', 'De ce-l vei face?']
+-------------------------------------------
+<055> . . . . . . . . . . . . . . . . . . .
+[8 items] Directorul și a reparat el însuși mașina.
+........................
+0 Directorul directorul NOUN Ncmsry nsubj
+1 și și PRON Px3--d--------w expl:pv
+2 a a AUX Va--3s aux
+3 reparat reparat VERB Vmp--sm acl
+4 el el PRON Pp3msr--------s obj
+5 însuși însuși ADJ Afpms-n ROOT
+6 mașina mașina NOUN Ncfsry obj
+7 . . PUNCT PERIOD punct
+........................
+['Directorul și-a reparat el însuși mașina.']
+-------------------------------------------
+<056> . . . . . . . . . . . . . . . . . . .
+[5 items] Du te acolo repede!
+........................
+0 Du du VERB Vmip3p ROOT
+1 te te PRON Pp2-sa--------w expl:pv
+2 acolo acolo ADV Rgp ROOT
+3 repede repede ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Du-te acolo repede!', 'Du-te-acolo repede!']
+-------------------------------------------
+<057> . . . . . . . . . . . . . . . . . . .
+[5 items] Du te la piață!
+........................
+0 Du du VERB Vmip3p ROOT
+1 te te PRON Pp2-sa--------w fixed
+2 la la ADP Spsa fixed
+3 piață piață NOUN Ncfsrn fixed
+4 ! ! PUNCT EXCL punct
+........................
+['Du-te la piață!']
+-------------------------------------------
+<058> . . . . . . . . . . . . . . . . . . .
+[5 items] Du te repede acolo!
+........................
+0 Du du VERB Vmip3p ROOT
+1 te te PRON Pp2-sa--------w fixed
+2 repede repede ADV Rgp ROOT
+3 acolo acolo ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Du-te repede acolo!']
+-------------------------------------------
+<059> . . . . . . . . . . . . . . . . . . .
+[5 items] Du te în piață!
+........................
+0 Du du VERB Vmip3p ROOT
+1 te te PRON Pp2-sa--------w fixed
+2 în în ADP Spsa fixed
+3 piață piață NOUN Ncfsrn fixed
+4 ! ! PUNCT EXCL punct
+........................
+['Du-te în piață!', 'Du-te-n piață!']
+-------------------------------------------
+<060> . . . . . . . . . . . . . . . . . . .
+[4 items] Du te încolo!
+........................
+0 Du du VERB Vmip3p ROOT
+1 te te PRON Pp2-sa--y-----w fixed
+2 încolo încolo ADV Rgp fixed
+3 ! ! PUNCT EXCL punct
+........................
+['Du-te încolo!', 'Du-te-ncolo!']
+-------------------------------------------
+<061> . . . . . . . . . . . . . . . . . . .
+[7 items] Du te și fă ți temele!
+........................
+0 Du du VERB Vmip3p ROOT
+1 te te PRON Pp2-sa--------w fixed
+2 și și CCONJ Crssp cc
+3 fă fă VERB Vmm-2s conj
+4 ți ți PRON Pp2-sd--y-----w iobj
+5 temele temele NOUN Ncfpry obj
+6 ! ! PUNCT EXCL punct
+........................
+['Du-te și fă-ți temele!']
+-------------------------------------------
+<062> . . . . . . . . . . . . . . . . . . .
+[7 items] Dumnezeu i va da copii mulți.
+........................
+0 Dumnezeu dumnezeu PROPN Np nsubj
+1 i i PRON Pp3-sd--------w iobj
+2 va va AUX Va--3s aux
+3 da da VERB Vmnp ROOT
+4 copii copii NOUN Ncmp-n obj
+5 mulți mulți ADJ Afpmp-n amod
+6 . . PUNCT PERIOD punct
+........................
+['Dumnezeu îi va da copii mulți.']
+-------------------------------------------
+<063> . . . . . . . . . . . . . . . . . . .
+[7 items] Dând mere Mariei se a bucurat.
+........................
+0 Dând dând VERB Vmg ROOT
+1 mere mere NOUN Ncfp-n obj
+2 Mariei mariei PROPN Npfsoy nmod
+3 se se PRON Px3--a--------w expl:pv
+4 a a AUX Va--3s aux
+5 bucurat bucurat VERB Vmp--sm conj
+6 . . PUNCT PERIOD punct
+........................
+['Dând mere Mariei s-a bucurat.']
+-------------------------------------------
+<064> . . . . . . . . . . . . . . . . . . .
+[7 items] Dând o Mariei se a bucurat.
+........................
+0 Dând dând VERB Vmg advcl
+1 o o PRON Pp3fsa--------w mark
+2 Mariei mariei PROPN Npfsoy obj
+3 se se PRON Px3--a--------w expl:pv
+4 a a AUX Va--3s aux
+5 bucurat bucurat VERB Vmp--sm ROOT
+6 . . PUNCT PERIOD punct
+........................
+['Dând-o Mariei s-a bucurat.']
+-------------------------------------------
+<065> . . . . . . . . . . . . . . . . . . .
+[12 items] Dând i mă de nevastă, tata a câștigat mulți bani.
+........................
+0 Dând dând VERB Vmg advcl
+1 i i PRON Pp3-sd--------w iobj
+2 mă mă PRON Pp1-sa--------w obj
+3 de de ADP Spsa case
+4 nevastă nevastă NOUN Ncfsrn obj
+5 , , PUNCT COMMA punct
+6 tata tata NOUN Ncmsry nsubj
+7 a a AUX Va--3s aux
+8 câștigat câștigat VERB Vmp--sm ROOT
+9 mulți mulți DET Di3mp det
+10 bani bani NOUN Ncmp-n obj
+11 . . PUNCT PERIOD punct
+........................
+['Dându-i-mă de nevastă, tata a câștigat mulți bani.']
+-------------------------------------------
+<066> . . . . . . . . . . . . . . . . . . .
+[7 items] Dând lu Mariei se a bucurat.
+........................
+0 Dând dând VERB Vmg advcl
+1 lu lu PRON Pp3fsa--------m obj
+2 Mariei mariei PROPN Npfsoy iobj
+3 se se PRON Px3--a--------w expl:pv
+4 a a AUX Va--3s aux
+5 bucurat bucurat VERB Vmp--sm ROOT
+6 . . PUNCT PERIOD punct
+........................
+['Dându-l Mariei s-a bucurat.']
+-------------------------------------------
+<067> . . . . . . . . . . . . . . . . . . .
+[6 items] Dând lu afară faci bine.
+........................
+0 Dând dând VERB Vmg ROOT
+1 lu lu PRON Pp3fsa--------m obj
+2 afară afară ADV Rgp advmod
+3 faci faci VERB Vmip2s ccomp
+4 bine bine ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Dându-l afară faci bine.']
+-------------------------------------------
+<068> . . . . . . . . . . . . . . . . . . .
+[7 items] Dând le Mariei se a bucurat.
+........................
+0 Dând dând VERB Vmg ROOT
+1 le le PRON Pp3fpa--------w det
+2 Mariei mariei PROPN Npfsoy expl
+3 se se PRON Px3--a--------w expl:pv
+4 a a AUX Va--3s aux
+5 bucurat bucurat VERB Vmp--sm ccomp
+6 . . PUNCT PERIOD punct
+........................
+['Dându-le Mariei s-a bucurat.']
+-------------------------------------------
+<069> . . . . . . . . . . . . . . . . . . .
+[7 items] Dând mi mere mă a bucurat.
+........................
+0 Dând dând VERB Vmg advcl
+1 mi mi PRON Pp1-sd--y-----w det
+2 mere mere NOUN Ncfp-n obj
+3 mă mă PRON Pp1-sa--------w expl:pv
+4 a a AUX Va--3s aux
+5 bucurat bucurat VERB Vmp--sm ROOT
+6 . . PUNCT PERIOD punct
+........................
+['Dându-mi mere m-a bucurat.']
+-------------------------------------------
+<070> . . . . . . . . . . . . . . . . . . .
+[5 items] Dă i lu avocatului!
+........................
+0 Dă dă VERB Vmip3s ROOT
+1 i i PRON Pp3-sd--y-----w iobj
+2 lu lu PRON Pp3fsa--------m obj
+3 avocatului avocatului NOUN Ncmsoy iobj
+4 ! ! PUNCT EXCL punct
+........................
+['Dă-i-l avocatului!']
+-------------------------------------------
+<071> . . . . . . . . . . . . . . . . . . .
+[5 items] Dă i lu gratis!
+........................
+0 Dă dă VERB Vmip3s ROOT
+1 i i PRON Pp3-sd--y-----w iobj
+2 lu lu PRON Pp3fsa--------m obj
+3 gratis gratis ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Dă-i-l gratis!']
+-------------------------------------------
+<072> . . . . . . . . . . . . . . . . . . .
+[4 items] Dă lu gratis!
+........................
+0 Dă dă VERB Vmip3s ROOT
+1 lu lu PRON Pp3fsa--------m obj
+2 gratis gratis ADV Rgp advmod
+3 ! ! PUNCT EXCL punct
+........................
+['Dă-l gratis!']
+-------------------------------------------
+<073> . . . . . . . . . . . . . . . . . . .
+[4 items] Dă lu încolo!
+........................
+0 Dă dă VERB Vmip3s ROOT
+1 lu lu PRON Pp3fsa--------m obj
+2 încolo încolo ADV Rgp advmod
+3 ! ! PUNCT EXCL punct
+........................
+['Dă-l încolo!']
+-------------------------------------------
+<074> . . . . . . . . . . . . . . . . . . .
+[4 items] Dă le altuia!
+........................
+0 Dă dă VERB Vmm-2s ROOT
+1 le le PRON Pp3fpa--------w obj
+2 altuia altuia PRON Pd3fpr obj
+3 ! ! PUNCT EXCL punct
+........................
+['Dă-le altuia!']
+-------------------------------------------
+<075> . . . . . . . . . . . . . . . . . . .
+[4 items] Dă li mere!
+........................
+0 Dă dă VERB Vmip3s ROOT
+1 li li PRON Pp3-pd--------w nummod
+2 mere mere NOUN Ncfp-n obj
+3 ! ! PUNCT EXCL punct
+........................
+['Dă-le mere!']
+-------------------------------------------
+<076> . . . . . . . . . . . . . . . . . . .
+[5 items] Dă mi le acum!
+........................
+0 Dă dă VERB Vmip3s ROOT
+1 mi mi PRON Pp1-sd--y-----w iobj
+2 le le PRON Pp3fpa--------w obj
+3 acum acum ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Dă-mi-le acum!', 'Dă-mi-le-acum!']
+-------------------------------------------
+<077> . . . . . . . . . . . . . . . . . . .
+[5 items] Dă mi le gratis!
+........................
+0 Dă dă VERB Vmm-2s ROOT
+1 mi mi PRON Pp1-sd--y-----w iobj
+2 le le PRON Pp3fpa--------w obj
+3 gratis gratis ADV Rgp ccomp
+4 ! ! PUNCT EXCL punct
+........................
+['Dă-mi-le gratis!']
+-------------------------------------------
+<078> . . . . . . . . . . . . . . . . . . .
+[7 items] Dă ne de știre și nouă!
+........................
+0 Dă dă VERB Vmm-2s ROOT
+1 ne ne PRON Pp1-pa--------w iobj
+2 de de ADP Spsa case
+3 știre știre NOUN Ncfsrn obl
+4 și și CCONJ Crssp cc
+5 nouă nouă PRON Afpfsrn iobj
+6 ! ! PUNCT EXCL punct
+........................
+['Dă-ne de știre și nouă!']
+-------------------------------------------
+<079> . . . . . . . . . . . . . . . . . . .
+[6 items] Ea lu iubește foarte mult.
+........................
+0 Ea ea PRON Pp3fsr--------s nsubj
+1 lu lu PRON Pp3fsa--------m obj
+2 iubește iubește VERB Vmip3s ROOT
+3 foarte foarte ADV Rp advmod
+4 mult mult ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Ea îl iubește foarte mult.', 'Ea-l iubește foarte mult.']
+-------------------------------------------
+<080> . . . . . . . . . . . . . . . . . . .
+[8 items] El ne aduce înapoi acasă cu mașina.
+........................
+0 El el PRON Pp3msr--------s nsubj
+1 ne ne PRON Pp1-pa--------w iobj
+2 aduce aduce VERB Vmip3s ROOT
+3 înapoi înapoi ADV Rgp advmod
+4 acasă acasă ADV Rgp advmod
+5 cu cu ADP Spsa case
+6 mașina mașina NOUN Ncfsry obl
+7 . . PUNCT PERIOD punct
+........................
+['El ne aduce înapoi acasă cu mașina.', 'El ne-aduce înapoi acasă cu mașina.']
+-------------------------------------------
+<081> . . . . . . . . . . . . . . . . . . .
+[6 items] El ne arată nouă muzeul.
+........................
+0 El el PRON Pp3msr--------s nsubj
+1 ne ne PRON Pp1-pa--------w iobj
+2 arată arată VERB Vmip3 ROOT
+3 nouă nouă PRON Mc-p-l iobj
+4 muzeul muzeul NOUN Ncmsry obj
+5 . . PUNCT PERIOD punct
+........................
+['El ne arată nouă muzeul.', 'El ne-arată nouă muzeul.']
+-------------------------------------------
+<082> . . . . . . . . . . . . . . . . . . .
+[12 items] El ne a colindat, iar noi i am dat mere.
+........................
+0 El el PRON Pp3msr--------s nsubj
+1 ne ne PRON Pp1-pa--------w obj
+2 a a AUX Va--3s aux
+3 colindat colindat VERB Vmp--sm ROOT
+4 , , PUNCT COMMA punct
+5 iar iar ADV Rc cc
+6 noi noi PRON Pp1-pr--------s nsubj
+7 i i PRON Pp3-sd--------w expl:poss
+8 am am AUX Va--1 aux
+9 dat dat VERB Vmp--sm conj
+10 mere mere NOUN Ncfp-n obj
+11 . . PUNCT PERIOD punct
+........................
+['El ne-a colindat, iar noi i-am dat mere.']
+-------------------------------------------
+<083> . . . . . . . . . . . . . . . . . . .
+[7 items] Eu aș fi lăudată mai des.
+........................
+0 Eu eu PRON Pp1-sn--------s nsubj
+1 aș aș AUX Va--1s aux
+2 fi fi AUX Vanp aux:pass
+3 lăudată lăudată VERB Vmp--sf ROOT
+4 mai mai ADV Rp advmod
+5 des des ADV Rgp advmod
+6 . . PUNCT PERIOD punct
+........................
+['Eu aș fi lăudată mai des.']
+-------------------------------------------
+<084> . . . . . . . . . . . . . . . . . . .
+[7 items] Eu i aș lăuda mai des.
+........................
+0 Eu eu PRON Pp1-sn--------s nsubj
+1 i i PRON Pp3-sd--------w iobj
+2 aș aș AUX Va--1s aux
+3 lăuda lăuda VERB Vmnp ROOT
+4 mai mai ADV Rp advmod
+5 des des ADV Rgp advmod
+6 . . PUNCT PERIOD punct
+........................
+['Eu i-aș lăuda mai des.']
+-------------------------------------------
+<085> . . . . . . . . . . . . . . . . . . .
+[4 items] Fă lu repede!
+........................
+0 Fă fă VERB Vmm-2s ROOT
+1 lu lu PRON Pp3fsa--------m obj
+2 repede repede ADV Rgp advmod
+3 ! ! PUNCT EXCL punct
+........................
+['Fă-l repede!']
+-------------------------------------------
+<086> . . . . . . . . . . . . . . . . . . .
+[5 items] Fă mi le acum!
+........................
+0 Fă fă VERB Vmip2s expl:poss
+1 mi mi PRON Pp1-sd--y-----w iobj
+2 le le PRON Pp3fpa--------w obj
+3 acum acum ADV Rgp ROOT
+4 ! ! PUNCT EXCL punct
+........................
+['Fă-mi-le acum!', 'Fă-mi-le-acum!']
+-------------------------------------------
+<087> . . . . . . . . . . . . . . . . . . .
+[5 items] Fă mi le cândva!
+........................
+0 Fă fă VERB Vmip2s expl:poss
+1 mi mi PRON Pp1-sd--y-----w iobj
+2 le le PRON Pp3fpa--------w obj
+3 cândva cândva ADV Rgp ROOT
+4 ! ! PUNCT EXCL punct
+........................
+['Fă-mi-le cândva!']
+-------------------------------------------
+<088> . . . . . . . . . . . . . . . . . . .
+[5 items] Fă mi le repede!
+........................
+0 Fă fă VERB Vmip2s expl:poss
+1 mi mi PRON Pp1-sd--y-----w iobj
+2 le le PRON Pp3fpa--------w obj
+3 repede repede ADV Rgp ROOT
+4 ! ! PUNCT EXCL punct
+........................
+['Fă-mi-le repede!']
+-------------------------------------------
+<089> . . . . . . . . . . . . . . . . . . .
+[6 items] Face mi le ai acum!
+........................
+0 Face face VERB Vmip3s ROOT
+1 mi mi PRON Pp1-sd--------w iobj
+2 le le PRON Pp3fpa--------w expl
+3 ai ai AUX Vmip2s nsubj
+4 acum acum ADV Rgp advmod
+5 ! ! PUNCT EXCL punct
+........................
+['Face-mi-le-ai acum!']
+-------------------------------------------
+<090> . . . . . . . . . . . . . . . . . . .
+[6 items] Face mi le ai cândva!
+........................
+0 Face face VERB Vmip3s ROOT
+1 mi mi PRON Pp1-sd--------w iobj
+2 le le PRON Pp3fpa--------w expl
+3 ai ai AUX Vmip2s conj
+4 cândva cândva ADV Rgp advmod
+5 ! ! PUNCT EXCL punct
+........................
+['Face-mi-le-ai cândva!']
+-------------------------------------------
+<091> . . . . . . . . . . . . . . . . . . .
+[5 items] Fă mi ți probleme!
+........................
+0 Fă fă VERB Vmip2s ROOT
+1 mi mi PRON Pp1-sd--------w iobj
+2 ți ți PRON Pp2-sd--------w det
+3 probleme probleme NOUN Ncfp-n obj
+4 ! ! PUNCT EXCL punct
+........................
+['Fă-mi-ți probleme!']
+-------------------------------------------
+<092> . . . . . . . . . . . . . . . . . . .
+[6 items] Face mi ți ai probleme!
+........................
+0 Face face VERB Vmip3s ROOT
+1 mi mi PRON Pp1-sd--y-----w iobj
+2 ți ți PRON Pp2-sd--------w iobj
+3 ai ai AUX Va--2s det
+4 probleme probleme NOUN Ncfp-n obj
+5 ! ! PUNCT EXCL punct
+........................
+['Face-mi-ți-ai probleme!']
+-------------------------------------------
+<093> . . . . . . . . . . . . . . . . . . .
+[6 items] Fă mi ți le acum!
+........................
+0 Fă fă VERB Vmip2s ROOT
+1 mi mi PRON Pp1-sd--y-----w iobj
+2 ți ți PRON Pp2-sd--------w expl
+3 le le PRON Pp3fpa--------w obj
+4 acum acum ADV Rgp ccomp
+5 ! ! PUNCT EXCL punct
+........................
+['Fă-mi-ți-le acum!', 'Fă-mi-ți-le-acum!']
+-------------------------------------------
+<094> . . . . . . . . . . . . . . . . . . .
+[6 items] Fă mi ți le cândva!
+........................
+0 Fă fă VERB Vmip2s ROOT
+1 mi mi PRON Pp1-sd--y-----w iobj
+2 ți ți PRON Pp2-sd--------w iobj
+3 le le PRON Pp3fpa--------w obj
+4 cândva cândva ADV Rgp ccomp
+5 ! ! PUNCT EXCL punct
+........................
+['Fă-mi-ți-le cândva!']
+-------------------------------------------
+<095> . . . . . . . . . . . . . . . . . . .
+[7 items] Face mi ți le ai acum!
+........................
+0 Face face VERB Vmip3s ROOT
+1 mi mi PRON Pp1-sd--y-----w iobj
+2 ți ți PRON Pp2-sd--------w iobj
+3 le le PRON Pp3fpa--------w expl
+4 ai ai AUX Vmip2s conj
+5 acum acum ADV Rgp advmod
+6 ! ! PUNCT EXCL punct
+........................
+['Face-mi-ți-le-ai acum!']
+-------------------------------------------
+<096> . . . . . . . . . . . . . . . . . . .
+[7 items] Face mi ți le ai cândva!
+........................
+0 Face face VERB Vmip3s ROOT
+1 mi mi PRON Pp1-sd--y-----w iobj
+2 ți ți PRON Pp2-sd--------w iobj
+3 le le PRON Pp3fpa--------w expl
+4 ai ai AUX Vmip2s conj
+5 cândva cândva ADV Rgp advmod
+6 ! ! PUNCT EXCL punct
+........................
+['Face-mi-ți-le-ai cândva!']
+-------------------------------------------
+<097> . . . . . . . . . . . . . . . . . . .
+[4 items] Fă o repede!
+........................
+0 Fă fă VERB Vmip2s ROOT
+1 o o PRON Pp3fsa--------w obj
+2 repede repede ADV Rgp advmod
+3 ! ! PUNCT EXCL punct
+........................
+['Fă-o repede!']
+-------------------------------------------
+<098> . . . . . . . . . . . . . . . . . . .
+[4 items] Fă ți probleme!
+........................
+0 Fă fă VERB Vmip2s ROOT
+1 ți ți PRON Pp2-sd--y-----w iobj
+2 probleme probleme NOUN Ncfp-n obj
+3 ! ! PUNCT EXCL punct
+........................
+['Fă-ți probleme!']
+-------------------------------------------
+<099> . . . . . . . . . . . . . . . . . . .
+[5 items] Fă ți lu repede!
+........................
+0 Fă fă VERB Vmm-2s ROOT
+1 ți ți PRON Pp2-sd--y-----w iobj
+2 lu lu PRON Pp3fsa--------m obj
+3 repede repede ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Fă-ți-l repede!']
+-------------------------------------------
+<100> . . . . . . . . . . . . . . . . . . .
+[5 items] Fă ți o repede!
+........................
+0 Fă fă VERB Vmm-2s ROOT
+1 ți ți PRON Pp2-sd--y-----w obj
+2 o o PRON Pp3fsa--------w obj
+3 repede repede ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Fă-ți-o repede!']
+-------------------------------------------
+<101> . . . . . . . . . . . . . . . . . . .
+[4 items] I dai mere.
+........................
+0 I i PRON Pp3-sd--------w iobj
+1 dai dai VERB Vmip2s ROOT
+2 mere mere NOUN Ncfp-n obj
+3 . . PUNCT PERIOD punct
+........................
+['Îi dai mere.']
+-------------------------------------------
+<102> . . . . . . . . . . . . . . . . . . .
+[6 items] I lu a dat gratis.
+........................
+0 I i NUM Mo-s-r nummod
+1 lu lu PRON Pp3fsa--------m obj
+2 a a AUX Va--3s aux
+3 dat dat VERB Vmp--sm ROOT
+4 gratis gratis ADV Rgp fixed
+5 . . PUNCT PERIOD punct
+........................
+['I l-a dat gratis.']
+-------------------------------------------
+<103> . . . . . . . . . . . . . . . . . . .
+[9 items] I lu a încredințat pe mezin mamei sale.
+........................
+0 I i NUM Mo-s-r nummod
+1 lu lu PRON Pp3fsa--------m obj
+2 a a AUX Va--3s aux
+3 încredințat încredințat VERB Vmp--sm ROOT
+4 pe pe ADP Spsa case
+5 mezin mezin NOUN Ncms-n obj
+6 mamei mamei NOUN Ncfsoy nmod
+7 sale sale DET Ds3fsos det
+8 . . PUNCT PERIOD punct
+........................
+['I l-a încredințat pe mezin mamei sale.', 'I l-a-ncredințat pe mezin mamei sale.']
+-------------------------------------------
+<104> . . . . . . . . . . . . . . . . . . .
+[6 items] I le mai aduci repede.
+........................
+0 I i PRON Pp3-sd--------w iobj
+1 le le PRON Pp3-pd--------w expl
+2 mai mai ADV Rp advmod
+3 aduci aduci VERB Vmip2s ROOT
+4 repede repede ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['I le mai aduci repede.']
+-------------------------------------------
+<105> . . . . . . . . . . . . . . . . . . .
+[4 items] I văd acolo.
+........................
+0 I i PRON Pp3-sd--------w iobj
+1 văd văd VERB Vmip1s ROOT
+2 acolo acolo ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Îi văd acolo.']
+-------------------------------------------
+<106> . . . . . . . . . . . . . . . . . . .
+[9 items] I am scris profesoarei de franceză a vecinului.
+........................
+0 I i NUM Mo-s-r expl:poss
+1 am am AUX Va--1 aux
+2 scris scris VERB Vmp--sm ROOT
+3 profesoarei profesoarei NOUN Ncfsoy iobj
+4 de de ADP Spsa case
+5 franceză franceză NOUN Ncfsrn nmod
+6 a a DET Tsfs det
+7 vecinului vecinului NOUN Ncmsoy nmod
+8 . . PUNCT PERIOD punct
+........................
+['I-am scris profesoarei de franceză a vecinului.']
+-------------------------------------------
+<107> . . . . . . . . . . . . . . . . . . .
+[8 items] I am văzut și i am auzit.
+........................
+0 I i PRON Pp3-sd--------w expl
+1 am am AUX Va--1 aux
+2 văzut văzut VERB Vmp--sm ROOT
+3 și și CCONJ Crssp fixed
+4 i i PRON Pp3-sd--------w obj
+5 am am AUX Va--1 aux
+6 auzit auzit VERB Vmp--sm ccomp
+7 . . PUNCT PERIOD punct
+........................
+['I-am văzut și i-am auzit.']
+-------------------------------------------
+<108> . . . . . . . . . . . . . . . . . . .
+[5 items] I au dat mere.
+........................
+0 I i PRON Pp3-sd--------w iobj
+1 au au AUX Va--3p aux
+2 dat dat VERB Vmp--sm ROOT
+3 mere mere NOUN Ncfp-n obj
+4 . . PUNCT PERIOD punct
+........................
+['I-au dat mere.']
+-------------------------------------------
+<109> . . . . . . . . . . . . . . . . . . .
+[5 items] I au văzut acolo.
+........................
+0 I i PRON Pp3-sd--------w iobj
+1 au au AUX Va--3p aux
+2 văzut văzut VERB Vmp--sm ROOT
+3 acolo acolo ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['I-au văzut acolo.']
+-------------------------------------------
+<110> . . . . . . . . . . . . . . . . . . .
+[6 items] I lu binecuvântez pe copil.
+........................
+0 I i PRON Pp3-sd--------w expl
+1 lu lu PRON Pp3fsa--------m obj
+2 binecuvântez binecuvântez VERB Vmip3p ROOT
+3 pe pe ADP Spsa case
+4 copil copil NOUN Ncms-n obj
+5 . . PUNCT PERIOD punct
+........................
+['I-l binecuvântez pe copil.']
+-------------------------------------------
+<111> . . . . . . . . . . . . . . . . . . .
+[5 items] I lu dau gratis.
+........................
+0 I i PRON Pp3-sd--------w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 dau dau VERB Vmip3p ROOT
+3 gratis gratis ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['I-l dau gratis.']
+-------------------------------------------
+<112> . . . . . . . . . . . . . . . . . . .
+[5 items] I o cumpăr repede.
+........................
+0 I i PRON Pp3-sd--------w iobj
+1 o o PRON Pp3fsa--------w mark
+2 cumpăr cumpăr VERB Vmip1s ROOT
+3 repede repede ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['I-o cumpăr repede.']
+-------------------------------------------
+<113> . . . . . . . . . . . . . . . . . . .
+[5 items] I o spui repede!
+........................
+0 I i PRON Pp3-sd--------w iobj
+1 o o PRON Pp3fsa--------w mark
+2 spui spui VERB Vmip2s ROOT
+3 repede repede ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['I-o spui repede!']
+-------------------------------------------
+<114> . . . . . . . . . . . . . . . . . . .
+[11 items] Ia ți mă drept martor, și vei câstiga procesul!
+........................
+0 Ia ia VERB Vmm-2s ROOT
+1 ți ți PRON Pp2-sd--y-----w nummod
+2 mă mă PRON Pp1-sa--------w dep
+3 drept drept ADP Spsa case
+4 martor martor NOUN Ncms-n obl
+5 , , PUNCT COMMA punct
+6 și și CCONJ Crssp cc
+7 vei vei AUX Va--2s aux
+8 câstiga câstiga VERB Vmnp conj
+9 procesul procesul NOUN Ncmsry obj
+10 ! ! PUNCT EXCL punct
+........................
+['Ia-ți-mă drept martor, și vei câstiga procesul!']
+-------------------------------------------
+<115> . . . . . . . . . . . . . . . . . . .
+[5 items] Iată lu pe Vasile!
+........................
+0 Iată iată INTJ I ROOT
+1 lu lu PRON Pp3fsa--------m obj
+2 pe pe ADP Spsa case
+3 Vasile vasile PROPN Np obj
+4 ! ! PUNCT EXCL punct
+........................
+['Iată-l pe Vasile!']
+-------------------------------------------
+<116> . . . . . . . . . . . . . . . . . . .
+[12 items] Ieri am rugat o de trei ori să dea o auditie.
+........................
+0 Ieri ieri ADV Rgp advmod
+1 am am AUX Va--1 aux
+2 rugat rugat VERB Vmp--sm ROOT
+3 o o PRON Pp3fsa--------w obj
+4 de de ADP Spsa case
+5 trei trei NUM Mc-p-l nummod
+6 ori ori NOUN Ncfp-n obj
+7 să să PART Qs mark
+8 dea dea VERB Vmsp3 ccomp
+9 o o DET Tifsr det
+10 auditie auditie NOUN Ncfsrn obj
+11 . . PUNCT PERIOD punct
+........................
+['Ieri am rugat-o de trei ori să dea o auditie.']
+-------------------------------------------
+<117> . . . . . . . . . . . . . . . . . . .
+[12 items] Ieri lu am rugat de trei ori să dea o auditie.
+........................
+0 Ieri ieri ADV Rgp advmod
+1 lu lu PRON Pp3fsa--------m obj
+2 am am AUX Va--1 aux
+3 rugat rugat VERB Vmp--sm ROOT
+4 de de ADP Spsa case
+5 trei trei NUM Mc-p-l nummod
+6 ori ori NOUN Ncfp-n obl
+7 să să PART Qs mark
+8 dea dea VERB Vmsp3 ccomp
+9 o o DET Tifsr det
+10 auditie auditie NOUN Ncfsrn obj
+11 . . PUNCT PERIOD punct
+........................
+['Ieri l-am rugat de trei ori să dea o auditie.']
+-------------------------------------------
+<118> . . . . . . . . . . . . . . . . . . .
+[22 items] Kant, a cărui concepție a libertății este cunoscută bine in filozofia occidentală, a locuit toată viața în același oraș.
+........................
+0 Kant kant PROPN Np nsubj
+1 , , PUNCT COMMA punct
+2 a a DET Tsfs det
+3 cărui cărui DET Dw3mso---e det
+4 concepție concepție NOUN Ncfsrn nsubj
+5 a a DET Tsfs det
+6 libertății libertății NOUN Ncfsoy nmod
+7 este este AUX Vaip3s cop
+8 cunoscută cunoscută VERB Vmp--sf acl
+9 bine bine ADV Rgp advmod
+10 in in ADP Spsa case
+11 filozofia filozofia NOUN Ncfsry obl
+12 occidentală occidentală ADJ Afpfsrn amod
+13 , , PUNCT COMMA punct
+14 a a AUX Va--3s aux
+15 locuit locuit VERB Vmp--sm ROOT
+16 toată toată DET Di3fsr det
+17 viața viața NOUN Ncfsry obj
+18 în în ADP Spsa case
+19 același același DET Dd3msr---e det
+20 oraș oraș NOUN Ncms-n obl
+21 . . PUNCT PERIOD punct
+........................
+['Kant, a cărui concepție a libertății este cunoscută bine in filozofia occidentală, a locuit toată viața în același oraș.', 'Kant, a cărui concepție a libertății este cunoscută bine in filozofia occidentală, a locuit toată viața-n același oraș.']
+-------------------------------------------
+<119> . . . . . . . . . . . . . . . . . . .
+[5 items] Lu am adus azi.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 am am AUX Va--1 aux
+2 adus adus VERB Vmp--sm ROOT
+3 azi azi ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['L-am adus azi.']
+-------------------------------------------
+<120> . . . . . . . . . . . . . . . . . . .
+[8 items] Lu am citit și lu am înțeles.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 am am AUX Va--1 aux
+2 citit citit VERB Vmp--sm ROOT
+3 și și CCONJ Crssp fixed
+4 lu lu PRON Pp3fsa--------m obj
+5 am am AUX Va--1 aux
+6 înțeles înțeles VERB Vmp--sm ccomp
+7 . . PUNCT PERIOD punct
+........................
+['L-am citit și l-am înțeles.']
+-------------------------------------------
+<121> . . . . . . . . . . . . . . . . . . .
+[8 items] Lu am citit și lu voi înțelege.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 am am AUX Va--1 aux
+2 citit citit VERB Vmp--sm ROOT
+3 și și CCONJ Crssp fixed
+4 lu lu PRON Pp3fsa--------m obj
+5 voi voi AUX Va--1s aux
+6 înțelege înțelege VERB Vmnp ccomp
+7 . . PUNCT PERIOD punct
+........................
+['L-am citit și îl voi înțelege.', 'L-am citit și-l voi înțelege.']
+-------------------------------------------
+<122> . . . . . . . . . . . . . . . . . . .
+[5 items] Lu am cumpărat repede.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 am am AUX Va--1 aux
+2 cumpărat cumpărat VERB Vmp--sm ROOT
+3 repede repede ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['L-am cumpărat repede.']
+-------------------------------------------
+<123> . . . . . . . . . . . . . . . . . . .
+[5 items] Lu am dat gratis.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 am am AUX Va--1 aux
+2 dat dat VERB Vmp--sm ROOT
+3 gratis gratis ADV Rgp fixed
+4 . . PUNCT PERIOD punct
+........................
+['L-am dat gratis.']
+-------------------------------------------
+<124> . . . . . . . . . . . . . . . . . . .
+[5 items] Lu am mâncat repede.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 am am AUX Va--1 aux
+2 mâncat mâncat VERB Vmp--sm ROOT
+3 repede repede ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['L-am mâncat repede.']
+-------------------------------------------
+<125> . . . . . . . . . . . . . . . . . . .
+[5 items] Lu ar mânca repede.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 ar ar AUX Va--3 aux
+2 mânca mânca VERB Vmnp ROOT
+3 repede repede ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['L-ar mânca repede.']
+-------------------------------------------
+<126> . . . . . . . . . . . . . . . . . . .
+[5 items] Lu aș mânca repede.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 aș aș AUX Va--1s aux
+2 mânca mânca VERB Vmnp ROOT
+3 repede repede ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['L-aș mânca repede.']
+-------------------------------------------
+<127> . . . . . . . . . . . . . . . . . . .
+[4 items] Le aduci acolo.
+........................
+0 Le le PRON Pp3fpa--------w obj
+1 aduci aduci VERB Vmip2s ROOT
+2 acolo acolo ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Le aduci acolo.', 'Le-aduci acolo.']
+-------------------------------------------
+<128> . . . . . . . . . . . . . . . . . . .
+[4 items] Li aduci mere.
+........................
+0 Li li PRON Pp3fpa--------w iobj
+1 aduci aduci VERB Vmip2s ROOT
+2 mere mere NOUN Ncfp-n obj
+3 . . PUNCT PERIOD punct
+........................
+['Le aduci mere.', 'Le-aduci mere.']
+-------------------------------------------
+<129> . . . . . . . . . . . . . . . . . . .
+[4 items] Li arăt muzeul.
+........................
+0 Li li PRON Pp3-pd--------w iobj
+1 arăt arăt VERB Vmip1s ROOT
+2 muzeul muzeul NOUN Ncmsry obj
+3 . . PUNCT PERIOD punct
+........................
+['Le arăt muzeul.', 'Le-arăt muzeul.']
+-------------------------------------------
+<130> . . . . . . . . . . . . . . . . . . .
+[4 items] Li dai mere.
+........................
+0 Li li PRON Pp3-pd--------w iobj
+1 dai dai VERB Vmip2s ROOT
+2 mere mere NOUN Ncfp-n obj
+3 . . PUNCT PERIOD punct
+........................
+['Le dai mere.']
+-------------------------------------------
+<131> . . . . . . . . . . . . . . . . . . .
+[4 items] Le dați afară.
+........................
+0 Le le PRON Pp3fpa--------w obj
+1 dați dați VERB Vmip2p ROOT
+2 afară afară ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Le dați afară.']
+-------------------------------------------
+<132> . . . . . . . . . . . . . . . . . . .
+[4 items] Li e sete.
+........................
+0 Li li PRON Pp3-pd--------w iobj
+1 e e AUX Vaip3s ROOT
+2 sete sete NOUN Ncfs-n nsubj
+3 . . PUNCT PERIOD punct
+........................
+['Le e sete.', 'Li-e sete.']
+-------------------------------------------
+<133> . . . . . . . . . . . . . . . . . . .
+[4 items] Le văd acolo.
+........................
+0 Le le PRON Pp3fpa--------w obj
+1 văd văd VERB Vmip3p ROOT
+2 acolo acolo ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Le văd acolo.']
+-------------------------------------------
+<134> . . . . . . . . . . . . . . . . . . .
+[6 items] Li am cumpărat o carte.
+........................
+0 Li li PRON Pp3-pd--------w iobj
+1 am am AUX Va--1 aux
+2 cumpărat cumpărat VERB Vmp--sm ROOT
+3 o o DET Tifsr det
+4 carte carte NOUN Ncfsrn obj
+5 . . PUNCT PERIOD punct
+........................
+['Le-am cumpărat o carte.']
+-------------------------------------------
+<135> . . . . . . . . . . . . . . . . . . .
+[5 items] Le am cumpărat repede.
+........................
+0 Le le PRON Pp3-pd--------w obj
+1 am am AUX Va--1 aux
+2 cumpărat cumpărat VERB Vmp--sm ROOT
+3 repede repede ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Le-am cumpărat repede.']
+-------------------------------------------
+<136> . . . . . . . . . . . . . . . . . . .
+[6 items] Li am cumpărat o repede.
+........................
+0 Li li PRON Pp3-pd--------w iobj
+1 am am AUX Va--1 aux
+2 cumpărat cumpărat VERB Vmp--sm ROOT
+3 o o PRON Pp3fsa--------w obj
+4 repede repede ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Le-am cumpărat-o repede.']
+-------------------------------------------
+<137> . . . . . . . . . . . . . . . . . . .
+[5 items] Le au văzut acolo.
+........................
+0 Le le PRON Pp3-pd--------w obj
+1 au au AUX Va--3p aux
+2 văzut văzut VERB Vmp--sm ROOT
+3 acolo acolo ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Le-au văzut acolo.']
+-------------------------------------------
+<138> . . . . . . . . . . . . . . . . . . .
+[5 items] Li o întind acolo.
+........................
+0 Li li PRON Pp3-pd--------w iobj
+1 o o PRON Pp3fsa--------w obj
+2 întind întind VERB Vmip3p ROOT
+3 acolo acolo ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Le-o întind acolo.', 'Le-o-ntind acolo.']
+-------------------------------------------
+<139> . . . . . . . . . . . . . . . . . . .
+[6 items] Li lu a dat gratis.
+........................
+0 Li li PRON Pp3-pd--------w expl
+1 lu lu PRON Pp3fsa--------m obj
+2 a a AUX Va--3s aux
+3 dat dat VERB Vmp--sm ROOT
+4 gratis gratis ADV Rgp fixed
+5 . . PUNCT PERIOD punct
+........................
+['Li l-a dat gratis.']
+-------------------------------------------
+<140> . . . . . . . . . . . . . . . . . . .
+[5 items] Li i dă gratis.
+........................
+0 Li li PRON Pp3-pd--------w iobj
+1 i i PRON Pp3-sd--------w expl
+2 dă dă VERB Vmip3s ROOT
+3 gratis gratis ADV Rgp fixed
+4 . . PUNCT PERIOD punct
+........................
+['Li-i dă gratis.']
+-------------------------------------------
+<141> . . . . . . . . . . . . . . . . . . .
+[5 items] Li lu dă gratis.
+........................
+0 Li li PRON Pp3-pd--------w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 dă dă VERB Vmip3s ROOT
+3 gratis gratis ADV Rgp fixed
+4 . . PUNCT PERIOD punct
+........................
+['Li-l dă gratis.']
+-------------------------------------------
+<142> . . . . . . . . . . . . . . . . . . .
+[5 items] Mă ai văzut clar.
+........................
+0 Mă mă PRON Pp1-sa--------w expl:pv
+1 ai ai AUX Va--2s aux
+2 văzut văzut VERB Vmp--sm ROOT
+3 clar clar ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['M-ai văzut clar.']
+-------------------------------------------
+<143> . . . . . . . . . . . . . . . . . . .
+[5 items] Mă am prezentat repede.
+........................
+0 Mă mă PRON Pp1-sa--------w expl:pv
+1 am am AUX Va--1 aux
+2 prezentat prezentat VERB Vmp--sm ROOT
+3 repede repede ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['M-am prezentat repede.']
+-------------------------------------------
+<144> . . . . . . . . . . . . . . . . . . .
+[5 items] Mă au văzut acolo.
+........................
+0 Mă mă PRON Pp1-sa--------w expl:pv
+1 au au AUX Va--3p aux
+2 văzut văzut VERB Vmp--sm ROOT
+3 acolo acolo ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['M-au văzut acolo.']
+-------------------------------------------
+<145> . . . . . . . . . . . . . . . . . . .
+[6 items] Mai adu i le repede!
+........................
+0 Mai mai ADV Rp advmod
+1 adu adu VERB Vmip2s ROOT
+2 i i PRON Pp3-sd--------w iobj
+3 le le PRON Pp3fpa--------w obj
+4 repede repede ADV Rgp ccomp
+5 ! ! PUNCT EXCL punct
+........................
+['Mai adu-i-le repede!']
+-------------------------------------------
+<146> . . . . . . . . . . . . . . . . . . .
+[5 items] Mama ne aduce mere.
+........................
+0 Mama mama NOUN Ncfsry nsubj
+1 ne ne PRON Pp1-pd--------w iobj
+2 aduce aduce VERB Vmip3s ROOT
+3 mere mere NOUN Ncfp-n obj
+4 . . PUNCT PERIOD punct
+........................
+['Mama ne aduce mere.', 'Mama ne-aduce mere.']
+-------------------------------------------
+<147> . . . . . . . . . . . . . . . . . . .
+[5 items] Mama ne place mult.
+........................
+0 Mama mama NOUN Ncfsry nsubj
+1 ne ne PRON Pp1-pa--------w iobj
+2 place place VERB Vmip3s ROOT
+3 mult mult ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Mama ne place mult.']
+-------------------------------------------
+<148> . . . . . . . . . . . . . . . . . . .
+[5 items] Mama lu aduce repede.
+........................
+0 Mama mama NOUN Ncfsry nsubj
+1 lu lu PRON Pp3fsa--------m obj
+gogo False
+2 aduce aduce VERB Vmip3s ROOT
+3 repede repede ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Mama îl aduce repede.', 'Mama l-aduce repede.', 'Mama-l aduce repede.']
+-------------------------------------------
+<149> . . . . . . . . . . . . . . . . . . .
+[5 items] Mama lu place mult.
+........................
+0 Mama mama NOUN Ncfsry nsubj
+1 lu lu PRON Pp3fsa--------m obj
+2 place place VERB Vmip3s ROOT
+3 mult mult ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Mama îl place mult.', 'Mama-l place mult.']
+-------------------------------------------
+<150> . . . . . . . . . . . . . . . . . . .
+[5 items] Mama mi aduce mere.
+........................
+0 Mama mama NOUN Ncfsry nsubj
+1 mi mi PRON Pp1-sd--------w iobj
+gogo False
+2 aduce aduce VERB Vmip3s ROOT
+3 mere mere NOUN Ncfp-n obj
+4 . . PUNCT PERIOD punct
+........................
+['Mama îmi aduce mere.', 'Mama mi-aduce mere.', 'Mama-mi aduce mere.']
+-------------------------------------------
+<151> . . . . . . . . . . . . . . . . . . .
+[5 items] Mama mi place mult.
+........................
+0 Mama mama NOUN Ncfsry nsubj
+1 mi mi PRON Pp1-sd--------w iobj
+2 place place VERB Vmip3s ROOT
+3 mult mult ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Mama îmi place mult.', 'Mama-mi place mult.']
+-------------------------------------------
+<152> . . . . . . . . . . . . . . . . . . .
+[9 items] Mamei sale i lu a încredințat pe mezin.
+........................
+0 Mamei mamei NOUN Ncfsoy iobj
+1 sale sale DET Ds3fsos det
+2 i i PRON Pp3-sd--------w expl
+3 lu lu PRON Pp3fsa--------m obj
+4 a a AUX Va--3s aux
+5 încredințat încredințat VERB Vmp--sm ROOT
+6 pe pe ADP Spsa case
+7 mezin mezin NOUN Ncms-n obj
+8 . . PUNCT PERIOD punct
+........................
+['Mamei sale i l-a încredințat pe mezin.', 'Mamei sale i l-a-ncredințat pe mezin.']
+-------------------------------------------
+<153> . . . . . . . . . . . . . . . . . . .
+[7 items] Maria mă așteaptă de o oră.
+........................
+0 Maria maria PROPN Np nsubj
+1 mă mă PRON Pp1-sa--------w expl:pv
+2 așteaptă așteaptă VERB Vmip3 ROOT
+3 de de ADP Spsa case
+4 o o DET Tifsr det
+5 oră oră NOUN Ncfsrn obl
+6 . . PUNCT PERIOD punct
+........................
+['Maria mă așteaptă de o oră.', 'Maria m-așteaptă de o oră.']
+-------------------------------------------
+<154> . . . . . . . . . . . . . . . . . . .
+[7 items] Maria te așteaptă de o oră.
+........................
+0 Maria maria PROPN Np nsubj
+1 te te PRON Pp2-sa--------w obj
+2 așteaptă așteaptă VERB Vmip3 ROOT
+3 de de ADP Spsa case
+4 o o DET Tifsr det
+5 oră oră NOUN Ncfsrn obl
+6 . . PUNCT PERIOD punct
+........................
+['Maria te așteaptă de o oră.', 'Maria te-așteaptă de o oră.']
+-------------------------------------------
+<155> . . . . . . . . . . . . . . . . . . .
+[7 items] Maria i așteaptă de o oră.
+........................
+0 Maria maria PROPN Np nsubj
+1 i i PRON Pp3-sd--------w obj
+gogo False
+2 așteaptă așteaptă VERB Vmip3 ROOT
+3 de de ADP Spsa case
+4 o o DET Tifsr det
+5 oră oră NOUN Ncfsrn obl
+6 . . PUNCT PERIOD punct
+........................
+['Maria îi așteaptă de o oră.', 'Maria i-așteaptă de o oră.', 'Maria-i așteaptă de o oră.']
+-------------------------------------------
+<156> . . . . . . . . . . . . . . . . . . .
+[7 items] Maria lu așteaptă de o oră.
+........................
+0 Maria maria PROPN Np nsubj
+1 lu lu PRON Pp3fsa--------m obj
+gogo False
+2 așteaptă așteaptă VERB Vmip3 ROOT
+3 de de ADP Spsa case
+4 o o DET Tifsr det
+5 oră oră NOUN Ncfsrn obl
+6 . . PUNCT PERIOD punct
+........................
+['Maria îl așteaptă de o oră.', 'Maria l-așteaptă de o oră.', 'Maria-l așteaptă de o oră.']
+-------------------------------------------
+<157> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi lu a dat gratis.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 a a AUX Va--3s aux
+3 dat dat VERB Vmp--sm ROOT
+4 gratis gratis ADV Rgp fixed
+5 . . PUNCT PERIOD punct
+........................
+['Mi l-a dat gratis.']
+-------------------------------------------
+<158> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi lu ai dat gratis.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 ai ai AUX Va--2s aux
+3 dat dat VERB Vmp--sm ROOT
+4 gratis gratis ADV Rgp fixed
+5 . . PUNCT PERIOD punct
+........................
+['Mi l-ai dat gratis.']
+-------------------------------------------
+<159> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi lu ai face cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 ai ai AUX Va--2s aux
+3 face face VERB Vmnp ROOT
+4 cândva cândva ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Mi l-ai face cândva.']
+-------------------------------------------
+<160> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi lu oi face cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 oi oi AUX Va--1s----y aux
+3 face face VERB Vmnp ROOT
+4 cândva cândva ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Mi l-oi face cândva.']
+-------------------------------------------
+<161> . . . . . . . . . . . . . . . . . . .
+[5 items] Mi le aduci acum.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 le le PRON Pp3fpa--------w expl
+2 aduci aduci VERB Vmip2s ROOT
+3 acum acum ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Mi le aduci acum.', 'Mi le-aduci acum.']
+-------------------------------------------
+<162> . . . . . . . . . . . . . . . . . . .
+[5 items] Mi le dai gratis.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 le le PRON Pp3fpa--------w expl
+2 dai dai VERB Vmip2s ROOT
+3 gratis gratis ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Mi le dai gratis.']
+-------------------------------------------
+<163> . . . . . . . . . . . . . . . . . . .
+[5 items] Mi le faci acum.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 le le PRON Pp3fpa--------w expl
+2 faci faci VERB Vmip2s ROOT
+3 acum acum ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Mi le faci acum.']
+-------------------------------------------
+<164> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi le vei face cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 le le PRON Pp3fpa--------w expl
+2 vei vei AUX Va--2s aux
+3 face face VERB Vmnp ROOT
+4 cândva cândva ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Mi le vei face cândva.']
+-------------------------------------------
+<165> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi le ai face cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 le le PRON Pp3fpa--------w expl
+2 ai ai AUX Va--2s aux
+3 face face VERB Vmnp ROOT
+4 cândva cândva ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Mi le-ai face cândva.']
+-------------------------------------------
+<166> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi le oi face cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 le le PRON Pp3fpa--------w expl
+2 oi oi AUX Va--1s----y aux
+3 face face VERB Vmnp ROOT
+4 cândva cândva ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Mi le-oi face cândva.']
+-------------------------------------------
+<167> . . . . . . . . . . . . . . . . . . .
+[9 items] Mi se pare că se aude un cuc.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 se se PRON Px3--a--------w expl:pv
+2 pare pare VERB Vmip3s ROOT
+3 că că SCONJ Csssp mark
+4 se se PRON Px3--a--------w expl:pass
+5 aude aude VERB Vmip3s csubj
+6 un un DET Timsr det
+7 cuc cuc NOUN Ncms-n nsubj:pass
+8 . . PUNCT PERIOD punct
+........................
+['Mi se pare că se aude un cuc.', 'Mi se pare că se-aude un cuc.']
+-------------------------------------------
+<168> . . . . . . . . . . . . . . . . . . .
+[7 items] Mi ți lu ai face cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 ți ți PRON Pp2-sd--y-----w expl
+2 lu lu PRON Pp3fsa--------m obj
+3 ai ai AUX Va--2s aux
+4 face face VERB Vmnp ROOT
+5 cândva cândva ADV Rgp advmod
+6 . . PUNCT PERIOD punct
+........................
+['Mi ți l-ai face cândva.']
+-------------------------------------------
+<169> . . . . . . . . . . . . . . . . . . .
+[7 items] Mi ți lu oi face cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 ți ți PRON Pp2-sd--y-----w expl
+2 lu lu PRON Pp3fsa--------m obj
+3 oi oi AUX Va--1s----y aux
+4 face face VERB Vmnp ROOT
+5 cândva cândva ADV Rgp advmod
+6 . . PUNCT PERIOD punct
+........................
+['Mi ți l-oi face cândva.']
+-------------------------------------------
+<170> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi ți le faci cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 ți ți PRON Pp2-sd--------w iobj
+2 le le PRON Pp3fpa--------w expl
+3 faci faci VERB Vmip2s ROOT
+4 cândva cândva ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Mi ți le faci cândva.']
+-------------------------------------------
+<171> . . . . . . . . . . . . . . . . . . .
+[7 items] Mi ți le vei face cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 ți ți PRON Pp2-sd--------w iobj
+2 le le PRON Pp3fpa--------w expl
+3 vei vei AUX Va--2s aux
+4 face face VERB Vmnp ROOT
+5 cândva cândva ADV Rgp advmod
+6 . . PUNCT PERIOD punct
+........................
+['Mi ți le vei face cândva.']
+-------------------------------------------
+<172> . . . . . . . . . . . . . . . . . . .
+[7 items] Mi ți le ai face cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 ți ți PRON Pp2-sd--------w iobj
+2 le le PRON Pp3fpa--------w expl
+3 ai ai AUX Va--2s aux
+4 face face VERB Vmnp ROOT
+5 cândva cândva ADV Rgp advmod
+6 . . PUNCT PERIOD punct
+........................
+['Mi ți le-ai face cândva.']
+-------------------------------------------
+<173> . . . . . . . . . . . . . . . . . . .
+[7 items] Mi ți le oi face cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 ți ți PRON Pp2-sd--------w iobj
+2 le le PRON Pp3-pd--------w expl
+3 oi oi AUX Va--1s----y aux
+4 face face VERB Vmnp ROOT
+5 cândva cândva ADV Rgp advmod
+6 . . PUNCT PERIOD punct
+........................
+['Mi ți le-oi face cândva.']
+-------------------------------------------
+<174> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi ți ai facut probleme.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 ți ți PRON Pp2-sd--------w expl:poss
+2 ai ai AUX Va--2s aux
+3 facut facut VERB Vmp--sm ROOT
+4 probleme probleme NOUN Ncfp-n obj
+5 . . PUNCT PERIOD punct
+........................
+['Mi ți-ai facut probleme.']
+-------------------------------------------
+<175> . . . . . . . . . . . . . . . . . . .
+[9 items] Mi ți lu bate de nu se vede.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 ți ți PRON Pp2-sd--y-----w iobj
+2 lu lu PRON Pp3fsa--------m obj
+3 bate bate VERB Vmip3s ROOT
+4 de de ADP Spsa mark
+5 nu nu PART Qz advmod
+6 se se PRON Px3--a--------w expl:pv
+7 vede vede VERB Vmip3s ccomp:pmod
+8 . . PUNCT PERIOD punct
+........................
+['Mi ți-l bate de nu se vede.']
+-------------------------------------------
+<176> . . . . . . . . . . . . . . . . . . .
+[7 items] Mi ți lu bate pe copil.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 ți ți PRON Pp2-sd--y-----w expl
+2 lu lu PRON Pp3fsa--------m obj
+3 bate bate VERB Vmip3s ROOT
+4 pe pe ADP Spsa case
+5 copil copil NOUN Ncms-n obj
+6 . . PUNCT PERIOD punct
+........................
+['Mi ți-l bate pe copil.']
+-------------------------------------------
+<177> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi ți lu faci cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 ți ți PRON Pp2-sd--y-----w iobj
+2 lu lu PRON Pp3fsa--------m obj
+3 faci faci VERB Vmip2s ROOT
+4 cândva cândva ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Mi ți-l faci cândva.']
+-------------------------------------------
+<178> . . . . . . . . . . . . . . . . . . .
+[7 items] Mi ți lu vei face cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 ți ți PRON Pp2-sd--y-----w iobj
+2 lu lu PRON Pp3fsa--------m obj
+3 vei vei AUX Va--2s aux
+4 face face VERB Vmnp ROOT
+5 cândva cândva ADV Rgp advmod
+6 . . PUNCT PERIOD punct
+........................
+['Mi ți-l vei face cândva.']
+-------------------------------------------
+<179> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi ți o faci cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 ți ți PRON Pp2-sd--------w iobj
+2 o o PRON Pp3fsa--------w obj
+3 faci faci VERB Vmip2s ROOT
+4 cândva cândva ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Mi ți-o faci cândva.']
+-------------------------------------------
+<180> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi a dat mere gratis.
+........................
+0 Mi mi PRON Pp1-sd--y-----w iobj
+1 a a AUX Va--3s----y aux
+2 dat dat VERB Vmp--sm ROOT
+3 mere mere NOUN Ncfp-n obj
+4 gratis gratis ADJ Afpms-n amod
+5 . . PUNCT PERIOD punct
+........................
+['Mi-a dat mere gratis.']
+-------------------------------------------
+<181> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi ai dat o gratis.
+........................
+0 Mi mi PRON Pp1-sd--y-----w iobj
+1 ai ai AUX Va--2s aux
+2 dat dat VERB Vmp--sm ROOT
+3 o o PRON Pp3fsa--------w obj
+4 gratis gratis ADV Rgp nsubj
+5 . . PUNCT PERIOD punct
+........................
+['Mi-ai dat-o gratis.']
+-------------------------------------------
+<182> . . . . . . . . . . . . . . . . . . .
+[5 items] Mi lu dai gratis.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 dai dai VERB Vmip2s ROOT
+3 gratis gratis ADV Rgp fixed
+4 . . PUNCT PERIOD punct
+........................
+['Mi-l dai gratis.']
+-------------------------------------------
+<183> . . . . . . . . . . . . . . . . . . .
+[5 items] Mi lu dă gratis.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 dă dă VERB Vmip3s ROOT
+3 gratis gratis ADV Rgp fixed
+4 . . PUNCT PERIOD punct
+........................
+['Mi-l dă gratis.']
+-------------------------------------------
+<184> . . . . . . . . . . . . . . . . . . .
+[5 items] Mi lu faci cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 faci faci VERB Vmip2s ROOT
+3 cândva cândva ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Mi-l faci cândva.']
+-------------------------------------------
+<185> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi lu vei face cândva.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 vei vei AUX Va--2s aux
+3 face face VERB Vmnp ROOT
+4 cândva cândva ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Mi-l vei face cândva.']
+-------------------------------------------
+<186> . . . . . . . . . . . . . . . . . . .
+[5 items] Mi o dai gratis.
+........................
+0 Mi mi PRON Pp1-sd--y-----w iobj
+1 o o PRON Pp3fsa--------w obj
+2 dai dai VERB Vmip2s ROOT
+3 gratis gratis ADV Rgp xcomp
+4 . . PUNCT PERIOD punct
+........................
+['Mi-o dai gratis.']
+-------------------------------------------
+<187> . . . . . . . . . . . . . . . . . . .
+[5 items] Mi o dați afară.
+........................
+0 Mi mi PRON Pp1-sd--y-----w iobj
+1 o o PRON Pp3fsa--------w obj
+2 dați dați VERB Vmip2p ROOT
+3 afară afară ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Mi-o dați afară.']
+-------------------------------------------
+<188> . . . . . . . . . . . . . . . . . . .
+[5 items] Mi o spui repede!
+........................
+0 Mi mi PRON Pp1-sd--y-----w iobj
+1 o o PRON Pp3fsa--------w obj
+2 spui spui VERB Vmip2s ROOT
+3 repede repede ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Mi-o spui repede!']
+-------------------------------------------
+<189> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi o vei face cândva.
+........................
+0 Mi mi PRON Pp1-sd--y-----w iobj
+1 o o PRON Pp3fsa--------w obj
+2 vei vei AUX Va--2s aux
+3 face face VERB Vmnp ROOT
+4 cândva cândva ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Mi-o vei face cândva.']
+-------------------------------------------
+<190> . . . . . . . . . . . . . . . . . . .
+[7 items] Mi oi face o schimbare cândva.
+........................
+0 Mi mi PRON Pp1-sd--y-----w iobj
+1 oi oi AUX Va--1s----y aux
+2 face face VERB Vmnp ROOT
+3 o o DET Tifsr det
+4 schimbare schimbare NOUN Ncfsrn obj
+5 cândva cândva ADV Rgp amod
+6 . . PUNCT PERIOD punct
+........................
+['Mi-oi face o schimbare cândva.']
+-------------------------------------------
+<191> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi oi face o cândva.
+........................
+0 Mi mi PRON Pp1-sd--y-----w iobj
+1 oi oi AUX Va--1s----y aux
+2 face face VERB Vmnp ROOT
+3 o o PRON Pp3fsa--------w obj
+4 cândva cândva ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Mi-oi face-o cândva.']
+-------------------------------------------
+<192> . . . . . . . . . . . . . . . . . . .
+[5 items] Mi su acolo oile.
+........................
+0 Mi mi PRON Pp1-sd--y-----w expl:poss
+1 su su PROPN Np dep
+2 acolo acolo ADV Rgp ROOT
+3 oile oile NOUN Ncfpry obj
+4 . . PUNCT PERIOD punct
+........................
+['Mi-s acolo oile.']
+-------------------------------------------
+<193> . . . . . . . . . . . . . . . . . . .
+[5 items] Mi ți faci probleme.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 ți ți PRON Pp2-sd--y-----w iobj
+2 faci faci VERB Vmip2s ROOT
+3 probleme probleme NOUN Ncfp-n obj
+4 . . PUNCT PERIOD punct
+........................
+['Mi-ți faci probleme.']
+-------------------------------------------
+<194> . . . . . . . . . . . . . . . . . . .
+[6 items] Mi ți vei face probleme.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 ți ți PRON Pp2-sd--------w iobj
+2 vei vei AUX Va--2s aux
+3 face face VERB Vmnp ROOT
+4 probleme probleme NOUN Ncfp-n obj
+5 . . PUNCT PERIOD punct
+........................
+['Mi-ți vei face probleme.']
+-------------------------------------------
+<195> . . . . . . . . . . . . . . . . . . .
+[5 items] Miriam ni aduce mere.
+........................
+0 Miriam miriam PROPN Np nsubj
+1 ni ni PRON Pp1-pd--------w iobj
+2 aduce aduce VERB Vmip3s ROOT
+3 mere mere NOUN Ncfp-n obj
+4 . . PUNCT PERIOD punct
+........................
+['Miriam ne aduce mere.', 'Miriam ne-aduce mere.']
+-------------------------------------------
+<196> . . . . . . . . . . . . . . . . . . .
+[5 items] Miriam ne place mult.
+........................
+0 Miriam miriam PROPN Np nsubj
+1 ne ne PRON Pp1-pa--------w iobj
+2 place place VERB Vmip3s ROOT
+3 mult mult ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Miriam ne place mult.']
+-------------------------------------------
+<197> . . . . . . . . . . . . . . . . . . .
+[5 items] Miriam lu aduce repede.
+........................
+0 Miriam miriam PROPN Np nsubj
+1 lu lu PRON Pp3fsa--------m obj
+gogo False
+2 aduce aduce VERB Vmip3s ROOT
+3 repede repede ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Miriam îl aduce repede.', 'Miriam l-aduce repede.']
+-------------------------------------------
+<198> . . . . . . . . . . . . . . . . . . .
+[5 items] Miriam lu place mult.
+........................
+0 Miriam miriam PROPN Np nsubj
+1 lu lu PRON Pp3fsa--------m obj
+2 place place VERB Vmip3s ROOT
+3 mult mult ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Miriam îl place mult.']
+-------------------------------------------
+<199> . . . . . . . . . . . . . . . . . . .
+[5 items] Miriam mi aduce mere.
+........................
+0 Miriam miriam PROPN Np nsubj
+1 mi mi PRON Pp1-sd--------w iobj
+gogo False
+2 aduce aduce VERB Vmip3s ROOT
+3 mere mere NOUN Ncfp-n obj
+4 . . PUNCT PERIOD punct
+........................
+['Miriam îmi aduce mere.', 'Miriam mi-aduce mere.']
+-------------------------------------------
+<200> . . . . . . . . . . . . . . . . . . .
+[5 items] Miriam mi place mult.
+........................
+0 Miriam miriam PROPN Np nsubj
+1 mi mi PRON Pp1-sd--------w iobj
+2 place place VERB Vmip3s ROOT
+3 mult mult ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Miriam îmi place mult.']
+-------------------------------------------
+<201> . . . . . . . . . . . . . . . . . . .
+[5 items] Mânca lu ar mama!
+........................
+0 Mânca mânca VERB Vmii3s ROOT
+1 lu lu PRON Pp3fsa--------m obj
+2 ar ar AUX Va--3 aux
+3 mama mama NOUN Ncfsry nsubj
+4 ! ! PUNCT EXCL punct
+........................
+['Mânca-l-ar mama!']
+-------------------------------------------
+<202> . . . . . . . . . . . . . . . . . . .
+[8 items] Mânca lu aș cu fulgi cu tot!
+........................
+0 Mânca mânca VERB Vmii3s ROOT
+1 lu lu PRON Pp3fsa--------m obj
+2 aș aș AUX Va--1s nsubj
+3 cu cu ADP Spsa fixed
+4 fulgi fulgi NOUN Ncmp-n fixed
+5 cu cu ADP Spsa case
+6 tot tot PRON Pi3msr obl
+7 ! ! PUNCT EXCL punct
+........................
+['Mânca-l-aș cu fulgi cu tot!']
+-------------------------------------------
+<203> . . . . . . . . . . . . . . . . . . .
+[5 items] Mânca ți ai norocul!
+........................
+0 Mânca mânca VERB Vmii3s ROOT
+1 ți ți PRON Pp2-sd--y-----w iobj
+2 ai ai AUX Va--2s det
+3 norocul norocul NOUN Ncmsry obj
+4 ! ! PUNCT EXCL punct
+........................
+['Mânca-ți-ai norocul!']
+-------------------------------------------
+<204> . . . . . . . . . . . . . . . . . . .
+[9 items] Mâncând lu prea repede te ai putea îneca.
+........................
+0 Mâncând mâncând VERB Vmg ROOT
+1 lu lu PRON Pp3fsa--------m obj
+2 prea prea ADV Rp advmod
+3 repede repede ADV Rgp advmod
+4 te te PRON Pp2-sa--------w obj
+5 ai ai AUX Va--2s aux
+6 putea putea VERB Vmnp ccomp
+7 îneca îneca VERB Vmnp ccomp
+8 . . PUNCT PERIOD punct
+........................
+['Mâncându-l prea repede te-ai putea îneca.']
+-------------------------------------------
+<205> . . . . . . . . . . . . . . . . . . .
+[4 items] Mă arăt mâine.
+........................
+0 Mă mă PRON Pp1-sa--------w expl:pv
+1 arăt arăt VERB Vmip1s ROOT
+2 mâine mâine ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Mă arăt mâine.', 'M-arăt mâine.']
+-------------------------------------------
+<206> . . . . . . . . . . . . . . . . . . .
+[4 items] Mă vezi clar.
+........................
+0 Mă mă PRON Pp1-sa--------w expl:pv
+1 vezi vezi VERB Vmip2s ROOT
+2 clar clar ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Mă vezi clar.']
+-------------------------------------------
+<207> . . . . . . . . . . . . . . . . . . .
+[4 items] Mă văd acolo.
+........................
+0 Mă mă PRON Pp1-sa--------w expl:pv
+1 văd văd VERB Vmip1s ROOT
+2 acolo acolo ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Mă văd acolo.']
+-------------------------------------------
+<208> . . . . . . . . . . . . . . . . . . .
+[4 items] Mănâncă o repede!
+........................
+0 Mănâncă mănâncă VERB Vmm-2s ROOT
+1 o o PRON Pp3fsa--------w obj
+2 repede repede ADV Rgp advmod
+3 ! ! PUNCT EXCL punct
+........................
+['Mănânc-o repede!']
+-------------------------------------------
+<209> . . . . . . . . . . . . . . . . . . .
+[4 items] Mănâncă lu repede!
+........................
+0 Mănâncă mănâncă VERB Vmm-2s ROOT
+1 lu lu PRON Pp3fsa--------m obj
+2 repede repede ADV Rgp advmod
+3 ! ! PUNCT EXCL punct
+........................
+['Mănâncă-l repede!']
+-------------------------------------------
+<210> . . . . . . . . . . . . . . . . . . .
+[5 items] Ni aduce cartea repede.
+........................
+0 Ni ni PRON Pp1-pd--------w iobj
+1 aduce aduce VERB Vmip3s ROOT
+2 cartea cartea NOUN Ncfsry obj
+3 repede repede ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Ne aduce cartea repede.', 'Ne-aduce cartea repede.']
+-------------------------------------------
+<211> . . . . . . . . . . . . . . . . . . .
+[4 items] Ni aducem mere.
+........................
+0 Ni ni PRON Pp1-pd--------w iobj
+1 aducem aducem VERB Vmip1p ROOT
+2 mere mere NOUN Ncfp-n obj
+3 . . PUNCT PERIOD punct
+........................
+['Ne aducem mere.', 'Ne-aducem mere.']
+-------------------------------------------
+<212> . . . . . . . . . . . . . . . . . . .
+[4 items] Ni cumpărăm mere.
+........................
+0 Ni ni PRON Pp1-pd--------w iobj
+1 cumpărăm cumpărăm VERB Vmip1p ROOT
+2 mere mere NOUN Ncfp-n obj
+3 . . PUNCT PERIOD punct
+........................
+['Ne cumpărăm mere.']
+-------------------------------------------
+<213> . . . . . . . . . . . . . . . . . . .
+[4 items] Ni dai mere.
+........................
+0 Ni ni PRON Pp1-pd--------w iobj
+1 dai dai VERB Vmip2s ROOT
+2 mere mere NOUN Ncfp-n obj
+3 . . PUNCT PERIOD punct
+........................
+['Ne dai mere.']
+-------------------------------------------
+<214> . . . . . . . . . . . . . . . . . . .
+[7 items] Ni leagă o sfoară de picior.
+........................
+0 Ni ni PRON Pp1-pd--------w iobj
+1 leagă leagă VERB Vmip3 ROOT
+2 o o DET Tifsr det
+3 sfoară sfoară NOUN Ncfsrn obj
+4 de de ADP Spsa case
+5 picior picior NOUN Ncms-n nmod
+6 . . PUNCT PERIOD punct
+........................
+['Ne leagă o sfoară de picior.']
+-------------------------------------------
+<215> . . . . . . . . . . . . . . . . . . .
+[4 items] Ne oprim repede.
+........................
+0 Ne ne PRON Pp1-pa--------w expl:pv
+1 oprim oprim VERB Vmip1p ROOT
+2 repede repede ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Ne oprim repede.']
+-------------------------------------------
+<216> . . . . . . . . . . . . . . . . . . .
+[4 items] Ne văd acolo.
+........................
+0 Ne ne PRON Pp1-pa--------w iobj
+1 văd văd VERB Vmip3p ROOT
+2 acolo acolo ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Ne văd acolo.']
+-------------------------------------------
+<217> . . . . . . . . . . . . . . . . . . .
+[6 items] Ni a adus cartea repede.
+........................
+0 Ni ni PRON Pp1-pd--------w iobj
+1 a a AUX Va--3s aux
+2 adus adus VERB Vmp--sm ROOT
+3 cartea cartea NOUN Ncfsry obj
+4 repede repede ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Ne-a adus cartea repede.']
+-------------------------------------------
+<218> . . . . . . . . . . . . . . . . . . .
+[5 items] Ni am cumpărat mere.
+........................
+0 Ni ni PRON Pp1-pd--------w iobj
+1 am am AUX Va--1 aux
+2 cumpărat cumpărat VERB Vmp--sm ROOT
+3 mere mere NOUN Ncfp-n obj
+4 . . PUNCT PERIOD punct
+........................
+['Ne-am cumpărat mere.']
+-------------------------------------------
+<219> . . . . . . . . . . . . . . . . . . .
+[5 items] Ne au văzut acolo.
+........................
+0 Ne ne PRON Pp1-pa--------w iobj
+1 au au AUX Va--3p aux
+2 văzut văzut VERB Vmp--sm ROOT
+3 acolo acolo ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Ne-au văzut acolo.']
+-------------------------------------------
+<220> . . . . . . . . . . . . . . . . . . .
+[5 items] Ni o spui repede!
+........................
+0 Ni ni PRON Pp1-pd--------w iobj
+1 o o PRON Pp3fsa--------w obj
+2 spui spui VERB Vmip2s ROOT
+3 repede repede ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Ne-o spui repede!']
+-------------------------------------------
+<221> . . . . . . . . . . . . . . . . . . .
+[5 items] Ni i dă gratis.
+........................
+0 Ni ni PRON Pp1-pd--------w iobj
+1 i i PRON Pp3-sd--------w expl
+2 dă dă VERB Vmip3s ROOT
+3 gratis gratis ADV Rgp fixed
+4 . . PUNCT PERIOD punct
+........................
+['Ni-i dă gratis.']
+-------------------------------------------
+<222> . . . . . . . . . . . . . . . . . . .
+[5 items] Ni lu aduce repede.
+........................
+0 Ni ni PRON Pp1-pd--------w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 aduce aduce VERB Vmip3s ROOT
+3 repede repede ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Ni-l aduce repede.']
+-------------------------------------------
+<223> . . . . . . . . . . . . . . . . . . .
+[5 items] Ni lu dă gratis.
+........................
+0 Ni ni PRON Pp1-pd--------w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 dă dă VERB Vmip3s ROOT
+3 gratis gratis ADV Rgp fixed
+4 . . PUNCT PERIOD punct
+........................
+['Ni-l dă gratis.']
+-------------------------------------------
+<224> . . . . . . . . . . . . . . . . . . .
+[6 items] Noi ți dăm mere gratis.
+........................
+0 Noi noi PRON Pp1-pr--------s nsubj
+1 ți ți PRON Pp2-sd--y-----w iobj
+2 dăm dăm VERB Vmip1p ROOT
+3 mere mere NOUN Ncfp-n obj
+4 gratis gratis ADV Rgp amod
+5 . . PUNCT PERIOD punct
+........................
+['Noi îți dăm mere gratis.']
+-------------------------------------------
+<225> . . . . . . . . . . . . . . . . . . .
+[7 items] Nu am cu cine lu lăsa.
+........................
+0 Nu nu PART Qz advmod
+1 am am VERB Va--1 ROOT
+2 cu cu ADP Spsa case
+3 cine cine PRON Pw3--r obl
+4 lu lu PRON Pp3fsa--------m obj
+5 lăsa lăsa VERB Vmii3s ccomp
+6 . . PUNCT PERIOD punct
+........................
+['Nu am cu cine îl lăsa.', 'Nu am cu cine-l lăsa.', 'N-am cu cine îl lăsa.', 'N-am cu cine-l lăsa.']
+-------------------------------------------
+<226> . . . . . . . . . . . . . . . . . . .
+[7 items] Nu am cui i lu da.
+........................
+0 Nu nu PART Qz advmod
+1 am am VERB Va--1 ROOT
+2 cui cui PRON Pw3-so iobj
+3 i i PRON Pp3-sd--------w obj
+4 lu lu PRON Pp3fsa--------m obj
+5 da da VERB Vmnp advcl
+6 . . PUNCT PERIOD punct
+........................
+['Nu am cui i-l da.', 'N-am cui i-l da.']
+-------------------------------------------
+<227> . . . . . . . . . . . . . . . . . . .
+[6 items] Nu am văzut o bine.
+........................
+0 Nu nu PART Qz advmod
+1 am am AUX Va--1 aux
+2 văzut văzut VERB Vmp--sm ROOT
+3 o o PRON Pp3fsa--------w obj
+4 bine bine ADV Rgp obj
+5 . . PUNCT PERIOD punct
+........................
+['Nu am văzut-o bine.', 'N-am văzut-o bine.']
+-------------------------------------------
+<228> . . . . . . . . . . . . . . . . . . .
+[8 items] Nu mi lu a mai dat gratis.
+........................
+0 Nu nu PART Qz advmod
+1 mi mi PRON Pp1-sd--------w iobj
+2 lu lu PRON Pp3fsa--------m obj
+3 a a AUX Va--3s aux
+4 mai mai ADV Rp advmod
+5 dat dat VERB Vmp--sm ROOT
+6 gratis gratis ADV Rgp fixed
+7 . . PUNCT PERIOD punct
+........................
+['Nu mi l-a mai dat gratis.']
+-------------------------------------------
+<229> . . . . . . . . . . . . . . . . . . .
+[14 items] Nu mi ți lu ar mai fi tot aruncat vrăjitoarea încoace și încolo.
+........................
+0 Nu nu PART Qz advmod
+1 mi mi PRON Pp1-sd--------w iobj
+2 ți ți PRON Pp1-sd--------w iobj
+3 lu lu PRON Pp3fsa--------m obj
+4 ar ar AUX Va--3 aux
+5 mai mai ADV Rp advmod
+6 fi fi AUX Vanp aux
+7 tot tot ADV Rgp advmod
+8 aruncat aruncat VERB Vmp--sm ROOT
+9 vrăjitoarea vrăjitoarea NOUN Ncfsry obj
+10 încoace încoace ADV Rgp advmod
+11 și și CCONJ Crssp cc
+12 încolo încolo ADV Rgp conj
+13 . . PUNCT PERIOD punct
+........................
+['Nu mi ți l-ar mai fi tot aruncat vrăjitoarea încoace și încolo.', 'Nu mi ți l-ar mai fi tot aruncat vrăjitoarea încoace și-ncolo.', 'Nu mi ți l-ar mai fi tot aruncat vrăjitoarea-ncoace și încolo.', 'Nu mi ți l-ar mai fi tot aruncat vrăjitoarea-ncoace și-ncolo.']
+-------------------------------------------
+<230> . . . . . . . . . . . . . . . . . . .
+[7 items] Nu mi ți ai face probleme.
+........................
+0 Nu nu PART Qz advmod
+1 mi mi PRON Pp1-sd--------w iobj
+2 ți ți PRON Pp2-sd--------w iobj
+3 ai ai AUX Va--2s aux
+4 face face VERB Vmnp ROOT
+5 probleme probleme NOUN Ncfp-n obj
+6 . . PUNCT PERIOD punct
+........................
+['Nu mi ți-ai face probleme.']
+-------------------------------------------
+<231> . . . . . . . . . . . . . . . . . . .
+[6 items] Nu mi lu trimite azi!
+........................
+0 Nu nu PART Qz advmod
+1 mi mi PRON Pp1-sd--------w iobj
+2 lu lu PRON Pp3fsa--------m obj
+3 trimite trimite VERB Vmip3s ROOT
+4 azi azi ADV Rgp advmod
+5 ! ! PUNCT EXCL punct
+........................
+['Nu mi-l trimite azi!']
+-------------------------------------------
+<232> . . . . . . . . . . . . . . . . . . .
+[6 items] Nu mi ți face probleme!
+........................
+0 Nu nu PART Qz advmod
+1 mi mi PRON Pp1-sd--------w iobj
+2 ți ți PRON Pp2-sd--y-----w iobj
+3 face face VERB Vmip3s ROOT
+4 probleme probleme NOUN Ncfp-n obj
+5 ! ! PUNCT EXCL punct
+........................
+['Nu mi-ți face probleme!']
+-------------------------------------------
+<233> . . . . . . . . . . . . . . . . . . .
+[30 items] Nu o să uit niciodată uluirea primului moment, când, reușind să deschid ușa mă am trezit, nu într-o încăpere, ci în fața unui munte.
+........................
+0 Nu nu PART Qz advmod
+1 o o PART Qf mark
+2 să să PART Qs mark
+3 uit uit VERB Vmip1s ROOT
+4 niciodată niciodată ADV Rz advmod
+5 uluirea uluirea NOUN Ncfsry obj
+6 primului primului NUM Momsoly nummod
+7 moment moment NOUN Ncms-n nmod
+8 , , PUNCT COMMA punct
+9 când când ADV Rw advmod
+10 , , PUNCT COMMA punct
+11 reușind reușind VERB Vmg advcl
+12 să să PART Qs mark
+13 deschid deschid VERB Vmip1s ccomp
+14 ușa ușa NOUN Ncfsry obj
+15 mă mă PRON Pp1-sa--------w expl:pv
+16 am am AUX Va--1 aux
+17 trezit trezit VERB Vmp--sm advcl
+18 , , PUNCT COMMA punct
+19 nu nu PART Qz advmod
+20 într- într- ADP Spsay case
+21 o o DET Tifsr det
+22 încăpere încăpere NOUN Ncfsrn obl
+23 , , PUNCT COMMA punct
+24 ci ci CCONJ Ccssp cc
+25 în în ADP Spsa case
+26 fața fața NOUN Ncfsry fixed
+27 unui unui DET Timso det
+28 munte munte NOUN Ncms-n obl
+29 . . PUNCT PERIOD punct
+........................
+['Nu o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci în fața unui munte.', 'Nu o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci-n fața unui munte.', 'N-o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci în fața unui munte.', 'N-o să uit niciodată uluirea primului moment, când, reușind să deschid ușa m-am trezit, nu într-o încăpere, ci-n fața unui munte.']
+-------------------------------------------
+<234> . . . . . . . . . . . . . . . . . . .
+[5 items] Nu o văd bine.
+........................
+0 Nu nu PART Qz advmod
+1 o o PRON Pp3fsa--------w obj
+2 văd văd VERB Vmip1s ROOT
+3 bine bine ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Nu o văd bine.', 'N-o văd bine.']
+-------------------------------------------
+<235> . . . . . . . . . . . . . . . . . . .
+[5 items] Nu lu da gratis!
+........................
+0 Nu nu PART Qz advmod
+1 lu lu PRON Pp3fsa--------m obj
+2 da da VERB Vmnp ROOT
+3 gratis gratis ADV Rgp fixed
+4 ! ! PUNCT EXCL punct
+........................
+['Nu îl da gratis!', 'Nu-l da gratis!']
+-------------------------------------------
+<236> . . . . . . . . . . . . . . . . . . .
+[5 items] Nu ți face probleme!
+........................
+0 Nu nu PART Qz advmod
+1 ți ți PRON Pp2-sd--------w iobj
+2 face face VERB Vmip3s ROOT
+3 probleme probleme NOUN Ncfp-n obj
+4 ! ! PUNCT EXCL punct
+........................
+['Nu îți face probleme!', 'Nu-ți face probleme!']
+-------------------------------------------
+<237> . . . . . . . . . . . . . . . . . . .
+[10 items] O comisie o să o vadă numai o zi.
+........................
+0 O o DET Tifsr det
+1 comisie comisie NOUN Ncfsrn nsubj
+2 o o PART Qf mark
+3 să să PART Qs mark
+4 o o PRON Pp3fsa--------w obj
+5 vadă vadă VERB Vmsp3 ROOT
+6 numai numai ADV Rgp advmod
+7 o o NUM Mc-s-l nummod
+8 zi zi NOUN Ncfsrn obl
+9 . . PUNCT PERIOD punct
+........................
+['O comisie o să o vadă numai o zi.', 'O comisie o s-o vadă numai o zi.']
+-------------------------------------------
+<238> . . . . . . . . . . . . . . . . . . .
+[4 items] O cumperi repede.
+........................
+0 O o PRON Pp3fsa--------w obj
+1 cumperi cumperi VERB Vmip2s ROOT
+2 repede repede ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['O cumperi repede.']
+-------------------------------------------
+<239> . . . . . . . . . . . . . . . . . . .
+[4 items] O dați afară.
+........................
+0 O o PRON Pp3fsa--------w obj
+1 dați dați VERB Vmip2p ROOT
+2 afară afară ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['O dați afară.']
+-------------------------------------------
+<240> . . . . . . . . . . . . . . . . . . .
+[4 items] O spui repede.
+........................
+0 O o PRON Pp3fsa--------w obj
+1 spui spui VERB Vmip2s ROOT
+2 repede repede ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['O spui repede.']
+-------------------------------------------
+<241> . . . . . . . . . . . . . . . . . . .
+[4 items] O văd acolo.
+........................
+0 O o PRON Pp3fsa--------w obj
+1 văd văd VERB Vmip3p ROOT
+2 acolo acolo ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['O văd acolo.']
+-------------------------------------------
+<242> . . . . . . . . . . . . . . . . . . .
+[5 items] O împușcă în inimă.
+........................
+0 O o PRON Pp3fsa--------w obj
+1 împușcă împușcă VERB Vmis3s ROOT
+2 în în ADP Spsa case
+3 inimă inimă NOUN Ncfsrn obl
+4 . . PUNCT PERIOD punct
+........................
+['O împușcă în inimă.', 'O împușcă-n inimă.', 'O-mpușcă în inimă.', 'O-mpușcă-n inimă.']
+-------------------------------------------
+<243> . . . . . . . . . . . . . . . . . . .
+[5 items] Omul se a îngrășat.
+........................
+0 Omul omul NOUN Ncmsry nsubj
+1 se se PRON Px3--a--------w expl:pv
+2 a a AUX Va--3s aux
+3 îngrășat îngrășat VERB Vmp--sm ROOT
+4 . . PUNCT PERIOD punct
+........................
+['Omul s-a îngrășat.', 'Omul s-a-ngrășat.']
+-------------------------------------------
+<244> . . . . . . . . . . . . . . . . . . .
+[9 items] Pare mi se că se aude un cuc.
+........................
+0 Pare pare VERB Vmip3s ROOT
+1 mi mi PRON Pp1-sd--------w iobj
+2 se se PRON Px3--a--------w iobj
+3 că că SCONJ Csssp mark
+4 se se PRON Px3--a--------w expl:pass
+5 aude aude VERB Vmip3s acl
+6 un un DET Timsr det
+7 cuc cuc NOUN Ncms-n nsubj:pass
+8 . . PUNCT PERIOD punct
+........................
+['Pare-mi-se că se aude un cuc.', 'Pare-mi-se că se-aude un cuc.']
+-------------------------------------------
+<245> . . . . . . . . . . . . . . . . . . .
+[8 items] Pe acest student lu cunoaște toată lumea.
+........................
+0 Pe pe ADP Spsa case
+1 acest acest DET Dd3msr---e det
+2 student student NOUN Ncms-n obl
+3 lu lu PRON Pp3fsa--------m obj
+4 cunoaște cunoaște VERB Vmip3s ROOT
+5 toată toată DET Di3fsr det
+6 lumea lumea NOUN Ncfsry obj
+7 . . PUNCT PERIOD punct
+........................
+['Pe acest student îl cunoaște toată lumea.']
+-------------------------------------------
+<246> . . . . . . . . . . . . . . . . . . .
+[9 items] Pe mezin i lu a încredințat mamei sale.
+........................
+0 Pe pe ADP Spsa case
+1 mezin mezin NOUN Ncms-n obj
+2 i i PRON Pp3-sd--------w expl
+3 lu lu PRON Pp3fsa--------m obj
+4 a a AUX Va--3s aux
+5 încredințat încredințat VERB Vmp--sm ROOT
+6 mamei mamei NOUN Ncfsoy iobj
+7 sale sale DET Ds3fsos det
+8 . . PUNCT PERIOD punct
+........................
+['Pe mezin i l-a încredințat mamei sale.', 'Pe mezin i l-a-ncredințat mamei sale.']
+-------------------------------------------
+<247> . . . . . . . . . . . . . . . . . . .
+[8 items] Pe unde mi o fi stat copilul?
+........................
+0 Pe pe ADP Spsa case
+1 unde unde ADV Rw advmod
+2 mi mi PRON Pp1-sd--y-----w iobj
+3 o o AUX Va--3s expl
+4 fi fi AUX Vanp aux
+5 stat stat VERB Vmp--sm ROOT
+6 copilul copilul NOUN Ncmsry nsubj
+7 ? ? PUNCT QUEST punct
+........................
+['Pe unde mi-o fi stat copilul?']
+-------------------------------------------
+<248> . . . . . . . . . . . . . . . . . . .
+[5 items] Pe unde mi stai?
+........................
+0 Pe pe ADP Spsa case
+1 unde unde ADV Rw advmod
+2 mi mi PRON Pp1-sd--------w iobj
+3 stai stai VERB Vmii2s ROOT
+4 ? ? PUNCT QUEST punct
+........................
+['Pe unde îmi stai?', 'Pe unde-mi stai?']
+-------------------------------------------
+<249> . . . . . . . . . . . . . . . . . . .
+[5 items] Pe unde mi umbli?
+........................
+0 Pe pe ADP Spsa case
+1 unde unde ADV Rw obj
+2 mi mi PRON Pp1-sd--y-----w iobj
+3 umbli umbli VERB Vmip2s ROOT
+4 ? ? PUNCT QUEST punct
+........................
+['Pe unde îmi umbli?', 'Pe unde-mi umbli?']
+-------------------------------------------
+<250> . . . . . . . . . . . . . . . . . . .
+[5 items] Pedepsi lu aș aspru.
+........................
+0 Pedepsi pedepsi VERB Vmnp ROOT
+1 lu lu PRON Pp3fsa--------m obj
+2 aș aș AUX Va--1s cop
+3 aspru aspru ADV Rgp ccomp
+4 . . PUNCT PERIOD punct
+........................
+['Pedepsi-l-aș aspru.']
+-------------------------------------------
+<251> . . . . . . . . . . . . . . . . . . .
+[4 items] Preface te acum!
+........................
+0 Preface preface VERB Vmip3s ROOT
+1 te te PRON Pp2-sa--------w obj
+2 acum acum ADV Rgp advmod
+3 ! ! PUNCT EXCL punct
+........................
+['Preface-te acum!', 'Preface-te-acum!']
+-------------------------------------------
+<252> . . . . . . . . . . . . . . . . . . .
+[4 items] Preface te cândva!
+........................
+0 Preface preface VERB Vmip3s ROOT
+1 te te PRON Pp2-sa--------w obj
+2 cândva cândva ADV Rgp advmod
+3 ! ! PUNCT EXCL punct
+........................
+['Preface-te cândva!']
+-------------------------------------------
+<253> . . . . . . . . . . . . . . . . . . .
+[5 items] Preface te ai acum!
+........................
+0 Preface preface VERB Vmip3s ROOT
+1 te te PRON Pp2-sa--------w obj
+2 ai ai AUX Vmip2s obj
+3 acum acum ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Preface-te-ai acum!']
+-------------------------------------------
+<254> . . . . . . . . . . . . . . . . . . .
+[5 items] Preface te ai cândva!
+........................
+0 Preface preface VERB Vmip3 ROOT
+1 te te PRON Pp2-sa--------w obj
+2 ai ai AUX Va--2s parataxis
+3 cândva cândva ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Preface-te-ai cândva!']
+-------------------------------------------
+<255> . . . . . . . . . . . . . . . . . . .
+[5 items] Pune ți lu jos!
+........................
+0 Pune pune VERB Vmip3s ROOT
+1 ți ți PRON Pp2-sd--y-----w obj
+2 lu lu PRON Pp3fsa--------m obj
+3 jos jos ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Pune-ți-l jos!']
+-------------------------------------------
+<256> . . . . . . . . . . . . . . . . . . .
+[4 items] Puneți lu jos!
+........................
+0 Puneți puneți VERB Vmip2p ROOT
+1 lu lu PRON Pp3fsa--------m obj
+2 jos jos ADV Rgp advmod
+3 ! ! PUNCT EXCL punct
+........................
+['Puneți-l jos!']
+-------------------------------------------
+<257> . . . . . . . . . . . . . . . . . . .
+[6 items] Roua dimineții mi îmbată inima.
+........................
+0 Roua roua NOUN Ncfsry nsubj
+1 dimineții dimineții NOUN Ncfsoy nmod
+2 mi mi PRON Pp1-sd--------w nummod
+3 îmbată îmbată VERB Vmis3s ROOT
+4 inima inima NOUN Ncfsry obj
+5 . . PUNCT PERIOD punct
+........................
+['Roua dimineții îmi îmbată inima.', 'Roua dimineții-mi îmbată inima.', 'Roua dimineții mi-mbată inima.']
+-------------------------------------------
+<258> . . . . . . . . . . . . . . . . . . .
+[5 items] Roua mi îmbată inima.
+........................
+0 Roua roua NOUN Ncfsry nsubj
+1 mi mi PRON Pp1-sd--------w expl:poss
+2 îmbată îmbată VERB Vmis3s ROOT
+3 inima inima NOUN Ncfsry obj
+4 . . PUNCT PERIOD punct
+........................
+['Roua îmi îmbată inima.', 'Roua-mi îmbată inima.', 'Roua mi-mbată inima.']
+-------------------------------------------
+<259> . . . . . . . . . . . . . . . . . . .
+[5 items] Se au făcut mari.
+........................
+0 Se se PRON Px3--a--------w expl:pass
+1 au au AUX Va--3p aux
+2 făcut făcut VERB Vmp--sm ROOT
+3 mari mari ADJ Afp-p-n xcomp
+4 . . PUNCT PERIOD punct
+........................
+['S-au făcut mari.']
+-------------------------------------------
+<260> . . . . . . . . . . . . . . . . . . .
+[5 items] Se au văzut acolo.
+........................
+0 Se se PRON Px3--a--------w expl:pv
+1 au au AUX Va--3p aux
+2 văzut văzut VERB Vmp--sm ROOT
+3 acolo acolo ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['S-au văzut acolo.']
+-------------------------------------------
+<261> . . . . . . . . . . . . . . . . . . .
+[4 items] Se fac mari.
+........................
+0 Se se PRON Px3--a--------w expl:pass
+1 fac fac VERB Vmip3p ROOT
+2 mari mari ADJ Afp-p-n xcomp
+3 . . PUNCT PERIOD punct
+........................
+['Se fac mari.']
+-------------------------------------------
+<262> . . . . . . . . . . . . . . . . . . .
+[4 items] Se văd acolo.
+........................
+0 Se se PRON Px3--a--------w expl:pass
+1 văd văd VERB Vmip3p ROOT
+2 acolo acolo ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Se văd acolo.']
+-------------------------------------------
+<263> . . . . . . . . . . . . . . . . . . .
+[5 items] Spune i o repede!
+........................
+0 Spune spune VERB Vmip3s ROOT
+1 i i PRON Pp3-sd--y-----w iobj
+2 o o PRON Pp3fsa--------w obj
+3 repede repede ADV Rgp ccomp
+4 ! ! PUNCT EXCL punct
+........................
+['Spune-i-o repede!']
+-------------------------------------------
+<264> . . . . . . . . . . . . . . . . . . .
+[5 items] Spune mi o repede!
+........................
+0 Spune spune VERB Vmip3s ROOT
+1 mi mi PRON Pp1-sd--y-----w iobj
+2 o o PRON Pp3fsa--------w obj
+3 repede repede ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Spune-mi-o repede!']
+-------------------------------------------
+<265> . . . . . . . . . . . . . . . . . . .
+[5 items] Spune ni o repede!
+........................
+0 Spune spune VERB Vmip3s ROOT
+1 ni ni PRON Pi3-po iobj
+2 o o PRON Pp3fsa--------w obj
+3 repede repede ADV Rgp advmod
+4 ! ! PUNCT EXCL punct
+........................
+['Spune-ne-o repede!']
+-------------------------------------------
+<266> . . . . . . . . . . . . . . . . . . .
+[4 items] Spune o repede!
+........................
+0 Spune spune VERB Vmip3s ROOT
+1 o o PRON Pp3fsa--------w obj
+2 repede repede ADV Rgp advmod
+3 ! ! PUNCT EXCL punct
+........................
+['Spune-o repede!']
+-------------------------------------------
+<267> . . . . . . . . . . . . . . . . . . .
+[8 items] Să înțeleg că nu lu ai plăcut.
+........................
+0 Să să PART Qs mark
+1 înțeleg înțeleg VERB Vmip1s ROOT
+2 că că SCONJ Csssp mark
+3 nu nu PART Qz advmod
+4 lu lu PRON Pp3fsa--------m obj
+5 ai ai AUX Va--2s aux
+6 plăcut plăcut VERB Vmp--sm ccomp
+7 . . PUNCT PERIOD punct
+........................
+['Să înțeleg că nu l-ai plăcut.', 'Să-nțeleg că nu l-ai plăcut.']
+-------------------------------------------
+<268> . . . . . . . . . . . . . . . . . . .
+[7 items] Să înțeleg că nu lu placi.
+........................
+0 Să să PART Qs mark
+1 înțeleg înțeleg VERB Vmip1s ROOT
+2 că că SCONJ Csssp mark
+3 nu nu PART Qz advmod
+4 lu lu PRON Pp3fsa--------m obj
+5 placi placi VERB Vmip2s ccomp
+6 . . PUNCT PERIOD punct
+........................
+['Să înțeleg că nu îl placi.', 'Să înțeleg că nu-l placi.', 'Să-nțeleg că nu îl placi.', 'Să-nțeleg că nu-l placi.']
+-------------------------------------------
+<269> . . . . . . . . . . . . . . . . . . .
+[4 items] Te duci acolo.
+........................
+0 Te te PRON Pp2-sa--------w obj
+1 duci duci VERB Vmip2s ROOT
+2 acolo acolo ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Te duci acolo.']
+-------------------------------------------
+<270> . . . . . . . . . . . . . . . . . . .
+[4 items] Te prefaci cândva.
+........................
+0 Te te PRON Pp2-sa--------w obj
+1 prefaci prefaci VERB Vmip2s ROOT
+2 cândva cândva ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Te prefaci cândva.']
+-------------------------------------------
+<271> . . . . . . . . . . . . . . . . . . .
+[7 items] Te rog să nu te îmbeți.
+........................
+0 Te te PRON Pp2-sa--------w iobj
+1 rog rog VERB Vmip1s ROOT
+2 să să PART Qs mark
+3 nu nu PART Qz advmod
+4 te te PRON Pp2-sa--------w expl:pv
+5 îmbeți îmbeți VERB Vmip2p ccomp
+6 . . PUNCT PERIOD punct
+........................
+['Te rog să nu te îmbeți.', 'Te rog să nu te-mbeți.']
+-------------------------------------------
+<272> . . . . . . . . . . . . . . . . . . .
+[5 items] Te vei preface cândva.
+........................
+0 Te te PRON Pp2-sa--------w obj
+1 vei vei AUX Va--2s aux
+2 preface preface VERB Vmnp ROOT
+3 cândva cândva ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Te vei preface cândva.']
+-------------------------------------------
+<273> . . . . . . . . . . . . . . . . . . .
+[4 items] Te văd acolo.
+........................
+0 Te te PRON Pp2-sa--------w obj
+1 văd văd VERB Vmip1s ROOT
+2 acolo acolo ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Te văd acolo.']
+-------------------------------------------
+<274> . . . . . . . . . . . . . . . . . . .
+[5 items] Te ai preface cândva.
+........................
+0 Te te PRON Pp2-sa--------w obj
+1 ai ai AUX Va--2s aux
+2 preface preface VERB Vmnp ROOT
+3 cândva cândva ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Te-ai preface cândva.']
+-------------------------------------------
+<275> . . . . . . . . . . . . . . . . . . .
+[5 items] Te au văzut acolo.
+........................
+0 Te te PRON Pp2-sa--------w obj
+1 au au AUX Va--3p aux
+2 văzut văzut VERB Vmp--sm ROOT
+3 acolo acolo ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Te-au văzut acolo.']
+-------------------------------------------
+<276> . . . . . . . . . . . . . . . . . . .
+[5 items] Te aș vedea sănătos.
+........................
+0 Te te PRON Pp2-sa--------w obj
+1 aș aș AUX Va--1s aux
+2 vedea vedea VERB Vmnp ROOT
+3 sănătos sănătos ADV Rgp xcomp
+4 . . PUNCT PERIOD punct
+........................
+['Te-aș vedea sănătos.']
+-------------------------------------------
+<277> . . . . . . . . . . . . . . . . . . .
+[5 items] Te oi preface cândva.
+........................
+0 Te te PRON Pp2-sa--------w obj
+1 oi oi AUX Va--2s aux
+2 preface preface VERB Vmnp ROOT
+3 cândva cândva ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Te-oi preface cândva.']
+-------------------------------------------
+<278> . . . . . . . . . . . . . . . . . . .
+[6 items] Trimite mi o prin poștă.
+........................
+0 Trimite trimite VERB Vmip3s ROOT
+1 mi mi PRON Pp1-sd--y-----w iobj
+2 o o PRON Pp3fsa--------w obj
+3 prin prin ADP Spsa case
+4 poștă poștă NOUN Ncfsrn obl
+5 . . PUNCT PERIOD punct
+........................
+['Trimite-mi-o prin poștă.']
+-------------------------------------------
+<279> . . . . . . . . . . . . . . . . . . .
+[13 items] Uită o pe Maria, ea nu o să vină cu noi!
+........................
+0 Uită uită VERB Vmm-2s ROOT
+1 o o PRON Pp3fsa--------w obj
+2 pe pe ADP Spsa case
+3 Maria maria PROPN Np obl
+4 , , PUNCT COMMA punct
+5 ea ea PRON Pp3fsr--------s nsubj
+6 nu nu PART Qz advmod
+7 o o AUX Va--3s aux
+8 să să PART Qs mark
+9 vină vină VERB Vmsp3 conj
+10 cu cu ADP Spsa case
+11 noi noi PRON Pp1-pr--------s obl:pmod
+12 ! ! PUNCT EXCL punct
+........................
+['Uit-o pe Maria, ea nu o să vină cu noi!', 'Uit-o pe Maria, ea n-o să vină cu noi!']
+-------------------------------------------
+<280> . . . . . . . . . . . . . . . . . . .
+[6 items] Uite o pe Maria acolo!
+........................
+0 Uite uite INTJ Vmm-2s ROOT
+1 o o PRON Pp3fsa--------w obj
+2 pe pe ADP Spsa case
+3 Maria maria PROPN Np obj
+4 acolo acolo ADV Rgp advmod
+5 ! ! PUNCT EXCL punct
+........................
+['Uite-o pe Maria acolo!']
+-------------------------------------------
+<281> . . . . . . . . . . . . . . . . . . .
+[11 items] Un zâmbet timid i flutură pe buze și deveni serioasă.
+........................
+0 Un un DET Timsr det
+1 zâmbet zâmbet NOUN Ncms-n nsubj
+2 timid timid ADJ Afpms-n amod
+3 i i PRON Pp3-sd--------w expl
+4 flutură flutură VERB Vmis3s ROOT
+5 pe pe ADP Spsa case
+6 buze buze NOUN Ncfp-n obl
+7 și și CCONJ Crssp cc
+8 deveni deveni VERB Vmis3s conj
+9 serioasă serioasă ADJ Afpfsrn xcomp
+10 . . PUNCT PERIOD punct
+........................
+['Un zâmbet timid îi flutură pe buze și deveni serioasă.']
+-------------------------------------------
+<282> . . . . . . . . . . . . . . . . . . .
+[5 items] Unde mi tot pleci?
+........................
+0 Unde unde ADV Rw advmod
+1 mi mi PRON Pp1-sd--------w iobj
+2 tot tot ADV Rgp advmod
+3 pleci pleci VERB Vmip2s ROOT
+4 ? ? PUNCT QUEST punct
+........................
+['Unde îmi tot pleci?', 'Unde-mi tot pleci?']
+-------------------------------------------
+<283> . . . . . . . . . . . . . . . . . . .
+[6 items] Vi am dat mere gratis.
+........................
+0 Vi vi PRON Pp2-pd--------w iobj
+1 am am AUX Va--1 aux
+2 dat dat VERB Vmp--sm ROOT
+3 mere mere NOUN Ncfp-n obj
+4 gratis gratis ADJ Afpms-n amod
+5 . . PUNCT PERIOD punct
+........................
+['V-am dat mere gratis.']
+-------------------------------------------
+<284> . . . . . . . . . . . . . . . . . . .
+[5 items] Vă au văzut acolo.
+........................
+0 Vă vă PRON Pp2-pd--------w iobj
+1 au au AUX Va--3p aux
+2 văzut văzut VERB Vmp--sm ROOT
+3 acolo acolo ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['V-au văzut acolo.']
+-------------------------------------------
+<285> . . . . . . . . . . . . . . . . . . .
+[5 items] Vi o dau gratis.
+........................
+0 Vi vi PRON Pp2-pd--------w iobj
+1 o o PRON Pp3fsa--------w obj
+2 dau dau VERB Vmip3p ROOT
+3 gratis gratis ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['V-o dau gratis.']
+-------------------------------------------
+<286> . . . . . . . . . . . . . . . . . . .
+[5 items] Vedea o aș moartă!
+........................
+0 Vedea vedea VERB Vmii3s ROOT
+1 o o PRON Pp3fsa--------w obj
+2 aș aș AUX Va--1s aux
+3 moartă moartă ADJ Afpfsrn ccomp
+4 ! ! PUNCT EXCL punct
+........................
+['Vedea-o-aș moartă!']
+-------------------------------------------
+<287> . . . . . . . . . . . . . . . . . . .
+[5 items] Vedea te aș sănătos!
+........................
+0 Vedea vedea VERB Vmii3s ROOT
+1 te te PRON Pp2-sa--------w expl:pv
+2 aș aș AUX Va--1s aux
+3 sănătos sănătos ADJ Vmnp ccomp
+4 ! ! PUNCT EXCL punct
+........................
+['Vedea-te-aș sănătos!']
+-------------------------------------------
+<288> . . . . . . . . . . . . . . . . . . .
+[9 items] Vi ți lu bat de nu se vede.
+........................
+0 Vi vi PRON Pp2-pd--------w parataxis
+1 ți ți PRON Pp2-sd--------w nummod
+2 lu lu PRON Pp3fsa--------m obj
+3 bat bat VERB Vmip3p ROOT
+4 de de ADP Spsa mark
+5 nu nu PART Qz advmod
+6 se se PRON Px3--a--------w expl:pv
+7 vede vede VERB Vmip3s advcl
+8 . . PUNCT PERIOD punct
+........................
+['Vi ți-l bat de nu se vede.']
+-------------------------------------------
+<289> . . . . . . . . . . . . . . . . . . .
+[7 items] Vi ți lu bat pe copil.
+........................
+0 Vi vi PRON Pp2-pd--------w expl:poss
+1 ți ți PRON Pp2-sd--------w nummod
+2 lu lu PRON Pp3fsa--------m obj
+3 bat bat VERB Vmip3p ROOT
+4 pe pe ADP Spsa case
+5 copil copil NOUN Ncms-n obl
+6 . . PUNCT PERIOD punct
+........................
+['Vi ți-l bat pe copil.']
+-------------------------------------------
+<290> . . . . . . . . . . . . . . . . . . .
+[5 items] Vi i dă gratis.
+........................
+0 Vi vi PRON Pp2-pd--------w iobj
+1 i i PRON Pp3-sd--------w expl
+2 dă dă VERB Vmip3s ROOT
+3 gratis gratis ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Vi-i dă gratis.']
+-------------------------------------------
+<291> . . . . . . . . . . . . . . . . . . .
+[8 items] Vi lu bat de nu se vede.
+........................
+0 Vi vi PRON Pp2-pd--------w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 bat bat VERB Vmip3p ROOT
+3 de de ADP Spsa mark
+4 nu nu PART Qz advmod
+5 se se PRON Px3--a--------w expl:pv
+6 vede vede VERB Vmip3s advcl
+7 . . PUNCT PERIOD punct
+........................
+['Vi-l bat de nu se vede.']
+-------------------------------------------
+<292> . . . . . . . . . . . . . . . . . . .
+[5 items] Vi lu dă gratis.
+........................
+0 Vi vi PRON Pp2-pd--------w nummod
+1 lu lu PRON Pp3fsa--------m obj
+2 dă dă VERB Vmip3s ROOT
+3 gratis gratis ADV Rgp fixed
+4 . . PUNCT PERIOD punct
+........................
+['Vi-l dă gratis.']
+-------------------------------------------
+<293> . . . . . . . . . . . . . . . . . . .
+[6 items] Vrea să vi dea mere.
+........................
+0 Vrea vrea AUX Vmii3s ROOT
+1 să să PART Qs mark
+2 vi vi PRON Pp2-pd--------w iobj
+3 dea dea VERB Vmsp3 ccomp
+4 mere mere NOUN Ncfp-n obj
+5 . . PUNCT PERIOD punct
+........................
+['Vrea să vă dea mere.']
+-------------------------------------------
+<294> . . . . . . . . . . . . . . . . . . .
+[6 items] Vreau să le dați afară.
+........................
+0 Vreau vreau AUX Vmip1s ROOT
+1 să să PART Qs mark
+2 le le PRON Pp3fpa--------w obj
+3 dați dați VERB Vmip2p ccomp
+4 afară afară ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Vreau să le dați afară.']
+-------------------------------------------
+<295> . . . . . . . . . . . . . . . . . . .
+[6 items] Vreau să mi le dai.
+........................
+0 Vreau vreau AUX Vmip1s ROOT
+1 să să PART Qs mark
+2 mi mi PRON Pp1-sd--y-----w iobj
+3 le le PRON Pp3fpa--------w obj
+4 dai dai VERB Vmip2s ccomp
+5 . . PUNCT PERIOD punct
+........................
+['Vreau să mi le dai.']
+-------------------------------------------
+<296> . . . . . . . . . . . . . . . . . . .
+[7 items] Vreau să mi le faci acum.
+........................
+0 Vreau vreau AUX Vmip1s ROOT
+1 să să PART Qs mark
+2 mi mi PRON Pp1-sd--y-----w iobj
+3 le le PRON Pp3fpa--------w obj
+4 faci faci VERB Vmip2s ccomp
+5 acum acum ADV Rgp advmod
+6 . . PUNCT PERIOD punct
+........................
+['Vreau să mi le faci acum.']
+-------------------------------------------
+<297> . . . . . . . . . . . . . . . . . . .
+[7 items] Vreau să mi o dați afară.
+........................
+0 Vreau vreau AUX Vmip1s ROOT
+1 să să PART Qs mark
+2 mi mi PRON Pp1-sd--y-----w iobj
+3 o o PRON Pp3fsa--------w obj
+4 dați dați VERB Vmip2p ccomp
+5 afară afară ADV Rgp advmod
+6 . . PUNCT PERIOD punct
+........................
+['Vreau să mi-o dați afară.']
+-------------------------------------------
+<298> . . . . . . . . . . . . . . . . . . .
+[6 items] Vreau să o cumperi repede.
+........................
+0 Vreau vreau AUX Vmip1s ROOT
+1 să să PART Qs mark
+2 o o PRON Pp3fsa--------w obj
+3 cumperi cumperi VERB Vmip2s ccomp
+4 repede repede ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Vreau să o cumperi repede.', 'Vreau s-o cumperi repede.']
+-------------------------------------------
+<299> . . . . . . . . . . . . . . . . . . .
+[6 items] Vreau să o dați afară.
+........................
+0 Vreau vreau AUX Vmip1s ROOT
+1 să să PART Qs mark
+2 o o PRON Pp3fsa--------w obj
+3 dați dați VERB Vmip2p ccomp
+4 afară afară ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Vreau să o dați afară.', 'Vreau s-o dați afară.']
+-------------------------------------------
+<300> . . . . . . . . . . . . . . . . . . .
+[5 items] Vreau să o încep.
+........................
+0 Vreau vreau AUX Vmip1s ROOT
+1 să să PART Qs mark
+2 o o PRON Pp3fsa--------w obj
+3 încep încep VERB Vmip1s ccomp
+4 . . PUNCT PERIOD punct
+........................
+['Vreau să o încep.', 'Vreau să o-ncep.', 'Vreau s-o încep.', 'Vreau s-o-ncep.']
+-------------------------------------------
+<301> . . . . . . . . . . . . . . . . . . .
+[5 items] Vreau să te ascunzi.
+........................
+0 Vreau vreau AUX Vmip1s ROOT
+1 să să PART Qs mark
+2 te te PRON Pp2-sa--------w obj
+3 ascunzi ascunzi VERB Vmip2s ccomp
+4 . . PUNCT PERIOD punct
+........................
+['Vreau să te ascunzi.', 'Vreau să te-ascunzi.']
+-------------------------------------------
+<302> . . . . . . . . . . . . . . . . . . .
+[6 items] Vreau să te duci acolo.
+........................
+0 Vreau vreau AUX Vmip1s ROOT
+1 să să PART Qs mark
+2 te te PRON Pp2-sa--------w obj
+3 duci duci VERB Vmip2s ccomp
+4 acolo acolo ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Vreau să te duci acolo.']
+-------------------------------------------
+<303> . . . . . . . . . . . . . . . . . . .
+[6 items] Vreau să lu cumperi repede.
+........................
+0 Vreau vreau AUX Vmip1s ROOT
+1 să să PART Qs mark
+2 lu lu PRON Pp3fsa--------m obj
+3 cumperi cumperi VERB Vmip2s ccomp
+4 repede repede ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Vreau să îl cumperi repede.', 'Vreau să-l cumperi repede.']
+-------------------------------------------
+<304> . . . . . . . . . . . . . . . . . . .
+[6 items] Vreau să mi aduci mere.
+........................
+0 Vreau vreau AUX Vmip1s ROOT
+1 să să PART Qs mark
+2 mi mi PRON Pp1-sd--y-----w iobj
+gogo False
+3 aduci aduci VERB Vmip2s ccomp
+4 mere mere NOUN Ncfp-n obj
+5 . . PUNCT PERIOD punct
+........................
+['Vreau să îmi aduci mere.', 'Vreau să mi-aduci mere.', 'Vreau să-mi aduci mere.']
+-------------------------------------------
+<305> . . . . . . . . . . . . . . . . . . .
+[6 items] Vreau să mi dai mere.
+........................
+0 Vreau vreau AUX Vmip1s ROOT
+1 să să PART Qs mark
+2 mi mi PRON Pp1-sd--y-----w iobj
+3 dai dai VERB Vmip2s ccomp
+4 mere mere NOUN Ncfp-n obj
+5 . . PUNCT PERIOD punct
+........................
+['Vreau să îmi dai mere.', 'Vreau să-mi dai mere.']
+-------------------------------------------
+<306> . . . . . . . . . . . . . . . . . . .
+[7 items] Vreau să ți cumperi cartea repede.
+........................
+0 Vreau vreau AUX Vmip1s ROOT
+1 să să PART Qs mark
+2 ți ți PRON Pp2-sd--------w expl:poss
+3 cumperi cumperi VERB Vmip2s ccomp
+4 cartea cartea NOUN Ncfsry obj
+5 repede repede ADV Rgp advmod
+6 . . PUNCT PERIOD punct
+........................
+['Vreau să îți cumperi cartea repede.', 'Vreau să-ți cumperi cartea repede.']
+-------------------------------------------
+<307> . . . . . . . . . . . . . . . . . . .
+[7 items] Vreau să ți lu cumperi repede.
+........................
+0 Vreau vreau AUX Vmip1s ROOT
+1 să să PART Qs mark
+2 ți ți PRON Pp2-sd--------w iobj
+3 lu lu PRON Pp3fsa--------m obj
+4 cumperi cumperi VERB Vmip2s ccomp
+5 repede repede ADV Rgp advmod
+6 . . PUNCT PERIOD punct
+........................
+['Vreau să ți-l cumperi repede.']
+-------------------------------------------
+<308> . . . . . . . . . . . . . . . . . . .
+[7 items] Vreau să ți o cumperi repede.
+........................
+0 Vreau vreau AUX Vmip1s ROOT
+1 să să PART Qs mark
+2 ți ți PRON Pp2-sd--------w iobj
+3 o o PRON Pp3fsa--------w obj
+4 cumperi cumperi VERB Vmip2s ccomp
+5 repede repede ADV Rgp advmod
+6 . . PUNCT PERIOD punct
+........................
+['Vreau să ți-o cumperi repede.']
+-------------------------------------------
+<309> . . . . . . . . . . . . . . . . . . .
+[4 items] Vi dau mere.
+........................
+0 Vi vi PRON Pp2-pd--------w iobj
+1 dau dau VERB Vmip3p ROOT
+2 mere mere NOUN Ncfp-n obj
+3 . . PUNCT PERIOD punct
+........................
+['Vă dau mere.']
+-------------------------------------------
+<310> . . . . . . . . . . . . . . . . . . .
+[5 items] Vi dă mere gratis.
+........................
+0 Vi vi PRON Pp2-pd--------w iobj
+1 dă dă VERB Vmip3s ROOT
+2 mere mere NOUN Ncfp-n obj
+3 gratis gratis ADV Rgp amod
+4 . . PUNCT PERIOD punct
+........................
+['Vă dă mere gratis.']
+-------------------------------------------
+<311> . . . . . . . . . . . . . . . . . . .
+[4 items] Vă văd acolo.
+........................
+0 Vă vă PRON Pp2-pd--------w iobj
+1 văd văd VERB Vmip1s ROOT
+2 acolo acolo ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Vă văd acolo.']
+-------------------------------------------
+<312> . . . . . . . . . . . . . . . . . . .
+[4 items] I acasă acum.
+........................
+0 I i AUX Vaip3s cop
+gogo False
+1 acasă acasă ADV Rgp ROOT
+2 acum acum ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Îi acasă acum.', 'I-acasă acum.']
+-------------------------------------------
+<313> . . . . . . . . . . . . . . . . . . .
+[4 items] I aduce mere.
+........................
+0 I i PRON Pp3-sd--------w iobj
+gogo False
+1 aduce aduce VERB Vmip3s ROOT
+2 mere mere NOUN Ncfp-n obj
+3 . . PUNCT PERIOD punct
+........................
+['Îi aduce mere.', 'I-aduce mere.']
+-------------------------------------------
+<314> . . . . . . . . . . . . . . . . . . .
+[4 items] I arăt casa.
+........................
+0 I i PRON Pp3-sd--------w iobj
+gogo False
+1 arăt arăt VERB Vmip1s ROOT
+2 casa casa NOUN Ncfsry obj
+3 . . PUNCT PERIOD punct
+........................
+['Îi arăt casa.', 'I-arăt casa.']
+-------------------------------------------
+<315> . . . . . . . . . . . . . . . . . . .
+[5 items] I dau mere gratis.
+........................
+0 I i PRON Pp3-sd--------w iobj
+1 dau dau VERB Vmip3p ROOT
+2 mere mere NOUN Ncfp-n obj
+3 gratis gratis ADV Rgp amod
+4 . . PUNCT PERIOD punct
+........................
+['Îi dau mere gratis.']
+-------------------------------------------
+<316> . . . . . . . . . . . . . . . . . . .
+[4 items] I este dragă.
+........................
+0 I i PRON Pp3-sd--------w iobj
+1 este este AUX Vaip3s cop
+2 dragă dragă ADJ Afpfsrn ROOT
+3 . . PUNCT PERIOD punct
+........................
+['Îi este dragă.']
+-------------------------------------------
+<317> . . . . . . . . . . . . . . . . . . .
+[5 items] Lu am în buzunar.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 am am VERB Va--1 ROOT
+2 în în ADP Spsa case
+3 buzunar buzunar NOUN Ncms-n obl
+4 . . PUNCT PERIOD punct
+........................
+['Îl am în buzunar.']
+-------------------------------------------
+<318> . . . . . . . . . . . . . . . . . . .
+[4 items] Lu arunc repede.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+gogo False
+1 arunc arunc VERB Vmip3p ROOT
+2 repede repede ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Îl arunc repede.', 'L-arunc repede.']
+-------------------------------------------
+<319> . . . . . . . . . . . . . . . . . . .
+[4 items] Lu cumperi repede.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 cumperi cumperi VERB Vmip2s ROOT
+2 repede repede ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Îl cumperi repede.']
+-------------------------------------------
+<320> . . . . . . . . . . . . . . . . . . .
+[8 items] Lu cumpăr acum și lu mănânc mâine.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 cumpăr cumpăr VERB Vmip1s ROOT
+2 acum acum ADV Rgp advmod
+3 și și CCONJ Crssp fixed
+4 lu lu PRON Pp3fsa--------m obj
+5 mănânc mănânc VERB Vmip1s conj
+6 mâine mâine ADV Rgp advmod
+7 . . PUNCT PERIOD punct
+........................
+['Îl cumpăr acum și îl mănânc mâine.', 'Îl cumpăr acum și-l mănânc mâine.']
+-------------------------------------------
+<321> . . . . . . . . . . . . . . . . . . .
+[4 items] Lu dă gratis.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 dă dă VERB Vmip3s ROOT
+2 gratis gratis ADV Rgp fixed
+3 . . PUNCT PERIOD punct
+........................
+['Îl dă gratis.']
+-------------------------------------------
+<322> . . . . . . . . . . . . . . . . . . .
+[5 items] Lu iubește foarte mult.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 iubește iubește VERB Vmip3s ROOT
+2 foarte foarte ADV Rp advmod
+3 mult mult ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Îl iubește foarte mult.']
+-------------------------------------------
+<323> . . . . . . . . . . . . . . . . . . .
+[4 items] Lu mănânc repede.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 mănânc mănânc VERB Vmip1s ROOT
+2 repede repede ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Îl mănânc repede.']
+-------------------------------------------
+<324> . . . . . . . . . . . . . . . . . . .
+[4 items] Lu pot vedea.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 pot pot AUX Vmip3p ROOT
+2 vedea vedea VERB Vmnp ccomp
+3 . . PUNCT PERIOD punct
+........................
+['Îl pot vedea.']
+-------------------------------------------
+<325> . . . . . . . . . . . . . . . . . . .
+[4 items] Lu văd acolo.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 văd văd VERB Vmip3p ROOT
+2 acolo acolo ADV Rgp advmod
+3 . . PUNCT PERIOD punct
+........................
+['Îl văd acolo.']
+-------------------------------------------
+<326> . . . . . . . . . . . . . . . . . . .
+[5 items] Lu împușcă în inimă.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 împușcă împușcă VERB Vmis3s ROOT
+2 în în ADP Spsa case
+3 inimă inimă NOUN Ncfsrn obl
+4 . . PUNCT PERIOD punct
+........................
+['Îl împușcă în inimă.', 'Îl împușcă-n inimă.', 'L-împușcă în inimă.', 'L-împușcă-n inimă.']
+-------------------------------------------
+<327> . . . . . . . . . . . . . . . . . . .
+[4 items] Mi aduci mere.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+gogo False
+1 aduci aduci VERB Vmip2s ROOT
+2 mere mere NOUN Ncfp-n obj
+3 . . PUNCT PERIOD punct
+........................
+['Îmi aduci mere.', 'Mi-aduci mere.']
+-------------------------------------------
+<328> . . . . . . . . . . . . . . . . . . .
+[4 items] Mi dai mere.
+........................
+0 Mi mi PRON Pp1-sd--------w iobj
+1 dai dai VERB Vmip2s ROOT
+2 mere mere NOUN Ncfp-n obj
+3 . . PUNCT PERIOD punct
+........................
+['Îmi dai mere.']
+-------------------------------------------
+<329> . . . . . . . . . . . . . . . . . . .
+[5 items] Împușcă o în inimă!
+........................
+0 Împușcă împușcă VERB Vmis3s ROOT
+1 o o PRON Pp3fsa--------w obj
+2 în în ADP Spsa case
+3 inimă inimă NOUN Ncfsrn obj
+4 ! ! PUNCT EXCL punct
+........................
+['Împușc-o în inimă!', 'Împușc-o-n inimă!']
+-------------------------------------------
+<330> . . . . . . . . . . . . . . . . . . .
+[5 items] Împușcă lu în inimă.
+........................
+0 Împușcă împușcă VERB Vmis3s ROOT
+1 lu lu PRON Pp3fsa--------m obj
+2 în în ADP Spsa case
+3 inimă inimă NOUN Ncfsrn obl
+4 . . PUNCT PERIOD punct
+........................
+['Împușcă-l în inimă.']
+-------------------------------------------
+<331> . . . . . . . . . . . . . . . . . . .
+[7 items] Înțepeni i se ar toate oasele!
+........................
+0 Înțepeni înțepeni VERB Vmip3s ROOT
+1 i i PRON Pp3-sd--------w expl
+2 se se PRON Px3--a--------w expl:pv
+3 ar ar AUX Va--3 ROOT
+4 toate toate DET Di3fpr det
+5 oasele oasele NOUN Ncfpry nsubj
+6 ! ! PUNCT EXCL punct
+........................
+['Înțepeni-i-s-ar toate oasele!']
+-------------------------------------------
+<332> . . . . . . . . . . . . . . . . . . .
+[4 items] Su pe munte.
+........................
+0 Su su AUX Vaip1s cop
+1 pe pe ADP Spsa case
+2 munte munte NOUN Ncms-n nmod
+3 . . PUNCT PERIOD punct
+........................
+['Îs pe munte.']
+-------------------------------------------
+<333> . . . . . . . . . . . . . . . . . . .
+[5 items] Lu au văzut acolo.
+........................
+0 Lu lu PRON Pp3fsa--------m obj
+1 au au AUX Va--3p aux
+2 văzut văzut VERB Vmp--sm ROOT
+3 acolo acolo ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['L-au văzut acolo.']
+-------------------------------------------
+<334> . . . . . . . . . . . . . . . . . . .
+[5 items] Ți cumperi cartea repede.
+........................
+0 Ți ți PRON Pp2-sd--------w expl:poss
+1 cumperi cumperi VERB Vmip2s ROOT
+2 cartea cartea NOUN Ncfsry obj
+3 repede repede ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Îți cumperi cartea repede.']
+-------------------------------------------
+<335> . . . . . . . . . . . . . . . . . . .
+[4 items] Ți dau mere.
+........................
+0 Ți ți PRON Pp2-sd--------w expl:poss
+1 dau dau VERB Vmip3p ROOT
+2 mere mere NOUN Ncfp-n obj
+3 . . PUNCT PERIOD punct
+........................
+['Îți dau mere.']
+-------------------------------------------
+<336> . . . . . . . . . . . . . . . . . . .
+[5 items] Ți dorim mult succes!
+........................
+0 Ți ți PRON Pp2-sd--------w iobj
+1 dorim dorim VERB Vmip1p ROOT
+2 mult mult DET Di3msr det
+3 succes succes NOUN Ncms-n obj
+4 ! ! PUNCT EXCL punct
+........................
+['Îți dorim mult succes!']
+-------------------------------------------
+<337> . . . . . . . . . . . . . . . . . . .
+[8 items] Și le cumpără și și le revinde.
+........................
+0 Și și PRON Px3--d--------w iobj
+1 le le PRON Pp3fpa--------w obj
+2 cumpără cumpără VERB Vmis3s ROOT
+3 și și CCONJ Crssp cc
+4 și și PRON Px3--d--------w iojb
+5 le le PRON Pp3fpa--------w obj
+6 revinde revinde VERB Vmip3s conj
+7 . . PUNCT PERIOD punct
+........................
+['Și le cumpără și și le revinde.']
+-------------------------------------------
+<338> . . . . . . . . . . . . . . . . . . .
+[8 items] Și repede mi ți le a înfulecat.
+........................
+0 Și și CCONJ Crssp cc
+1 repede repede ADV Rgp advmod
+2 mi mi PRON Pp1-sd--------w iobj
+3 ți ți PRON Pp2-sd--------w iobj
+4 le le PRON Pp3fpa--------w obj
+5 a a AUX Va--3s aux
+6 înfulecat înfulecat VERB Vmp--sm ROOT
+7 . . PUNCT PERIOD punct
+........................
+['Și repede mi ți le-a înfulecat.', 'Și repede mi ți le-a-nfulecat.']
+-------------------------------------------
+<339> . . . . . . . . . . . . . . . . . . .
+[6 items] Știu că i le dai.
+........................
+0 Știu știu VERB Vmip1s ROOT
+1 că că SCONJ Csssp mark
+2 i i PRON Pp3-sd--------w iobj
+3 le le PRON Pp3fpa--------w expl
+4 dai dai VERB Vmip2s ccomp
+5 . . PUNCT PERIOD punct
+........................
+['Știu că i le dai.']
+-------------------------------------------
+<340> . . . . . . . . . . . . . . . . . . .
+[7 items] Știu că lu au prins repede.
+........................
+0 Știu știu VERB Vmip1s ROOT
+1 că că SCONJ Csssp mark
+2 lu lu PRON Pp3fsa--------m obj
+3 au au AUX Va--3p aux
+4 prins prins VERB Vmp--sm ccomp
+5 repede repede ADV Rgp advmod
+6 . . PUNCT PERIOD punct
+........................
+['Știu că l-au prins repede.']
+-------------------------------------------
+<341> . . . . . . . . . . . . . . . . . . .
+[6 items] Știu că i dai mere.
+........................
+0 Știu știu VERB Vmip1s ROOT
+1 că că SCONJ Csssp mark
+2 i i PRON Pp3-sd--------w iobj
+3 dai dai VERB Vmip2s ccomp
+4 mere mere NOUN Ncfp-n obj
+5 . . PUNCT PERIOD punct
+........................
+['Știu că îi dai mere.', 'Știu că-i dai mere.']
+-------------------------------------------
+<342> . . . . . . . . . . . . . . . . . . .
+[8 items] Știu că ți lu ai cumpărat repede.
+........................
+0 Știu știu VERB Vmip1s ROOT
+1 că că SCONJ Csssp mark
+2 ți ți PRON Pp2-sd--y-----w iobj
+3 lu lu PRON Pp3fsa--------m obj
+4 ai ai AUX Va--2s aux
+5 cumpărat cumpărat VERB Vmp--sm ccomp
+6 repede repede ADV Rgp advmod
+7 . . PUNCT PERIOD punct
+........................
+['Știu că ți l-ai cumpărat repede.']
+-------------------------------------------
+<343> . . . . . . . . . . . . . . . . . . .
+[8 items] Știu că ți ai cumpărat cartea repede.
+........................
+0 Știu știu VERB Vmip1s ROOT
+1 că că SCONJ Csssp mark
+2 ți ți PRON Pp2-sd--y-----w expl:poss
+3 ai ai AUX Va--2s aux
+4 cumpărat cumpărat VERB Vmp--sm ccomp
+5 cartea cartea NOUN Ncfsry obj
+6 repede repede ADV Rgp advmod
+7 . . PUNCT PERIOD punct
+........................
+['Știu că ți-ai cumpărat cartea repede.']
+-------------------------------------------
+<344> . . . . . . . . . . . . . . . . . . .
+[6 items] Ți lu a dat gratis.
+........................
+0 Ți ți PRON Pp1-sd--y-----w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 a a AUX Va--3s aux
+3 dat dat VERB Vmp--sm ROOT
+4 gratis gratis ADV Rgp fixed
+5 . . PUNCT PERIOD punct
+........................
+['Ți l-a dat gratis.']
+-------------------------------------------
+<345> . . . . . . . . . . . . . . . . . . .
+[6 items] Ți lu ai cumpărat repede.
+........................
+0 Ți ți PRON Pp1-sd--y-----w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 ai ai AUX Va--2s aux
+3 cumpărat cumpărat VERB Vmp--sm ROOT
+4 repede repede ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Ți l-ai cumpărat repede.']
+-------------------------------------------
+<346> . . . . . . . . . . . . . . . . . . .
+[5 items] Ți le cumpăr azi.
+........................
+0 Ți ți PRON Pp2-sd--------w iobj
+1 le le PRON Pp3fpa--------w expl
+2 cumpăr cumpăr VERB Vmip1s ROOT
+3 azi azi ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Ți le cumpăr azi.']
+-------------------------------------------
+<347> . . . . . . . . . . . . . . . . . . .
+[6 items] Ți a suflat vreun iubit?
+........................
+0 Ți ți PRON Pp1-sd--y-----w iobj
+1 a a AUX Va--3s aux
+2 suflat suflat VERB Vmp--sm ROOT
+3 vreun vreun DET Di3msr---e det
+4 iubit iubit NOUN Ncms-n obj
+5 ? ? PUNCT QUEST punct
+........................
+['Ți-a suflat vreun iubit?']
+-------------------------------------------
+<348> . . . . . . . . . . . . . . . . . . .
+[6 items] Ți ai cumpărat cartea repede.
+........................
+0 Ți ți PRON Pp1-sd--y-----w expl:poss
+1 ai ai AUX Va--2s aux
+2 cumpărat cumpărat VERB Vmp--sm ROOT
+3 cartea cartea NOUN Ncfsry obj
+4 repede repede ADV Rgp advmod
+5 . . PUNCT PERIOD punct
+........................
+['Ți-ai cumpărat cartea repede.']
+-------------------------------------------
+<349> . . . . . . . . . . . . . . . . . . .
+[8 items] Ți lu bat de nu se vede.
+........................
+0 Ți ți PRON Pp1-sd--y-----w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 bat bat VERB Vmip3p ROOT
+3 de de ADP Spsa mark
+4 nu nu PART Qz advmod
+5 se se PRON Px3--a--------w expl:pv
+6 vede vede VERB Vmip3s advcl
+7 . . PUNCT PERIOD punct
+........................
+['Ți-l bat de nu se vede.']
+-------------------------------------------
+<350> . . . . . . . . . . . . . . . . . . .
+[5 items] Ți lu cumperi repede.
+........................
+0 Ți ți PRON Pp1-sd--y-----w iobj
+1 lu lu PRON Pp3fsa--------m obj
+2 cumperi cumperi VERB Vmip2s ROOT
+3 repede repede ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Ți-l cumperi repede.']
+-------------------------------------------
+<351> . . . . . . . . . . . . . . . . . . .
+[5 items] Ți o cumperi repede.
+........................
+0 Ți ți PRON Pp2-sd--------w iobj
+1 o o PRON Pp3fsa--------w obj
+2 cumperi cumperi VERB Vmip2s ROOT
+3 repede repede ADV Rgp advmod
+4 . . PUNCT PERIOD punct
+........................
+['Ți-o cumperi repede.']
+-------------------------------------------
+<352> . . . . . . . . . . . . . . . . . . .
+[5 items] Le arde pe rug.
+........................
+0 Le le PRON Pp3-pd--------w obj
+1 arde arde VERB Vmip3s ROOT
+2 pe pe ADP Spsa case
+3 rug rug NOUN Ncms-n obj
+4 . . PUNCT PERIOD punct
+........................
+['Le arde pe rug.']
+-------------------------------------------
+===========================================
